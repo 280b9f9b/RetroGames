@@ -11,7 +11,7 @@ fetch('Data/JSON.json')
 
 function gameTemplate(gamex) {
         return `
-        <li><div class="GameBox"><a href="Data/roms/${gamex.name}.html"><img class="GameCover" src="Data/Covers/${gamex.name}.jpg"></a>
+        <li><div class="GameBox"><a href="Data/Roms/${gamex.name}.html"><img class="GameCover" src="Data/Covers/${gamex.name}.jpg"></a>
         <div class="GameText">${gamex.name}</div></div></li>
         `;
 }
