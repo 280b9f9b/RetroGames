@@ -1,0 +1,60 @@
+.GameBody {
+  background-color: #262626;}
+
+.GameHeader {
+  padding: 10px;
+  text-align: center;
+  background: #404040;
+  color: white;
+  font-family: American Typewriter;
+  font-size: 25px;
+  font-weight: bold;}
+
+.GameFooter {
+  padding: 10px;
+  text-align: center;
+  background: #d33f3f;
+  color: white;
+  font-family: American Typewriter;
+  font-size: 20px;
+  font-weight: bold;}
+
+.GameBox {
+  display: inline-block;
+  padding: 8px;
+  vertical-align: top;
+  position: relative;}
+
+.GameCover {
+  width: 165px;
+  height: 247px;
+  position: relative;
+  border-radius: 5% !important;}
+
+.GameCover:hover {
+  border:3px solid #ff0000;}
+
+.GameText {
+  text-align: center;
+  color: white;
+  font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+  font-size: 12px;
+  width: 165px;}
+
+.GameTextL {
+  text-align: left;
+  color: white;
+  font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+  font-size: 12px;
+  width: 100px;}
+
+.nav {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;}
