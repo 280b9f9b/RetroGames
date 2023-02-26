@@ -1,4 +1,4 @@
-fetch('Data/JSON.json')
+fetch('Data/version.json')
         .then(function (response) {
         return response.json();
 })
