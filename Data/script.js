@@ -18,7 +18,7 @@ function gameTemplate(gamex) {
 
 function appendData(data) {
         var mainContainer = document.getElementById("app").innerHTML = `
-        <h1 class="GameHeader">Sega Master System (${data.length})</h1>
+        <h1 class="GameHeader">RetroGames (${data.length})</h1>
         ${data.map(gameTemplate).join("")}
         <p class="GameFooter">These ${data.length} Games were added recently. Check back soon for updates.</p>
         `;
