@@ -1,18 +1,100 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
-	<meta charset="utf-8">
-	<meta name="apple-mobile-web-app-capable" content="yes">
-	<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	<link rel="apple-touch-icon" href="Data\Covers\Sega Master System.png">
-        <title>RetroGames</title>
-	<link rel="stylesheet" href="Data/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NES ROMs Collection</title>
+  <link rel="stylesheet" href="style.css">
 </head>
-<body class="GameBody">
- <ul class="nav">
-  <div id="app"></div>
-</ul>
-<script src='Data/script.js'></script>
+<body>
+  <header>
+    <h1>NES ROMs Collection</h1>
+    <div id="controls">
+      <label for="search">Search:</label>
+      <input type="text" id="search" placeholder="Enter a keyword">
+      
+      <label for="sort">Sort by:</label>
+      <select id="sort">
+        <option value="title">Title</option>
+        <option value="year">Year</option>
+      </select>
+    </div>
+  </header>
+  
+  <main>
+    <div id="roms"></div>
+  </main>
+  
+  <script src="roms.js"></script>
+  <script>
+    // Load NES ROMs from JSON file
+    fetch('roms.json')
+      .then(response => response.json())
+      .then(roms => {
+        const romsContainer = document.getElementById('roms');
+        const sortSelect = document.getElementById('sort');
+        const searchInput = document.getElementById('search');
+        
+        // Sort ROMs by title, year
+        const sortRoms = (roms, property) => {
+          roms.sort((a, b) => {
+            if (a[property] < b[property]) return -1;
+            if (a[property] > b[property]) return 1;
+            return 0;
+          });
+        };
+        
+        // Render the ROMs to the DOM
+        const renderRoms = (roms) => {
+          romsContainer.innerHTML = '';
+          for (const rom of roms) {
+            const romElem = document.createElement('div');
+            romElem.classList.add('rom');
+            
+            const imageLinkElem = document.createElement('a');
+            imageLinkElem.href = rom.file;
+            romElem.appendChild(imageLinkElem);
+            
+            const imageElem = document.createElement('img');
+            imageElem.src = rom.image;
+            imageElem.alt = rom.title;
+            imageLinkElem.appendChild(imageElem);
+            
+            const titleElem = document.createElement('h2');
+            titleElem.textContent = rom.title;
+            romElem.appendChild(titleElem);
+            
+            const yearElem = document.createElement('p');
+            yearElem.textContent = `Released in ${rom.year}`;
+            yearElem.classList.add('year');
+            romElem.appendChild(yearElem);
+            
+            romsContainer.appendChild(romElem);
+          }
+        };
+        
+        // Initialize the page with the unsorted, unfiltered ROMs
+        let displayedRoms = roms;
+        renderRoms(displayedRoms);
+        
+        // Handle sorting ROMs when the select element changes
+        sortSelect.addEventListener('change', () => {
+          sortRoms(displayedRoms, sortSelect.value);
+          renderRoms(displayedRoms);
+        });
+        
+        // Handle filtering ROMs when the input element changes
+        searchInput.addEventListener('input', () => {
+          const keyword = searchInput.value.toLowerCase();
+          displayedRoms = roms.filter(rom => {
+            return rom.title.toLowerCase().includes(keyword) ||
+                   rom.year.toString().includes(keyword);
+          });
+          sortRoms(displayedRoms, sortSelect.value);
+          renderRoms(displayedRoms);
+        });
+      })
+      .catch(error => console.error('Error loading ROMs:', error));
+  </script>
 </body>
 </html>
