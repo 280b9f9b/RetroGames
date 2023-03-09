@@ -2,7 +2,9 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<link rel="apple-touch-icon" href="Data/Covers/icon.png">
   <title>NES ROMs Collection</title>
   <link rel="stylesheet" href="style.css">
 </head>
@@ -10,10 +12,10 @@
   <header>
     <h1>NES ROMs Collection</h1>
     <div id="controls">
-      <label for="search">Search:</label>
+      
       <input type="text" id="search" placeholder="Enter a keyword">
       
-      <label for="sort">Sort by:</label>
+      
       <select id="sort">
         <option value="title">Title</option>
         <option value="year">Year</option>
@@ -22,7 +24,9 @@
   </header>
   
   <main>
+<ul class="nav">
     <div id="roms"></div>
+</ul>
   </main>
   
   <script src="roms.js"></script>
@@ -48,6 +52,9 @@
         const renderRoms = (roms) => {
           romsContainer.innerHTML = '';
           for (const rom of roms) {
+
+
+
             const romElem = document.createElement('div');
             romElem.classList.add('rom');
             
@@ -65,7 +72,7 @@
             romElem.appendChild(titleElem);
             
             const yearElem = document.createElement('p');
-            yearElem.textContent = `Released in ${rom.year}`;
+            yearElem.textContent = `${rom.year} - ${rom.developer}`;
             yearElem.classList.add('year');
             romElem.appendChild(yearElem);
             
