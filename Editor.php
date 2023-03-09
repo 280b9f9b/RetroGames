@@ -12,7 +12,7 @@
 <body>
     <?php
     // Load game data from JSON file
-    $games = json_decode(file_get_contents("games.json"), true);
+    $games = json_decode(file_get_contents("Data/version.json"), true);
 
     // Handle form submission
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
