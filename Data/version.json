@@ -1,10 +1,9 @@
-[
-{
+[ {
 "title": "Enduro Racer (USA, Europe)",
 "image": "Data/Covers/Enduro Racer (USA, Europe).jpg",
 "year": 1987,
 "platform": "SEGA Master System",
-"plot": "Enduro Racer is a motocross racing game where players compete in various off-road races on different terrains, performing stunts and avoiding obstacles to reach the finish line first.",
+"plot": "Enduro Racer is a racing game where players ride dirt bikes and compete in off-road races. The game features multiple courses and obstacles to navigate.",
 "file": "Data/Roms/Enduro Racer (USA, Europe).html"
 },
 {
@@ -12,15 +11,15 @@
 "image": "Data/Covers/Kenseiden (USA, Europe).jpg",
 "year": 1988,
 "platform": "SEGA Master System",
-"plot": "Kenseiden is a side-scrolling action game where players control a samurai and must fight their way through various enemies and bosses to defeat an evil warlord.",
+"plot": "Kenseiden is an action game where players control a warrior who must fight against demons and other supernatural enemies. The game features multiple levels and bosses.",
 "file": "Data/Roms/Kenseiden (USA, Europe).html"
 },
 {
 "title": "R-Type (World)",
 "image": "Data/Covers/R-Type (World).jpg",
-"year": 1988,
+"year": 1987,
 "platform": "SEGA Master System",
-"plot": "R-Type is a side-scrolling shooter game where players control a spaceship and must battle their way through waves of enemy forces and giant bosses.",
+"plot": "R-Type is a side-scrolling shoot 'em up game where players pilot a spaceship and battle against an alien invasion. The game features power-ups and boss battles.",
 "file": "Data/Roms/R-Type (World).html"
 },
 {
@@ -28,24 +27,165 @@
 "image": "Data/Covers/Shinobi (USA, Europe).jpg",
 "year": 1988,
 "platform": "SEGA Master System",
-"plot": "Shinobi is a side-scrolling action game where players control a ninja and must rescue hostages while fighting off enemy forces and bosses.",
+"plot": "Shinobi is an action game where players control a ninja who must rescue hostages and defeat enemies. The game features multiple levels and boss battles.",
 "file": "Data/Roms/Shinobi (USA, Europe).html"
 },
+{
+"title": "Wonder Boy (USA, Europe)",
+"image": "Data/Covers/Wonder Boy (USA, Europe).jpg",
+"year": 1987,
+"platform": "SEGA Master System",
+"plot": "Wonder Boy is a platformer game where players control a young boy who must navigate through various levels and defeat enemies. The game features power-ups and boss battles.",
+"file": "Data/Roms/Wonder Boy (USA, Europe).html"
+},
+{
+"title": "Wonder Boy III - The Dragons Trap (USA, Europe)",
+"image": "Data/Covers/Wonder Boy III - The Dragons Trap (USA, Europe).jpg",
+"year": 1989,
+"platform": "SEGA Master System",
+"plot": "Dragon's Trap is an adventure game where players control a hero who has been cursed and transformed into a dragon. The game features multiple levels and puzzles to solve.",
+"file": "Data/Roms/Wonder Boy III - The Dragons Trap (USA, Europe).html"
+},
+
+
+
+
+
+
 {
 "title": "Golden Axe (World)",
 "image": "Data/Covers/Golden Axe (World).jpg",
 "year": 1989,
 "platform": "SEGA Genesis",
-"plot": "Golden Axe is a side-scrolling hack-and-slash game where players choose one of three heroes and battle their way through hordes of enemies to defeat the evil Death Adder and rescue the King and Princess of Yuria.",
+"plot": "Golden Axe is a side-scrolling beat 'em up game where players control one of three heroes and battle against enemies and bosses. The game features magic spells and mounts to ride.",
 "file": "Data/Roms/Golden Axe (World).html"
 },
 {
 "title": "Rambo III (World)",
 "image": "Data/Covers/Rambo III (World).jpg",
+"year": 1988,
+"platform": "SEGA Genesis",
+"plot": "Rambo III is a top-down shooter game where players control John Rambo and battle against enemy soldiers and vehicles. The game features power-ups and boss battles.",
+"file": "Data/Roms/Rambo III (World).html"
+},
+{
+"title": "Revenge of Shinobi, The (USA, Europe)",
+"image": "Data/Covers/Revenge of Shinobi, The (USA, Europe).jpg",
 "year": 1989,
 "platform": "SEGA Genesis",
-"plot": "Rambo III is a top-down shooter game where players control John Rambo and must rescue his friend from enemy captivity and destroy the enemy base.",
-"file": "Data/Roms/Rambo III (World).html"
-}
+"plot": "The Revenge of Shinobi is an action game where players control a ninja who must rescue his kidnapped lover and defeat a criminal organization. The game features multiple levels and bosses.",
+"file": "Data/Roms/Revenge of Shinobi, The (USA, Europe).html"
+},
+{
+"title": "Shinobi III - Return of the Ninja Master (USA)",
+"image": "Data/Covers/Shinobi III - Return of the Ninja Master (USA).jpg",
+"year": 1993,
+"platform": "SEGA Genesis",
+"plot": "Shinobi III is an action game where players control a ninja who must rescue his fellow ninjas and defeat enemies. The game features multiple levels and boss battles.",
+"file": "Data/Roms/Shinobi III - Return of the Ninja Master (USA).html"
+},
+{
+"title": "Streets of Rage 2 (USA)",
+"image": "Data/Covers/Streets of Rage 2 (USA).jpg",
+"year": 1992,
+"platform": "SEGA Genesis",
+"plot": "Streets of Rage 2 is a side-scrolling beat 'em up game where players control one of four heroes and battle against enemies and bosses. The game features special moves and a soundtrack by Yuzo Koshiro.",
+"file": "Data/Roms/Streets of Rage 2 (USA).html"
+},
+{
+"title": "Streets of Rage 3 (USA)",
+"image": "Data/Covers/Streets of Rage 3 (USA).jpg",
+"year": 1994,
+"platform": "SEGA Genesis",
+"plot": "Streets of Rage 3 is a side-scrolling beat 'em up game where players control one of four heroes and battle against enemies and bosses. The game features special moves and a branching storyline.",
+"file": "Data/Roms/Streets of Rage 3 (USA).html"
+},
 
+
+
+
+
+
+
+
+{
+"title": "Contra (USA)",
+"image": "Data/Covers/Contra (USA).jpg",
+"year": 1988,
+"platform": "NES",
+"plot": "Contra is a side-scrolling run and gun game where players control soldiers and battle against alien forces. The game features power-ups and boss battles.",
+"file": "Data/Roms/Contra (USA).html"
+},
+{
+"title": "Excitebike (Japan, USA)",
+"image": "Data/Covers/Excitebike (Japan, USA).jpg",
+"year": 1984,
+"platform": "NES",
+"plot": "Excitebike is a motocross racing game where players control a motorcycle and race against other riders on various tracks. The game features ramps and obstacles to jump over.",
+"file": "Data/Roms/Excitebike (Japan, USA).html"
+},
+{
+"title": "Jackal (USA)",
+"image": "Data/Covers/Jackal (USA).jpg",
+"year": 1988,
+"platform": "NES",
+"plot": "Jackal is a top-down action game where players control a military jeep and must rescue prisoners of war while battling enemy forces and avoiding obstacles.",
+"file": "Data/Roms/Jackal (USA).html"
+},
+{
+"title": "Kung Fu (Japan, USA)",
+"image": "Data/Covers/Kung Fu (Japan, USA).jpg",
+"year": 1985,
+"platform": "NES",
+"plot": "Kung Fu is a side-scrolling beat 'em up game where players control a martial artist and battle against enemies to rescue his girlfriend. The game features multiple levels and boss battles.",
+"file": "Data/Roms/Kung Fu (Japan, USA).html"
+},
+{
+"title": "Legend of Zelda, The (USA)",
+"image": "Data/Covers/Legend of Zelda, The (USA).jpg",
+"year": 1986,
+"platform": "NES",
+"plot": "The Legend of Zelda is an action-adventure game where players control Link and navigate through various dungeons to rescue Princess Zelda and defeat the evil Ganon.",
+"file": "Data/Roms/Legend of Zelda, The (USA).html"
+},
+{
+"title": "Metroid (USA)",
+"image": "Data/Covers/Metroid (USA).jpg",
+"year": 1986,
+"platform": "NES",
+"plot": "Metroid is a side-scrolling action-adventure game where players control Samus Aran and explore an alien planet to defeat the Space Pirates and their leader, Mother Brain.",
+"file": "Data/Roms/Metroid (USA).html"
+},
+{
+"title": "Mike Tysons Punch-Out!! (Japan, USA)",
+"image": "Data/Covers/Mike Tysons Punch-Out!! (Japan, USA).jpg",
+"year": 1987,
+"platform": "NES",
+"plot": "Mike Tyson's Punch-Out!! is a boxing game where players control Little Mac and battle against various opponents to become the champion. The game features special moves and boss battles.",
+"file": "Data/Roms/Mike Tysons Punch-Out!! (Japan, USA).html"
+},
+{
+"title": "Super Mario Bros. (World)",
+"image": "Data/Covers/Super Mario Bros. (World).jpg",
+"year": 1985,
+"platform": "NES",
+"plot": "Super Mario Bros. is a side-scrolling platformer game where players control Mario and navigate through various levels to rescue Princess Toadstool from Bowser. The game features power-ups and boss battles.",
+"file": "Data/Roms/Super Mario Bros. (World).html"
+},
+{
+"title": "Super Mario Bros. 2 (USA)",
+"image": "Data/Covers/Super Mario Bros. 2 (USA).jpg",
+"year": 1988,
+"platform": "NES",
+"plot": "Super Mario Bros. 2 is a side-scrolling platformer game where players control Mario, Luigi, Toad, or Princess Toadstool and navigate through various levels to defeat Wart and his minions. The game features different playable characters and a unique gameplay style.",
+"file": "Data/Roms/Super Mario Bros. 2 (USA).html"
+},
+{
+"title": "Super Mario Bros. 3 (USA)",
+"image": "Data/Covers/Super Mario Bros. 3 (USA).jpg",
+"year": 1990,
+"platform": "NES",
+"plot": "Super Mario Bros. 3 is a side-scrolling platformer game where players control Mario and navigate through various worlds to rescue Princess Toadstool from Bowser and his Koopalings. The game features power-ups and a world map.",
+"file": "Data/Roms/Super Mario Bros. 3 (USA).html"
+}
 ]
