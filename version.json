@@ -1,1 +1,792 @@
-
+[
+  {
+    "title": "Alex Kidd in Miracle World",
+    "image": "covers/Alex Kidd in Miracle World (USA, Europe).jpg",
+    "year": 1986,
+		"rating": "7.6",
+		"genres": "Action",
+    "platform": "segaMS",
+    "file": "roms/Alex Kidd in Miracle World (USA, Europe).html",
+    "players": 1
+  },
+  {
+    "title": "Altered Beast",
+    "image": "covers/Altered Beast (USA, Europe).jpg",
+    "year": 1988,
+"rating": "",
+		"genres": "",
+    "platform": "segaMD",
+    "file": "roms/Altered Beast (USA, Europe).html",
+    "players": 2
+  },
+  {
+    "title": "Amazing Spider-Man, The - Web of Fire",
+    "image": "covers/Amazing Spider-Man, The - Web of Fire (USA).jpg",
+    "year": 1996,
+"rating": "",
+		"genres": "",
+    "platform": "sega32x",
+    "file": "roms/Amazing Spider-Man, The - Web of Fire (USA).html",
+    "players": 99
+  },
+  {
+    "title": "Basket Ball Nightmare",
+    "image": "covers/Basket Ball Nightmare (Europe).jpg",
+    "year": 1989,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Basket Ball Nightmare (Europe).html",
+    "players": 2
+  },
+  {
+    "title": "Beyond Oasis",
+    "image": "covers/Beyond Oasis (USA).jpg",
+    "year": 1994,
+"rating": "",
+		"genres": "",
+    "platform": "segaMD",
+    "file": "roms/Beyond Oasis (USA).html",
+    "players": 1
+  },
+  {
+    "title": "Bomber Raid",
+    "image": "covers/Bomber Raid (World).jpg",
+    "year": 1988,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Bomber Raid (World).html",
+    "players": 1
+  },
+  {
+    "title": "CHASE H.Q.",
+    "image": "covers/chasehq.jpg",
+    "year": 1988,
+"rating": "",
+		"genres": "",
+    "platform": "arcade",
+    "file": "roms/chasehq.html",
+    "players": 1
+  },
+  {
+    "title": "Contra",
+    "image": "covers/Contra (USA).jpg",
+    "year": 1987,
+"rating": "",
+		"genres": "",
+    "platform": "nes",
+    "file": "roms/Contra (USA).html",
+    "players": 2
+  },
+  {
+    "title": "Crash Bandicoot 2 - Cortex Strikes Back",
+    "image": "covers/Crash Bandicoot 2 - Cortex Strikes Back [NTSC-U] [SCUS-94154].jpg",
+    "year": 1997,
+"rating": "",
+		"genres": "",
+    "platform": "psx",
+    "file": "roms/Crash Bandicoot 2 - Cortex Strikes Back [NTSC-U] [SCUS-94154].html",
+    "players": 99
+  },
+  {
+    "title": "Daytona USA",
+    "image": "covers/Daytona USA - Circuit Edition (Japan).jpg",
+    "year": 1997,
+"rating": "",
+		"genres": "",
+    "platform": "segaSaturn",
+    "file": "roms/Daytona USA - Circuit Edition (Japan).html",
+    "players": 99
+  },
+  {
+    "title": "Dig Dug",
+    "image": "covers/Dig Dug (1987) (Atari).jpg",
+    "year": 1987,
+"rating": "",
+		"genres": "",
+    "platform": "atari7800",
+    "file": "roms/Dig Dug (1987) (Atari).html",
+    "players": 2
+  },
+  {
+    "title": "Double Dragon",
+    "image": "covers/ddragon.jpg",
+    "year": 1987,
+"rating": "",
+		"genres": "",
+    "platform": "arcade",
+    "file": "roms/ddragon.html",
+    "players": 2
+  },
+  {
+    "title": "ESWAT - City Under Siege",
+    "image": "covers/ESWAT - City Under Siege (USA, Europe).jpg",
+    "year": 1990,
+"rating": "",
+		"genres": "",
+    "platform": "segaMD",
+    "file": "roms/ESWAT - City Under Siege (USA, Europe).html",
+    "players": 1
+  },
+  {
+    "title": "Enduro Racer",
+    "image": "covers/Enduro Racer (USA, Europe).jpg",
+    "year": 1987,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Enduro Racer (USA, Europe).html",
+    "players": 1
+  },
+  {
+    "title": "Excitebike",
+    "image": "covers/Excitebike (Japan, USA).jpg",
+    "year": 1984,
+"rating": "",
+		"genres": "",
+    "platform": "nes",
+    "file": "roms/Excitebike (Japan, USA).html",
+    "players": 1
+  },
+  {
+    "title": "Final Fight",
+    "image": "covers/ffight.jpg",
+    "year": 1989,
+"rating": "",
+		"genres": "",
+    "platform": "arcade",
+    "file": "roms/ffight.html",
+    "players": 2
+  },
+  {
+    "title": "Flashback - The Quest for Identity",
+    "image": "covers/Flashback - The Quest for Identity (USA) (Alt 1).jpg",
+    "year": 1993,
+"rating": "",
+		"genres": "",
+    "platform": "segaMD",
+    "file": "roms/Flashback - The Quest for Identity (USA) (Alt 1).html",
+    "players": 1
+  },
+  {
+    "title": "Foes of Ali",
+    "image": "covers/Foes of Ali (1995) (Electronic Arts) (US).jpg",
+    "year": 1995,
+"rating": "",
+		"genres": "",
+    "platform": "3do",
+    "file": "roms/Foes of Ali (1995) (Electronic Arts) (US).html",
+    "players": 99
+  },
+  {
+    "title": "GOLDEN AXE",
+    "image": "covers/goldnaxe.jpg",
+    "year": 1989,
+"rating": "",
+		"genres": "",
+    "platform": "arcade",
+    "file": "roms/goldnaxe.html",
+    "players": 2
+  },
+  {
+    "title": "Ghouls'n Ghosts",
+    "image": "covers/ghouls.jpg",
+    "year": 1988,
+"rating": "",
+		"genres": "",
+    "platform": "arcade",
+    "file": "roms/ghouls.html",
+    "players": 1
+  },
+  {
+    "title": "Golden Axe",
+    "image": "covers/Golden Axe (World).jpg",
+    "year": 1989,
+"rating": "",
+		"genres": "",
+    "platform": "segaMD",
+    "file": "roms/Golden Axe (World).html",
+    "players": 2
+  },
+  {
+    "title": "Golden Axe",
+    "image": "covers/Golden Axe (USA, Europe).jpg",
+    "year": 1989,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Golden Axe (USA, Europe).html",
+    "players": 2
+  },
+  {
+    "title": "Golden Axe Warrior",
+    "image": "covers/Golden Axe Warrior (USA, Europe).jpg",
+    "year": 1991,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Golden Axe Warrior (USA, Europe).html",
+    "players": 1
+  },
+  {
+    "title": "Herzog Zwei",
+    "image": "covers/Herzog Zwei (USA, Europe).jpg",
+    "year": 1989,
+"rating": "",
+		"genres": "",
+    "platform": "segaMD",
+    "file": "roms/Herzog Zwei (USA, Europe).html",
+    "players": 2
+  },
+  {
+    "title": "Ice Climber",
+    "image": "covers/Ice Climber (USA, Europe).jpg",
+    "year": 1985,
+"rating": "",
+		"genres": "",
+    "platform": "nes",
+    "file": "roms/Ice Climber (USA, Europe).html",
+    "players": 2
+  },
+  {
+    "title": "Jackal",
+    "image": "covers/Jackal (USA).jpg",
+    "year": 1988,
+"rating": "",
+		"genres": "",
+    "platform": "nes",
+    "file": "roms/Jackal (USA).html",
+    "players": 2
+  },
+  {
+    "title": "Kenseiden",
+    "image": "covers/Kenseiden (USA, Europe).jpg",
+    "year": 1988,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Kenseiden (USA, Europe).html",
+    "players": 1
+  },
+  {
+    "title": "Kung Fu",
+    "image": "covers/Kung Fu (Japan, USA).jpg",
+    "year": 1984,
+"rating": "",
+		"genres": "",
+    "platform": "nes",
+    "file": "roms/Kung Fu (Japan, USA).html",
+    "players": 1
+  },
+  {
+    "title": "Legend of Zelda, The",
+    "image": "covers/Legend of Zelda, The (USA).jpg",
+    "year": 1986,
+"rating": "",
+		"genres": "",
+    "platform": "nes",
+    "file": "roms/Legend of Zelda, The (USA).html",
+    "players": 1
+  },
+  {
+    "title": "Legend of Zelda, The - A Link to the Past",
+    "image": "covers/Legend of Zelda, The - A Link to the Past (USA).jpg",
+    "year": 1991,
+"rating": "",
+		"genres": "",
+    "platform": "snes",
+    "file": "roms/Legend of Zelda, The - A Link to the Past (USA).html",
+    "players": 1
+  },
+  {
+    "title": "Legend of Zelda, The - The Minish Cap",
+    "image": "covers/Legend of Zelda, The - The Minish Cap.jpg",
+    "year": 2004,
+"rating": "",
+		"genres": "",
+    "platform": "gba",
+    "file": "roms/Legend of Zelda, The - The Minish Cap.html",
+    "players": 1
+  },
+  {
+    "title": "Mario Kart 64",
+    "image": "covers/Mario Kart 64 (USA).jpg",
+    "year": 1996,
+"rating": "",
+		"genres": "",
+    "platform": "n64",
+    "file": "roms/Mario Kart 64 (USA).html",
+    "players": 4
+  },
+  {
+    "title": "Metal Slug 5",
+    "image": "covers/ms5pcb.jpg",
+    "year": 2003,
+"rating": "",
+		"genres": "",
+    "platform": "arcade",
+    "file": "roms/ms5pcb.html",
+    "players": 2
+  },
+  {
+    "title": "Metal Slug X",
+    "image": "covers/mslugx.jpg",
+    "year": 1999,
+"rating": "",
+		"genres": "",
+    "platform": "arcade",
+    "file": "roms/mslugx.html",
+    "players": 2
+  },
+  {
+    "title": "Metroid",
+    "image": "covers/Metroid (USA).jpg",
+    "year": 1986,
+"rating": "",
+		"genres": "",
+    "platform": "nes",
+    "file": "roms/Metroid (USA).html",
+    "players": 1
+  },
+  {
+    "title": "Mike Tyson's Punch-Out!!",
+    "image": "covers/Mike Tyson's Punch-Out!! (Japan, USA).jpg",
+    "year": 1987,
+"rating": "",
+		"genres": "",
+    "platform": "nes",
+    "file": "roms/mike tysons punch-out!! (japan, usa).html",
+    "players": 1
+  },
+  {
+    "title": "Ms. Pac-Man",
+    "image": "covers/Ms. Pac-Man (USA, Europe).jpg",
+    "year": 1990,
+"rating": "",
+		"genres": "",
+    "platform": "lynx",
+    "file": "roms/Ms. Pac-Man (USA, Europe).html",
+    "players": 2
+  },
+  {
+    "title": "New Super Mario Bros.",
+    "image": "covers/New Super Mario Bros..jpg",
+    "year": 2006,
+"rating": "",
+		"genres": "",
+    "platform": "nds",
+    "file": "roms/New Super Mario Bros..html",
+    "players": 4
+  },
+  {
+    "title": "Ninja Gaiden",
+    "image": "covers/Ninja Gaiden (Europe) (Beta).jpg",
+    "year": 1992,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Ninja Gaiden (Europe) (Beta).html",
+    "players": 1
+  },
+  {
+    "title": "Ninja, The",
+    "image": "covers/Ninja, The (USA, Europe).jpg",
+    "year": 1990,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Ninja, The (USA, Europe).html",
+    "players": 1
+  },
+  {
+    "title": "OUTRUNNERS",
+    "image": "covers/orunnersu.jpg",
+    "year": 1992,
+"rating": "",
+		"genres": "",
+    "platform": "arcade",
+    "file": "roms/orunnersu.html",
+    "players": 2
+  },
+  {
+    "title": "Phantasy Star IV",
+    "image": "covers/Phantasy Star IV (USA).jpg",
+    "year": 1995,
+"rating": "",
+		"genres": "",
+    "platform": "segaMD",
+    "file": "roms/Phantasy Star IV (USA).html",
+    "players": 1
+  },
+  {
+    "title": "Pitfall!",
+    "image": "covers/Pitfall! (1982) (Activision).jpg",
+    "year": 1982,
+"rating": "",
+		"genres": "",
+    "platform": "atari5200",
+    "file": "roms/Pitfall! (1982) (Activision).html",
+    "players": 1
+  },
+  {
+    "title": "Psycho Fox",
+    "image": "covers/Psycho Fox (USA, Europe).jpg",
+    "year": 1989,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Psycho Fox (USA, Europe).html",
+    "players": 2
+  },
+  {
+    "title": "R-Type",
+    "image": "covers/R-Type (World).jpg",
+    "year": 1988,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/R-Type (World).html",
+    "players": 1
+  },
+  {
+    "title": "RASTAN",
+    "image": "covers/rastan.jpg",
+    "year": 1987,
+"rating": "",
+		"genres": "",
+    "platform": "arcade",
+    "file": "roms/rastan.html",
+    "players": 1
+  },
+  {
+    "title": "Rambo III",
+    "image": "covers/Rambo III (World).jpg",
+    "year": 1988,
+"rating": "",
+		"genres": "",
+    "platform": "segaMD",
+    "file": "roms/Rambo III (World).html",
+    "players": 1
+  },
+  {
+    "title": "Rayman",
+    "image": "covers/Rayman (World).jpg",
+    "year": 1995,
+"rating": "",
+		"genres": "",
+    "platform": "jaguar",
+    "file": "roms/Rayman (World).html",
+    "players": 1
+  },
+  {
+    "title": "Revenge of Shinobi, The",
+    "image": "covers/Revenge of Shinobi, The (USA, Europe).jpg",
+    "year": 1989,
+"rating": "",
+		"genres": "",
+    "platform": "segaMD",
+    "file": "roms/Revenge of Shinobi, The (USA, Europe).html",
+    "players": 1
+  },
+  {
+    "title": "River Raid",
+    "image": "covers/River Raid.jpg",
+    "year": 1982,
+"rating": "",
+		"genres": "",
+    "platform": "atari2600",
+    "file": "roms/River Raid.html",
+    "players": 1
+  },
+  {
+    "title": "SHADOW DANCER",
+    "image": "covers/shdancer.jpg",
+    "year": 1989,
+"rating": "",
+		"genres": "",
+    "platform": "arcade",
+    "file": "roms/shdancer.html",
+    "players": 1
+  },
+  {
+    "title": "SPACE HARRIER",
+    "image": "covers/sharrier.jpg",
+    "year": 1985,
+"rating": "",
+		"genres": "",
+    "platform": "mame2003",
+    "file": "roms/sharrier.html",
+    "players": 1
+  },
+  {
+    "title": "SUPER HANG-ON",
+    "image": "covers/shangon.jpg",
+    "year": 1987,
+"rating": "",
+		"genres": "",
+    "platform": "arcade",
+    "file": "roms/shangon.html",
+    "players": 1
+  },
+  {
+    "title": "Scramble Spirits",
+    "image": "covers/Scramble Spirits (Europe).jpg",
+    "year": 1990,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Scramble Spirits (Europe).html",
+    "players": 2
+  },
+  {
+    "title": "Secret Command",
+    "image": "covers/Secret Command (Europe).jpg",
+    "year": 1986,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Secret Command (Europe).html",
+    "players": 2
+  },
+  {
+    "title": "Shinobi",
+    "image": "covers/Shinobi (USA, Europe).jpg",
+    "year": 1988,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Shinobi (USA, Europe).html",
+    "players": 1
+  },
+  {
+    "title": "Shinobi III - Return of the Ninja Master",
+    "image": "covers/Shinobi III - Return of the Ninja Master (USA).jpg",
+    "year": 1993,
+"rating": "",
+		"genres": "",
+    "platform": "segaMD",
+    "file": "roms/Shinobi III - Return of the Ninja Master (USA).html",
+    "players": 1
+  },
+  {
+    "title": "Smurfs, The",
+    "image": "covers/Smurfs, The (Europe) (En,Fr,De,Es).jpg",
+    "year": 1995,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Smurfs, The (Europe) (En,Fr,De,Es).html",
+    "players": 1
+  },
+  {
+    "title": "Sonic CD",
+    "image": "covers/Sonic CD (USA).jpg",
+    "year": 1993,
+"rating": "",
+		"genres": "",
+    "platform": "segaCD",
+    "file": "roms/Sonic CD (USA).html",
+    "players": 99
+  },
+  {
+    "title": "Sonic The Hedgehog",
+    "image": "covers/Sonic The Hedgehog (USA, Europe).jpg",
+    "year": 1991,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Sonic The Hedgehog (USA, Europe).html",
+    "players": 1
+  },
+  {
+    "title": "Sonic The Hedgehog 3",
+    "image": "covers/Sonic The Hedgehog 3 (USA).jpg",
+    "year": 1994,
+"rating": "",
+		"genres": "",
+    "platform": "segaMD",
+    "file": "roms/Sonic The Hedgehog 3 (USA).html",
+    "players": 2
+  },
+  {
+    "title": "SpellCaster",
+    "image": "covers/SpellCaster (USA, Europe).jpg",
+    "year": 1989,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/SpellCaster (USA, Europe).html",
+    "players": 1
+  },
+  {
+    "title": "Street Fighter II - Special Champion Edition",
+    "image": "covers/Street Fighter II - Special Champion Edition (USA).jpg",
+    "year": 1993,
+"rating": "",
+		"genres": "",
+    "platform": "segaMD",
+    "file": "roms/Street Fighter II - Special Champion Edition (USA).html",
+    "players": 2
+  },
+  {
+    "title": "Streets of Rage 2",
+    "image": "covers/Streets of Rage 2 (USA).jpg",
+    "year": 1992,
+"rating": "",
+		"genres": "",
+    "platform": "segaMD",
+    "file": "roms/Streets of Rage 2 (USA).html",
+    "players": 2
+  },
+  {
+    "title": "Streets of Rage 3",
+    "image": "covers/Streets of Rage 3 (USA).jpg",
+    "year": 1994,
+"rating": "",
+		"genres": "",
+    "platform": "segaMD",
+    "file": "roms/Streets of Rage 3 (USA).html",
+    "players": 2
+  },
+  {
+    "title": "Super Mario Bros.",
+    "image": "covers/Super Mario Bros. (World).jpg",
+    "year": 1985,
+"rating": "",
+		"genres": "",
+    "platform": "nes",
+    "file": "roms/Super Mario Bros. (World).html",
+    "players": 1
+  },
+  {
+    "title": "Super Mario Bros. 2",
+    "image": "covers/Super Mario Bros. 2 (USA).jpg",
+    "year": 1988,
+"rating": "",
+		"genres": "",
+    "platform": "nes",
+    "file": "roms/Super Mario Bros. 2 (USA).html",
+    "players": 1
+  },
+  {
+    "title": "Super Mario Bros. 3",
+    "image": "covers/Super Mario Bros. 3 (USA).jpg",
+    "year": 1990,
+"rating": "",
+		"genres": "",
+    "platform": "nes",
+    "file": "roms/Super Mario Bros. 3 (USA).html",
+    "players": 1
+  },
+  {
+    "title": "Super Mario Land",
+    "image": "covers/Super Mario Land (World).jpg",
+    "year": 1989,
+"rating": "",
+		"genres": "",
+    "platform": "gb",
+    "file": "roms/Super Mario Land (World).html",
+    "players": 1
+  },
+  {
+    "title": "TEENAGE MUTANT NINJA TURTLES",
+    "image": "covers/tmnt.jpg",
+    "year": 1989,
+"rating": "",
+		"genres": "",
+    "platform": "arcade",
+    "file": "roms/tmnt.html",
+    "players": 4
+  },
+  {
+    "title": "Tails Adventures",
+    "image": "covers/Tails Adventures (World) (En,Ja).jpg",
+    "year": 1995,
+"rating": "",
+		"genres": "",
+    "platform": "segaGG",
+    "file": "roms/Tails Adventures (World) (En,Ja).html",
+    "players": 1
+  },
+  {
+    "title": "Vigilante",
+    "image": "covers/vigilant.jpg",
+    "year": 1988,
+"rating": "",
+		"genres": "",
+    "platform": "arcade",
+    "file": "roms/vigilant.html",
+    "players": 1
+  },
+  {
+    "title": "Virtual Boy Wario Land",
+    "image": "covers/Virtual Boy Wario Land (Japan, USA).jpg",
+    "year": 1995,
+"rating": "",
+		"genres": "",
+    "platform": "vb",
+    "file": "roms/Virtual Boy Wario Land (Japan, USA).html",
+    "players": 1
+  },
+  {
+    "title": "Wonder Boy",
+    "image": "covers/Wonder Boy (USA, Europe).jpg",
+    "year": 1987,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Wonder Boy (USA, Europe).html",
+    "players": 1
+  },
+  {
+    "title": "Wonder Boy",
+    "image": "covers/wboy.jpg",
+    "year": 1986,
+"rating": "",
+		"genres": "",
+    "platform": "arcade",
+    "file": "roms/wboy.html",
+    "players": 1
+  },
+  {
+    "title": "Wonder Boy III - The Dragon's Trap",
+    "image": "covers/Wonder Boy III - The Dragons Trap (USA, Europe).jpg",
+    "year": 1989,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Wonder Boy III - The Dragons Trap (USA, Europe).html",
+    "players": 1
+  },
+  {
+    "title": "Wonder Boy in Monster Land",
+    "image": "covers/Wonder Boy in Monster Land (USA, Europe).jpg",
+    "year": 1988,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Wonder Boy in Monster Land (USA, Europe).html",
+    "players": 2
+  },
+  {
+    "title": "Wonder Boy in Monster World",
+    "image": "covers/Wonder Boy in Monster World (Europe).jpg",
+    "year": 1991,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Wonder Boy in Monster World (Europe).html",
+    "players": 1
+  },
+  {
+    "title": "Ys - The Vanished Omens",
+    "image": "covers/Ys - The Vanished Omens (USA, Europe).jpg",
+    "year": 1988,
+"rating": "",
+		"genres": "",
+    "platform": "segaMS",
+    "file": "roms/Ys - The Vanished Omens (USA, Europe).html",
+    "players": 1
+  }
+]
