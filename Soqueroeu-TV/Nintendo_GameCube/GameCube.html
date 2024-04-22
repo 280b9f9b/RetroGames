@@ -1,0 +1,60 @@
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+      <link rel="apple-touch-icon" href="../Covers/Altered Beast (USA, Europe).jpg">
+      <title>Altered Beast</title>
+      <style type="text/css"> 
+         * {padding: 0;margin: 0;} 
+         html, body {background: #000;color: #fff;overflow: hidden;touch-action: none;-ms-touch-action: none;}
+         body {
+         margin: 0;
+         padding: 0;
+         background-color: #666161;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         height: 100vh;
+         }
+         #tv_container {
+         background: url('GameCube.png') no-repeat top left transparent;
+         background-size: cover; /* Adjust to fit the screen */
+         width: 1920px; /* Set the TV image width to 1080p */
+         height: 1080px; /* Set the TV image height to 1080p */
+         position: relative;
+         }
+         #tv_container game {
+            position: absolute;
+         top: 135px; /* Adjust top position */
+         left: 485px; /* Adjust left position */
+         width: 947px; /* Adjust video width */
+         height: 715px; /* Adjust video height */
+         }
+      </style>
+   </head>
+   <body>
+      <div id="tv_container">
+         <game controls>
+            <div id='game' class="tv_container video"></div>
+            <!-- Add more video formats if needed -->
+         </game>
+      </div>
+      <script type='text/javascript'>
+         EJS_player = '#game';
+         EJS_core = 'segaMD';
+         EJS_lightgun = false;
+         EJS_biosUrl = '';
+         EJS_gameUrl = '../data/Altered Beast (USA, Europe).7z';
+         EJS_cheats = [
+             ["Infinite Energy", "AJWA-AA8Y"],
+             ["Infinite Health P1", "FFCF10:000C"],
+             ["Infinite Health P2", "FFCF50:007F"],
+             ["Infinite Lives P1", "AJ1T-AA5L"],
+             ["Infinite Lives P2", "AJ1T-AA58"]
+         ];
+         
+         EJS_pathtodata = '../data/';
+      </script><script src='../data/loader.js'></script>
+   </body>
+</html>
