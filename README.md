@@ -44,11 +44,11 @@ This is a Games Consoles Project [sms](https://280b9f9b.github.io/RetroGames/Sys
 
 xxxxxxxxxxxxxxxxxxx
 
-<img src='./border-test.jpg'
+<img src='https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png'
   style='border: 4px solid #f00; margin: 20px;'
   >
 
-<img src='./border-test.jpg'
+<img src='https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png'
   style='border: 4px solid #f00; margin: 20px; border-radius: 50px;'
 >
 
