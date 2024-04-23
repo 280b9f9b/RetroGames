@@ -42,6 +42,6 @@ This is a Soqueroeu-TV Project [NES TV](https://280b9f9b.github.io/RetroGames/So
 This is a Games Consoles Project [sms](https://280b9f9b.github.io/RetroGames/Systems/sms/).
 
 
-xxxxxxxxxxxxxxxxxxx
+
 
 
