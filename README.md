@@ -6,7 +6,7 @@
   </a>
 
 <h3 align="center">RetroGames</h3>
-
+</div>
 
 
 <!-- GETTING STARTED -->
