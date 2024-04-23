@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/280b9f9b/RetroGames">
-    <img src="https://280b9f9b.github.io/RetroGames/Resource/RetroGamesred.png" alt="Logo" width="80" height="80">
+    <img src="https://280b9f9b.github.io/RetroGames/Resource/RetroGames.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">RetroGames</h3>
