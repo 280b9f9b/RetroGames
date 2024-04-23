@@ -21,7 +21,9 @@ That's a [RetroGames](https://280b9f9b.github.io/RetroGames/RetroGames/) project
 </div>
 
 
-<a href="url"><img src="https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png" height="auto" width="200" style="border-radius:50%"></a>
+<img https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png" alt="your-image-description" style="border: 2px solid  gray;">
+
+
 
 <!-- GETTING STARTED -->
 ## Soqueroeu-TV Project [soqueroeu](https://github.com/soqueroeu)
