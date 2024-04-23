@@ -44,34 +44,4 @@ This is a Games Consoles Project [sms](https://280b9f9b.github.io/RetroGames/Sys
 
 xxxxxxxxxxxxxxxxxxx
 
-<img src='https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png'
-  style='border: 4px solid #f00; margin: 20px;'
-  >
 
-<img src='https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png'
-  style='border: 4px solid #f00; margin: 20px; border-radius: 50px;'
->
-
-<br>
-<h1 id="div_and_img">DIV and IMG</h1>
-<div style='border: 4px solid #f00; margin: 20px; display: table; width: 1px; float: left;'>
-  <img src='https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png'>
-</div>
-
-<div style='border: 4px solid #f00; margin: 20px; float: left;
-            display: table; width: 1px;
-            border-radius: 50px; overflow: hidden;'>
-  <img src='https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png'>
-</div>
-<br style='clear:both;'>
-<h1 id="div_and_background_image">DIV and background image</h1>
-<div style='border: 4px solid #f00; margin: 20px; float: left;
-            height: 180px; width: 240px;
-            background-image: url(https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png);'>
-</div>
-
-<div style='border: 4px solid #f00; margin: 20px; float: left;
-            height: 180px; width: 240px;
-            background-image: url(https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png);
-            border-radius: 50px; overflow: hidden;'>
-</div>
