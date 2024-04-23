@@ -16,7 +16,7 @@ That's a [RetroGames](https://280b9f9b.github.io/RetroGames/RetroGames/) project
 
 <div align="center">
   <a href="https://280b9f9b.github.io/RetroGames/RetroGames/">
-    <img src="https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png" alt="FavoriteRetroGames" width="500" height="400">
+    <img src="https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png" alt="FavoriteRetroGames">
   </a>
 </div>
 
@@ -30,7 +30,7 @@ This is a Soqueroeu-TV Project [NES TV](https://280b9f9b.github.io/RetroGames/So
 
 <div align="center">
   <a href="https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/NEC_PCEngine-CD/PCECD_v2_Solid.html">
-    <img src="https://280b9f9b.github.io/RetroGames/Resource/Soqueroeu.png" alt="Soqueroeu" width="500" height="400">
+    <img src="https://280b9f9b.github.io/RetroGames/Resource/Soqueroeu.png" alt="Soqueroeu">
   </a>
 </div>
 
