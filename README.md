@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/280b9f9b/RetroGames">
-    <img src="https://www.freeiconspng.com/uploads/games-icon-png-4.png" alt="Logo" width="80" height="80">
+    <img src="https://280b9f9b.github.io/RetroGames/Resource/RetroGames.png" alt="Logo" width="80" height="80">
   </a>
 
 [RetroGames](https://280b9f9b.github.io/RetroGames/RetroGames/) Favorite RetroGames Project
