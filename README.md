@@ -2,7 +2,7 @@
 
 [RetroGames](https://280b9f9b.github.io/RetroGames/RetroGames/)
 
-[NES TV](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Nintendo_NES/NES.html) [3DO](https://280b9f9b.github.io/RetroGames/main/Soqueroeu-TV/3DO/3DO.html)
+[NES TV](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Nintendo_NES/NES.html) [3DO](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/3DO.html) [Atari_2600](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Atari_2600/Atari_2600.html)
 
 
 [sms](https://280b9f9b.github.io/RetroGames/Systems/sms/)
