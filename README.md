@@ -21,7 +21,7 @@ That's a [RetroGames](https://280b9f9b.github.io/RetroGames/RetroGames/) project
 </div>
 
 
-<img https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png" alt="your-image-description" style="border: 2px solid  gray;">
+<img src="https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png" alt="Description" style="border-radius: 20px;">
 
 
 
