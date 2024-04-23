@@ -12,7 +12,7 @@
 <!-- GETTING STARTED -->
 ## Favorite RetroGames Project
 
-This is an [RetroGames](https://280b9f9b.github.io/RetroGames/RetroGames/) of.
+That's a [RetroGames](https://280b9f9b.github.io/RetroGames/RetroGames/) project! Having all your favorite retro games accessible in one place is convenient and nostalgic. It's like having a personal arcade at your fingertips.
 
 
 
