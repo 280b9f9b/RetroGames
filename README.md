@@ -28,8 +28,7 @@ That's a [RetroGames](https://280b9f9b.github.io/RetroGames/RetroGames/) project
 <!-- GETTING STARTED -->
 ## Soqueroeu-TV Project [soqueroeu](https://github.com/soqueroeu)
 
-This is a Soqueroeu-TV Project [NES TV](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Nintendo_NES/NES.html) [3DO](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/3DO.html) [Atari_2600](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Atari_2600/Atari_2600.html) [NEC_PCEngine-CD](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/NEC_PCEngine-CD/PCECD_v2_Solid.html) [NEC_PCEngine-Duo](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/NEC_PCEngine-Duo/PCEDuo.html).
-
+This is a Soqueroeu-TV Project 
 [3DO](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/3DO.html)
 [Atari_2600](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Atari_2600.html)
 [NEC_PCEngine-CD](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/NEC_PCEngine-CD.html)
@@ -57,7 +56,7 @@ This is a Soqueroeu-TV Project [NES TV](https://280b9f9b.github.io/RetroGames/So
 [Sega_SG-1000](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Sega_SG-1000.html)
 [Sega_Saturn](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Sega_Saturn.html)
 [Sony_Playstation](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Sony_Playstation.html)
-[Sony_Playstation2](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Sony_Playstation2.html)
+[Sony_Playstation2](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Sony_Playstation2.html).
 
 <div align="center">
   <a href="https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/NEC_PCEngine-CD/PCECD_v2_Solid.html">
