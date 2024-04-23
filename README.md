@@ -29,34 +29,34 @@ That's a [RetroGames](https://280b9f9b.github.io/RetroGames/RetroGames/) project
 ## Soqueroeu-TV Project [soqueroeu](https://github.com/soqueroeu)
 
 This is a Soqueroeu-TV Project &nbsp;&nbsp;
-[3DO](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/3DO.html) &nbsp;&nbsp;
-[Atari_2600](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Atari_2600.html) &nbsp;&nbsp;
-[NEC_PCEngine-CD](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/NEC_PCEngine-CD.html) &nbsp;&nbsp;
-[NEC_PCEngine-Duo](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/NEC_PCEngine-Duo.html) &nbsp;&nbsp;
-[NEC_PCEngine](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/NEC_PCEngine.html) &nbsp;&nbsp;
-[NEC_PCFX](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/NEC_PCFX.html) &nbsp;&nbsp;
-[NEC_SuperGrafx](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/NEC_SuperGrafx.html) &nbsp;&nbsp;
-[NEC_TurboDuo](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/NEC_TurboDuo.html) &nbsp;&nbsp;
-[NEC_TurboGrafx-CD](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/NEC_TurboGrafx-CD.html) &nbsp;&nbsp;
-[NEC_TurboGrafx16](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/NEC_TurboGrafx16.html) &nbsp;&nbsp;
-[Nintendo_Famicom](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Nintendo_Famicom.html) &nbsp;&nbsp;
-[Nintendo_GameCube](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Nintendo_GameCube.html) &nbsp;&nbsp;
-[Nintendo_N64](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Nintendo_N64.html) &nbsp;&nbsp;
-[Nintendo_NES](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Nintendo_NES.html) &nbsp;&nbsp;
-[Nintendo_SuperFamicom](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Nintendo_SuperFamicom.html) &nbsp;&nbsp;
-[Nintendo_SuperGameBoy](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Nintendo_SuperGameBoy.html) &nbsp;&nbsp;
-[Nintendo_SuperNintendo](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Nintendo_SuperNintendo.html) &nbsp;&nbsp;
-[Nintendo_Wii](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Nintendo_Wii.html) &nbsp;&nbsp;
-[SNK_NeoGeoAES](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/SNK_NeoGeoAES.html) &nbsp;&nbsp;
-[Sega_CD](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Sega_CD.html) &nbsp;&nbsp;
-[Sega_Dreamcast](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Sega_Dreamcast.html) &nbsp;&nbsp;
-[Sega_Genesis](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Sega_Genesis.html) &nbsp;&nbsp;
-[Sega_MarkIII](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Sega_MarkIII.html) &nbsp;&nbsp;
-[Sega_MasterSystem](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Sega_MasterSystem.html) &nbsp;&nbsp;
-[Sega_SG-1000](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Sega_SG-1000.html) &nbsp;&nbsp;
-[Sega_Saturn](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Sega_Saturn.html) &nbsp;&nbsp;
-[Sony_Playstation](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Sony_Playstation.html) &nbsp;&nbsp;
-[Sony_Playstation2](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Sony_Playstation2.html)
+[3DO](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/index.html) &nbsp;&nbsp;
+[Atari_2600](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Atari_2600/index.html) &nbsp;&nbsp;
+[NEC_PCEngine-CD](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/NEC_PCEngine-CD/index.html) &nbsp;&nbsp;
+[NEC_PCEngine-Duo](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/NEC_PCEngine-Duo/index.html) &nbsp;&nbsp;
+[NEC_PCEngine](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/NEC_PCEngine/index.html) &nbsp;&nbsp;
+[NEC_PCFX](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/NEC_PCFX/index.html) &nbsp;&nbsp;
+[NEC_SuperGrafx](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/NEC_SuperGrafx/index.html) &nbsp;&nbsp;
+[NEC_TurboDuo](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/NEC_TurboDuo/index.html) &nbsp;&nbsp;
+[NEC_TurboGrafx-CD](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/NEC_TurboGrafx-CD/index.html) &nbsp;&nbsp;
+[NEC_TurboGrafx16](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/NEC_TurboGrafx16/index.html) &nbsp;&nbsp;
+[Nintendo_Famicom](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Nintendo_Famicom/index.html) &nbsp;&nbsp;
+[Nintendo_GameCube](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Nintendo_GameCube/index.html) &nbsp;&nbsp;
+[Nintendo_N64](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Nintendo_N64/index.html) &nbsp;&nbsp;
+[Nintendo_NES](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Nintendo_NES/index.html) &nbsp;&nbsp;
+[Nintendo_SuperFamicom](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Nintendo_SuperFamicom/index.html) &nbsp;&nbsp;
+[Nintendo_SuperGameBoy](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Nintendo_SuperGameBoy/index.html) &nbsp;&nbsp;
+[Nintendo_SuperNintendo](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Nintendo_SuperNintendo/index.html) &nbsp;&nbsp;
+[Nintendo_Wii](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Nintendo_Wii/index.html) &nbsp;&nbsp;
+[SNK_NeoGeoAES](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/SNK_NeoGeoAES/index.html) &nbsp;&nbsp;
+[Sega_CD](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Sega_CD/index.html) &nbsp;&nbsp;
+[Sega_Dreamcast](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Sega_Dreamcast/index.html) &nbsp;&nbsp;
+[Sega_Genesis](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Sega_Genesis/index.html) &nbsp;&nbsp;
+[Sega_MarkIII](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Sega_MarkIII/index.html) &nbsp;&nbsp;
+[Sega_MasterSystem](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Sega_MasterSystem/index.html) &nbsp;&nbsp;
+[Sega_SG-1000](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Sega_SG-1000/index.html) &nbsp;&nbsp;
+[Sega_Saturn](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Sega_Saturn/index.html) &nbsp;&nbsp;
+[Sony_Playstation](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Sony_Playstation/index.html) &nbsp;&nbsp;
+[Sony_Playstation2](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/Sony_Playstation2/index.html)
 
 <div align="center">
   <a href="https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/NEC_PCEngine-CD/PCECD_v2_Solid.html">
