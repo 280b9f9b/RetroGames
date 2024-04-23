@@ -16,7 +16,7 @@ That's a [RetroGames](https://280b9f9b.github.io/RetroGames/RetroGames/) project
 
 <div align="center">
   <a href="https://280b9f9b.github.io/RetroGames/RetroGames/">
-    <img src="https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png" alt="Logo">
+    <img src="https://280b9f9b.github.io/RetroGames/Resource/FavoriteRetroGames.png" alt="FavoriteRetroGames">
   </a>
 </div>
 
