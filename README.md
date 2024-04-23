@@ -10,7 +10,7 @@
 
 
 <!-- GETTING STARTED -->
-## Favorite RetroGames Project
+## Favorite RetroGames Project [EmulatorJS](https://github.com/EmulatorJS)
 
 That's a [RetroGames](https://280b9f9b.github.io/RetroGames/RetroGames/) project! Having all your favorite retro games accessible in one place is convenient and nostalgic. It's like having a personal arcade at your fingertips.
 
