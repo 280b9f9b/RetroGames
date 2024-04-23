@@ -29,7 +29,7 @@ That's a [RetroGames](https://280b9f9b.github.io/RetroGames/RetroGames/) project
 ## Soqueroeu-TV Project [soqueroeu](https://github.com/soqueroeu)
 
 This is a Soqueroeu-TV Project 
-[3DO](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/3DO.html)
+[3DO](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/3DO.html) &nbsp; &nbsp;
 [Atari_2600](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/Atari_2600.html)
 [NEC_PCEngine-CD](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/NEC_PCEngine-CD.html)
 [NEC_PCEngine-Duo](https://280b9f9b.github.io/RetroGames/Soqueroeu-TV/3DO/NEC_PCEngine-Duo.html)
