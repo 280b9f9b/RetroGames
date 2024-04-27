@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			body, html {
+			height: 100%;
+			background-color: black;
+			color: white;
+			}
+			body {
+			margin: 0;
+			overflow: hidden;
+			}
+			body, #box, #top {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			flex-direction: column;
+			}
+			.game-container img {
+			width: 200px;
+			height: 150px;
+			margin: 10px;
+			border: 2px solid #ccc;
+			border-radius: 5px;
+			cursor: pointer;
+			transition: transform 0.3s ease;
+			}
+			.game-container img:hover {
+			transform: scale(1.05);
+			}
+		</style>
+	</head>
+	<body>
+		<!-- Display container for games -->
+		<div class="game-container" id="game-container"></div>
+		<script>
+			// Function to fetch JSON data
+			async function fetchData(url) {
+			    try {
+			        const response = await fetch(url);
+			        if (!response.ok) {
+			            throw new Error('Network response was not ok');
+			        }
+			        return await response.json();
+			    } catch (error) {
+			        console.error('Error fetching data:', error);
+			    }
+			}
+			
+			// Function to display game images and load game on click
+			async function displayGames() {
+			    const games = await fetchData('games.json');
+			    const gameContainer = document.getElementById('game-container');
+			
+			    games.forEach(game => {
+			        const image = document.createElement('img');
+			        if (game.ximage) {
+			            image.src = game.ximage;
+			            image.addEventListener('click', () => loadGame(game));
+			            gameContainer.appendChild(image);
+			        }
+			    });
+			}
+			
+			// Function to load game using EmulatorJS
+			function loadGame(game) {
+			    const div = document.createElement("div");
+			    const script = document.createElement("script");
+			
+			    const gameContainer = document.getElementById('game-container');
+			    gameContainer.innerHTML = ''; // Clear game container
+			
+			    gameContainer.appendChild(div);
+			
+			    window.EJS_player = "#game-container"; // Set player to game container
+			    window.EJS_gameName = game.xtitle;
+			    window.EJS_biosUrl = "";
+			    window.EJS_gameUrl = game.xgameUrl;
+			    window.EJS_core = game.xcore;
+			    window.EJS_pathtodata = "data/";
+			    window.EJS_startOnLoaded = true;
+			    window.EJS_DEBUG_XX = false;
+			    window.EJS_disableDatabases = true;
+			    window.EJS_threads = false;
+			    window.EJS_cheats = game.xcheats; // Pass cheats information
+			
+			    script.src = "data/loader.js";
+			    document.body.appendChild(script);
+			}
+			
+			// Fetch data and display games
+			async function init() {
+			    await displayGames();
+			}
+			
+			// Initialize the application
+			init();
+		</script>
+	</body>
+</html>
