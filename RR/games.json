@@ -1,12 +1,12 @@
 [
   {
     "xtitle": "Contra (USA)",
-    "ximage": "Data/Covers/Contra (USA).jpg",
+    "ximage": "covers/Contra (USA).jpg",
     "xplayer": "#game",
     "xcore": "nes",
     "xlightgun": false,
     "xbiosUrl": "",
-    "xgameUrl": "Contra (USA).7z",
+    "xgameUrl": "roms/Contra (USA).7z",
     "xcheats": [
       ["Start with infinite lives", "SLAIUZ"],
       ["Keep weapons after losing a life", "GXIIUX"]
@@ -14,12 +14,12 @@
   },
   {
     "xtitle": "Altered Beast (USA, Europe)",
-    "ximage": "Data/Covers/Altered Beast (USA, Europe).jpg",
+    "ximage": "covers/Altered Beast (USA, Europe).jpg",
     "xplayer": "#game",
     "xcore": "segaMD",
     "xlightgun": false,
     "xbiosUrl": "",
-    "xgameUrl": "Altered Beast (USA, Europe).7z",
+    "xgameUrl": "roms/Altered Beast (USA, Europe).7z",
     "xcheats": [
       ["Infinite Energy", "AJWA-AA8Y"],
       ["Infinite Health P1", "FFCF10:000C"],
@@ -30,22 +30,22 @@
   },
   {
     "xtitle": "chasehq",
-    "ximage": "Data/Covers/chasehq.jpg",
+    "ximage": "covers/chasehq.jpg",
     "xplayer": "#game",
     "xcore": "arcade",
     "xlightgun": false,
     "xbiosUrl": "",
-    "xgameUrl": "chasehq.zip",
+    "xgameUrl": "roms/chasehq.zip",
     "xcheats": ""
   },
   {
     "xtitle": "ESWAT - City Under Siege (USA, Europe)",
-    "ximage": "Data/Covers/ESWAT - City Under Siege (USA, Europe).jpg",
+    "ximage": "covers/ESWAT - City Under Siege (USA, Europe).jpg",
     "xplayer": "#game",
     "xcore": "segaMD",
     "xlightgun": false,
     "xbiosUrl": "",
-    "xgameUrl": "ESWAT - City Under Siege (USA, Europe).7z",
+    "xgameUrl": "roms/ESWAT - City Under Siege (USA, Europe).7z",
     "xcheats": [
       ["Infinite credits", "BDCA-EA9E"],
       ["Infinite Energy", "AK3A-AA84"],
