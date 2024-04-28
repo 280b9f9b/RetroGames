@@ -77,8 +77,8 @@ function loadGameInPlayer(game) {
 // Function to update the game count
 function updateGameCount() {
     const gamesContainer = document.getElementById('game-container');
-    const displayedGames = Array.from(gamesContainer.children).filter(game => game.style.display !== 'none');
-    document.getElementById('xtitle-count').textContent = `Total Games: ${displayedGames.length}`;
+    const displayedGames = Array.from(gamesContainer.children).filter(game => game.style.display !== 'totalgames');
+    document.getElementById('xtitle-count').textContent = `Total Games ${displayedGames.length}`;
 }
 
 // Fetch data and display games
