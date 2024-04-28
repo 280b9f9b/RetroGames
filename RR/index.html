@@ -11,10 +11,10 @@
 			height: 100%;
 			background-color: #1c1c1c;
 			color: white;
+			font-family: 'Brush Script MT', cursive;
 			}
 			body {
 			margin: 0;
-			overflow: hidden;
 			}
 			body, #box, #top {
 			align-items: center;
@@ -25,7 +25,7 @@
 			display: flex;
 			flex-wrap: wrap;
 			justify-content: center;
-			padding-top: 140px;
+			padding-top: 150px;
 			}
 			.game-container .game {
 			display: inline-block;
@@ -44,7 +44,7 @@
 			.game-container .game img {
 			width: 160px;
 			height: 225px;
-			margin-bottom: 5px;
+			margin-bottom: 1px;
 			border: 2px;
 			border-radius: 5px;
 			cursor: pointer;
@@ -53,15 +53,28 @@
 			.game-container .game img:hover {
 			transform: scale(1.05);
 			}
-			.game-container .game p {
-			margin-top: 10px;
+			.game-container .game h2 {
+			margin-top: 0px;
 			margin-left: 10px;
 			margin-right: 10px;
 			font-size: 13px;
 			text-align: left;
+			font-family: 'Brush Script MT', cursive;
 			overflow: hidden!important;
 			text-overflow: ellipsis;
 			white-space: nowrap!important;
+			}
+			.game-container .game p {
+			margin-top: 1px;
+			margin-left: 10px;
+			margin-right: 10px;
+			font-size: 11px;
+			font-family: 'Brush Script MT', cursive;
+			text-align: justify;
+			hyphens: auto;
+			-webkit-hyphens: auto;
+			word-spacing: -0.05em;
+			color: #aaa;
 			}
 			header {
 			position: fixed;
@@ -249,19 +262,19 @@
 			        // Create a rating label
 			        const ratingLabel = document.createElement('div');
 			        ratingLabel.classList.add('rating-label');
-			        ratingLabel.textContent = `Rating: ${game.rating}`;
+			        ratingLabel.textContent = `${game.rating}`;
 			        imageContainer.appendChild(ratingLabel);
 			
 			        gameDiv.appendChild(imageContainer);
 			
 			        // Create a paragraph element for the title
-			        const titlePara = document.createElement('p');
+			        const titlePara = document.createElement('h2');
 			        titlePara.textContent = game.xtitle;
 			        gameDiv.appendChild(titlePara);
 			
 			        // Create a paragraph element for additional information
 			        const infoPara = document.createElement('p');
-			        infoPara.textContent = `Year: ${game.year} | Platform: ${game.platform} | Players: ${game.players} | Genres: ${game.genres}`;
+			        infoPara.textContent = `${game.year} ${game.platform} ${game.players} ${game.genres}`;
 			        gameDiv.appendChild(infoPara);
 			
 			        // Add the game container to the main container
