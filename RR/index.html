@@ -284,53 +284,53 @@
 			    updateGameCount(); // Update the game count after displaying games
 			}
 			
-			// Function to load game using EmulatorJS
-			function loadGame(game) {
-			const div = document.createElement("div");
-			const script = document.createElement("script");
-			
-			const gameContainer = document.getElementById('game-container');
-			gameContainer.innerHTML = ''; // Clear game container
-			
-			gameContainer.appendChild(div);
-			
-			window.EJS_player = "#game-container"; // Set player to game container
-			window.EJS_gameName = game.xtitle;
-			window.EJS_biosUrl = "";
-			window.EJS_gameUrl = game.xgameUrl;
-			window.EJS_core = game.xcore;
-			window.EJS_pathtodata = "data/";
-			window.EJS_startOnLoaded = true;
-			window.EJS_DEBUG_XX = false;
-			window.EJS_disableDatabases = true;
-			window.EJS_threads = false;
-			window.EJS_cheats = game.xcheats; // Pass cheats information
-			
-			script.src = "data/loader.js";
-			document.body.appendChild(script);
-			
-			// Apply styles to game container
-			gameContainer.style.padding = '0';
-			gameContainer.style.margin = '0';
-			gameContainer.style.background = '#000';
-			gameContainer.style.color = '#fff';
-			gameContainer.style.overflow = 'hidden';
-			gameContainer.style.touchAction = 'none';
-			gameContainer.style.msTouchAction = 'none';
-			
-			// Hide the header
-			const header = document.querySelector('header');
-			header.style.display = 'none';
-			
-			// Create and append "Go Back" button
-			const goBackButton = document.createElement("button");
-			goBackButton.textContent = "Go Back";
-			goBackButton.addEventListener("click", () => {
-			    // Go back to the previous page in the browser's history
-			    window.history.back();
-			});
-			gameContainer.appendChild(goBackButton);
-			}
+					// Function to load game using EmulatorJS
+function loadGame(game) {
+    const div = document.createElement("div");
+    const script = document.createElement("script");
+
+    const gameContainer = document.getElementById('game-container');
+    gameContainer.innerHTML = ''; // Clear game container
+
+    gameContainer.appendChild(div);
+
+    window.EJS_player = "#game-container"; // Set player to game container
+    window.EJS_gameName = game.xtitle;
+    window.EJS_biosUrl = "";
+    window.EJS_gameUrl = game.xgameUrl;
+    window.EJS_core = game.xcore;
+    window.EJS_pathtodata = "data/";
+    window.EJS_startOnLoaded = true;
+    window.EJS_DEBUG_XX = false;
+    window.EJS_disableDatabases = true;
+    window.EJS_threads = false;
+    window.EJS_cheats = game.xcheats; // Pass cheats information
+
+    script.src = "data/loader.js";
+    document.body.appendChild(script);
+
+    // Apply styles to game container
+    gameContainer.style.padding = '0';
+    gameContainer.style.margin = '0';
+    gameContainer.style.width = '100vw';
+    gameContainer.style.height = '100vh';
+
+    // Hide the header
+    const header = document.querySelector('header');
+    header.style.display = 'none';
+
+    // Listen for 'keyup' event to close the game
+    window.addEventListener('keyup', closeGame);
+
+    // Function to close the game and return to previous page
+    function closeGame(event) {
+        // Check if 'Escape' key is pressed
+        if (event.key === 'Escape') {
+            // Go back to the previous page in the browser's history
+            window.history.back();
+        }
+    }
+}
 			
 			
 			
