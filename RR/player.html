@@ -1,0 +1,57 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<link rel="apple-touch-icon" href="covers/icon.png">
+		<title></title>
+		<style type="text/css"> * {padding: 0;margin: 0;} html, body {background: #000;color: #fff;overflow: hidden;touch-action: none;-ms-touch-action: none;}</style>
+	</head>
+	<body>
+		<div id="game-container"></div>
+		<script>
+			// Function to parse URL parameters
+			function getUrlParameter(name) {
+			    name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+			    const regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+			    const results = regex.exec(location.search);
+			    return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+			}
+			// Function to load game using EmulatorJS
+			function loadGame(game) {
+			    const div = document.createElement("div");
+			    const gameContainer = document.getElementById('game-container');
+			    gameContainer.innerHTML = ''; // Clear game container
+			    gameContainer.appendChild(div);
+			
+			    window.EJS_player = "#game-container"; // Set player to game container
+			    window.EJS_gameName = game.xtitle;
+			    window.EJS_biosUrl = "";
+			    window.EJS_gameUrl = game.xgameUrl;
+			    window.EJS_core = game.xcore;
+			    window.EJS_pathtodata = "data/";
+			    window.EJS_startOnLoaded = true;
+			    window.EJS_DEBUG_XX = false;
+			    window.EJS_disableDatabases = true;
+			    window.EJS_threads = false;
+			    window.EJS_cheats = game.xcheats; // Pass cheats information
+			
+			    const script = document.createElement("script");
+			    script.src = "data/loader.js";
+			    document.body.appendChild(script);   
+			}
+			// Function to load and run the game when the player.html page is loaded
+			function loadAndRunGame() {
+			    const gameDataString = getUrlParameter('game');
+			    if (!gameDataString) {
+			        console.error('No game data found in URL parameter.');
+			        return;
+			    }
+			    const gameData = JSON.parse(decodeURIComponent(gameDataString));
+			    loadGame(gameData);
+			}
+			// Load and run the game when the player.html page is loaded
+			loadAndRunGame();
+		</script>
+	</body>
+</html>
