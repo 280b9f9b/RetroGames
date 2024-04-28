@@ -149,7 +149,7 @@ async function displayGames() {
 
         // Create a paragraph element for additional information
         const infoPara = document.createElement('p');
-        infoPara.textContent = `${game.year} ${game.platform} ${game.players} ${game.genres}`;
+        infoPara.textContent = `${game.year} ${game.platform} ${game.players}P ${game.genres}`;
         gameDiv.appendChild(infoPara);
 
         // Add the game container to the main container
