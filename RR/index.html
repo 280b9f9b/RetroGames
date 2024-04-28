@@ -309,11 +309,16 @@ function loadGame(game) {
     script.src = "data/loader.js";
     document.body.appendChild(script);
 
-    // Apply styles to game container
-    gameContainer.style.padding = '0';
-    gameContainer.style.margin = '0';
-    gameContainer.style.width = '100vw';
-    gameContainer.style.height = '100vh';
+    // Apply styles to HTML and body elements
+    document.documentElement.style.padding = '0';
+    document.documentElement.style.margin = '0';
+    document.documentElement.style.background = '#000';
+    document.documentElement.style.color = '#fff';
+    document.documentElement.style.overflow = 'hidden';
+    document.documentElement.style.touchAction = 'none';
+    document.documentElement.style.msTouchAction = 'none';
+    document.body.style.padding = '0';
+    document.body.style.margin = '0';
 
     // Hide the header
     const header = document.querySelector('header');
@@ -331,6 +336,7 @@ function loadGame(game) {
         }
     }
 }
+
 			
 			
 			
