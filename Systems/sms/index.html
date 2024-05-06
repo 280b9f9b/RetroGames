@@ -1,361 +1,367 @@
-<!DOCTYPE html>
 <html>
-   <head>
-      <meta charset="UTF-8">
-      <meta name="apple-mobile-web-app-capable" content="yes">
-      <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-      <link rel="apple-touch-icon" href="covers/icon.png">
-      <title>RetroGames</title>
-      <style>
-         * {
-         margin: 0;
-         padding: 0;
-         box-sizing: border-box;
-         }
-         body {
-         font-family: Arial, sans-serif;
-         background-color: #1c1c1c;
-         color: #fff;
-         }
-         header {
-         position: fixed;
-         top: 0;
-         left: 0;
-         width: 100%;
-         background-color: #333; /* Choose your desired background color */
-         color: #fff; /* Choose your desired text color */
-         padding: 10px;
-         z-index: 1000; /* Ensure it's above other elements */
-         }
-         header h1 {
-         font-size: 18px;
-         margin: 0;
-         }
-         #core-controls,
-         #controls {
-         display: flex;
-         align-items: center;
-         margin-top: 10px;
-         }
-         #core-controls label,
-         #controls label {
-         margin-right: 10px;
-         }
-         #core-controls select,
-         #controls input[type="text"],
-         #controls select {
-         padding: 5px;
-         font-size: 12px;
-         border-radius: 5px;
-         border: none;
-         background-color: #2c2c2c;
-         color: #fff;
-         width: 200px;
-         }
-         h3 {
-         padding: 5px;
-         font-size: 12px;
-         border-radius: 5px;
-         border: none;
-         background-color: #2c2c2c;
-         color: #fff;
-         width: 200px;
-         }
-         .image-container {
-         position: relative;
-         display: inline-block;
-         height: 75%;
-         }
-         .rating-label {
-         position: absolute;
-         top: 3px;
-         right: 3px;
-         background-color: rgba(0, 0, 0, 0.7);
-         color: white;
-         padding: 5px;
-         border-radius: 5px;
-         font-size: 8px;
-         }
-         main {
-         display: inline-block;
-         vertical-align: top;
-         position: relative;
-         margin-top: 120px;
-         }
-         .rom {
-         display: inline-block;
-         vertical-align: top;
-         margin: 10px;
-         margin-top: 20px;
-         width: 160px;
-         height: 300px;
-         border-radius: 5px;
-         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-         background-color: #2c2c2c;
-         overflow: hidden;
-         transition: transform 0.2s ease-in-out;
-         text-align: left;
-         }
-         .rom:hover {
-         transform: translateY(-5px);
-         }
-         .rom img {
-         width: 100%;
-         height: 100%;
-         object-fit: cover;
-         object-position: right;
-         border-radius: 5px 5px 0 0;
-         }
-         .rom h2 {
-         margin-top: 10px;
-         margin-left: 10px;
-         margin-right: 10px;
-         font-size: 13px;
-         text-align: left;
-         overflow: hidden!important;
-         text-overflow: ellipsis;
-         white-space: nowrap!important;
-         }
-         .rom p {
-         margin-top: 1px;
-         margin-left: 10px;
-         margin-right: 10px;
-         font-size: 11px;
-         text-align: justify;
-    hyphens: auto;
-    -webkit-hyphens: auto;
-    word-spacing: -0.05em;
-         color: #aaa;
-         }
-         .year {
-         color: #aaa;
-         }
-         a.play-button {
-         display: block;
-         margin: 10px auto;
-         padding: 10px 20px;
-         font-size: 16px;
-         font-weight: bold;
-         text-align: center;
-         color: white;
-         background-color: #8f50e7;
-         border-radius: 5px;
-         text-decoration: none;
-         }
-         a.play-button:hover {
-         background-color: #6648b3;
-         }
-         .nav {
-         list-style-type: none;
-         text-align: center;
-         margin: 0;
-         padding: 0;
-         }
-      </style>
-   </head>
-   <body>
-      <header>
-         <h1>RetroGames...</h1>
-         <div id="controls">
-            <input type="text" id="search" placeholder="Enter a keyword">&nbsp;&nbsp;
-            <select id="sort">
-               <option value="title">Title</option>
-               <option value="title">Title</option>
-               <option value="year">Year</option>
-               <option value="core">Platform</option>
-               <option value="players">Players</option>
-               <option value="rating">Rating</option>
-               <option value="rating">Rating</option>
-            </select>
-         </div>
-         <div id="core-controls">
-            <select id="core-filter">
-               <option value="all">All platforms</option>
-               <option value="3do">3DO</option>
-               <option value="arcade">Arcade</option>
-               <option value="atari2600">Atari 2600</option>
-               <option value="atari5200">Atari 5200</option>
-               <option value="atari7800">Atari 7800</option>
-               <option value="jaguar">Atari Jaguar</option>
-               <option value="lynx">Atari Lynx</option>
-               <option value="c64">Commodore 64</option>
-               <option value="c128">Commodore 128</option>
-               <option value="amiga">Commodore Amiga</option>
-               <option value="pet">Commodore PET</option>
-               <option value="plus4">Commodore Plus4</option>
-               <option value="vic20">Commodore VIC-20</option>
-               <option value="mame2003">MAME 2003</option>
-               <option value="nes">NES-Famicom</option>
-               <option value="n64">Nintendo 64</option>
-               <option value="nds">Nintendo DS</option>
-               <option value="gba">Game Boy Advance</option>
-               <option value="gb">Game Boy</option>
-               <option value="psx">PlayStation</option>
-               <option value="sega32x">Sega 32X</option>
-               <option value="segaCD">Sega CD</option>
-               <option value="segaGG">Game Gear</option>
-               <option value="segaMS">Master System</option>
-               <option value="segaMD">Mega Drive</option>
-               <option value="segaSaturn">Sega Saturn</option>
-               <option value="snes">SNES-Super Famicom</option>
-               <option value="vb">Virtual Boy</option>
-               <option value="pce">SuperGrafx</option>
-               <option value="pcfx">NEC PC-FX</option>
-               <option value="ngp">NeoGeo Pocket</option>
-               <option value="ws">Bandai WonderSwan</option>
-               <option value="coleco">ColecoVision</option>
-            </select>
-            &nbsp;&nbsp;
-            <h3 id="title-count"></h3>
-         </div>
-      </header>
-      <main>
-         <ul class="nav">
-            <div id="roms"></div>
-         </ul>
-      </main>
-      <script>
-         // Fetch the ROM data from version.json
-         fetch('version.json')
-             .then(response => response.json())
-             .then(roms => {
-                 // Initialize state with ROM data, sorting and filtering parameters
-                 const state = {
-                     roms: roms,
-                     displayedRoms: roms,
-                     sortProperty: 'title',
-                     sortDirection: 'asc',
-                     coreFilter: 'all',
-                     searchKeyword: '',
-                 };
-         
-                 // Render the list of ROMs
-                 const renderRoms = () => {
-                     const romsContainer = document.getElementById('roms');
-                     romsContainer.innerHTML = '';
-                     state.displayedRoms.forEach(renderRom);
-                     document.getElementById('title-count').textContent = `${state.displayedRoms.length} Games`;
-                 };
-         
-                 // Render an individual ROM
-                 const renderRom = (rom) => {
-                     const romElem = document.createElement('div');
-                     romElem.classList.add('rom');
-         
-                     // Create image link element
-                     const imageLinkElem = document.createElement('a');
-                     imageLinkElem.href = rom.file || '#';
-                     romElem.appendChild(imageLinkElem);
-         
-                     // Create image container and genre label
-                     const imageContainer = document.createElement('div');
-                     imageContainer.classList.add('image-container');
-                     const genreLabel = document.createElement('div');
-                     genreLabel.classList.add('rating-label');
-                     genreLabel.textContent = rom.rating;
-                     const imageElem = document.createElement('img');
-                     imageElem.src = rom.image || 'placeholder.jpg';
-                     imageElem.alt = rom.title || 'Untitled';
-                     imageContainer.appendChild(imageElem);
-                     imageContainer.appendChild(genreLabel);
-                     imageLinkElem.appendChild(imageContainer);
-         
-                     // Create title element
-                     const titleElem = document.createElement('h2');
-                     titleElem.textContent = rom.title || 'Untitled';
-                     romElem.appendChild(titleElem);
-         
-                     // Create year element
-                     const yearElem = document.createElement('p');
-                     yearElem.textContent = `
-                     ${rom.year} 
-                     ${rom.platform} 
-                     ${rom.players}P 
-                     ${rom.genres}`;
-                     yearElem.classList.add('year');
-                     romElem.appendChild(yearElem);
-         
-                     document.getElementById('roms').appendChild(romElem);
-                 };
-         
-                 // Sort ROMs based on a property and direction
-                 const sortRoms = (property, direction) => {
-                     state.sortProperty = property;
-                     state.sortDirection = direction;
-         
-                     const compareFn = (a, b) => {
-                         let aValue = a[property] || '';
-                         let bValue = b[property] || '';
-         
-                         if (typeof aValue === 'string') {
-                             aValue = aValue.toLowerCase();
-                             bValue = bValue.toLowerCase();
-                         }
-         
-                         if (aValue < bValue) {
-                             return direction === 'asc' ? -1 : 1;
-                         } else if (aValue > bValue) {
-                             return direction === 'asc' ? 1 : -1;
-                         } else {
-                             return 0;
-                         }
-                     };
-         
-                     state.displayedRoms.sort(compareFn);
-                     renderRoms();
-                 };
-         
-                 // Filter ROMs based on core
-                 const filterRomsByCore = (core) => {
-                     state.coreFilter = core;
-         
-                     if (core === 'all') {
-                         state.displayedRoms = state.roms;
-                     } else {
-                         state.displayedRoms = state.roms.filter(rom => rom.core === core);
-                     }
-         
-                     renderRoms();
-                 };
-         
-                 // Filter ROMs based on search keyword
-                 const filterRomsBySearch = (keyword) => {
-                     state.searchKeyword = keyword.toLowerCase().trim();
-         
-                     if (keyword.trim() === '') {
-                         state.displayedRoms = state.roms;
-                     } else {
-                         state.displayedRoms = state.roms.filter(rom => {
-                             const titleMatch = rom.title && rom.title.toLowerCase().includes(state.searchKeyword);
-                             const yearMatch = rom.year && rom.year.toString().toLowerCase().includes(state.searchKeyword);
-                             return titleMatch || yearMatch;
-                         });
-                     }
-         
-                     renderRoms();
-                 };
-         
-                 // Initialize the page with unsorted, unfiltered ROMs
-                 renderRoms();
-         
-                 // Event listeners for sorting, core filtering, and search filtering
-                 document.getElementById('sort').addEventListener('change', (event) => {
-                     const property = event.target.value;
-                     const direction = state.sortDirection === 'asc' ? 'desc' : 'asc';
-                     sortRoms(property, direction);
-                 });
-         
-                 document.getElementById('core-filter').addEventListener('change', (event) => {
-                     const core = event.target.value;
-                     filterRomsByCore(core);
-                 });
-         
-                 document.getElementById('search').addEventListener('input', (event) => {
-                     const keyword = event.target.value;
-                     filterRomsBySearch(keyword);
-                 });
-             })
-             .catch(error => console.error('Error loading ROMs:', error));
-      </script>
-   </body>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>RetroGames</title>
+		<style>
+			* {
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+			}
+			body {
+			font-family: Arial, sans-serif;
+			background-color: #1c1c1c;
+			color: #fff;
+			}
+			.game-container {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			padding-top: 125px;
+			}
+			.game-container .game {
+			display: inline-block;
+			vertical-align: top;
+			margin: 10px;
+			margin-top: 10px;
+			width: 160px;
+			height: 300px;
+			border-radius: 5px;
+			box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+			background-color: #2c2c2c;
+			overflow: hidden;
+			transition: transform 0.2s ease-in-out;
+			text-align: left;
+			}
+			.game-container .game img {
+			width: 160px;
+			height: 225px;
+			margin-bottom: 1px;
+			border: 2px;
+			border-radius: 5px;
+			cursor: pointer;
+			transition: transform 0.3s ease;
+			}
+			.game-container .game img:hover {
+			transform: scale(1.05);
+			}
+			.game-container .game h2 {
+			margin-top: 10px;
+			margin-left: 10px;
+			margin-right: 10px;
+			font-size: 12px;
+			text-align: left;
+			overflow: hidden!important;
+			text-overflow: ellipsis;
+			white-space: nowrap!important;
+			}
+			.game-container .game p {
+			margin-top: 1px;
+			margin-left: 10px;
+			margin-right: 10px;
+			font-size: 10px;
+			text-align: justify;
+			hyphens: auto;
+			-webkit-hyphens: auto;
+			word-spacing: -0.05em;
+			color: #aaa;
+			}
+			header {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			background-color: #333; /* Choose your desired background color */
+			color: #fff; /* Choose your desired text color */
+			padding: 10px;
+			z-index: 1000; /* Ensure it's above other elements */
+			}
+			header h1 {
+			font-size: 18px;
+			margin: 0;
+			}
+			#core-controls,
+			#controls {
+			display: flex;
+			align-items: center;
+			margin-top: 10px;
+			}
+			#core-controls label,
+			#controls label {
+			margin-right: 10px;
+			}
+			#core-controls select,
+			#controls input[type="text"],
+			#controls select {
+			padding: 5px;
+			font-size: 12px;
+			border-radius: 5px;
+			border: none;
+			background-color: #333;
+			color: #fff;
+			width: 200px;
+			}
+			.totalgames {
+			padding: 5px;
+			font-size: 12px;
+			border-radius: 5px;
+			border: none;
+			background-color: #333;
+			color: #fff;
+			width: 190px;
+			}
+			.image-container {
+			position: relative;
+			display: inline-block;
+			height: 75%;
+			}
+			.rating-label {
+			position: absolute;
+			top: 3px;
+			right: 3px;
+			background-color: rgba(0, 0, 0, 0.7);
+			color: white;
+			padding: 5px;
+			border-radius: 5px;
+			font-size: 10px;
+			}
+		</style>
+	</head>
+	<body>
+		<header>
+			<h1>RetroGames . . .</h1>
+			<div id="controls">
+				<input type="text" id="search" placeholder="Enter a keyword">&nbsp;&nbsp;
+				<div class="totalgames" id="xtitle-count"></div>
+			</div>
+			<div id="core-controls">
+				<select id="core-filter">
+					<option value="all">All platforms</option>
+					<!-- Filter options will be dynamically generated here -->
+				</select>
+				&nbsp;&nbsp;
+				<select id="sort">
+					<option value="title">Title</option>
+					<option value="year">Year</option>
+					<option value="core">Platform</option>
+					<option value="players">Players</option>
+					<option value="rating">Rating</option>
+				</select>
+			</div>
+		</header>
+		<!-- Display container for games -->
+		<div class="game-container" id="game-container"></div>
+		<script>
+			// Function to fetch JSON data
+			async function fetchData(url) {
+			    try {
+			        const response = await fetch(url);
+			        if (!response.ok) {
+			            throw new Error('Network response was not ok');
+			        }
+			        return await response.json();
+			    } catch (error) {
+			        console.error('Error fetching data:', error);
+			    }
+			}
+			
+			// Function to sort games based on a property and direction
+			function sortGames(property, direction) {
+			    const gamesContainer = document.getElementById('game-container');
+			    const games = Array.from(gamesContainer.children);
+			
+			    games.sort((a, b) => {
+			        let valueA, valueB;
+			
+			        switch (property) {
+			            case 'title':
+			                valueA = a.querySelector('h2').textContent.toLowerCase();
+			                valueB = b.querySelector('h2').textContent.toLowerCase();
+			                break;
+			            case 'year':
+			                valueA = parseInt(a.querySelector('p').textContent.split(' ')[0]);
+			                valueB = parseInt(b.querySelector('p').textContent.split(' ')[0]);
+			                break;
+			            case 'platform':
+			                valueA = a.querySelector('p').textContent.split(' ')[1];
+			                valueB = b.querySelector('p').textContent.split(' ')[1];
+			                break;
+			            case 'rating':
+			                valueA = parseFloat(a.querySelector('.rating-label').textContent);
+			                valueB = parseFloat(b.querySelector('.rating-label').textContent);
+			                break;
+			            default:
+			                break;
+			        }
+			
+			        if (direction === 'asc') {
+			            return valueA > valueB ? 1 : -1;
+			        } else {
+			            return valueA < valueB ? 1 : -1;
+			        }
+			    });
+			
+			    games.forEach(game => {
+			        gamesContainer.appendChild(game);
+			    });
+			}
+			
+			// Function to filter games based on the selected platform
+			function filterGamesByCore(core) {
+			    const gamesContainer = document.getElementById('game-container');
+			    const games = Array.from(gamesContainer.children);
+			
+			    games.forEach(game => {
+			        const gameCore = game.dataset.core;
+			        if (core === 'all' || gameCore === core) {
+			            game.style.display = 'block';
+			        } else {
+			            game.style.display = 'none';
+			        }
+			    });
+			
+			    updateGameCount(); // Update the game count after filtering
+			}
+			
+			// Function to search games based on the entered keyword
+			function searchGames(keyword) {
+			    const gamesContainer = document.getElementById('game-container');
+			    const games = Array.from(gamesContainer.children);
+			
+			    games.forEach(game => {
+			        const title = game.querySelector('h2').textContent.toLowerCase();
+			        if (title.includes(keyword.toLowerCase())) {
+			            game.style.display = 'block';
+			        } else {
+			            game.style.display = 'none';
+			        }
+			    });
+			
+			    updateGameCount(); // Update the game count after searching
+			}
+			
+			// Function to load game in player.html
+			function loadGameInPlayer(game) {
+			    // Encode game data to pass as URL parameters
+			    const encodedGameData = encodeURIComponent(JSON.stringify(game));
+			    // Redirect to player.html with game data as URL parameter
+			    window.location.href = `player.html?game=${encodedGameData}`;
+			}
+			
+			// Function to update the game count
+			function updateGameCount() {
+			    const gamesContainer = document.getElementById('game-container');
+			    const displayedGames = Array.from(gamesContainer.children).filter(game => game.style.display !== 'none');
+			    document.getElementById('xtitle-count').textContent = `${displayedGames.length} Games`;
+			}
+			
+			// Fetch data and display games
+			async function init() {
+			    await displayGames();
+			
+			    // Populate the core filter options
+			    const games = await fetchData('games.json');
+			    const cores = [...new Set(games.map(game => game.xcore))];
+			    const coreFilter = document.getElementById('core-filter');
+			    cores.forEach(core => {
+			        const option = document.createElement('option');
+			        option.value = core;
+			        option.textContent = core;
+			        coreFilter.appendChild(option);
+			    });
+			
+			    // Add event listener for core filter change
+			    coreFilter.addEventListener('change', function() {
+			        const selectedCore = this.value;
+			        filterGamesByCore(selectedCore);
+			    });
+			
+			    // Add event listener for search input
+			    const searchInput = document.getElementById('search');
+			    searchInput.addEventListener('input', function() {
+			        const keyword = this.value;
+			        searchGames(keyword);
+			    });
+			
+			    // Add event listener for sorting
+			    const sortSelect = document.getElementById('sort');
+			    sortSelect.addEventListener('change', function() {
+			        const sortBy = this.value;
+			        const sortOrder = 'asc'; // or 'desc' if you want descending order
+			        sortGames(sortBy, sortOrder);
+			    });
+			}
+			
+			// Function to display game images and load game on click
+			async function displayGames() {
+    const games = await fetchData('games.json');
+    const gameContainer = document.getElementById('game-container');
+
+    games.forEach(game => {
+        // Create a container for each game
+        const gameDiv = document.createElement('div');
+        gameDiv.classList.add('game');
+        gameDiv.dataset.core = game.xcore; // Add xcore as a data attribute
+
+        // Create an image container
+        const imageContainer = document.createElement('div');
+        imageContainer.classList.add('image-container');
+
+        // Create an image element
+        const image = document.createElement('img');
+        // Use the game title as the image name
+        const imageName = game.xtitle.replace(/\s+/g, '%20'); // Replace spaces with %20
+
+        // Array of possible image extensions
+        const extensions = ['jpg', 'jpeg', 'png', 'gif'];
+
+        // Function to try loading the image with each extension
+        const loadImage = index => {
+            if (index >= extensions.length) {
+                // If all extensions have been tried, use the default image
+                image.src = 'covers/cover.png';
+                return;
+            }
+
+            image.src = `covers/${imageName}.${extensions[index]}`;
+            image.onerror = () => loadImage(index + 1); // If the image fails to load, try the next extension
+        };
+
+        loadImage(0); // Start trying to load the image with the first extension
+
+        // Modify event listener to load game in player.html
+        image.addEventListener('click', () => loadGameInPlayer(game));
+        imageContainer.appendChild(image);
+
+        // Create a rating label
+        const ratingLabel = document.createElement('div');
+        ratingLabel.classList.add('rating-label');
+        ratingLabel.textContent = `${game.rating}`;
+        imageContainer.appendChild(ratingLabel);
+
+        gameDiv.appendChild(imageContainer);
+
+        // Create a paragraph element for the title
+        const titlePara = document.createElement('h2');
+        titlePara.textContent = game.xtitle;
+        gameDiv.appendChild(titlePara);
+
+        // Create a paragraph element for additional information
+        const infoPara = document.createElement('p');
+        infoPara.textContent = `${game.year} ${game.platform} ${game.players}P ${game.genres}`;
+        gameDiv.appendChild(infoPara);
+
+        // Add the game container to the main container
+        gameContainer.appendChild(gameDiv);
+    });
+
+    updateGameCount(); // Update the game count after displaying games
+}
+			
+			// Initialize the application
+			init();
+			
+		</script>
+	</body>
 </html>
