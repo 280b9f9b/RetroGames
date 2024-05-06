@@ -27,9 +27,10 @@
 
             window.EJS_player = "#game-container"; // Set player to game container
             window.EJS_gameName = game.xtitle;
-            window.EJS_biosUrl = "";
-            window.EJS_gameUrl = game.xgameUrl;
+            window.EJS_biosUrl = `bios/`+game.xbiosUrl;
+            window.EJS_gameUrl = `roms/`+game.xgameUrl;
             window.EJS_core = game.xcore;
+            window.EJS_lightgun = game.xlightgun;
             window.EJS_pathtodata = "data/";
             window.EJS_startOnLoaded = true;
             window.EJS_DEBUG_XX = false;
