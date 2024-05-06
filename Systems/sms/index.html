@@ -1,9 +1,7 @@
 <html>
-   <head>
-      <meta charset="UTF-8">
-      <meta name="apple-mobile-web-app-capable" content="yes">
-      <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-      <link rel="apple-touch-icon" href="covers/icon.png">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>RetroGames</title>
 		<style>
 			* {
@@ -139,14 +137,13 @@
 			</div>
 			<div id="core-controls">
 				<select id="core-filter">
-					<option value="all">All platforms</option>
+					<option value="all">All Genres</option>
 					<!-- Filter options will be dynamically generated here -->
 				</select>
 				&nbsp;&nbsp;
 				<select id="sort">
 					<option value="title">Title</option>
 					<option value="year">Year</option>
-					<option value="core">Platform</option>
 					<option value="players">Players</option>
 					<option value="rating">Rating</option>
 				</select>
@@ -264,7 +261,7 @@
 			
 			    // Populate the core filter options
 			    const games = await fetchData('games.json');
-			    const cores = [...new Set(games.map(game => game.xcore))];
+			    const cores = [...new Set(games.map(game => game.genres))];
 			    const coreFilter = document.getElementById('core-filter');
 			    cores.forEach(core => {
 			        const option = document.createElement('option');
@@ -304,7 +301,7 @@
         // Create a container for each game
         const gameDiv = document.createElement('div');
         gameDiv.classList.add('game');
-        gameDiv.dataset.core = game.xcore; // Add xcore as a data attribute
+        gameDiv.dataset.core = game.genres; // Add genres as a data attribute
 
         // Create an image container
         const imageContainer = document.createElement('div');
