@@ -16,4 +16,21 @@
         ["Keep weapons after losing a life", "GXIIUX"]
       ]
     }
+      {
+      "xtitle": "Contra (USA)",
+      "platform": "Master System",
+      "year": 1986,
+      "rating": 8.1,
+      "genres": "Platformer, Action",
+      "players": 1,
+      "xcore": "nes",
+      "xlightgun": false,
+      "xbiosUrl": false,
+      "xgameUrl": "Contra (USA).7z",
+      "xcheats": [
+        ["Start with infinite lives", "SLAIUZ"],
+        ["Start with infinite lives", "SLAIUZ"],
+        ["Keep weapons after losing a life", "GXIIUX"]
+      ]
+    }
 ]
