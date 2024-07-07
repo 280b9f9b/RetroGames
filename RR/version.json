@@ -115,12 +115,14 @@
     "file": "Amazing Spider-Man, The - Web of Fire (USA).7z",
     "playerv": "player01",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
+["Hit Anywhere","ABST-EA4G+DKST-EACJ"],
+["Inf Energy","FFF387:0064"],
+["Inf Lives","FFF389:0009"],
+["Inf Web","FFF388:004B"],
+["Infinite Health And Infinite Lives","BBYT-EA5W"],
+["Infinite Health","FFF386:0064"],
+["Infinite Web And Infinite Lives","FFF388:6403"],
+["Infinite Web","BBYT-EA78"]
     ]
   },
   {
