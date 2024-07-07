@@ -138,12 +138,14 @@
     "file": "Basket Ball Nightmare (Europe).7z",
     "playerv": "player01",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
+      ["P1/CPU Has High Score", "00C0-32FF"],
+      ["P2/CPU's Team Never Scores", "00C0-3300"],
+      ["Round Number Modifier 0", "00C0-3400"],
+      ["Round Number Modifier 1", "00C0-3401"],
+      ["Round Number Modifier 2", "00C0-3402"],
+      ["Round Number Modifier 3", "00C0-3403"],
+      ["Round Number Modifier 4", "00C0-3404"],
+      ["Round Number Modifier 5", "00C0-3405"]
     ]
   },
   {
