@@ -1804,5 +1804,26 @@
       ["Start with infinite lives", "SLAIUZ"],
       ["Keep weapons after losing a life", "GXIIUX"]
     ]
+  },
+  {
+    "title": "Ys - The Vanished Omens (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/shinobi-eu-jp-us-1988-action-sega-master-system/Shinobi%20%28EU%2CUS%29%20%281988%29%20%28Action%29%20%28Sega%20Master%20System%29.zip",
+    "playerv": "player01",
+    "cheats": [
+      ["Start with infinite lives", "SLAIUZ"],
+      ["Start with infinite lives", "SLAIUZ"],
+      ["Start with infinite lives", "SLAIUZ"],
+      ["Start with infinite lives", "SLAIUZ"],
+      ["Start with infinite lives", "SLAIUZ"],
+      ["Keep weapons after losing a life", "GXIIUX"]
+    ]
   }
 ]
