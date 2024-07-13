@@ -1,6 +1,6 @@
 [{
     "title": "Alex Kidd in Miracle World (USA, Europe)",
-    "platform": "Sega Master System",
+    "platform": "Sega-Master-System",
     "year": 1986,
     "rating": 7.5,
     "genres": "Action, Platformer",
@@ -41,7 +41,7 @@
     ]
   },{
     "title": "Altered Beast (USA, Europe)",
-    "platform": "Sega Mega Drive",
+    "platform": "Sega-Mega-Drive",
     "year": 1988,
     "rating": 6.5,
     "genres": "Action, Beat ’em up",
@@ -104,7 +104,7 @@
   },
   {
     "title": "Amazing Spider-Man, The - Web of Fire (USA)",
-    "platform": "Sega 32X",
+    "platform": "Sega-32X",
     "year": 1996,
     "rating": 6.0,
     "genres": "Action, Platformer",
