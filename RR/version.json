@@ -1,6 +1,6 @@
 [{
     "title": "Alex Kidd in Miracle World (USA, Europe)",
-    "platform": "Master System",
+    "platform": "Sega Master System",
     "year": 1986,
     "rating": 7.5,
     "genres": "Action, Platformer",
@@ -41,7 +41,7 @@
     ]
   },{
     "title": "Altered Beast (USA, Europe)",
-    "platform": "Mega Drive",
+    "platform": "Sega Mega Drive",
     "year": 1988,
     "rating": 6.5,
     "genres": "Action, Beat ’em up",
@@ -127,7 +127,7 @@
   },
   {
     "title": "Basket Ball Nightmare (Europe)",
-    "platform": "Master System",
+    "platform": "Sega Master System",
     "year": 1989,
     "rating": 5.5,
     "genres": "Sports, Basketball",
@@ -150,7 +150,7 @@
   },
   {
     "title": "Beyond Oasis (USA)",
-    "platform": "Mega Drive",
+    "platform": "Sega Mega Drive",
     "year": 1994,
     "rating": 8.0,
     "genres": "Action RPG",
@@ -253,7 +253,7 @@
   },
   {
     "title": "Bomber Raid (World)",
-    "platform": "Master System",
+    "platform": "Sega Master System",
     "year": 1988,
     "rating": 7.0,
     "genres": "Shoot ’em up",
