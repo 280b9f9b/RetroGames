@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#000" />
+    <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- Dynamically set apple-touch-icon based on ximage -->
+    <link rel="apple-touch-icon" id="apple-touch-icon">
+    <link rel="icon" id="favicon" type="image/png">
+    <title></title>
+    <style>
+        body, html {
+            height: 100%;
+            background-color: black;
+            color: white;
+            overflow: hidden;
+            margin: 0;
+            font-family: monospace;
+            font-weight: bold;
+            font-size: 20px;
+        }
+
+        #game-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div id="game-container"></div>
+
+    <script>
+        // Function to parse URL parameters
+        function getUrlParameter(name) {
+            name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+            const regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+            const results = regex.exec(location.search);
+            return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+        }
+
+        // Function to load game using EmulatorJS
+        function loadGame(game) {
+            const gameContainer = document.getElementById('game-container');
+            gameContainer.innerHTML = ''; // Clear game container
+
+            window.EJS_player = "#game-container"; // Set player to game container
+            window.EJS_gameName = game.title;
+            window.EJS_biosUrl = game.biosUrl ? `bios/${game.biosUrl}` : "";
+            window.EJS_gameUrl = `roms/${game.file}`;
+            window.EJS_core = game.core;
+            window.EJS_lightgun = game.lightgun;
+            window.EJS_pathtodata = "dataV3.1.5/";
+            window.EJS_startOnLoaded = true;
+            window.EJS_DEBUG_XX = false;
+            window.EJS_disableDatabases = true;
+            window.EJS_threads = false;
+            window.EJS_cheats = game.cheats; // Pass cheats information
+
+            const script = document.createElement("script");
+            script.src = "dataV3.1.5/loader.js";
+            document.body.appendChild(script);
+
+            // Set the title of the document to the game title
+            document.title = game.title;
+
+            // Set the apple-touch-icon and icon based on the title
+            const imageName = `covers/${encodeURIComponent(game.title)}`;
+            const imageExtensions = ['png', 'PNG', 'jpg', 'JPG', 'jpeg', 'JPEG', 'gif', 'GIF'];
+            let imageUrl;
+
+            // Try to find the valid image URL
+            for (let ext of imageExtensions) {
+                const testUrl = `${imageName}.${ext}`;
+                const img = new Image();
+                img.onload = function() {
+                    if (img.width > 0) {
+                        imageUrl = testUrl;
+                        setIcons(imageUrl);
+                    }
+                };
+                img.src = testUrl;
+            }
+
+            // Fallback to a default image if none found
+            setTimeout(() => {
+                if (!imageUrl) {
+                    setIcons('default.png');
+                }
+            }, 1000); // Adjust timeout as needed
+        }
+
+        function setIcons(imageUrl) {
+            const appleTouchIcon = document.getElementById('apple-touch-icon');
+            const favicon = document.getElementById('favicon');
+            appleTouchIcon.href = imageUrl;
+            favicon.href = imageUrl;
+        }
+
+        // Function to load and run the game when the player.html page is loaded
+        function loadAndRunGame() {
+            const gameDataString = getUrlParameter('game');
+            if (!gameDataString) {
+                console.error('No game data found in URL parameter.');
+                return;
+            }
+
+            try {
+                const gameData = JSON.parse(decodeURIComponent(gameDataString));
+                loadGame(gameData);
+            } catch (error) {
+                console.error('Error parsing game data:', error);
+            }
+        }
+
+        // Load and run the game when the player.html page is loaded
+        loadAndRunGame();
+    </script>
+</body>
+</html>
