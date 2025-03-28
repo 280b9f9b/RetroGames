@@ -137,7 +137,7 @@ function loadImageWithFallback(image, imageName) {
 // Fetch data and display games
 async function init() {
     try {
-        const games = await fetchData('https://raw.githubusercontent.com/280b9f9b/RetroGames/main/RR/version.json');
+        const games = await fetchData('version.json');
         const gameContainer = document.getElementById('game-container');
 
         games.forEach(game => {
