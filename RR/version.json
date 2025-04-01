@@ -8,7 +8,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://github.com/280b9f9b/RetroGames/raw/refs/heads/main/2025/roms/Alex%20Kidd%20in%20Miracle%20World%20(USA,%20Europe).7z",
+    "file": "https://raw.githubusercontent.com/280b9f9b/RetroGames/refs/heads/main/2025/roms/Alex%20Kidd%20in%20Miracle%20World%20(USA,%20Europe).7z",
     "playerv": "player05",
     "cheats": [
 ["Final Level - Cragg Lake [Crown]","00C0-2311"],
