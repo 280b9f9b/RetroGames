@@ -2441,7 +2441,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://471.netlify.app/roms/river%20raid.7z",
-    "engine": "4.1.1",
+    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": [],
     "cover": ""
   },
