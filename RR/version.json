@@ -846,7 +846,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "chasehq.zip",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/4.2.2.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/0/0d/Chasehq_flyer.png"
   },
@@ -1021,7 +1021,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "ddragon.zip",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/4.2.2.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/e/e6/Ddragon_chirashi.jpg"
   },
@@ -1251,7 +1251,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "goldnaxe.zip",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/4.2.2.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Golden_Axe_Promo_Flyer.jpeg/250px-Golden_Axe_Promo_Flyer.jpeg"
   },
@@ -2546,7 +2546,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "sharrier.zip",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/4.2.2.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/2/21/SpaceHarrier_arcadeflyer.png"
   },
