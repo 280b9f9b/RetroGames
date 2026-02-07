@@ -1206,7 +1206,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/fotns/ffight.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.1.7z",
+    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": [],
     "cover": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/final_fight.jpg"
   },
@@ -1341,7 +1341,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/gunsur2_202304/ghouls.zip",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": [
       [
         "Start with infinite lives",
