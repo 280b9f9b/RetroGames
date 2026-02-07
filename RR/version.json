@@ -10,7 +10,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Alex%20Kidd%20in%20Miracle%20World%20%28USA%2C%20Europe%29.7z/Alex%20Kidd%20in%20Miracle%20World%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Final Level - Cragg Lake [Crown]",
@@ -390,7 +390,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Basket%20Ball%20Nightmare%20%28Europe%29.7z/Basket%20Ball%20Nightmare%20%28Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "P1/CPU Has High Score",
@@ -425,7 +425,7 @@
         "00C0-3405"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/8/8e/BasketballNightmareTitleScreenSMS.PNG"
   },
   {
     "title": "Beyond Oasis (USA)",
@@ -806,7 +806,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Bomber%20Raid%20%28World%29.7z/Bomber%20Raid%20%28World%29.sms",
-    "engine": "4.0.12",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -833,7 +833,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLLr5cK1YRB1Bra1My48ISjB1qnTkYht5rYA&s"
   },
   {
     "title": "CHASE H.Q.",
@@ -1126,7 +1126,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Enduro%20Racer%20%28USA%2C%20Europe%29.7z/Enduro%20Racer%20%28USA%2C%20Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -1153,7 +1153,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAnYb2JTE9XvvX5Qnudo74RERa6w4dtG_OwA&s"
   },
   {
     "title": "Excitebike (Japan, USA)",
@@ -1446,7 +1446,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Golden%20Axe%20%28USA%2C%20Europe%29.7z/Golden%20Axe%20%28USA%2C%20Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -1473,7 +1473,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://www.smspower.org/uploads/Scans/GoldenAxe-SMS-US-medium.jpg"
   },
   {
     "title": "Golden Axe Warrior (USA, Europe)",
@@ -1486,7 +1486,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Golden%20Axe%20Warrior%20%28USA%2C%20Europe%29.7z/Golden%20Axe%20Warrior%20%28USA%2C%20Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -1513,7 +1513,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://www.smspower.org/uploads/Scans/GoldenAxeWarrior-SMS-EU-medium.jpg"
   },
   {
     "title": "Herzog Zwei (USA, Europe)",
@@ -1646,7 +1646,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Kenseiden%20%28USA%2C%20Europe%29.7z/Kenseiden%20%28USA%2C%20Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -1673,7 +1673,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/7/71/Kenseiden_Coverart.png"
   },
   {
     "title": "Kung Fu (Japan, USA)",
@@ -2126,7 +2126,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Ninja%20Gaiden%20%28Europe%29%20%28Beta%29.7z/Ninja%20Gaiden%20%28Europe%29%20%28Beta%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -2153,7 +2153,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://www.retrostic.com/img/covers/ninja-gaiden-europe-beta-big.jpg"
   },
   {
     "title": "Ninja, The (USA, Europe)",
@@ -2166,7 +2166,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Ninja%2C%20The%20%28USA%2C%20Europe%29.7z/Ninja%2C%20The%20%28USA%2C%20Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -2193,7 +2193,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://theexchange.com/cdn/shop/products/Ninja_The_USA_Europe_c1bd630c-9a3b-409a-9be7-dc8810c868eb.png?v=1613929222&width=540"
   },
   {
     "title": "OUTRUNNERS",
@@ -2326,7 +2326,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Psycho%20Fox%20%28USA%2C%20Europe%29.7z/Psycho%20Fox%20%28USA%2C%20Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -2353,7 +2353,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/1/1b/PsychoFoxUSBoxShotSMS.jpg"
   },
   {
     "title": "R-Type (World)",
@@ -2366,7 +2366,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/R-Type%20%28World%29.7z/R-Type%20%28World%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -2393,7 +2393,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://www.smspower.org/uploads/Scans/RType-SMS-EU-R-medium.jpg"
   },
   {
     "title": "RASTAN",
@@ -2726,7 +2726,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Scramble%20Spirits%20%28Europe%29.7z/Scramble%20Spirits%20%28Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -2753,7 +2753,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://www.smspower.org/uploads/Scans/ScrambleSpirits-SMS-EU-NoR-medium.jpg"
   },
   {
     "title": "Secret Command (Europe)",
@@ -2766,7 +2766,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Secret%20Command%20%28Europe%29.7z/Secret%20Command%20%28Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -2793,7 +2793,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://www.retrostic.com/img/covers/secret-command-europe-big.jpg"
   },
   {
     "title": "Shinobi (USA, Europe)",
@@ -2806,7 +2806,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Shinobi%20%28USA%2C%20Europe%29.7z/Shinobi%20%28USA%2C%20Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -2833,7 +2833,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://theexchange.com/cdn/shop/products/Shinobi_USA_Europe_cd2926bd-d125-4bdc-a327-4f61810f2e81.png?v=1614078244&width=540"
   },
   {
     "title": "Shinobi III - Return of the Ninja Master (USA)",
@@ -2886,7 +2886,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.7z/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -2913,7 +2913,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://www.retrostic.com/img/covers/smurfs-the-europe-en-fr-de-es-it-big.jpg"
   },
   {
     "title": "Sonic CD (USA)",
@@ -2966,7 +2966,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.7z/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -2993,7 +2993,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4ndeQ2JnzDejv5mCwV1XOLNafNjh3fx-Wg&s"
   },
   {
     "title": "Sonic The Hedgehog 3 (USA)",
@@ -3046,7 +3046,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/SpellCaster%20%28USA%2C%20Europe%29.7z/SpellCaster%20%28USA%2C%20Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -3073,7 +3073,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://www.smspower.org/uploads/Scans/SpellCaster-SMS-EU-medium.jpg"
   },
   {
     "title": "Street Fighter II - Special Champion Edition (USA)",
@@ -3526,7 +3526,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Wonder%20Boy%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20%28USA%2C%20Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -3553,7 +3553,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://www.retrostic.com/img/covers/wonder-boy-usa-europe-big.jpg"
   },
   {
     "title": "Wonder Boy",
@@ -3606,7 +3606,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Wonder%20Boy%20III%20-%20The%20Dragons%20Trap%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20III%20-%20The%20Dragon%27s%20Trap%20%28USA%2C%20Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -3633,7 +3633,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Wonder_Boy_III_-_The_Dragon%27s_Trap_boxart.jpg/250px-Wonder_Boy_III_-_The_Dragon%27s_Trap_boxart.jpg"
   },
   {
     "title": "Wonder Boy in Monster Land (USA, Europe)",
@@ -3646,7 +3646,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -3673,7 +3673,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/7/71/Monster_Land_for_the_Master_System_cover_artwork.jpg"
   },
   {
     "title": "Wonder Boy in Monster World (Europe)",
@@ -3686,7 +3686,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Wonder%20Boy%20in%20Monster%20World%20%28Europe%29.7z/Wonder%20Boy%20in%20Monster%20World%20%28Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -3713,7 +3713,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://www.gamecash.fr/thumbnail-400-450/wonder-boy-in-monster-world-e122319.jpg"
   },
   {
     "title": "Ys - The Vanished Omens (USA, Europe)",
@@ -3726,7 +3726,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/segaMS/Ys%20-%20The%20Vanished%20Omens%20%28USA%2C%20Europe%29.7z/Ys%20-%20The%20Vanished%20Omens%20%28USA%2C%20Europe%29.sms",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -3753,6 +3753,6 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmK6kQaPTLrWsCxOfuJy__Y0Ql1QcUUFpzxQ&s"
   }
 ]
