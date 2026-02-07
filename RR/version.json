@@ -1205,35 +1205,10 @@
     "core": "arcade",
     "lightgun": false,
     "biosUrl": false,
-    "file": "ffight.zip",
+    "file": "https://archive.org/download/fotns/ffight.zip",
     "engine": "4.2.3",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": ""
+    "cheats": [],
+    "cover": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/final_fight.jpg"
   },
   {
     "title": "Flashback - The Quest for Identity (USA) (Alt 1)",
