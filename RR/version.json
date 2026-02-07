@@ -845,7 +845,7 @@
     "core": "mame2003",
     "lightgun": false,
     "biosUrl": false,
-    "file": "chasehq.zip",
+    "file": "https://archive.org/download/cobra_202304/chasehq.zip",
     "engine": "https://emulatorjs.netlify.app/4.2.2.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/0/0d/Chasehq_flyer.png"
