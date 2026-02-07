@@ -1211,7 +1211,7 @@
     "lightgun": false,
     "biosUrl": "https://471.netlify.app/bios/3do/goldstar.bin",
     "file": "https://471.netlify.app/roms/foes%20of%20ali%20%281995%29%20%28electronic%20arts%29%20%28us%29.7z",
-    "engine": "4.2.0",
+    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": [],
     "cover": ""
   },
@@ -2440,9 +2440,34 @@
     "core": "atari2600",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://471.netlify.app/roms/river%20raid.7z",
-    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
-    "cheats": [],
+    "file": "River Raid.7z",
+    "engine": "4.1.1",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
     "cover": ""
   },
   {
