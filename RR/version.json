@@ -1,4 +1,5 @@
-[{
+[
+  {
     "title": "Alex Kidd in Miracle World (USA, Europe)",
     "platform": "Sega Master System",
     "year": 1986,
@@ -8,38 +9,121 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://raw.githubusercontent.com/280b9f9b/RetroGames/refs/heads/main/2025/roms/Alex%20Kidd%20in%20Miracle%20World%20(USA,%20Europe).7z",
-    "playerv": "player05",
+    "file": "https://archive.org/download/segaMS/Alex%20Kidd%20in%20Miracle%20World%20%28USA%2C%20Europe%29.7z/Alex%20Kidd%20in%20Miracle%20World%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [
-["Final Level - Cragg Lake [Crown]","00C0-2311"],
-["Have Cane of Flight","00C0-4901"],
-["Have Hirotta Stone","00C0-4E01"],
-["Have Letter To Nibana","00C0-4C01"],
-["Have Magic Capsule A [Attack]","00C0-4601"],
-["Have Magic Capsule B [Barrier]","00C0-4701"],
-["Have Moonstone Medallion","00C0-4B01"],
-["Have Power Bracelet","00C0-4D01"],
-["Have Telepathy Ball","00C0-4801"],
-["Have Teleport Powder","00C0-4A01"],
-["Hit Anywhere","FFD-588-915"],
-["Infinite Lives","00C0-2502"],
-["Infinite Lives","7EC-289-3B7"],
-["Infinite Money","004-7EF-4C6"],
-["Infinite Money","00C0-30CC"],
-["Invincibility (after dying) (blinking)","2A6-5FD-6E2"],
-["Invincibility against Enemies","C9D-BD8-19D"],
-["Jump Height Modifier","FDD-2FD-191"],
-["Jump Height Modifier","FDD-2FD-191"],
-["Level 16 - Janken's Castle [Janken The Great]","00C0-2310"],
-["Start every level (after level 1) with Motorcycle","3E9-DDD-6EA+079-DED-4C3+329-DFD-082"],
-["Start every level (after level 1) with Peticopter","3E9-DDD-6EA+099-DED-4C3+329-DFD-082"],
-["Start Level With Motor Bike","00C0-5407"],
-["Start Level With Speed Boat","00C0-5101"],
-["Start with Motorcycle after dying","07D-499-E62"],
-["Start with Peticopter after dying","09D-499-E62"],
-["Start with Peticopter","00C0-5409"]
-    ]
-  },{
+      [
+        "Final Level - Cragg Lake [Crown]",
+        "00C0-2311"
+      ],
+      [
+        "Have Cane of Flight",
+        "00C0-4901"
+      ],
+      [
+        "Have Hirotta Stone",
+        "00C0-4E01"
+      ],
+      [
+        "Have Letter To Nibana",
+        "00C0-4C01"
+      ],
+      [
+        "Have Magic Capsule A [Attack]",
+        "00C0-4601"
+      ],
+      [
+        "Have Magic Capsule B [Barrier]",
+        "00C0-4701"
+      ],
+      [
+        "Have Moonstone Medallion",
+        "00C0-4B01"
+      ],
+      [
+        "Have Power Bracelet",
+        "00C0-4D01"
+      ],
+      [
+        "Have Telepathy Ball",
+        "00C0-4801"
+      ],
+      [
+        "Have Teleport Powder",
+        "00C0-4A01"
+      ],
+      [
+        "Hit Anywhere",
+        "FFD-588-915"
+      ],
+      [
+        "Infinite Lives",
+        "00C0-2502"
+      ],
+      [
+        "Infinite Lives",
+        "7EC-289-3B7"
+      ],
+      [
+        "Infinite Money",
+        "004-7EF-4C6"
+      ],
+      [
+        "Infinite Money",
+        "00C0-30CC"
+      ],
+      [
+        "Invincibility (after dying) (blinking)",
+        "2A6-5FD-6E2"
+      ],
+      [
+        "Invincibility against Enemies",
+        "C9D-BD8-19D"
+      ],
+      [
+        "Jump Height Modifier",
+        "FDD-2FD-191"
+      ],
+      [
+        "Jump Height Modifier",
+        "FDD-2FD-191"
+      ],
+      [
+        "Level 16 - Janken's Castle [Janken The Great]",
+        "00C0-2310"
+      ],
+      [
+        "Start every level (after level 1) with Motorcycle",
+        "3E9-DDD-6EA+079-DED-4C3+329-DFD-082"
+      ],
+      [
+        "Start every level (after level 1) with Peticopter",
+        "3E9-DDD-6EA+099-DED-4C3+329-DFD-082"
+      ],
+      [
+        "Start Level With Motor Bike",
+        "00C0-5407"
+      ],
+      [
+        "Start Level With Speed Boat",
+        "00C0-5101"
+      ],
+      [
+        "Start with Motorcycle after dying",
+        "07D-499-E62"
+      ],
+      [
+        "Start with Peticopter after dying",
+        "09D-499-E62"
+      ],
+      [
+        "Start with Peticopter",
+        "00C0-5409"
+      ]
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/ae/AlexKiddInMiracleWorldBox.jpg"
+  },
+  {
     "title": "Altered Beast (USA, Europe)",
     "platform": "Sega Mega Drive",
     "year": 1988,
@@ -49,81 +133,251 @@
     "core": "segaMD",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Altered Beast (USA, Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/nointro.md/Altered%20Beast%20%28USA%2C%20Europe%29%20%28Rev%202%29.7z/Altered%20Beast%20%28USA%2C%20Europe%29%20%28Rev%202%29.md",
+    "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [
-["1 Hit Kill Boss Neff","A2WT-AA3R"],
-["1 Hit Kill Boss Neff","FFE365:0000"],
-["Almost Invulnerable","H20A-AA42"],
-["Always flash","AA0A-AA3C"],
-["Cannot Be Hurt","AJWA-APGR"],
-["Can't be hurt","AEWA-AAN8"],
-["Can't be hurt","D6WA-AAGT"],
-["Fast Movement (Glitchy Character)","ABBT-AAZT"],
-["First spirit ball transforms you into an Altered Beast","PA5T-BNT2"],
-["Get hurt and you flash for a sec","RE1A-AATE"],
-["Get hurt to change and flash for a sec","SE1A-AATE"],
-["Hard mode","MBGA-AAYR"],
-["Infinite Energy","AJWA-AA8Y"],
-["Infinite Energy","FFCF10:0C00"],
-["Infinite Health (Player 1)","FFCF10:000C"],
-["Infinite Health (Player 2)","FFCF50:007F"],
-["Infinite Lives (Player 1)","FFB120:0003"],
-["Infinite Lives (Player 2)","FFB126:0003"],
-["Infinite Lives","AJ1T-AA5L"],
-["Infinite Lives","FFB120:030C"],
-["Infinite lives","FT1T-AA5L"],
-["Invincibility (Can Lose Health But Cannot Be Touched)","H20A-AA42"],
-["Invincibility (Player 1)","FFD034:0080"],
-["Invincibility (Player 2)","FFD074:0080"],
-["Invincibility","FFCF03:0000"],
-["Invincibility","FFD002:0002"],
-["Invincibility","RYWA-A6V8"],
-["Invincible","ATWT-A07G"],
-["Makes Aggar easier to defeat","AEFA-AABW"],
-["Makes Crocodile Worm easier to defeat","AYMT-AAHN"],
-["Makes most enemies easier to defeat","HTWT-B6KG"],
-["Makes Neff easier to defeat","A2TA-AAGC"],
-["MASTER CODE--MUST BE ENTERED","DCXA-AA22"],
-["Most Altered Beast attacks are more powerful against bosses.","AA9A-ALPG"],
-["Most Altered Beast punches are more powerful against bosses","AA9A-ALN8"],
-["One hit kill for enemys","AVVA-AAEG"],
-["Protection against enemy hits (no power lost from power gauge)","ATWA-AA8R"],
-["Push Down And The B Button To Transform","MA5A-AAFT"],
-["Set Power Up Modifier (Player 1)","FFD02A:0000"],
-["Set Power Up Modifier (Player 2)","FFD06A:0000"],
-["Skip Opening Credit Screens","AC7A-AA9R"],
-["Stage Select","FFFE14:0000"],
-["Start with 1 life","BWXA-ACCT"],
-["Start with 5 lives","BWXA-ALCT"],
-["Transform In Beast Right Now","DT2T-AN5W"],
-["Untouchable (Alternate) ","RYWA-A6TW+RYVT-A60G"],
-["Untouchable","9AWA-APPC+KAWA-AEAA"],
-["You Die One Time","AJWA-AAGT"]
-    ]
+      [
+        "1 Hit Kill Boss Neff",
+        "A2WT-AA3R"
+      ],
+      [
+        "1 Hit Kill Boss Neff",
+        "FFE365:0000"
+      ],
+      [
+        "Almost Invulnerable",
+        "H20A-AA42"
+      ],
+      [
+        "Always flash",
+        "AA0A-AA3C"
+      ],
+      [
+        "Cannot Be Hurt",
+        "AJWA-APGR"
+      ],
+      [
+        "Can't be hurt",
+        "AEWA-AAN8"
+      ],
+      [
+        "Can't be hurt",
+        "D6WA-AAGT"
+      ],
+      [
+        "Fast Movement (Glitchy Character)",
+        "ABBT-AAZT"
+      ],
+      [
+        "First spirit ball transforms you into an Altered Beast",
+        "PA5T-BNT2"
+      ],
+      [
+        "Get hurt and you flash for a sec",
+        "RE1A-AATE"
+      ],
+      [
+        "Get hurt to change and flash for a sec",
+        "SE1A-AATE"
+      ],
+      [
+        "Hard mode",
+        "MBGA-AAYR"
+      ],
+      [
+        "Infinite Energy",
+        "AJWA-AA8Y"
+      ],
+      [
+        "Infinite Energy",
+        "FFCF10:0C00"
+      ],
+      [
+        "Infinite Health (Player 1)",
+        "FFCF10:000C"
+      ],
+      [
+        "Infinite Health (Player 2)",
+        "FFCF50:007F"
+      ],
+      [
+        "Infinite Lives (Player 1)",
+        "FFB120:0003"
+      ],
+      [
+        "Infinite Lives (Player 2)",
+        "FFB126:0003"
+      ],
+      [
+        "Infinite Lives",
+        "AJ1T-AA5L"
+      ],
+      [
+        "Infinite Lives",
+        "FFB120:030C"
+      ],
+      [
+        "Infinite lives",
+        "FT1T-AA5L"
+      ],
+      [
+        "Invincibility (Can Lose Health But Cannot Be Touched)",
+        "H20A-AA42"
+      ],
+      [
+        "Invincibility (Player 1)",
+        "FFD034:0080"
+      ],
+      [
+        "Invincibility (Player 2)",
+        "FFD074:0080"
+      ],
+      [
+        "Invincibility",
+        "FFCF03:0000"
+      ],
+      [
+        "Invincibility",
+        "FFD002:0002"
+      ],
+      [
+        "Invincibility",
+        "RYWA-A6V8"
+      ],
+      [
+        "Invincible",
+        "ATWT-A07G"
+      ],
+      [
+        "Makes Aggar easier to defeat",
+        "AEFA-AABW"
+      ],
+      [
+        "Makes Crocodile Worm easier to defeat",
+        "AYMT-AAHN"
+      ],
+      [
+        "Makes most enemies easier to defeat",
+        "HTWT-B6KG"
+      ],
+      [
+        "Makes Neff easier to defeat",
+        "A2TA-AAGC"
+      ],
+      [
+        "MASTER CODE--MUST BE ENTERED",
+        "DCXA-AA22"
+      ],
+      [
+        "Most Altered Beast attacks are more powerful against bosses.",
+        "AA9A-ALPG"
+      ],
+      [
+        "Most Altered Beast punches are more powerful against bosses",
+        "AA9A-ALN8"
+      ],
+      [
+        "One hit kill for enemys",
+        "AVVA-AAEG"
+      ],
+      [
+        "Protection against enemy hits (no power lost from power gauge)",
+        "ATWA-AA8R"
+      ],
+      [
+        "Push Down And The B Button To Transform",
+        "MA5A-AAFT"
+      ],
+      [
+        "Set Power Up Modifier (Player 1)",
+        "FFD02A:0000"
+      ],
+      [
+        "Set Power Up Modifier (Player 2)",
+        "FFD06A:0000"
+      ],
+      [
+        "Skip Opening Credit Screens",
+        "AC7A-AA9R"
+      ],
+      [
+        "Stage Select",
+        "FFFE14:0000"
+      ],
+      [
+        "Start with 1 life",
+        "BWXA-ACCT"
+      ],
+      [
+        "Start with 5 lives",
+        "BWXA-ALCT"
+      ],
+      [
+        "Transform In Beast Right Now",
+        "DT2T-AN5W"
+      ],
+      [
+        "Untouchable (Alternate) ",
+        "RYWA-A6TW+RYVT-A60G"
+      ],
+      [
+        "Untouchable",
+        "9AWA-APPC+KAWA-AEAA"
+      ],
+      [
+        "You Die One Time",
+        "AJWA-AAGT"
+      ]
+    ],
+    "cover": "https://uk.static.webuy.com/product_images/Gaming/Mega%20Drive%20Software/4974365611002B_l.jpg"
   },
   {
     "title": "Amazing Spider-Man, The - Web of Fire (USA)",
     "platform": "Sega 32X",
     "year": 1996,
-    "rating": 6.0,
+    "rating": 6,
     "genres": "Action, Platformer",
     "players": 1,
     "core": "sega32x",
     "lightgun": false,
     "biosUrl": false,
     "file": "Amazing Spider-Man, The - Web of Fire (USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-["Hit Anywhere","ABST-EA4G+DKST-EACJ"],
-["Inf Energy","FFF387:0064"],
-["Inf Lives","FFF389:0009"],
-["Inf Web","FFF388:004B"],
-["Infinite Health And Infinite Lives","BBYT-EA5W"],
-["Infinite Health","FFF386:0064"],
-["Infinite Web And Infinite Lives","FFF388:6403"],
-["Infinite Web","BBYT-EA78"]
-    ]
+      [
+        "Hit Anywhere",
+        "ABST-EA4G+DKST-EACJ"
+      ],
+      [
+        "Inf Energy",
+        "FFF387:0064"
+      ],
+      [
+        "Inf Lives",
+        "FFF389:0009"
+      ],
+      [
+        "Inf Web",
+        "FFF388:004B"
+      ],
+      [
+        "Infinite Health And Infinite Lives",
+        "BBYT-EA5W"
+      ],
+      [
+        "Infinite Health",
+        "FFF386:0064"
+      ],
+      [
+        "Infinite Web And Infinite Lives",
+        "FFF388:6403"
+      ],
+      [
+        "Infinite Web",
+        "BBYT-EA78"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Basket Ball Nightmare (Europe)",
@@ -135,142 +389,451 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Basket Ball Nightmare (Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Basket%20Ball%20Nightmare%20%28Europe%29.7z/Basket%20Ball%20Nightmare%20%28Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["P1/CPU Has High Score", "00C0-32FF"],
-      ["P2/CPU's Team Never Scores", "00C0-3300"],
-      ["Round Number Modifier 0", "00C0-3400"],
-      ["Round Number Modifier 1", "00C0-3401"],
-      ["Round Number Modifier 2", "00C0-3402"],
-      ["Round Number Modifier 3", "00C0-3403"],
-      ["Round Number Modifier 4", "00C0-3404"],
-      ["Round Number Modifier 5", "00C0-3405"]
-    ]
+      [
+        "P1/CPU Has High Score",
+        "00C0-32FF"
+      ],
+      [
+        "P2/CPU's Team Never Scores",
+        "00C0-3300"
+      ],
+      [
+        "Round Number Modifier 0",
+        "00C0-3400"
+      ],
+      [
+        "Round Number Modifier 1",
+        "00C0-3401"
+      ],
+      [
+        "Round Number Modifier 2",
+        "00C0-3402"
+      ],
+      [
+        "Round Number Modifier 3",
+        "00C0-3403"
+      ],
+      [
+        "Round Number Modifier 4",
+        "00C0-3404"
+      ],
+      [
+        "Round Number Modifier 5",
+        "00C0-3405"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Beyond Oasis (USA)",
     "platform": "Sega Mega Drive",
     "year": 1994,
-    "rating": 8.0,
+    "rating": 8,
     "genres": "Action RPG",
     "players": 1,
     "core": "segaMD",
     "lightgun": false,
     "biosUrl": false,
     "file": "Beyond Oasis (USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-["&quot;Service Pack&quot; for Walking on Air codes","ABWA-AA9T"],
-["1 Hit Kill Bosses","PBWA-CEXE"],
-["1 Hit Kill Enemies ","PC2T-CEXE+PAWA-EEWN+PCWT-CEZJ"],
-["15 black gems","FF0DB8:000F"],
-["15 blue gems","FF0DB6:000F"],
-["15 green gems","FF0DB8:000F"],
-["15 red gems","FF0DB6:000F"],
-["Ali Can Attack While in Meditation Mode","FF1985:0000"],
-["Ali in Meditation Mode","FF1AA9:000C"],
-["Allways Can Use Health Restoring Items","H3KA-AAF8"],
-["Allways Can Use SP Restoring Items","FKKA-AAGW"],
-["Allways Have Rank 999 Damage","HW8T-BELL+HW8T-AGCN"],
-["Almost Invincible","83NA-AA2G"],
-["Always have Blue key","FF0DB2:0001"],
-["Always have gold key","FF0DB4:0001"],
-["Always have green key","FF0DB4:0001"],
-["Always have red key","FF0DB2:0001"],
-["Disable Active Zones: (Turns off waterfalls, etc.)","ALFT-AA4W"],
-["Don't lose SP on 'Hold A' Spirit moves","REPT-C6YA"],
-["Don't lose SP on 'Tap A' Spirit moves","REPT-C6VR"],
-["Each Kill Worth 8","SH5T-BAX0"],
-["Game thinks It's In Demo Mode","FF1996:0001"],
-["Health Bar stays full","FF1A72:00DE"],
-["Infiniite Special Weapon","ALCT-AA5L"],
-["Infinite Energy","AKNA-AA6G+JCZT-CAG4"],
-["Infinite H.P - Story of Thor, The (Japan) (Beta) [b]","AJZA-AA2Y"],
-["Infinite H.P - Story of Thor, The (Japan) (Beta) [b]","FF1C90:00C8"],
-["Infinite H.P","AKNA-AA6G+AWZT-CA88+AXGT-CA36+AKYT-AA5G+AJFA-EA6N"],
-["Infinite Health","FF17A0:00FF+FF17A2:00FF"],
-["Infinite Health","FF17A2:00FF+FF17A4:00FF"],
-["Infinite Hp","FF1A72:03E7"],
-["Infinite Items","AKEA-AA42+AKEA-AA9A"],
-["Infinite Keys ","RFWA-A6ZL+RHEA-A61G+RHEA-A61E"],
-["Infinite Magic","FF17A4:00FF+FF17A6:00FF"],
-["Infinite Magic","FF17A6:00FF+FF17A8:00FF"],
-["Infinite S.P","AJPT-CA6C+AJPT-CA32+AJWT-CA6E+AJ1T-CA5C+AJ1T-CA72+AJ6A-CA7T+AXJA-CA28"],
-["Infinite Sp","FF1A76:03E7"],
-["Infinite weapon uses, Slot 1","FF0D80:00FF"],
-["Infinite weapon uses, Slot 2","FF0D82:00FF"],
-["Infinite weapons aren't infinite","ALCT-AA5E"],
-["Invincible","MXFT-AAF4"],
-["ITEMS DIGITS",""],
-["Items, Slot 1",""],
-["Items, Slot 2",""],
-["Jump on Air","ABSA-AA6L"],
-["Level Select","FF0D7A:0080"],
-["Master Code","AABT-AA7R"],
-["Max Hp","FF1A70:03E7"],
-["Max Kills","FF1A7C:FFFF"],
-["Max Rank","FF1A7E:03E7"],
-["Max Sp","FF1A74:03E7"],
-["Ogres can't grab Ali","ACXT-CA6T"],
-["Open blue door without a key","RFWA-A6TY"],
-["Open green door without a key","RFWA-A6VE"],
-["Open red door without a key","RFWA-A6TE"],
-["Open yellow door without a key","RFWA-A6VY"],
-["Platforms in Secret Cliffs don't disappear","FF2E9A:0056+FF2E40:0056+FF2DE6:0056+FF2EF4:0056"],
-["Play Time Is Allways 0","SGFA-AYZ8"],
-["Protection from most attacks","RFNA-A6YE"],
-["Sp Bar Fills 8x Faster","JBMT-BAZN"],
-["SP doesn't decrease","REPT-C6XL"],
-["Spirit power bar stays full","FF1A76:00D6"],
-["Start Game with 100 Rank","NTLA-AAAR"],
-["Start Game with 250 HP","9JKT-AAH4+9JLA-AAAA"],
-["Start Game with 500 HP","8TKT-ACH4+8TLA-ACAA"],
-["Start Game with 500 Rank","8TLA-ACAR"],
-["Start Game with Hyper Bomb","96KT-A0GT"],
-["Start Game with Metal Bow","96KT-ATGT"],
-["Start Game with Omega Sword","96KT-ALGT"],
-["Start with rank of 500","8TLA-ACAR"],
-["Untouchable (Regular Hits)","AW8T-AAHT"],
-["Use MODE to cancel Spirit","NCFT-BNFT+BCFT-AAF0"],
-["Very high rank","FF1A7E:01F4"],
-["Walk Through Walls (Alternate)","R0LA-A6WT+R0LT-A6Y4+R0MA-A6XJ"],
-["Walking on Air (Alternate)","ABPA-AA58"],
-["Walking on Air","AGRA-BT3L"],
-["Walking on the air","AGRA-BT3L+ABPA-AA58"],
-["Walking through the bottom wall","M4KA-AA4A"],
-["Walking through the left wall","M4JT-AA44"],
-["Walking through the right wall","M4JA-AA72"],
-["Walking through the upper wall","M4KA-AA9C"],
-["Walking through walls","ACRA-BY3N"],
-["Weapon turns infinite after use:(Don't use with below code)","98CT-BE5J"],
-["Weapons are infinite","RGCT-A6XJ"],
-["WEAPONS DIGITS",""],
-["Weapons, Slot 1",""],
-["Weapons, Slot 2","FF0D82:0000"],
-["Worms can't grab Ali","AADT-EA30"]
-    ]
+      [
+        "&quot;Service Pack&quot; for Walking on Air codes",
+        "ABWA-AA9T"
+      ],
+      [
+        "1 Hit Kill Bosses",
+        "PBWA-CEXE"
+      ],
+      [
+        "1 Hit Kill Enemies ",
+        "PC2T-CEXE+PAWA-EEWN+PCWT-CEZJ"
+      ],
+      [
+        "15 black gems",
+        "FF0DB8:000F"
+      ],
+      [
+        "15 blue gems",
+        "FF0DB6:000F"
+      ],
+      [
+        "15 green gems",
+        "FF0DB8:000F"
+      ],
+      [
+        "15 red gems",
+        "FF0DB6:000F"
+      ],
+      [
+        "Ali Can Attack While in Meditation Mode",
+        "FF1985:0000"
+      ],
+      [
+        "Ali in Meditation Mode",
+        "FF1AA9:000C"
+      ],
+      [
+        "Allways Can Use Health Restoring Items",
+        "H3KA-AAF8"
+      ],
+      [
+        "Allways Can Use SP Restoring Items",
+        "FKKA-AAGW"
+      ],
+      [
+        "Allways Have Rank 999 Damage",
+        "HW8T-BELL+HW8T-AGCN"
+      ],
+      [
+        "Almost Invincible",
+        "83NA-AA2G"
+      ],
+      [
+        "Always have Blue key",
+        "FF0DB2:0001"
+      ],
+      [
+        "Always have gold key",
+        "FF0DB4:0001"
+      ],
+      [
+        "Always have green key",
+        "FF0DB4:0001"
+      ],
+      [
+        "Always have red key",
+        "FF0DB2:0001"
+      ],
+      [
+        "Disable Active Zones: (Turns off waterfalls, etc.)",
+        "ALFT-AA4W"
+      ],
+      [
+        "Don't lose SP on 'Hold A' Spirit moves",
+        "REPT-C6YA"
+      ],
+      [
+        "Don't lose SP on 'Tap A' Spirit moves",
+        "REPT-C6VR"
+      ],
+      [
+        "Each Kill Worth 8",
+        "SH5T-BAX0"
+      ],
+      [
+        "Game thinks It's In Demo Mode",
+        "FF1996:0001"
+      ],
+      [
+        "Health Bar stays full",
+        "FF1A72:00DE"
+      ],
+      [
+        "Infiniite Special Weapon",
+        "ALCT-AA5L"
+      ],
+      [
+        "Infinite Energy",
+        "AKNA-AA6G+JCZT-CAG4"
+      ],
+      [
+        "Infinite H.P - Story of Thor, The (Japan) (Beta) [b]",
+        "AJZA-AA2Y"
+      ],
+      [
+        "Infinite H.P - Story of Thor, The (Japan) (Beta) [b]",
+        "FF1C90:00C8"
+      ],
+      [
+        "Infinite H.P",
+        "AKNA-AA6G+AWZT-CA88+AXGT-CA36+AKYT-AA5G+AJFA-EA6N"
+      ],
+      [
+        "Infinite Health",
+        "FF17A0:00FF+FF17A2:00FF"
+      ],
+      [
+        "Infinite Health",
+        "FF17A2:00FF+FF17A4:00FF"
+      ],
+      [
+        "Infinite Hp",
+        "FF1A72:03E7"
+      ],
+      [
+        "Infinite Items",
+        "AKEA-AA42+AKEA-AA9A"
+      ],
+      [
+        "Infinite Keys ",
+        "RFWA-A6ZL+RHEA-A61G+RHEA-A61E"
+      ],
+      [
+        "Infinite Magic",
+        "FF17A4:00FF+FF17A6:00FF"
+      ],
+      [
+        "Infinite Magic",
+        "FF17A6:00FF+FF17A8:00FF"
+      ],
+      [
+        "Infinite S.P",
+        "AJPT-CA6C+AJPT-CA32+AJWT-CA6E+AJ1T-CA5C+AJ1T-CA72+AJ6A-CA7T+AXJA-CA28"
+      ],
+      [
+        "Infinite Sp",
+        "FF1A76:03E7"
+      ],
+      [
+        "Infinite weapon uses, Slot 1",
+        "FF0D80:00FF"
+      ],
+      [
+        "Infinite weapon uses, Slot 2",
+        "FF0D82:00FF"
+      ],
+      [
+        "Infinite weapons aren't infinite",
+        "ALCT-AA5E"
+      ],
+      [
+        "Invincible",
+        "MXFT-AAF4"
+      ],
+      [
+        "ITEMS DIGITS",
+        ""
+      ],
+      [
+        "Items, Slot 1",
+        ""
+      ],
+      [
+        "Items, Slot 2",
+        ""
+      ],
+      [
+        "Jump on Air",
+        "ABSA-AA6L"
+      ],
+      [
+        "Level Select",
+        "FF0D7A:0080"
+      ],
+      [
+        "Master Code",
+        "AABT-AA7R"
+      ],
+      [
+        "Max Hp",
+        "FF1A70:03E7"
+      ],
+      [
+        "Max Kills",
+        "FF1A7C:FFFF"
+      ],
+      [
+        "Max Rank",
+        "FF1A7E:03E7"
+      ],
+      [
+        "Max Sp",
+        "FF1A74:03E7"
+      ],
+      [
+        "Ogres can't grab Ali",
+        "ACXT-CA6T"
+      ],
+      [
+        "Open blue door without a key",
+        "RFWA-A6TY"
+      ],
+      [
+        "Open green door without a key",
+        "RFWA-A6VE"
+      ],
+      [
+        "Open red door without a key",
+        "RFWA-A6TE"
+      ],
+      [
+        "Open yellow door without a key",
+        "RFWA-A6VY"
+      ],
+      [
+        "Platforms in Secret Cliffs don't disappear",
+        "FF2E9A:0056+FF2E40:0056+FF2DE6:0056+FF2EF4:0056"
+      ],
+      [
+        "Play Time Is Allways 0",
+        "SGFA-AYZ8"
+      ],
+      [
+        "Protection from most attacks",
+        "RFNA-A6YE"
+      ],
+      [
+        "Sp Bar Fills 8x Faster",
+        "JBMT-BAZN"
+      ],
+      [
+        "SP doesn't decrease",
+        "REPT-C6XL"
+      ],
+      [
+        "Spirit power bar stays full",
+        "FF1A76:00D6"
+      ],
+      [
+        "Start Game with 100 Rank",
+        "NTLA-AAAR"
+      ],
+      [
+        "Start Game with 250 HP",
+        "9JKT-AAH4+9JLA-AAAA"
+      ],
+      [
+        "Start Game with 500 HP",
+        "8TKT-ACH4+8TLA-ACAA"
+      ],
+      [
+        "Start Game with 500 Rank",
+        "8TLA-ACAR"
+      ],
+      [
+        "Start Game with Hyper Bomb",
+        "96KT-A0GT"
+      ],
+      [
+        "Start Game with Metal Bow",
+        "96KT-ATGT"
+      ],
+      [
+        "Start Game with Omega Sword",
+        "96KT-ALGT"
+      ],
+      [
+        "Start with rank of 500",
+        "8TLA-ACAR"
+      ],
+      [
+        "Untouchable (Regular Hits)",
+        "AW8T-AAHT"
+      ],
+      [
+        "Use MODE to cancel Spirit",
+        "NCFT-BNFT+BCFT-AAF0"
+      ],
+      [
+        "Very high rank",
+        "FF1A7E:01F4"
+      ],
+      [
+        "Walk Through Walls (Alternate)",
+        "R0LA-A6WT+R0LT-A6Y4+R0MA-A6XJ"
+      ],
+      [
+        "Walking on Air (Alternate)",
+        "ABPA-AA58"
+      ],
+      [
+        "Walking on Air",
+        "AGRA-BT3L"
+      ],
+      [
+        "Walking on the air",
+        "AGRA-BT3L+ABPA-AA58"
+      ],
+      [
+        "Walking through the bottom wall",
+        "M4KA-AA4A"
+      ],
+      [
+        "Walking through the left wall",
+        "M4JT-AA44"
+      ],
+      [
+        "Walking through the right wall",
+        "M4JA-AA72"
+      ],
+      [
+        "Walking through the upper wall",
+        "M4KA-AA9C"
+      ],
+      [
+        "Walking through walls",
+        "ACRA-BY3N"
+      ],
+      [
+        "Weapon turns infinite after use:(Don't use with below code)",
+        "98CT-BE5J"
+      ],
+      [
+        "Weapons are infinite",
+        "RGCT-A6XJ"
+      ],
+      [
+        "WEAPONS DIGITS",
+        ""
+      ],
+      [
+        "Weapons, Slot 1",
+        ""
+      ],
+      [
+        "Weapons, Slot 2",
+        "FF0D82:0000"
+      ],
+      [
+        "Worms can't grab Ali",
+        "AADT-EA30"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Bomber Raid (World)",
     "platform": "Sega Master System",
     "year": 1988,
-    "rating": 7.0,
+    "rating": 7,
     "genres": "Shoot ’em up",
     "players": 1,
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Bomber Raid (World).7z",
-    "playerv": "player02",
+    "file": "https://archive.org/download/segaMS/Bomber%20Raid%20%28World%29.7z/Bomber%20Raid%20%28World%29.sms",
+    "engine": "4.0.12",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "CHASE H.Q.",
@@ -283,15 +846,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "chasehq.zip",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Contra (USA)",
@@ -303,16 +885,35 @@
     "core": "nes",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Contra (USA).7z",
-    "playerv": "player01",
+    "file": "Contra (USA).zip",
+    "engine": "nes",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Crash Bandicoot 2 - Cortex Strikes Back [NTSC-U] [SCUS-94154]",
@@ -325,15 +926,34 @@
     "lightgun": false,
     "biosUrl": "psx/scph5501.bin",
     "file": "Crash Bandicoot 2 - Cortex Strikes Back [NTSC-U] [SCUS-94154].7z",
-    "playerv": "player04",
+    "engine": "4.2.0",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Daytona USA - Circuit Edition (Japan)",
@@ -346,15 +966,34 @@
     "lightgun": false,
     "biosUrl": "segasaturn/saturn_bios.bin",
     "file": "Daytona USA - Circuit Edition (japan).chd",
-    "playerv": "player04",
+    "engine": "4.2.0",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Dig Dug (1987) (Atari)",
@@ -367,15 +1006,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Dig Dug (1987) (Atari).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Double Dragon",
@@ -388,15 +1046,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "ddragon.zip",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "ESWAT - City Under Siege (USA, Europe)",
@@ -409,15 +1086,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "ESWAT - City Under Siege (USA, Europe).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Enduro Racer (USA, Europe)",
@@ -429,16 +1125,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Enduro Racer (USA, Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Enduro%20Racer%20%28USA%2C%20Europe%29.7z/Enduro%20Racer%20%28USA%2C%20Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Excitebike (Japan, USA)",
@@ -451,15 +1166,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Excitebike (Japan, USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Final Fight",
@@ -472,15 +1206,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "ffight.zip",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Flashback - The Quest for Identity (USA) (Alt 1)",
@@ -493,15 +1246,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Flashback - The Quest for Identity (USA) (Alt 1).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Foes of Ali (1995) (Electronic Arts) (US)",
@@ -514,15 +1286,34 @@
     "lightgun": false,
     "biosUrl": "3do/goldstar.bin",
     "file": "Foes of Ali (1995) (Electronic Arts) (US).7z",
-    "playerv": "player04",
+    "engine": "4.2.0",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "GOLDEN AXE",
@@ -535,15 +1326,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "goldnaxe.zip",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Ghouls'n Ghosts",
@@ -556,15 +1366,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "ghouls.zip",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Golden Axe",
@@ -577,15 +1406,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Golden Axe (World).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Golden Axe",
@@ -597,16 +1445,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Golden Axe (USA, Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Golden%20Axe%20%28USA%2C%20Europe%29.7z/Golden%20Axe%20%28USA%2C%20Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Golden Axe Warrior (USA, Europe)",
@@ -618,16 +1485,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Golden Axe Warrior (USA, Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Golden%20Axe%20Warrior%20%28USA%2C%20Europe%29.7z/Golden%20Axe%20Warrior%20%28USA%2C%20Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Herzog Zwei (USA, Europe)",
@@ -640,15 +1526,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Herzog Zwei (USA, Europe).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Ice Climber (USA, Europe)",
@@ -661,15 +1566,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Ice Climber (USA, Europe).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Jackal (USA)",
@@ -682,15 +1606,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Jackal (USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Kenseiden (USA, Europe)",
@@ -702,16 +1645,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Kenseiden (USA, Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Kenseiden%20%28USA%2C%20Europe%29.7z/Kenseiden%20%28USA%2C%20Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Kung Fu (Japan, USA)",
@@ -724,15 +1686,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Kung Fu (Japan, USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Don't Die When The Timer Runs Out", "GZVKIYSA + ATVKYNGG"],
-      ["Enemies Are Easier To Defeat", "AEVXLSPT"],
-      ["Infinite Health And One Hit Kills", "GPTGTG + UTYKTK"],
-      ["Infinite Lives", "SUAAXA"],
-      ["Knife Thrower Harder To Beat", "XYUXEUZK"],
-      ["Start With Lots Of Lives", "ISOPPI"]
-    ]
+      [
+        "Don't Die When The Timer Runs Out",
+        "GZVKIYSA + ATVKYNGG"
+      ],
+      [
+        "Enemies Are Easier To Defeat",
+        "AEVXLSPT"
+      ],
+      [
+        "Infinite Health And One Hit Kills",
+        "GPTGTG + UTYKTK"
+      ],
+      [
+        "Infinite Lives",
+        "SUAAXA"
+      ],
+      [
+        "Knife Thrower Harder To Beat",
+        "XYUXEUZK"
+      ],
+      [
+        "Start With Lots Of Lives",
+        "ISOPPI"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Legend of Zelda, The (USA)",
@@ -745,15 +1726,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Legend of Zelda, The (USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Legend of Zelda, The - A Link to the Past (USA)",
@@ -766,15 +1766,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Legend of Zelda, The - A Link to the Past (USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Legend of Zelda, The - The Minish Cap",
@@ -787,15 +1806,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Legend of Zelda, The - The Minish Cap.7z",
-    "playerv": "player01",
+    "engine": "4.0.7",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Mario Kart 64 (USA)",
@@ -808,15 +1846,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Mario Kart 64 (USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Metal Slug 5",
@@ -829,15 +1886,34 @@
     "lightgun": false,
     "biosUrl": "arcade/neogeo.zip",
     "file": "ms5pcb.zip",
-    "playerv": "player03",
+    "engine": "4.1.1",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Metal Slug X",
@@ -850,15 +1926,34 @@
     "lightgun": false,
     "biosUrl": "arcade/neogeo.zip",
     "file": "mslugx.zip",
-    "playerv": "player03",
+    "engine": "4.1.1",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Metroid (USA)",
@@ -871,15 +1966,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Metroid (USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "mike tysons punch-out!! (japan, usa)",
@@ -892,15 +2006,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "mike tysons punch-out!! (japan, usa).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Ms. Pac-Man (USA, Europe)",
@@ -913,15 +2046,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Ms. Pac-Man (USA, Europe).7z",
-    "playerv": "player03",
+    "engine": "4.1.1",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "New Super Mario Bros.",
@@ -934,15 +2086,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "New Super Mario Bros..7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Ninja Gaiden (Europe) (Beta)",
@@ -954,16 +2125,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Ninja Gaiden (Europe) (Beta).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Ninja%20Gaiden%20%28Europe%29%20%28Beta%29.7z/Ninja%20Gaiden%20%28Europe%29%20%28Beta%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Ninja, The (USA, Europe)",
@@ -975,16 +2165,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Ninja, The (USA, Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Ninja%2C%20The%20%28USA%2C%20Europe%29.7z/Ninja%2C%20The%20%28USA%2C%20Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "OUTRUNNERS",
@@ -997,15 +2206,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "orunnersu.zip",
-    "playerv": "player03",
+    "engine": "4.1.1",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Phantasy Star IV (USA)",
@@ -1018,15 +2246,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Phantasy Star IV (USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Pitfall! (1982) (Activision)",
@@ -1039,15 +2286,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Pitfall! (1982) (Activision).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Psycho Fox (USA, Europe)",
@@ -1059,16 +2325,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Psycho Fox (USA, Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Psycho%20Fox%20%28USA%2C%20Europe%29.7z/Psycho%20Fox%20%28USA%2C%20Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "R-Type (World)",
@@ -1080,16 +2365,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "R-Type (World).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/R-Type%20%28World%29.7z/R-Type%20%28World%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "RASTAN",
@@ -1102,15 +2406,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "rastan.zip",
-    "playerv": "player03",
+    "engine": "4.1.1",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Rambo III (World)",
@@ -1123,15 +2446,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Rambo III (World).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Rayman (World)",
@@ -1144,15 +2486,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Rayman (World).7z",
-    "playerv": "player03",
+    "engine": "4.1.1",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Revenge of Shinobi, The (USA, Europe)",
@@ -1165,15 +2526,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Revenge of Shinobi, The (USA, Europe).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "River Raid",
@@ -1186,15 +2566,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "River Raid.7z",
-    "playerv": "player03",
+    "engine": "4.1.1",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "SHADOW DANCER",
@@ -1207,15 +2606,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "shdancer.zip",
-    "playerv": "player03",
+    "engine": "4.1.1",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "SPACE HARRIER",
@@ -1228,15 +2646,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "sharrier.zip",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "SUPER HANG-ON",
@@ -1249,15 +2686,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "shangon.zip",
-    "playerv": "player04",
+    "engine": "4.2.0",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Scramble Spirits (Europe)",
@@ -1269,16 +2725,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Scramble Spirits (Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Scramble%20Spirits%20%28Europe%29.7z/Scramble%20Spirits%20%28Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Secret Command (Europe)",
@@ -1290,16 +2765,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Secret Command (Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Secret%20Command%20%28Europe%29.7z/Secret%20Command%20%28Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Shinobi (USA, Europe)",
@@ -1311,16 +2805,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Shinobi (USA, Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Shinobi%20%28USA%2C%20Europe%29.7z/Shinobi%20%28USA%2C%20Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Shinobi III - Return of the Ninja Master (USA)",
@@ -1333,15 +2846,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Shinobi III - Return of the Ninja Master (USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Smurfs, The (Europe) (En,Fr,De,Es)",
@@ -1353,16 +2885,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Smurfs, The (Europe) (En,Fr,De,Es).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.7z/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Sonic CD (USA)",
@@ -1375,15 +2926,34 @@
     "lightgun": false,
     "biosUrl": "segacd/bios_cd_u.bin",
     "file": "sonic cd (usa).chd",
-    "playerv": "player03",
+    "engine": "4.1.1",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Sonic The Hedgehog (USA, Europe)",
@@ -1395,16 +2965,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Sonic The Hedgehog (USA, Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.7z/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Sonic The Hedgehog 3 (USA)",
@@ -1417,15 +3006,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Sonic The Hedgehog 3 (USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "SpellCaster (USA, Europe)",
@@ -1437,16 +3045,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "SpellCaster (USA, Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/SpellCaster%20%28USA%2C%20Europe%29.7z/SpellCaster%20%28USA%2C%20Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Street Fighter II - Special Champion Edition (USA)",
@@ -1459,15 +3086,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Street Fighter II - Special Champion Edition (USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Streets of Rage 2 (USA)",
@@ -1480,15 +3126,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Streets of Rage 2 (USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Streets of Rage 3 (USA)",
@@ -1501,15 +3166,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Streets of Rage 3 (USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Super Mario Bros. (World)",
@@ -1522,15 +3206,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Super Mario Bros. (World).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Super Mario Bros. 2 (USA)",
@@ -1543,15 +3246,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Super Mario Bros. 2 (USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Super Mario Bros. 3 (USA)",
@@ -1564,15 +3286,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Super Mario Bros. 3 (USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Super Mario Land (World)",
@@ -1585,15 +3326,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Super Mario Land (World).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "TEENAGE MUTANT NINJA TURTLES",
@@ -1606,15 +3366,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "tmnt.zip",
-    "playerv": "player04",
+    "engine": "4.2.0",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Tails Adventures (World) (En,Ja)",
@@ -1627,15 +3406,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Tails Adventures (World) (En,Ja).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Vigilante",
@@ -1648,15 +3446,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "vigilant.zip",
-    "playerv": "player04",
+    "engine": "4.2.0",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Virtual Boy Wario Land (Japan, USA)",
@@ -1669,15 +3486,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Virtual Boy Wario Land (Japan, USA).7z",
-    "playerv": "player01",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Wonder Boy (USA, Europe)",
@@ -1689,16 +3525,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Wonder Boy (USA, Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Wonder%20Boy%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20%28USA%2C%20Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Wonder Boy",
@@ -1711,15 +3566,34 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "wboy.zip",
-    "playerv": "player04",
+    "engine": "4.2.0",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Wonder Boy III - The Dragons Trap (USA, Europe)",
@@ -1731,16 +3605,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Wonder Boy III - The Dragons Trap (USA, Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Wonder%20Boy%20III%20-%20The%20Dragons%20Trap%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20III%20-%20The%20Dragon%27s%20Trap%20%28USA%2C%20Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Wonder Boy in Monster Land (USA, Europe)",
@@ -1752,16 +3645,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Wonder Boy in Monster Land (USA, Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Wonder Boy in Monster World (Europe)",
@@ -1773,16 +3685,35 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Wonder Boy in Monster World (Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Wonder%20Boy%20in%20Monster%20World%20%28Europe%29.7z/Wonder%20Boy%20in%20Monster%20World%20%28Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   },
   {
     "title": "Ys - The Vanished Omens (USA, Europe)",
@@ -1794,57 +3725,34 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Ys - The Vanished Omens (USA, Europe).7z",
-    "playerv": "player01",
+    "file": "https://archive.org/download/segaMS/Ys%20-%20The%20Vanished%20Omens%20%28USA%2C%20Europe%29.7z/Ys%20-%20The%20Vanished%20Omens%20%28USA%2C%20Europe%29.sms",
+    "engine": "4.2.3",
     "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
-  },
-  {
-    "title": "Shinobi (USA, Europe)",
-    "platform": "Sega Master System",
-    "year": 1988,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://edgeemu.net/down.php?id=19784",
-    "playerv": "player01",
-    "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
-  },
-  {
-    "title": "Shinobi (USA, Europe)",
-    "platform": "Sega Master System",
-    "year": 1988,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://edgeemu.net/down.php?id=19784",
-    "playerv": "player01",
-    "cheats": [
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Start with infinite lives", "SLAIUZ"],
-      ["Keep weapons after losing a life", "GXIIUX"]
-    ]
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": ""
   }
 ]
