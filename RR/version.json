@@ -2440,34 +2440,9 @@
     "core": "atari2600",
     "lightgun": false,
     "biosUrl": false,
-    "file": "River Raid.7z",
+    "file": "https://471.netlify.app/roms/river%20raid.7z",
     "engine": "4.1.1",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
+    "cheats": [],
     "cover": ""
   },
   {
