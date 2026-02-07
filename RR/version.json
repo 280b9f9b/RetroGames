@@ -886,7 +886,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/280b9f9b_gmail_TS2/Contra%20%28USA%29.7z/Contra%20%28USA%29.nes",
-    "engine": "nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -913,7 +913,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/6/65/Contra_cover.jpg"
   },
   {
     "title": "Crash Bandicoot 2 - Cortex Strikes Back [NTSC-U] [SCUS-94154]",
@@ -1166,7 +1166,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/280b9f9b_gmail_TS2/Excitebike%20%28Japan%2C%20USA%29.7z/Excitebike%20%28Japan%2C%20USA%29.nes",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -1193,7 +1193,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/f/f8/Excitebike_cover.jpg"
   },
   {
     "title": "Final Fight",
@@ -1566,7 +1566,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/280b9f9b_gmail_TS2/Ice%20Climber%20%28USA%2C%20Europe%29.7z/Ice%20Climber%20%28USA%2C%20Europe%29.nes",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -1593,7 +1593,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/d/df/IceClimberboxartnes.jpg"
   },
   {
     "title": "Jackal (USA)",
@@ -1606,7 +1606,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/280b9f9b_gmail_TS2/Jackal%20%28USA%29.7z/Jackal%20%28USA%29.nes",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -1633,7 +1633,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://videogamegalaxy.com/wp-content/uploads/2023/04/Jackal-USA.jpg"
   },
   {
     "title": "Kenseiden (USA, Europe)",
@@ -1686,7 +1686,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/280b9f9b_gmail_TS2/Kung%20Fu%20%28Japan%2C%20USA%29.7z/Kung%20Fu%20%28Japan%2C%20USA%29.nes",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Don't Die When The Timer Runs Out",
@@ -1713,7 +1713,7 @@
         "ISOPPI"
       ]
     ],
-    "cover": ""
+    "cover": "https://cdn.0game.ir/gameso/images/games/nintendo/nes/covers/Kung%20Fu%20(Japan,%20USA)%20(En).jpg"
   },
   {
     "title": "Legend of Zelda, The (USA)",
@@ -1726,7 +1726,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/280b9f9b_gmail_TS2/Legend%20of%20Zelda%2C%20The%20%28USA%29.7z/Legend%20of%20Zelda%2C%20The%20%28USA%29.nes",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -1753,7 +1753,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png"
   },
   {
     "title": "Legend of Zelda, The - A Link to the Past (USA)",
@@ -1966,7 +1966,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/280b9f9b_gmail_TS2/Metroid%20%28USA%29.7z/Metroid%20%28USA%29.nes",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -1993,7 +1993,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/5/5d/Metroid_boxart.jpg"
   },
   {
     "title": "mike tysons punch-out!! (japan, usa)",
@@ -2006,7 +2006,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/280b9f9b_gmail_TS2/Mike%20Tysons%20Punch-Out%21%21%20%28Japan%2C%20USA%29.7z/Mike%20Tyson%27s%20Punch-Out%21%21%20%28Japan%2C%20USA%29.nes",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -2033,7 +2033,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://cdn.shopify.com/s/files/1/1104/2322/files/14834_front.jpg?v=1740936828"
   },
   {
     "title": "Ms. Pac-Man (USA, Europe)",
@@ -3206,7 +3206,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/280b9f9b_gmail_TS2/Super%20Mario%20Bros.%20%28World%29.7z/Super%20Mario%20Bros.%20%28World%29.nes",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -3233,7 +3233,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png"
   },
   {
     "title": "Super Mario Bros. 2 (USA)",
@@ -3246,7 +3246,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/280b9f9b_gmail_TS2/Super%20Mario%20Bros.%202%20%28USA%29.7z/Super%20Mario%20Bros.%202%20%28USA%29.nes",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -3273,7 +3273,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Super_Mario_Bros._2_box_art.png/250px-Super_Mario_Bros._2_box_art.png"
   },
   {
     "title": "Super Mario Bros. 3 (USA)",
@@ -3286,7 +3286,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/280b9f9b_gmail_TS2/Super%20Mario%20Bros.%203%20%28USA%29.7z/Super%20Mario%20Bros.%203%20%28USA%29.nes",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -3313,7 +3313,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/a5/Super_Mario_Bros._3_coverart.png"
   },
   {
     "title": "Super Mario Land (World)",
