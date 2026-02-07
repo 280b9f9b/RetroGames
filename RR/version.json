@@ -134,7 +134,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/nointro.md/Altered%20Beast%20%28USA%2C%20Europe%29%20%28Rev%202%29.7z/Altered%20Beast%20%28USA%2C%20Europe%29%20%28Rev%202%29.md",
-    "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "1 Hit Kill Boss Neff",
@@ -438,7 +438,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Beyond Oasis (USA).7z",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "&quot;Service Pack&quot; for Walking on Air codes",
@@ -793,7 +793,7 @@
         "AADT-EA30"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/8/8d/Beyondoasiscover.JPG"
   },
   {
     "title": "Bomber Raid (World)",
@@ -1086,7 +1086,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "ESWAT - City Under Siege (USA, Europe).7z",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -1113,7 +1113,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/9/91/E-Swat_box_usa.jpg"
   },
   {
     "title": "Enduro Racer (USA, Europe)",
@@ -1246,7 +1246,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Flashback - The Quest for Identity (USA) (Alt 1).7z",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -1273,7 +1273,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6fda.webp"
   },
   {
     "title": "Foes of Ali (1995) (Electronic Arts) (US)",
@@ -1406,7 +1406,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Golden Axe (World).7z",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -1433,7 +1433,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://retrosales.com.au/cdn/shop/products/21391_front.jpg?v=1634957885"
   },
   {
     "title": "Golden Axe",
@@ -1526,7 +1526,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Herzog Zwei (USA, Europe).7z",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -1553,7 +1553,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/HerzogZwei-Cover.png"
   },
   {
     "title": "Ice Climber (USA, Europe)",
@@ -2246,7 +2246,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Phantasy Star IV (USA).7z",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -2273,7 +2273,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Phantasy_Star_EotM_cover.jpg/250px-Phantasy_Star_EotM_cover.jpg"
   },
   {
     "title": "Pitfall! (1982) (Activision)",
@@ -2446,7 +2446,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Rambo III (World).7z",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -2473,7 +2473,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHVvQpfziCWHi0xF9QcIGRFT8MwFI55d5QA&s"
   },
   {
     "title": "Rayman (World)",
@@ -2526,7 +2526,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Revenge of Shinobi, The (USA, Europe).7z",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -2553,7 +2553,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/7/75/The_Revenge_of_Shinobi_Coverart.png"
   },
   {
     "title": "River Raid",
@@ -2846,7 +2846,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Shinobi III - Return of the Ninja Master (USA).7z",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -2873,7 +2873,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxNvSwpAgOzwzTigCsDdZA39Pk-KYukq8H6Q&s"
   },
   {
     "title": "Smurfs, The (Europe) (En,Fr,De,Es)",
@@ -3006,7 +3006,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Sonic The Hedgehog 3 (USA).7z",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -3033,7 +3033,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/07/Sonic3-box-us-225.jpg"
   },
   {
     "title": "SpellCaster (USA, Europe)",
@@ -3086,7 +3086,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Street Fighter II - Special Champion Edition (USA).7z",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -3113,7 +3113,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://www.gametripper.co.uk/wp-content/uploads/2019/04/Street-Fighter-II-Cover-art.jpg"
   },
   {
     "title": "Streets of Rage 2 (USA)",
@@ -3126,7 +3126,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Streets of Rage 2 (USA).7z",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -3153,7 +3153,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Streets_of_Rage_2.jpg/250px-Streets_of_Rage_2.jpg"
   },
   {
     "title": "Streets of Rage 3 (USA)",
@@ -3166,7 +3166,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "Streets of Rage 3 (USA).7z",
-    "engine": "4.2.3",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
@@ -3193,7 +3193,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": ""
+    "cover": "https://upload.wikimedia.org/wikipedia/en/2/2a/Streets_of_Rage_3_%28box_art%29.jpg"
   },
   {
     "title": "Super Mario Bros. (World)",
