@@ -2160,8 +2160,8 @@
     "core": "atari5200",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Pitfall! (1982) (Activision).7z",
-    "engine": "4.2.3",
+    "file": "https://471.netlify.app/roms/pitfall!%2(1982)%2(activision).7z",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
         "Start with infinite lives",
