@@ -1209,35 +1209,10 @@
     "players": 2,
     "core": "3do",
     "lightgun": false,
-    "biosUrl": "3do/goldstar.bin",
-    "file": "Foes of Ali (1995) (Electronic Arts) (US).7z",
+    "biosUrl": "https://471.netlify.app/bios/3do/goldstar.bin",
+    "file": "https://471.netlify.app/roms/foes%20of%20ali%20%281995%29%20%28electronic%20arts%29%20%28us%29.7z",
     "engine": "4.2.0",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
+    "cheats": [],
     "cover": ""
   },
   {
