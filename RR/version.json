@@ -1205,7 +1205,7 @@
     "core": "arcade",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/fotns/ffight.zip",
+    "file": "https://archive.org/download/ffight/ffight.zip",
     "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": [],
     "cover": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/final_fight.jpg"
