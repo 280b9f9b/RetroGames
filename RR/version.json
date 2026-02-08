@@ -1240,7 +1240,7 @@
     "core": "arcade",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/gunsur2_202304/ghouls.zip",
+    "file": "https://archive.org/download/ffight/ghouls.7z/ghouls.zip",
     "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": [
       [
@@ -1759,8 +1759,8 @@
     "players": 1,
     "core": "arcade",
     "lightgun": false,
-    "biosUrl": "arcade/neogeo.zip",
-    "file": "ms5pcb.zip",
+    "biosUrl": "https://archive.org/download/ffight/neogeo.7z/neogeo.zip",
+    "file": "https://archive.org/download/ffight/ms5pcb.7z/ms5pcb.zip",
     "engine": "4.1.1",
     "cheats": [
       [
@@ -1799,8 +1799,8 @@
     "players": 1,
     "core": "arcade",
     "lightgun": false,
-    "biosUrl": "arcade/neogeo.zip",
-    "file": "mslugx.zip",
+    "biosUrl": "https://archive.org/download/ffight/neogeo.7z/neogeo.zip",
+    "file": "https://archive.org/download/ffight/mslugx.7z/mslugx.zip",
     "engine": "4.1.1",
     "cheats": [
       [
@@ -2280,7 +2280,7 @@
     "core": "arcade",
     "lightgun": false,
     "biosUrl": false,
-    "file": "rastan.zip",
+    "file": "https://archive.org/download/ffight/rastan.7z/rastan.zip",
     "engine": "4.1.1",
     "cheats": [
       [
@@ -2455,7 +2455,7 @@
     "core": "arcade",
     "lightgun": false,
     "biosUrl": false,
-    "file": "shdancer.zip",
+    "file": "https://archive.org/download/ffight/shdancer.7z/shdancer.zip",
     "engine": "4.1.1",
     "cheats": [
       [
@@ -3190,7 +3190,7 @@
     "core": "arcade",
     "lightgun": false,
     "biosUrl": false,
-    "file": "tmnt.zip",
+    "file": "https://archive.org/download/ffight/tmnt.7z/tmnt.zip",
     "engine": "4.2.0",
     "cheats": [
       [
@@ -3270,7 +3270,7 @@
     "core": "arcade",
     "lightgun": false,
     "biosUrl": false,
-    "file": "vigilant.zip",
+    "file": "https://archive.org/download/ffight/vigilant.7z/vigilant.zip",
     "engine": "4.2.0",
     "cheats": [
       [
@@ -3390,7 +3390,7 @@
     "core": "arcade",
     "lightgun": false,
     "biosUrl": false,
-    "file": "wboy.zip",
+    "file": "https://archive.org/download/ffight/wboy.7z/wboy.zip",
     "engine": "4.2.0",
     "cheats": [
       [
