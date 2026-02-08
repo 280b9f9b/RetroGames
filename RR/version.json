@@ -980,7 +980,7 @@
     "core": "atari7800",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Dig Dug (1987) (Atari).7z",
+    "file": "https://archive.org/download/ffight/Dig%20Dug.7z/Dig%20Dug.zip",
     "engine": "4.2.3",
     "cheats": [
       [
