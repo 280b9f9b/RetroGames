@@ -2160,7 +2160,7 @@
     "core": "atari5200",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://471.netlify.app/roms/pitfall!%2(1982)%2(activision).7z",
+    "file": "https://archive.org/download/ffight/Pitfall%21%20%281982%29%20%28Activision%29.7z/Pitfall%21%20%281982%29%20%28Activision%29.zip",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
