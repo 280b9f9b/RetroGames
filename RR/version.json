@@ -1761,7 +1761,7 @@
     "lightgun": false,
     "biosUrl": "https://archive.org/download/ffight/neogeo.zip",
     "file": "https://archive.org/download/ffight/ms5pcb.7z/ms5pcb.zip",
-    "engine": "4.1.1",
+    "engine": "4.0.12",
     "cheats": [
       [
         "Start with infinite lives",
