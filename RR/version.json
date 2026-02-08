@@ -1759,7 +1759,7 @@
     "players": 1,
     "core": "arcade",
     "lightgun": false,
-    "biosUrl": "https://archive.org/download/ffight/neogeo.7z/neogeo.zip",
+    "biosUrl": "https://archive.org/download/ffight/neogeo.zip",
     "file": "https://archive.org/download/ffight/ms5pcb.7z/ms5pcb.zip",
     "engine": "4.1.1",
     "cheats": [
