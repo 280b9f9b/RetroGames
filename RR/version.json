@@ -1801,7 +1801,7 @@
     "lightgun": false,
     "biosUrl": "https://archive.org/download/ffight/neogeo.7z/neogeo.zip",
     "file": "https://archive.org/download/ffight/mslugx.7z/mslugx.zip",
-    "engine": "4.1.1",
+    "engine": "4.0.12",
     "cheats": [
       [
         "Start with infinite lives",
