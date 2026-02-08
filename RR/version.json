@@ -2440,7 +2440,7 @@
     "core": "atari2600",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://471.netlify.app/roms/river%20raid.7z",
+    "file": "https://archive.org/download/ffight/River%20Raid.7z",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": ""
