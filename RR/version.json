@@ -1577,7 +1577,7 @@
     "core": "n64",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Mario Kart 64 (USA).7z",
+    "file": "https://archive.org/download/ffight/Mario%20Kart%2064%20%28USA%29.zip/Mario%20Kart%2064%20%28USA%29.n64",
     "engine": "4.2.3",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/a/a1/Mario_Kart_64.jpg"
