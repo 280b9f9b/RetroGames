@@ -896,8 +896,8 @@
     "players": 1,
     "core": "psx",
     "lightgun": false,
-    "biosUrl": "psx/scph5501.bin",
-    "file": "Crash Bandicoot 2 - Cortex Strikes Back [NTSC-U] [SCUS-94154].7z",
+    "biosUrl": "https://archive.org/download/ffight/scph55.7z/scph5500.bin",
+    "file": "https://archive.org/download/ffight/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.7z/Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.bin.ecm",
     "engine": "4.2.0",
     "cheats": [],
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTil83XgiAe_HxOmmDdfLn_hUqKaVXdH-_16A&s"
