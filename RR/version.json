@@ -842,7 +842,7 @@
     "core": "mame2003",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/chasehq.7z/chasehq.zip",
+    "file": "https://archive.org/download/ffight/MAME%202003/chasehq.7z/chasehq.zip",
     "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/0/0d/Chasehq_flyer.png"
@@ -896,8 +896,8 @@
     "players": 1,
     "core": "psx",
     "lightgun": false,
-    "biosUrl": "https://archive.org/download/ffight/scph5501.7z/scph5501.bin",
-    "file": "https://archive.org/download/ffight/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.7z/Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.bin.ecm",
+    "biosUrl": "https://archive.org/download/ffight/PlayStation/scph5501.7z/scph5501.bin",
+    "file": "https://archive.org/download/ffight/PlayStation/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.7z/Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.bin.ecm",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTil83XgiAe_HxOmmDdfLn_hUqKaVXdH-_16A&s"
@@ -927,34 +927,9 @@
     "core": "atari7800",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Dig%20Dug.7z/Dig%20Dug.zip",
+    "file": "https://archive.org/download/ffight/Atari%207800/Dig%20Dug.7z/Dig%20Dug.zip",
     "engine": "4.2.3",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
+    "cheats": [],
     "cover": "https://www.retroplace.com/pics/atari8bit/packshots/5496--dig-dug.png"
   },
   {
@@ -967,7 +942,7 @@
     "core": "mame2003",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/ddragon.7z/ddragon.zip",
+    "file": "https://archive.org/download/ffight/MAME%202003/ddragon.7z/ddragon.zip",
     "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/e/e6/Ddragon_chirashi.jpg"
@@ -1157,7 +1132,7 @@
     "core": "mame2003",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/goldnaxe.7z/goldnaxe.zip",
+    "file": "https://archive.org/download/ffight/MAME%202003/goldnaxe.7z/goldnaxe.zip",
     "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Golden_Axe_Promo_Flyer.jpeg/250px-Golden_Axe_Promo_Flyer.jpeg"
@@ -1562,7 +1537,7 @@
     "core": "gba",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/1865%20-%20The%20Legend%20of%20Zelda%20-%20The%20Minish%20Cap%20%28U%29%28DCS%29.zip/1865%20-%20The%20Legend%20of%20Zelda%20-%20The%20Minish%20Cap%20%28U%29%28DCS%29.gba",
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/1865%20-%20The%20Legend%20of%20Zelda%20-%20The%20Minish%20Cap%20%28U%29%28DCS%29.zip/1865%20-%20The%20Legend%20of%20Zelda%20-%20The%20Minish%20Cap%20%28U%29%28DCS%29.gba",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://static.romspedia.com/webp/roms/legend-of-zelda-cover-340x483.webp"
@@ -1577,7 +1552,7 @@
     "core": "n64",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Mario%20Kart%2064%20%28USA%29.zip/Mario%20Kart%2064%20%28USA%29.n64",
+    "file": "https://archive.org/download/ffight/Nintendo%2064/Mario%20Kart%2064%20%28USA%29.zip/Mario%20Kart%2064%20%28USA%29.n64",
     "engine": "4.2.3",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/a/a1/Mario_Kart_64.jpg"
@@ -1702,7 +1677,7 @@
     "core": "lynx",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Ms.%20Pac-Man%20%28USA%2C%20Europe%29.7z/Ms.%20Pac-Man%20%28USA%2C%20Europe%29.zip",
+    "file": "https://archive.org/download/ffight/Atari%20Lynx/Ms.%20Pac-Man%20%28USA%2C%20Europe%29.7z/Ms.%20Pac-Man%20%28USA%2C%20Europe%29.zip",
     "engine": "4.1.1",
     "cheats": [],
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVS8_LAtElt5mHNMEZVRdV1scwky7rrzOQcQ&s"
@@ -1717,7 +1692,7 @@
     "core": "nds",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/0434%20-%20New%20Super%20Mario%20Bros.%20%28U%29%28Psyfer%29.7z/-%20New%20Super%20Mario%20Bros.%20%28U%29%28Psyfer%29.nds",
+    "file": "https://archive.org/download/ffight/Nintendo%20DS/0434%20-%20New%20Super%20Mario%20Bros.%20%28U%29%28Psyfer%29.7z/-%20New%20Super%20Mario%20Bros.%20%28U%29%28Psyfer%29.nds",
     "engine": "4.2.3",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/d/db/NewSuperMarioBrothers.jpg"
@@ -1867,7 +1842,7 @@
     "core": "atari5200",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Pitfall%21%20%281982%29%20%28Activision%29.7z/Pitfall%21%20%281982%29%20%28Activision%29.zip",
+    "file": "https://archive.org/download/ffight/Atari%205200/Pitfall%21%20%281982%29%20%28Activision%29.7z/Pitfall%21%20%281982%29%20%28Activision%29.zip",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/0/0c/Pitfall-cover.jpg"
@@ -2017,7 +1992,7 @@
     "core": "jaguar",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Rayman%20%28World%29.7z/Rayman%20%28World%29.zip",
+    "file": "https://archive.org/download/ffight/Atari%20Jaguar/Rayman%20%28World%29.7z/Rayman%20%28World%29.zip",
     "engine": "4.1.1",
     "cheats": [],
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvNEvK4YaNB3_9iEaABINwCuGxSV6bzZTxjQ&s"
@@ -2072,7 +2047,7 @@
     "core": "atari2600",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/River%20Raid.7z/River%20Raid.zip",
+    "file": "https://archive.org/download/ffight/Atari%202600/River%20Raid.7z/River%20Raid.zip",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/d/db/River_Raid_cover.jpg"
@@ -2102,7 +2077,7 @@
     "core": "mame2003",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/sharrier.7z/sharrier.zip",
+    "file": "https://archive.org/download/ffight/MAME%202003/sharrier.7z/sharrier.zip",
     "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/2/21/SpaceHarrier_arcadeflyer.png"
@@ -2332,7 +2307,7 @@
     "core": "segaCD",
     "lightgun": false,
     "biosUrl": "https://archive.org/download/ffight/Sega%20CD/bios_CD_U.7z/bios_CD_U.bin",
-    "file": "https://archive.org/download/ffight/Sega%20CD/Final%20Fight%20CD%20%28U%29.zip",
+    "file": "https://archive.org/download/ffight/Sega%20CD/Final%20Fight%20CD%20%28U%29.zip/Final%20Fight%20CD%20%28Sega%20CD%29%20%28U%29.bin",
     "engine": "4.1.1",
     "cheats": [],
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXWLUcriu2vELPk6ZtQmOdgjYGLEHtxGi0JQ&s"
@@ -2707,7 +2682,7 @@
     "core": "gb",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Super%20Mario%20Land%20%28World%29.zip/Super%20Mario%20Land%20%28World%29.gb",
+    "file": "https://archive.org/download/ffight/Nintendo%20Game%20Boy/Super%20Mario%20Land%20%28World%29.zip/Super%20Mario%20Land%20%28World%29.gb",
     "engine": "4.2.3",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/2/22/Super-mario-land-gameboy-boxart.png"
