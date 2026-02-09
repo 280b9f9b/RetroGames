@@ -362,7 +362,7 @@
     "cover": "https://uk.static.webuy.com/product_images/Gaming/Mega%20Drive%20Software/4974365611002B_l.jpg"
   },
   {
-    "title": "Amazing Spider-Man, The - Web of Fire (USA)",
+    "title": "Knuckles' Chaotix",
     "platform": "Sega 32X",
     "year": 1996,
     "rating": 6,
@@ -371,10 +371,10 @@
     "core": "sega32x",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Amazing Spider-Man, The - Web of Fire (USA).7z",
+    "file": "https://archive.org/download/ffight/32X/Knuckles%27%20Chaotix.zip/Knuckles%27%20Chaotix%20%23%2032X.32X",
     "engine": "4.2.3",
     "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Spiderman_Web_Of_Fire_for_Sega_32X.jpg/250px-Spiderman_Web_Of_Fire_for_Sega_32X.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/en/d/dd/Knuckles%27_Chaotix_Coverart.png"
   },
   {
     "title": "Basket Ball Nightmare (Europe)",
