@@ -2020,8 +2020,8 @@
     "core": "arcade",
     "lightgun": false,
     "biosUrl": false,
-    "file": "orunnersu.zip",
-    "engine": "4.1.1",
+    "file": "https://archive.org/download/ffight/orunnersu.7z/orunnersu.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": [],
     "cover": "https://m.media-amazon.com/images/M/MV5BNzQ2NzNkYTItODJjNy00ZTlhLWJjMzktNWRkMTlkOWFlNGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
