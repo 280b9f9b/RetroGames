@@ -897,7 +897,7 @@
     "core": "psx",
     "lightgun": false,
     "biosUrl": "https://archive.org/download/ffight/scph5501.7z/scph5501.bin",
-    "file": "https://archive.org/download/ffight/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.7z/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.cue",
+    "file": "https://archive.org/download/ffight/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.7z/Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.bin.ecm",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTil83XgiAe_HxOmmDdfLn_hUqKaVXdH-_16A&s"
