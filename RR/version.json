@@ -2331,7 +2331,7 @@
     "players": 1,
     "core": "segaCD",
     "lightgun": false,
-    "biosUrl": "https://archive.org/download/ffight/Sega%20CD/bios_CD_U.bin",
+    "biosUrl": "https://archive.org/download/ffight/Sega%20CD/bios_CD_U.7z/bios_CD_U.bin",
     "file": "https://archive.org/download/ffight/Sega%20CD/Final%20Fight%20CD%20%28U%29.zip",
     "engine": "4.1.1",
     "cheats": [],
