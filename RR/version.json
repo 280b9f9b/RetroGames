@@ -1234,21 +1234,6 @@
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6fda.webp"
   },
   {
-    "title": "Foes of Ali (1995) (Electronic Arts) (US)",
-    "platform": "3DO",
-    "year": 1995,
-    "rating": 5.9,
-    "genres": "Sports, Boxing",
-    "players": 2,
-    "core": "3do",
-    "lightgun": false,
-    "biosUrl": "https://471.netlify.app/bios/3do/goldstar.bin",
-    "file": "https://471.netlify.app/roms/foes%20of%20ali%20%281995%29%20%28electronic%20arts%29%20%28us%29.7z",
-    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
-    "cheats": [],
-    "cover": ""
-  },
-  {
     "title": "GOLDEN AXE",
     "platform": "MAME 2003",
     "year": 1989,
