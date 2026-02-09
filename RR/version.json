@@ -1186,7 +1186,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/ffight.7z/ffight.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
     "cover": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/final_fight.jpg"
   },
@@ -1256,7 +1256,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/ghouls.7z/ghouls.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/4/43/Ghouls_and_Ghosts_sales_flyer.png"
   },
@@ -1751,7 +1751,7 @@
     "lightgun": false,
     "biosUrl": "https://archive.org/download/ffight/neogeo.7z/neogeo.zip",
     "file": "https://archive.org/download/ffight/ms5pcb.7z/ms5pcb.zip",
-    "engine": "4.0.12",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/1/15/Metal_Slug_5_arcade_flyer.jpg"
   },
@@ -1766,7 +1766,7 @@
     "lightgun": false,
     "biosUrl": "https://archive.org/download/ffight/neogeo.7z/neogeo.zip",
     "file": "https://archive.org/download/ffight/mslugx.7z/mslugx.zip",
-    "engine": "4.0.12",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkUOeM_z-dDEhvOsGZLgs0vhvV-1tZAuQyg&s"
   },
@@ -2021,7 +2021,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/orunnersu.7z/orunnersu.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
     "cover": "https://m.media-amazon.com/images/M/MV5BNzQ2NzNkYTItODJjNy00ZTlhLWJjMzktNWRkMTlkOWFlNGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
@@ -2196,7 +2196,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/rastan.7z/rastan.zip",
-    "engine": "4.1.1",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/6/6c/RastanSaga_arcadeflyer.png"
   },
@@ -2346,7 +2346,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/shdancer.7z/shdancer.zip",
-    "engine": "4.1.1",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/c/c4/Shadow_Dancer_MD_cover.png"
   },
