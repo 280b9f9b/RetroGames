@@ -1,5 +1,4 @@
 [
-
   {
     "title": "Super Street Fighter II Turbo",
     "platform": "3DO",
@@ -12,10 +11,10 @@
     "biosUrl": "https://archive.org/download/ffight/goldstar.7z/goldstar.bin",
     "file": "https://archive.org/download/ffight/Super%20Street%20Fighter%20II%20Turbo%20%281994%29%28Panasonic%29%28US%29%5BA1069%20DE%20SM3851-2%20RE1%20R72%5D.zip/Super%20Street%20Fighter%20II%20Turbo%20%281994%29%28Panasonic%29%28US%29%5BA1069%20DE%20SM3851-2%20RE1%20R72%5D.iso",
     "engine": "4.2.3",
-    "cheats": [
-    ],
+    "cheats": [],
     "cover": "https://static.romspedia.com/webp/roms/3do-super-street-fighter-2-turbo-340x483.webp"
-  },  {
+  },
+  {
     "title": "Samurai Shodown",
     "platform": "3DO",
     "year": 1994,
@@ -27,11 +26,9 @@
     "biosUrl": "https://archive.org/download/ffight/goldstar.7z/goldstar.bin",
     "file": "https://archive.org/download/ffight/Samurai%20Shodown%20%281994%29%28Crystal%20Dynamics%29%28US%29%5B%21%5D%5B60020%20R1J%5D.zip/Samurai%20Shodown%20%281994%29%28Crystal%20Dynamics%29%28US%29%5B%21%5D%5B60020%20R1J%5D.iso",
     "engine": "4.2.3",
-    "cheats": [
-    ],
+    "cheats": [],
     "cover": "https://static.romspedia.com/webp/roms/samurai-shodown-3do-cover-340x483.webp"
   },
-  
   {
     "title": "Alex Kidd in Miracle World (USA, Europe)",
     "platform": "Sega Master System",
@@ -1260,33 +1257,8 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/ghouls.7z/ghouls.zip",
     "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": ""
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/4/43/Ghouls_and_Ghosts_sales_flyer.png"
   },
   {
     "title": "Golden Axe",
@@ -1780,33 +1752,8 @@
     "biosUrl": "https://archive.org/download/ffight/neogeo.7z/neogeo.zip",
     "file": "https://archive.org/download/ffight/ms5pcb.7z/ms5pcb.zip",
     "engine": "4.0.12",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": ""
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/1/15/Metal_Slug_5_arcade_flyer.jpg"
   },
   {
     "title": "Metal Slug X",
@@ -1820,33 +1767,8 @@
     "biosUrl": "https://archive.org/download/ffight/neogeo.7z/neogeo.zip",
     "file": "https://archive.org/download/ffight/mslugx.7z/mslugx.zip",
     "engine": "4.0.12",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": ""
+    "cheats": [],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkUOeM_z-dDEhvOsGZLgs0vhvV-1tZAuQyg&s"
   },
   {
     "title": "Metroid (USA)",
@@ -2100,33 +2022,8 @@
     "biosUrl": false,
     "file": "orunnersu.zip",
     "engine": "4.1.1",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": ""
+    "cheats": [],
+    "cover": "https://m.media-amazon.com/images/M/MV5BNzQ2NzNkYTItODJjNy00ZTlhLWJjMzktNWRkMTlkOWFlNGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
   },
   {
     "title": "Phantasy Star IV (USA)",
@@ -2300,33 +2197,8 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/rastan.7z/rastan.zip",
     "engine": "4.1.1",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": ""
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/6/6c/RastanSaga_arcadeflyer.png"
   },
   {
     "title": "Rambo III (World)",
@@ -2475,33 +2347,8 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/shdancer.7z/shdancer.zip",
     "engine": "4.1.1",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": ""
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/c/c4/Shadow_Dancer_MD_cover.png"
   },
   {
     "title": "SPACE HARRIER",
@@ -2530,33 +2377,8 @@
     "biosUrl": false,
     "file": "shangon.zip",
     "engine": "4.2.0",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": ""
+    "cheats": [],
+    "cover": "https://m.media-amazon.com/images/M/MV5BNThhNDNmNzUtOTBlNS00ZTA5LWI0ZTEtNjEyZjA4NTdjMWEwXkEyXkFqcGc@._V1_.jpg"
   },
   {
     "title": "Scramble Spirits (Europe)",
@@ -3210,33 +3032,8 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/tmnt.7z/tmnt.zip",
     "engine": "4.2.0",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": ""
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/04/Teenage_Mutant_Ninja_Turtles_%281989_arcade_game%29.jpg"
   },
   {
     "title": "Tails Adventures (World) (En,Ja)",
@@ -3290,33 +3087,8 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/vigilant.7z/vigilant.zip",
     "engine": "4.2.0",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": ""
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Vigilante_arcadeflyer.png"
   },
   {
     "title": "Virtual Boy Wario Land (Japan, USA)",
@@ -3410,33 +3182,8 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/wboy.7z/wboy.zip",
     "engine": "4.2.0",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": ""
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/f/ff/WonderBoy_arcadeflyer.png"
   },
   {
     "title": "Wonder Boy III - The Dragons Trap (USA, Europe)",
