@@ -1562,10 +1562,10 @@
     "core": "gba",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Legend of Zelda, The - The Minish Cap.7z",
-    "engine": "4.0.7",
+    "file": "https://archive.org/download/ffight/1865%20-%20The%20Legend%20of%20Zelda%20-%20The%20Minish%20Cap%20%28U%29%28DCS%29.zip/1865%20-%20The%20Legend%20of%20Zelda%20-%20The%20Minish%20Cap%20%28U%29%28DCS%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/0/0a/TLOZ-_Minish_Cap_NA_Box_art.png"
+    "cover": "https://static.romspedia.com/webp/roms/legend-of-zelda-cover-340x483.webp"
   },
   {
     "title": "Mario Kart 64 (USA)",
