@@ -1,24 +1,24 @@
 [
 
   {
-    "title": "Need For Speed",
+    "title": "Super Street Fighter II Turbo",
     "platform": "3DO",
-    "year": 1986,
-    "rating": 7.5,
+    "year": 1994,
+    "rating": 10,
     "genres": "Action, Platformer",
     "players": 1,
     "core": "3do",
     "lightgun": false,
     "biosUrl": "https://archive.org/download/ffight/goldstar.7z/goldstar.bin",
     "file": "https://archive.org/download/ffight/Need%20for%20Speed%2C%20The%20%281994%29%28Electronic%20Arts%29%28US%29%5BA1115%20CC%20735507-2%20R70%5D.7z/Need%20for%20Speed%2C%20The%20%281994%29%28Electronic%20Arts%29%28US%29%5BA1115%20CC%20735507-2%20R70%5D.zip",
-    "engine": "3.1.5",
+    "engine": "4.2.3",
     "cheats": [
     ],
-    "cover": "https://static.romspedia.com/webp/roms/3do-need-for-speed-340x483.webp"
+    "cover": "https://static.romspedia.com/webp/roms/3do-super-street-fighter-2-turbo-340x483.webp"
   },  {
-    "title": "Need For Speed",
+    "title": "Samurai Shodown",
     "platform": "3DO",
-    "year": 1986,
+    "year": 1994,
     "rating": 7.5,
     "genres": "Action, Platformer",
     "players": 1,
@@ -26,10 +26,10 @@
     "lightgun": false,
     "biosUrl": "https://archive.org/download/ffight/goldstar.7z/goldstar.bin",
     "file": "https://archive.org/download/ffight/Need%20for%20Speed%2C%20The%20%281994%29%28Electronic%20Arts%29%28US%29%5BA1115%20CC%20735507-2%20R70%5D.zip/Need%20for%20Speed%2C%20The%20%281994%29%28Electronic%20Arts%29%28US%29%5BA1115%20CC%20735507-2%20R70%5D.iso",
-    "engine": "3.1.5",
+    "engine": "4.2.3",
     "cheats": [
     ],
-    "cover": "https://static.romspedia.com/webp/roms/3do-need-for-speed-340x483.webp"
+    "cover": "https://static.romspedia.com/webp/roms/samurai-shodown-3do-cover-340x483.webp"
   },
   
   {
