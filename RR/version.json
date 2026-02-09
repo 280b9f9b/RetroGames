@@ -911,8 +911,8 @@
     "players": 2,
     "core": "segaSaturn",
     "lightgun": false,
-    "biosUrl": "https://archive.org/download/ffight/Sega%20Saturn/saturn_bios.bin",
-    "file": "https://archive.org/download/ffight/Sega%20Saturn/Daytona%20USA%20%28Saturn%29%20%28E%29.rar/CDDA_00.BIN",
+    "biosUrl": "https://archive.org/download/ffight/Sega%20Saturn/saturn_bios.7z/saturn_bios.bin",
+    "file": "https://archive.org/download/ffight/Sega%20Saturn/Daytona%20USA%20%28Japan%29.7z/Daytona%20USA%20%28Japan%29.chd",
     "engine": "4.2.0",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Daytona_USA_-_Championship_Circuit_Edition_Coverart.png/250px-Daytona_USA_-_Championship_Circuit_Edition_Coverart.png"
