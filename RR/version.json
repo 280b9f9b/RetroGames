@@ -912,7 +912,7 @@
     "core": "segaSaturn",
     "lightgun": false,
     "biosUrl": "segasaturn/saturn_bios.bin",
-    "file": "Daytona USA - Circuit Edition (japan).chd",
+    "file": "https://archive.org/download/ffight/Sega%20Saturn/Daytona%20USA%20%28Saturn%29%20%28E%29.rar/CDDA_00.BIN",
     "engine": "4.2.0",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Daytona_USA_-_Championship_Circuit_Edition_Coverart.png/250px-Daytona_USA_-_Championship_Circuit_Edition_Coverart.png"
@@ -1547,7 +1547,7 @@
     "core": "snes",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Legend of Zelda, The - A Link to the Past (USA).7z",
+    "file": "https://archive.org/download/ffight/SNES/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28Europe%29.zip/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28Europe%29.sfc",
     "engine": "4.2.3",
     "cheats": [],
     "cover": "https://m.media-amazon.com/images/I/71wfmH16Z8L.jpg"
@@ -2323,7 +2323,7 @@
     "cover": "https://www.retrostic.com/img/covers/smurfs-the-europe-en-fr-de-es-it-big.jpg"
   },
   {
-    "title": "Sonic CD (USA)",
+    "title": "Final Fight CD (U)",
     "platform": "Sega CD",
     "year": 1993,
     "rating": "",
@@ -2332,10 +2332,10 @@
     "core": "segaCD",
     "lightgun": false,
     "biosUrl": "segacd/bios_cd_u.bin",
-    "file": "sonic cd (usa).chd",
+    "file": "https://archive.org/download/ffight/Sega%20CD/Final%20Fight%20CD%20%28U%29.zip/Final%20Fight%20CD%20%28Sega%20CD%29%20%28U%29.bin",
     "engine": "4.1.1",
     "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/Sonic_CD_North_American_cover_art.jpg"
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXWLUcriu2vELPk6ZtQmOdgjYGLEHtxGi0JQ&s"
   },
   {
     "title": "Sonic The Hedgehog (USA, Europe)",
@@ -2728,7 +2728,7 @@
     "cover": "https://upload.wikimedia.org/wikipedia/en/0/04/Teenage_Mutant_Ninja_Turtles_%281989_arcade_game%29.jpg"
   },
   {
-    "title": "Tails Adventures (World) (En,Ja)",
+    "title": "Fatal Fury Special (U) [!]",
     "platform": "Sega Game Gear",
     "year": 1995,
     "rating": "",
@@ -2737,10 +2737,10 @@
     "core": "segaGG",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Tails Adventures (World) (En,Ja).7z",
+    "file": "https://archive.org/download/ffight/Game%20Gear/Fatal%20Fury%20Special%20%28U%29%20%5B%21%5D.zip/Fatal%20Fury%20Special%20%28U%29%20%5B%21%5D.gg",
     "engine": "4.2.3",
     "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/f/f0/Tails_Adventure_Coverart.png"
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Fatal_Fury_Special_arcade_flyer.jpg/250px-Fatal_Fury_Special_arcade_flyer.jpg"
   },
   {
     "title": "Vigilante",
@@ -2767,7 +2767,7 @@
     "core": "vb",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Virtual Boy Wario Land (Japan, USA).7z",
+    "file": "https://archive.org/download/ffight/Virtual%20Boy/Virtual%20Boy%20Wario%20Land%20%28Japan%2C%20USA%29.zip/Virtual%20Boy%20Wario%20Land%20%28Japan%2C%20USA%29.vb",
     "engine": "4.2.3",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/1/1a/Virtual_Boy_Wario_Land_Coverart.png"
