@@ -39,7 +39,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Alex%20Kidd%20in%20Miracle%20World%20%28USA%2C%20Europe%29.7z/Alex%20Kidd%20in%20Miracle%20World%20%28USA%2C%20Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Alex%20Kidd%20in%20Miracle%20World%20%28USA%2C%20Europe%29.7z/Alex%20Kidd%20in%20Miracle%20World%20%28USA%2C%20Europe%29.sms",
     "engine": "3.1.5",
     "cheats": [
       [
@@ -371,7 +371,7 @@
     "core": "sega32x",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/32X/Knuckles%27%20Chaotix.zip/Knuckles%27%20Chaotix%20%23%2032X.32X",
+    "file": "https://archive.org/download/ffight/Sega%2032X/Knuckles%27%20Chaotix.zip/Knuckles%27%20Chaotix%20%23%2032X.32X",
     "engine": "4.2.3",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/d/dd/Knuckles%27_Chaotix_Coverart.png"
@@ -386,7 +386,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Basket%20Ball%20Nightmare%20%28Europe%29.7z/Basket%20Ball%20Nightmare%20%28Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Basket%20Ball%20Nightmare%20%28Europe%29.7z/Basket%20Ball%20Nightmare%20%28Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -802,7 +802,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Bomber%20Raid%20%28World%29.7z/Bomber%20Raid%20%28World%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Bomber%20Raid%20%28World%29.7z/Bomber%20Raid%20%28World%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -857,34 +857,9 @@
     "core": "nes",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/280b9f9b_gmail_TS2/Contra%20%28USA%29.7z/Contra%20%28USA%29.nes",
+    "file": "https://archive.org/download/ffight/NES-Famicom/Contra%20%28USA%29.7z/Contra%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
+    "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/6/65/Contra_cover.jpg"
   },
   {
@@ -997,7 +972,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Enduro%20Racer%20%28USA%2C%20Europe%29.7z/Enduro%20Racer%20%28USA%2C%20Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Enduro%20Racer%20%28USA%2C%20Europe%29.7z/Enduro%20Racer%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -1037,34 +1012,9 @@
     "core": "nes",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/280b9f9b_gmail_TS2/Excitebike%20%28Japan%2C%20USA%29.7z/Excitebike%20%28Japan%2C%20USA%29.nes",
+    "file": "https://archive.org/download/ffight/NES-Famicom/Excitebike%20%28Japan%2C%20USA%29.7z/Excitebike%20%28Japan%2C%20USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
+    "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/f/f8/Excitebike_cover.jpg"
   },
   {
@@ -1202,7 +1152,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Golden%20Axe%20%28USA%2C%20Europe%29.7z/Golden%20Axe%20%28USA%2C%20Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Golden%20Axe%20%28USA%2C%20Europe%29.7z/Golden%20Axe%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -1242,7 +1192,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Golden%20Axe%20Warrior%20%28USA%2C%20Europe%29.7z/Golden%20Axe%20Warrior%20%28USA%2C%20Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Golden%20Axe%20Warrior%20%28USA%2C%20Europe%29.7z/Golden%20Axe%20Warrior%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -1322,34 +1272,9 @@
     "core": "nes",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/280b9f9b_gmail_TS2/Ice%20Climber%20%28USA%2C%20Europe%29.7z/Ice%20Climber%20%28USA%2C%20Europe%29.nes",
+    "file": "https://archive.org/download/ffight/NES-Famicom/Ice%20Climber%20%28USA%2C%20Europe%29.7z/Ice%20Climber%20%28USA%2C%20Europe%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
+    "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/d/df/IceClimberboxartnes.jpg"
   },
   {
@@ -1362,34 +1287,9 @@
     "core": "nes",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/280b9f9b_gmail_TS2/Jackal%20%28USA%29.7z/Jackal%20%28USA%29.nes",
+    "file": "https://archive.org/download/ffight/NES-Famicom/Jackal%20%28USA%29.7z/Jackal%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
+    "cheats": [],
     "cover": "https://videogamegalaxy.com/wp-content/uploads/2023/04/Jackal-USA.jpg"
   },
   {
@@ -1402,7 +1302,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Kenseiden%20%28USA%2C%20Europe%29.7z/Kenseiden%20%28USA%2C%20Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Kenseiden%20%28USA%2C%20Europe%29.7z/Kenseiden%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -1442,7 +1342,7 @@
     "core": "nes",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/280b9f9b_gmail_TS2/Kung%20Fu%20%28Japan%2C%20USA%29.7z/Kung%20Fu%20%28Japan%2C%20USA%29.nes",
+    "file": "https://archive.org/download/ffight/NES-Famicom/Kung%20Fu%20%28Japan%2C%20USA%29.7z/Kung%20Fu%20%28Japan%2C%20USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -1482,34 +1382,9 @@
     "core": "nes",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/280b9f9b_gmail_TS2/Legend%20of%20Zelda%2C%20The%20%28USA%29.7z/Legend%20of%20Zelda%2C%20The%20%28USA%29.nes",
+    "file": "https://archive.org/download/ffight/NES-Famicom/Legend%20of%20Zelda%2C%20The%20%28USA%29.7z/Legend%20of%20Zelda%2C%20The%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
+    "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png"
   },
   {
@@ -1597,38 +1472,13 @@
     "core": "nes",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/280b9f9b_gmail_TS2/Metroid%20%28USA%29.7z/Metroid%20%28USA%29.nes",
+    "file": "https://archive.org/download/ffight/NES-Famicom/Metroid%20%28USA%29.7z/Metroid%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
+    "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/5/5d/Metroid_boxart.jpg"
   },
   {
-    "title": "mike tysons punch-out!! (japan, usa)",
+    "title": "Mike Tysons Punch-Out!! (Japan, USA)",
     "platform": "NES-Famicom",
     "year": 1987,
     "rating": "",
@@ -1637,34 +1487,9 @@
     "core": "nes",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/280b9f9b_gmail_TS2/Mike%20Tysons%20Punch-Out%21%21%20%28Japan%2C%20USA%29.7z/Mike%20Tyson%27s%20Punch-Out%21%21%20%28Japan%2C%20USA%29.nes",
+    "file": "https://archive.org/download/ffight/NES-Famicom/Mike%20Tysons%20Punch-Out%21%21%20%28Japan%2C%20USA%29.7z/Mike%20Tyson%27s%20Punch-Out%21%21%20%28Japan%2C%20USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
+    "cheats": [],
     "cover": "https://cdn.shopify.com/s/files/1/1104/2322/files/14834_front.jpg?v=1740936828"
   },
   {
@@ -1707,7 +1532,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Ninja%20Gaiden%20%28Europe%29%20%28Beta%29.7z/Ninja%20Gaiden%20%28Europe%29%20%28Beta%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Ninja%20Gaiden%20%28Europe%29%20%28Beta%29.7z/Ninja%20Gaiden%20%28Europe%29%20%28Beta%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -1747,7 +1572,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Ninja%2C%20The%20%28USA%2C%20Europe%29.7z/Ninja%2C%20The%20%28USA%2C%20Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Ninja%2C%20The%20%28USA%2C%20Europe%29.7z/Ninja%2C%20The%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -1857,7 +1682,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Psycho%20Fox%20%28USA%2C%20Europe%29.7z/Psycho%20Fox%20%28USA%2C%20Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Psycho%20Fox%20%28USA%2C%20Europe%29.7z/Psycho%20Fox%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -1897,7 +1722,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/R-Type%20%28World%29.7z/R-Type%20%28World%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/R-Type%20%28World%29.7z/R-Type%20%28World%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -2107,7 +1932,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Scramble%20Spirits%20%28Europe%29.7z/Scramble%20Spirits%20%28Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Scramble%20Spirits%20%28Europe%29.7z/Scramble%20Spirits%20%28Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -2147,7 +1972,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Secret%20Command%20%28Europe%29.7z/Secret%20Command%20%28Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Secret%20Command%20%28Europe%29.7z/Secret%20Command%20%28Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -2187,7 +2012,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Shinobi%20%28USA%2C%20Europe%29.7z/Shinobi%20%28USA%2C%20Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Shinobi%20%28USA%2C%20Europe%29.7z/Shinobi%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -2267,7 +2092,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.7z/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.7z/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -2322,7 +2147,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.7z/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.7z/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -2402,7 +2227,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/SpellCaster%20%28USA%2C%20Europe%29.7z/SpellCaster%20%28USA%2C%20Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/SpellCaster%20%28USA%2C%20Europe%29.7z/SpellCaster%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -2562,34 +2387,9 @@
     "core": "nes",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/280b9f9b_gmail_TS2/Super%20Mario%20Bros.%20%28World%29.7z/Super%20Mario%20Bros.%20%28World%29.nes",
+    "file": "https://archive.org/download/ffight/NES-Famicom/Super%20Mario%20Bros.%20%28World%29.7z/Super%20Mario%20Bros.%20%28World%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
+    "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png"
   },
   {
@@ -2602,34 +2402,9 @@
     "core": "nes",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/280b9f9b_gmail_TS2/Super%20Mario%20Bros.%202%20%28USA%29.7z/Super%20Mario%20Bros.%202%20%28USA%29.nes",
+    "file": "https://archive.org/download/ffight/NES-Famicom/Super%20Mario%20Bros.%202%20%28USA%29.7z/Super%20Mario%20Bros.%202%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
+    "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Super_Mario_Bros._2_box_art.png/250px-Super_Mario_Bros._2_box_art.png"
   },
   {
@@ -2642,34 +2417,9 @@
     "core": "nes",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/280b9f9b_gmail_TS2/Super%20Mario%20Bros.%203%20%28USA%29.7z/Super%20Mario%20Bros.%203%20%28USA%29.nes",
+    "file": "https://archive.org/download/ffight/NES-Famicom/Super%20Mario%20Bros.%203%20%28USA%29.7z/Super%20Mario%20Bros.%203%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
+    "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/a/a5/Super_Mario_Bros._3_coverart.png"
   },
   {
@@ -2712,7 +2462,7 @@
     "core": "segaGG",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Game%20Gear/Fatal%20Fury%20Special%20%28U%29%20%5B%21%5D.zip/Fatal%20Fury%20Special%20%28U%29%20%5B%21%5D.gg",
+    "file": "https://archive.org/download/ffight/Sega%20Game%20Gear/Fatal%20Fury%20Special%20%28U%29%20%5B%21%5D.zip/Fatal%20Fury%20Special%20%28U%29%20%5B%21%5D.gg",
     "engine": "4.2.3",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Fatal_Fury_Special_arcade_flyer.jpg/250px-Fatal_Fury_Special_arcade_flyer.jpg"
@@ -2757,7 +2507,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Wonder%20Boy%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20%28USA%2C%20Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -2812,7 +2562,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Wonder%20Boy%20III%20-%20The%20Dragons%20Trap%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20III%20-%20The%20Dragon%27s%20Trap%20%28USA%2C%20Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20III%20-%20The%20Dragons%20Trap%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20III%20-%20The%20Dragon%27s%20Trap%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -2892,7 +2642,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Wonder%20Boy%20in%20Monster%20World%20%28Europe%29.7z/Wonder%20Boy%20in%20Monster%20World%20%28Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
@@ -2932,7 +2682,7 @@
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Ys%20-%20The%20Vanished%20Omens%20%28USA%2C%20Europe%29.7z/Ys%20-%20The%20Vanished%20Omens%20%28USA%2C%20Europe%29.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Ys%20-%20The%20Vanished%20Omens%20%28USA%2C%20Europe%29.7z/Ys%20-%20The%20Vanished%20Omens%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [
       [
