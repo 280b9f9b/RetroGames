@@ -2723,7 +2723,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Bare%20Knuckle%20-%20Ikari%20no%20Tetsuken%20~%20Streets%20of%20Rage%20%28World%29.7z/Bare%20Knuckle%20-%20Ikari%20no%20Tetsuken%20~%20Streets%20of%20Rage%20%28World%29.md",
-    "cover": "",
+    "cover": "https://i.pinimg.com/564x/26/d0/92/26d09260a6be15bf75c2d98e10970ca5.jpg",
     "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": []
   },
@@ -2738,7 +2738,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Golden%20Axe%20II%20%28World%29.7z/Golden%20Axe%20II%20%28World%29.md",
-    "cover": "",
+    "cover": "https://m.media-amazon.com/images/I/81Bcx83r7YL.jpg",
     "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": []
   },
@@ -2753,7 +2753,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Golden%20Axe%20III%20%28Japan%29.7z/Golden%20Axe%20III%20%28Japan%29.md",
-    "cover": "",
+    "cover": "https://www.consoleroms.com/img/roms/golden-axe-III-sega-genesis-japan.jpg",
     "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": []
   },
@@ -2768,7 +2768,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Super%20Street%20Fighter%20II%20%28USA%29.7z/Super%20Street%20Fighter%20II%20%28USA%29.md",
-    "cover": "",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/SSF2_US_flyer.png/250px-SSF2_US_flyer.png",
     "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": []
   }
