@@ -20,22 +20,26 @@
       "https://i.ytimg.com/vi/6wGQP8lyXq0/hqdefault.jpg"
     ]
   },
-  {
+ {
     "title": "Alex Kidd in Miracle World",
     "platform": "Sega Master System",
     "year": 1986,
-    "rating": "",
+    "rating": 7.5,
     "genres": "Platformer",
     "players": 1,
     "core": "segaMS",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Alex Kidd in Miracle World.sms",
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Alex%20Kidd%20in%20Miracle%20World%20%28USA%2C%20Europe%29.7z/Alex%20Kidd%20in%20Miracle%20World%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "alex_kidd_miracle_world.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/ae/AlexKiddInMiracleWorldBox.jpg",
+    "description": "Alex Kidd in Miracle World is a platform game developed and published by Sega for the Master System. It was released in Japan on November 1, 1986, followed by North America in December 1986, and Europe in 1987. It was later built into many Master System and Master System II consoles.",
+    "screenshots": [
+      "https://i.ytimg.com/vi/yasiyS7dkcU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGBMgEyh_MA8=&rs=AOn4CLAri_9NLRjbn9yZd22DIUYpfDHRRQ",
+      "https://preview.redd.it/alex-kidd-in-miracle-world-for-sega-master-system-alex-kidd-v0-e2vy1afommae1.jpg?width=640&crop=smart&auto=webp&s=abc04f29b51ae2b3902c5562219423135521cd48",
+      "https://eternalplayers.wordpress.com/wp-content/uploads/2015/12/63cd3-maxresdefault.jpg"
+    ]
   },
   {
     "title": "Alex Kidd in Miracle World (USA, Europe)",
