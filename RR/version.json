@@ -3533,38 +3533,52 @@
     "screenshots": []
   },
   {
-    "title": "Alien Storm",
-    "platform": "Sega Mega Drive",
-    "year": 1990,
-    "rating": "",
-    "genres": "Beat 'em up / Action",
+    "title": "Altered Beast (1988)",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": 6.8,
+    "genres": "Action, Arcade",
     "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Altered Beast.md",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://media.rawg.io/media/games/0c8/0c8e70a85fd2a341c77ada2a919ca0e1.jpg",
+    "description": "Altered Beast is a 1988 beat 'em up arcade game developed and manufactured by Sega. The game is set in Ancient Greece, and follows a centurion who is resurrected by Zeus to rescue his daughter Athena. In order to save his daughter, Zeus transforms the centurion into beasts with the use of power-ups. After its initial arcade release, it was ported to several home video game consoles and home computers, including the Mega Drive/Genesis, for which it was a pack-in game.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/89c/89c5e20286c442ebb83d326903f40475.jpg",
+      "https://media.rawg.io/media/screenshots/c2d/c2d6665efac07128110754f40cf4ced0.jpg",
+      "https://media.rawg.io/media/screenshots/e15/e1524e8197630dee0f00f04abe90a54c.jpg",
+      "https://media.rawg.io/media/screenshots/67b/67b602844c1687d7bec8570fef089625.jpg",
+      "https://media.rawg.io/media/screenshots/3fb/3fb033544ce8aec28b4361948825f17a.jpg",
+      "https://media.rawg.io/media/screenshots/88d/88d2d4249f74ab7b34e74da64fc493d6.jpg"
+    ]
+  },
+  {
+    "title": "Alien Storm (1991)",
+    "platform": "Sega Mega Drive",
+    "year": 1991,
+    "rating": 8,
+    "genres": "Shooter",
+    "players": 1,
     "core": "segaMD",
     "lightgun": false,
     "biosUrl": false,
     "file": "Alien Storm.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "alien_storm.jpg",
+    "cover": "https://media.rawg.io/media/screenshots/a0b/a0bf38032bfb3514c3b44c8f4cbea733.jpg",
     "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Altered Beast",
-    "platform": "Sega Mega Drive",
-    "year": 1989,
-    "rating": "",
-    "genres": "Action-Platformer",
-    "players": 1,
-    "core": "segaMD",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Altered Beast.md",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "altered_beast.jpg",
-    "description": "",
-    "screenshots": []
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a0b/a0bf38032bfb3514c3b44c8f4cbea733.jpg",
+      "https://media.rawg.io/media/screenshots/05c/05c69b374b0236cc7ef3ae7fa3f6c874.jpg",
+      "https://media.rawg.io/media/screenshots/8a9/8a915717ad2c39a53e820312576526ac.jpg",
+      "https://media.rawg.io/media/screenshots/695/69544badc82000d240ea9fc23ec796e2.jpg",
+      "https://media.rawg.io/media/screenshots/94d/94d52f290262f07a245b7a70f04e5177.jpg",
+      "https://media.rawg.io/media/screenshots/dd3/dd30c27202bc43e4da8923daf8b765a6.jpg"
+    ]
   },
   {
     "title": "Altered Beast (USA, Europe)",
@@ -3777,28 +3791,35 @@
     "screenshots": []
   },
   {
-    "title": "Bare Knuckle - Ikari no Tetsuken ~ Streets of Rage (World)",
+    "title": "Streets of Rage",
     "platform": "Sega Mega Drive",
-    "year": null,
-    "rating": "",
-    "genres": "",
+    "year": 1991,
+    "rating": 8.6,
+    "genres": "Action, Arcade",
     "players": 1,
     "core": "segaMD",
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Bare%20Knuckle%20-%20Ikari%20no%20Tetsuken%20~%20Streets%20of%20Rage%20%28World%29.7z/Bare%20Knuckle%20-%20Ikari%20no%20Tetsuken%20~%20Streets%20of%20Rage%20%28World%29.md",
-    "cover": "https://i.pinimg.com/564x/26/d0/92/26d09260a6be15bf75c2d98e10970ca5.jpg",
+    "cover": "https://media.rawg.io/media/games/687/687c7ac926491e65dcb8f0c9d45cab07.jpg",
     "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": [],
-    "description": "",
-    "screenshots": []
+    "description": "Just UpdatedAll SEGA MegaDrive/Genesis titles now launch using the new SEGA MegaDrive/Genesis Interactive Hub, with all new features, UI and Steam Workshop Support!\nAbout the GameWhat was once a happy, peaceful, productive city, has fallen into the hands of a secret criminal syndicate.\nLooting, random violence and destruction are rampant. Nobody is safe. Despite repeated refusals by their superiors, three young police officers were determined to tackle the problem head on. Eventually they created a special attack unit the only way they could – they quit the force. Take control of one of the three ex-officers and make the city a place where people no longer have to walk the Streets of Rage™!",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/436/4366cc1c071f8f8a30055846f5d739dc.jpg",
+      "https://media.rawg.io/media/screenshots/636/636495be4e81d01a713e8f0af3bbd52d.jpg",
+      "https://media.rawg.io/media/screenshots/b46/b467fb09575f4bf738f272ee6853ccc3.jpg",
+      "https://media.rawg.io/media/screenshots/325/3256ea1202ffb386a6dd6553550d9afc.jpg",
+      "https://media.rawg.io/media/screenshots/e61/e61ae7527bced00cca2f8b1b40ecaeb6.jpg",
+      "https://media.rawg.io/media/screenshots/bf6/bf671c650e12bd620c769d316b5b5140.jpg"
+    ]
   },
   {
-    "title": "Beyond Oasis (Story of Thor)",
+    "title": "Beyond Oasis",
     "platform": "Sega Mega Drive",
     "year": 1994,
-    "rating": "",
-    "genres": "Action-RPG",
+    "rating": 8.8,
+    "genres": "Action, RPG",
     "players": 1,
     "core": "segaMD",
     "lightgun": false,
@@ -3806,16 +3827,23 @@
     "file": "Beyond Oasis.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "beyond_oasis.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/9d5/9d5e6475ba7cbcaf00e90c53d82a5cdc.jpg",
+    "description": "Beyond Oasis, known in Japan as The Story of Thor: Hikari wo Tsugu Mono (ストーリー オブ トア 〜光を継ぐ者〜, \"The Story of Thor: Heir of the Light\") and in Europe as The Story of Thor: A Successor of The Light, is a 1994 Action-adventure video game developed by Ancient and published by Sega for the Mega Drive/Genesis console. The game was later re-released to the Wii's Virtual Console on March 19, 2007 in North America, and April 5 the same year in Europe. The game was also included in Sonic's Ultimate Genesis Collection/Sega Mega Drive Ultimate Collection for Xbox 360 and PlayStation 3; in the European version of the latter, it is entitled The Story of Thor. In 2017, the game was ported to iOS and Android as part of SEGA's SEGA Forever service.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a97/a971768123fcc2ab92883803a18cc921.jpg",
+      "https://media.rawg.io/media/screenshots/1f7/1f71499bcf422d4fdc5ab1e67529b3dc.jpg",
+      "https://media.rawg.io/media/screenshots/479/4793dac6372abad71c86c70291e6898f.jpg",
+      "https://media.rawg.io/media/screenshots/eac/eac690bdab9f3d6f5ed2f97d6dca4fd5.jpg",
+      "https://media.rawg.io/media/screenshots/972/9724b2799de11697c1c00934d018d6f8.jpg",
+      "https://media.rawg.io/media/screenshots/e7c/e7c183140aecc8a75258b30ba16c1143.jpg"
+    ]
   },
   {
-    "title": "Beyond Oasis (USA)",
+    "title": "Beyond Oasis",
     "platform": "Sega Mega Drive",
     "year": 1994,
-    "rating": 8,
-    "genres": "Action RPG",
+    "rating": 8.8,
+    "genres": "Action, RPG",
     "players": 1,
     "core": "segaMD",
     "lightgun": false,
@@ -4176,15 +4204,22 @@
         "AADT-EA30"
       ]
     ],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/8/8d/Beyondoasiscover.JPG",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/9d5/9d5e6475ba7cbcaf00e90c53d82a5cdc.jpg",
+    "description": "Beyond Oasis, known in Japan as The Story of Thor: Hikari wo Tsugu Mono (ストーリー オブ トア 〜光を継ぐ者〜, \"The Story of Thor: Heir of the Light\") and in Europe as The Story of Thor: A Successor of The Light, is a 1994 Action-adventure video game developed by Ancient and published by Sega for the Mega Drive/Genesis console. The game was later re-released to the Wii's Virtual Console on March 19, 2007 in North America, and April 5 the same year in Europe. The game was also included in Sonic's Ultimate Genesis Collection/Sega Mega Drive Ultimate Collection for Xbox 360 and PlayStation 3; in the European version of the latter, it is entitled The Story of Thor. In 2017, the game was ported to iOS and Android as part of SEGA's SEGA Forever service.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/a97/a971768123fcc2ab92883803a18cc921.jpg",
+      "https://media.rawg.io/media/screenshots/1f7/1f71499bcf422d4fdc5ab1e67529b3dc.jpg",
+      "https://media.rawg.io/media/screenshots/479/4793dac6372abad71c86c70291e6898f.jpg",
+      "https://media.rawg.io/media/screenshots/eac/eac690bdab9f3d6f5ed2f97d6dca4fd5.jpg",
+      "https://media.rawg.io/media/screenshots/972/9724b2799de11697c1c00934d018d6f8.jpg",
+      "https://media.rawg.io/media/screenshots/e7c/e7c183140aecc8a75258b30ba16c1143.jpg"
+    ]
   },
   {
-    "title": "Castle of Illusion Starring Mickey Mouse",
+    "title": "Castle of Illusion Starring Mickey Mouse (1990)",
     "platform": "Sega Mega Drive",
     "year": 1990,
-    "rating": "",
+    "rating": 7.5,
     "genres": "Platformer",
     "players": 1,
     "core": "segaMD",
@@ -4193,15 +4228,22 @@
     "file": "Castle of Illusion.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "castle_of_illusion.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/49a/49a7e1cc472429260841961440572bfa.jpg",
+    "description": "Castle of Illusion Starring Mickey Mouse is a 1990 platform game developed by Sega and released for the Sega Genesis. An 8-bit version of the game was later released for the Master System and Game Gear. The game follows Mickey Mouse on a quest to save Minnie Mouse from the evil witch Mizrabel. It was the first game in Sega's long-running Illusion video game series starring Mickey and was also a part of the second wave of games initially released for the Sega Genesis which helped seal the console's reputation within the period until the release of Sonic the Hedgehog in 1991.\nCastle of Illusion was very well received by critics, especially the original 16-bit version. It was re-released in 1998 in Japan as part of the Sega Ages: Mickey Mouse & Donald Duck for the Sega Saturn, which features both Castle of Illusion and QuackShot. A remake of the game by Sega Studios Australia was released for PlayStation Network, Xbox Live Arcade and PC in September 2013.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/c1c/c1cd01968308fb34cd3141831d99b4e2.jpg",
+      "https://media.rawg.io/media/screenshots/a96/a96ad1e68a57cd5042d3d121aea1cc54.jpg",
+      "https://media.rawg.io/media/screenshots/a30/a30621bec43814c564e9d38a2a50c0e6.jpg",
+      "https://media.rawg.io/media/screenshots/acf/acff1a5b3001c024a84bdb9d4062c920.jpg",
+      "https://media.rawg.io/media/screenshots/308/30812e0810c77fcb2a21b2fde4d73b7f.jpg",
+      "https://media.rawg.io/media/screenshots/6e8/6e8f191d2aabfd5828e4829628dcbfbc.jpg"
+    ]
   },
   {
-    "title": "Columns",
+    "title": "Columns (1990)",
     "platform": "Sega Mega Drive",
     "year": 1990,
-    "rating": "",
+    "rating": 7.2,
     "genres": "Puzzle",
     "players": 2,
     "core": "segaMD",
@@ -4210,9 +4252,16 @@
     "file": "Columns.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "columns.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/b0f/b0f7e6d8f4dcb40fa7dca1fd68583cdc.jpg",
+    "description": "Columns (Japanese: コラムス, Hepburn: Koramusu) is a match-three puzzle video game created by Jay Geertsen in 1989. Early versions of the game were ported across early computer platforms and Atari ST. In 1990, Jay Geertsen sold the rights to Sega, who ported the game to several Sega consoles.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/31a/31a9f203dd9c8c37ee2f245fd64ea12e.jpg",
+      "https://media.rawg.io/media/screenshots/787/78774b5d70c54ccfa83b1e4caa592bb9.jpg",
+      "https://media.rawg.io/media/screenshots/136/136587fc699d39f4ce7f7414e50ed222.jpg",
+      "https://media.rawg.io/media/screenshots/5be/5be5e63f46c5edcea48165c29a1337ec.jpg",
+      "https://media.rawg.io/media/screenshots/f39/f39fe20753b7061e328e6c976f90119e.jpg",
+      "https://media.rawg.io/media/screenshots/0d0/0d058cc1055e112d73628f4619941fdb.jpg"
+    ]
   },
   {
     "title": "Comix Zone",
