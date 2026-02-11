@@ -1487,28 +1487,35 @@
     "screenshots": []
   },
   {
-    "title": "Mario Kart 64 (USA)",
+    "title": "Mario Kart 64 (1996)",
     "platform": "Nintendo 64",
     "year": 1996,
-    "rating": "",
-    "genres": "",
-    "players": 1,
+    "rating": 8.7,
+    "genres": "Racing",
+    "players": 4,
     "core": "n64",
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Nintendo%2064/Mario%20Kart%2064%20%28USA%29.zip/Mario%20Kart%2064%20%28USA%29.n64",
     "engine": "4.2.3",
     "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/a/a1/Mario_Kart_64.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/b19/b196fdca25e4df755f6fafd02df158d9.jpg",
+    "description": "Mario Kart 64 (マリオカート64, Mario Kāto Rokujūyon) is a kart racing video game developed and published by Nintendo for the Nintendo 64 video game console. It was the successor to Super Mario Kart for the Super Nintendo Entertainment System, and is the second game in the Mario Kart series. It was released first in Japan on December 14, 1996, and in North America and Europe in 1997. It was later released as a Virtual Console game for the Wii and Wii U in 2007 and 2016, respectively.\nChanges from the original include the move to polygon-based true 3D computer graphics for track design, and the inclusion of four-player support. Players take control of characters from the Mario franchise, who race around a variety of tracks with items that can either harm opponents or aid the user. The move to three-dimensional graphics allowed for track features not possible with the original game's Mode 7 graphics, such as changes in elevation, bridges, walls, and pits. However, the characters and items remained 2D pre-rendered sprites.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/259/25964136095abacc87a40b5c28a1f63d.jpg",
+      "https://media.rawg.io/media/screenshots/679/679368db7c6d44e1ad569f7d3d403ee8.jpg",
+      "https://media.rawg.io/media/screenshots/736/7367572618df634bc8d6cde65003fe66.jpg",
+      "https://media.rawg.io/media/screenshots/3dc/3dcb841699f4a65982cdd069d4bac185.jpg",
+      "https://media.rawg.io/media/screenshots/e7e/e7ee8f888eb16af3d462fe1a6991e2b0.jpg",
+      "https://media.rawg.io/media/screenshots/fa4/fa4061ad49242e9789fdd29941c2d7fa.jpg"
+    ]
   },
   {
     "title": "New Super Mario Bros.",
     "platform": "Nintendo DS",
     "year": 2006,
-    "rating": "",
-    "genres": "",
+    "rating": 8.3,
+    "genres": "Action, Arcade, Platformer",
     "players": 1,
     "core": "nds",
     "lightgun": false,
@@ -1516,16 +1523,23 @@
     "file": "https://archive.org/download/ffight/Nintendo%20DS/0434%20-%20New%20Super%20Mario%20Bros.%20%28U%29%28Psyfer%29.7z/-%20New%20Super%20Mario%20Bros.%20%28U%29%28Psyfer%29.nds",
     "engine": "4.2.3",
     "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/d/db/NewSuperMarioBrothers.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/ada/ada90672691bd75745ee88cd43d49657.jpg",
+    "description": "Princess Peach™ has been kidnapped by Bowser Jr.™! Run, jump, and stomp\nyour way across eight worlds as you smash through your foes and save the\nday! Take a break from the adventure to play minigames in four\nfun-filled categories!\n\nWhen lightning suddenly strikes Peach's castle, Mario goes to\ninvestigate the disturbance. But Bowser Jr. seizes the opportunity to\nsneak up from behind and grab ahold of Peach! It's up to Mario to save\nthe day! Run, jump, and stomp your way through raging volcanoes,\ntropical islands, snowcapped peaks, and unimaginable challenges. Grab a\nMega Mushroom and grow to incredible proportions, or smash through your\nfoes in a blue Koopa shell. Collect Star Coins to unlock helpful items,\nbackgrounds, and even new paths on the map.\nThis classic game is part of the Virtual Console service, which brings you great games created for consoles such as NES™, Super NES™ and Game Boy™ Advance. We hope you'll enjoy the new features (including off-TV play) that have been added to this title. See more Virtual Console games for Wii U.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/76e/76e205a1974cdf7c9eae26e18f306c14.jpg",
+      "https://media.rawg.io/media/screenshots/08b/08bac065ec49f0b29ab2e7284f694b02.jpg",
+      "https://media.rawg.io/media/screenshots/908/908c7cabeacfeeb2958ebf6a313b0b09.jpg",
+      "https://media.rawg.io/media/screenshots/b61/b6179fcdc9cdcbcd7924d92c0f9226c6.jpg",
+      "https://media.rawg.io/media/screenshots/064/064ffb2873df0340d695b43cf3fe3528.jpg",
+      "https://media.rawg.io/media/screenshots/27b/27b77b26b2cd1f3a39bc9928dcf99f16.jpg"
+    ]
   },
   {
-    "title": "Super Mario Land (World)",
+    "title": "Super Mario Land",
     "platform": "Nintendo Game Boy",
     "year": 1989,
-    "rating": "",
-    "genres": "",
+    "rating": 7.9,
+    "genres": "Action, Platformer",
     "players": 1,
     "core": "gb",
     "lightgun": false,
@@ -1533,15 +1547,22 @@
     "file": "https://archive.org/download/ffight/Nintendo%20Game%20Boy/Super%20Mario%20Land%20%28World%29.zip/Super%20Mario%20Land%20%28World%29.gb",
     "engine": "4.2.3",
     "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/2/22/Super-mario-land-gameboy-boxart.png",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/1fe/1fe7141e0363840130cb2edfbe71a9aa.jpg",
+    "description": "Ancient ruins, giant crabs, Koopa Troopas, flying stone heads, and\nhungry sharks await you in this 1989 Game Boy game.\n\nIn the beautiful kingdom of Sarasaland, a mysterious alien has appeared\nand hypnotized the inhabitants, while kidnapping Princess Daisy for\nhimself!\n\nTravel over land, in the air, and underwater, as Mario runs, jumps, and\nbounces his way to fortune and glory on his mission to save Princess\nDaisy and restore peace!\n\nAncient ruins, tempestuous waters, and brand new challenges await!",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/608/6083faecf7e425ba372906568f4333f8.jpg",
+      "https://media.rawg.io/media/screenshots/b96/b96614b1d8951444e52dbe57a586b14d.jpg",
+      "https://media.rawg.io/media/screenshots/316/31668e78428844131b006d62e2e6137b.jpg",
+      "https://media.rawg.io/media/screenshots/dbe/dbebeb1bfc0fbe13c40939fbe4b3d50c.jpg",
+      "https://media.rawg.io/media/screenshots/0f7/0f749da619d73f11594a33646adbcb9a.jpg",
+      "https://media.rawg.io/media/screenshots/156/156988e31e187f10c1d5fd8b1b8da983.jpg"
+    ]
   },
   {
-    "title": "Crash Bandicoot 2 - Cortex Strikes Back [NTSC-U] [SCUS-94154]",
+    "title": "Crash Bandicoot 2: Cortex Strikes Back",
     "platform": "PlayStation",
     "year": 1997,
-    "rating": 8.7,
+    "rating": 8.5,
     "genres": "Platformer",
     "players": 1,
     "core": "psx",
@@ -1550,60 +1571,88 @@
     "file": "https://archive.org/download/ffight/PlayStation/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.7z/Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.bin.ecm",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTil83XgiAe_HxOmmDdfLn_hUqKaVXdH-_16A&s",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/a84/a84dc4980063ce934705ea5d8d241939.jpg",
+    "description": "A direct sequel to the Naughty Dog’s Crash Bandicoot was quickly put together, due to the success of the original. It’s a direct continuation of the story, with Crash trying to stop Doctor Neo Cortex from conquering the world once again. After his defeat in the original game, Cortex fell from his lair into the cavern, filled with glowing crystals. When he examines them thoroughly, it is clear that only these crystals can absorb the energy that would otherwise destroy the planet, and in order to gather all 25 remaining crystals he tricks Crash into helping him.\nCrash Bandicoot 2 is built on the same engine as the first one. Each stage has a crystal, and each of them can be accessed through the Warp Room. At the end of each level, Crash will have to face four bosses before his final clash with Cortex. As a 3D platforming game, Crash Bandicoot allows players to run and jump through the levels, with a fixed camera, centered either directly behind Crash in 3D sections or placed to the side in 2D platforming sections. Each stage has a set of hazards, that might come in forms of enemies with fixed walking and attack patterns, environmental traps, or boxes that will damage Crash when he breaks them.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0b2/0b2b0ad4e1e77192b2e1c1025b85069c.jpg",
+      "https://media.rawg.io/media/screenshots/395/3959c282e79f33068c0ed8f684a02c27.jpg",
+      "https://media.rawg.io/media/screenshots/dbe/dbed9e034f20e4a3623a6a072eaba130.jpg",
+      "https://media.rawg.io/media/screenshots/1ec/1ecf1b0e83b2d34c671dfc47d6614572.jpg",
+      "https://media.rawg.io/media/screenshots/dab/dabf4ab51199cd4f0726fa6970f0b62d.jpg",
+      "https://media.rawg.io/media/screenshots/42e/42e790a59723a7f8987dcf99e321fb01.jpg"
+    ]
   },
   {
     "title": "Knuckles' Chaotix",
     "platform": "Sega 32X",
-    "year": 1996,
-    "rating": 6,
-    "genres": "Action, Platformer",
-    "players": 1,
+    "year": 1995,
+    "rating": 6.3,
+    "genres": "Action",
+    "players": 2,
     "core": "sega32x",
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Sega%2032X/Knuckles%27%20Chaotix.zip/Knuckles%27%20Chaotix%20%23%2032X.32X",
     "engine": "4.2.3",
     "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/d/dd/Knuckles%27_Chaotix_Coverart.png",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/b22/b22580545dcfec275be4e23bb2da3180.jpg",
+    "description": "Knuckles' Chaotix is a 1995 side-scrolling platform game developed and published by Sega for the 32X. A spin-off of the Sonic the Hedgehog series, the game features Knuckles the Echidna and four other characters known as the Chaotix. The story follows the team in their efforts to prevent Doctor Robotnik and Metal Sonic from obtaining six magic rings and conquering a mysterious island. Gameplay is similar to earlier Sonic games: players complete levels while collecting rings and defeating enemies. Knuckles' Chaotix introduces a partner system whereby the player is connected to another character via a tether. This tether behaves like a rubber band and must be handled appropriately to maneuver the characters through the stages.\nUnlike many other Sonic games, Knuckles' Chaotix was not developed by Sonic Team, but another internal development team at Sega. Development can be traced back to Sonic Crackers, a 1994 prototype for the Sega Genesis which experimented with the tethering mechanics and featured Sonic and Tails. The concept was retained when development transitioned to the 32X under the working title Knuckles' Ringstar. Sonic and Tails were removed from the game and replaced by Knuckles and four other characters, including Mighty the Armadillo, who first appeared in the arcade game SegaSonic the Hedgehog (1993).\nCritical reception to Knuckles' Chaotix has been mixed. Critics found the tethering physics cumbersome, although some appreciated it as an attempt by Sega to innovate in the series. It is seen as the last in the \"classic\" 2D style of Sonic games before the series moved to 3D. Some characters and concepts introduced in the game were featured in later Sonic games and media. Despite interest from fans, it has not been re-released beyond a brief period through GameTap in the mid-2000s.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/10a/10af85f1868e1b00a7a648882a85c745.jpg",
+      "https://media.rawg.io/media/screenshots/cc8/cc8b24dd2bd9053d1ad5456bd6745766.jpg",
+      "https://media.rawg.io/media/screenshots/1a0/1a054dc3f3e0fdfb4a053d615c747c41.jpg",
+      "https://media.rawg.io/media/screenshots/349/349b698a2c8b8a007b63afb0b078ecb3.jpg",
+      "https://media.rawg.io/media/screenshots/906/906b572481535eb938c759f90551610b.jpg",
+      "https://media.rawg.io/media/screenshots/e59/e59e9f42218af8aa4bd881379f4c0032.jpg"
+    ]
   },
   {
-    "title": "Final Fight CD (U)",
+    "title": "Final Fight",
     "platform": "Sega CD",
-    "year": 1993,
-    "rating": "",
-    "genres": "",
-    "players": 1,
+    "year": 1989,
+    "rating": 8,
+    "genres": "Fighting",
+    "players": 2,
     "core": "segaCD",
     "lightgun": false,
     "biosUrl": "https://archive.org/download/ffight/Sega%20CD/bios_CD_U.7z/bios_CD_U.bin",
     "file": "https://archive.org/download/ffight/Sega%20CD/Final%20Fight%20CD%20%28U%29.zip/Final%20Fight%20CD%20%28Sega%20CD%29%20%28U%29.bin",
     "engine": "4.1.1",
     "cheats": [],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXWLUcriu2vELPk6ZtQmOdgjYGLEHtxGi0JQ&s",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/eaa/eaa94a1203b9b8fdf5b01575c9e91591.jpg",
+    "description": "Final Fight (Japanese: ファイナルファイト, Hepburn: Fainaru Faito) is a side-scrolling beat-'em-up video game produced by Capcom. Originally released as an arcade game in 1989, it was the seventh title released for the CP System hardware. Set in the fictional Metro City, the player controls one of three characters: former pro wrestler and mayor Mike Haggar, his daughter's boyfriend Cody, and Cody's best friend Guy, as they set out to defeat the Mad Gear gang and rescue Haggar's young daughter Jessica.\nThe game began development as a sequel to the original Street Fighter released in 1987, but the genre was switched from a fighting game to a beat 'em up and the title was changed following the success of Double Dragon. Final Fight was ported to various home consoles such as the Super NES and was followed by a few sequels. Its development team later worked on the original Street Fighter II and some of the characters from Final Fight later appeared as playable fighters in other entries of the franchise such as the Street Fighter Alpha sub-series.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/511/51112c7bda4a688b3a9d874b63152ff3.jpg",
+      "https://media.rawg.io/media/screenshots/fba/fba3ba7c908c8c9ebeab231620ea8439.jpg",
+      "https://media.rawg.io/media/screenshots/714/71406d2e134c179c7f2a34ed20d49739.jpg",
+      "https://media.rawg.io/media/screenshots/7f9/7f9c36852d2e19bac3d9f9306abd6362.jpg",
+      "https://media.rawg.io/media/screenshots/8e6/8e622710ac9417fee635851226f8a777.jpg",
+      "https://media.rawg.io/media/screenshots/bdd/bddb1fa846d2608cac1e8a3922431e27.jpg"
+    ]
   },
   {
-    "title": "Fatal Fury Special (U) [!]",
+    "title": "Fatal Fury Special",
     "platform": "Sega Game Gear",
-    "year": 1995,
-    "rating": "",
-    "genres": "",
-    "players": 1,
+    "year": 1993,
+    "rating": 6.1,
+    "genres": "Action, Arcade, Casual, Fighting",
+    "players": 2,
     "core": "segaGG",
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Sega%20Game%20Gear/Fatal%20Fury%20Special%20%28U%29%20%5B%21%5D.zip/Fatal%20Fury%20Special%20%28U%29%20%5B%21%5D.gg",
     "engine": "4.2.3",
     "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Fatal_Fury_Special_arcade_flyer.jpg/250px-Fatal_Fury_Special_arcade_flyer.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/35f/35fec4f3634887057d5ff72c5efa1cf0.jpg",
+    "description": "Fatal Fury Special (餓狼伝説SPECIAL, Garou Densetsu Special, \"Legend of the Hungry Wolf Special\") is a 1993 fighting game developed and published by SNK and originally released for the Neo Geo arcade and home platforms. It is an updated version of 1992's Fatal Fury 2, introducing several changes to the gameplay system while expanding the available character roster.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/51d/51d37e28fe2909b4dcfbb7b51d7ed94d.jpg",
+      "https://media.rawg.io/media/screenshots/aca/aca9f2a5523f1f520741aca2a2b02b1d_e2P9DIZ.jpg",
+      "https://media.rawg.io/media/screenshots/4e5/4e555e7dc9fffc37dece0de123bce516_szq21pI.jpg",
+      "https://media.rawg.io/media/screenshots/293/2935b2fb35cc54eee753f9f2886d5df3.jpg",
+      "https://media.rawg.io/media/screenshots/0d3/0d3cf52ad3b4b94955c4cbb99888d422.jpg",
+      "https://media.rawg.io/media/screenshots/d51/d51e707d941a8377412df99f8fa155e2_RizsyyO.jpg"
+    ]
   },
   {
     "title": "After Burner",
@@ -5452,28 +5501,30 @@
     "screenshots": []
   },
   {
-    "title": "Daytona USA - Circuit Edition (Japan)",
+    "title": "Daytona USA: Championship Circuit Edition",
     "platform": "Sega Saturn",
-    "year": 1997,
-    "rating": 7.8,
+    "year": 1996,
+    "rating": 8.1,
     "genres": "Racing",
-    "players": 2,
+    "players": 1,
     "core": "segaSaturn",
     "lightgun": false,
     "biosUrl": "https://archive.org/download/ffight/Sega%20Saturn/saturn_bios.7z/saturn_bios.bin",
     "file": "https://archive.org/download/ffight/Sega%20Saturn/Daytona%20USA%20%28Japan%29.7z/Daytona%20USA%20%28Japan%29.chd",
     "engine": "4.2.0",
     "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Daytona_USA_-_Championship_Circuit_Edition_Coverart.png/250px-Daytona_USA_-_Championship_Circuit_Edition_Coverart.png",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/861/861bf7dec3d73f51676d4c08bca29937.jpg",
+    "description": "It’s time to get revved up with DAYTONA® USA! Based on the classic arcade title, DAYTONA® USA features enhanced graphics, tracks for all skill levels, and the original hit soundtrack!\nSave your quarters - we’re bringing the arcade straight to your living room with steering wheel and multiplayer support. Challenge your friends in up to eight player online races or the whole world via online leaderboards!\nNew Coat of Paint:\nNow with enhanced graphics, DAYTONA® USA gives you a classically updated, retro look in 16:9 widescreen.\nClassic Arcade Experience:\nRace your AI opponents in classic Arcade Mode, beat the clock in Survival and Time Trial modes or sing along to your favorite DAYTONA® songs in Karaoke mode!\n©SEGA. All Rights Reserved. SEGA is registered in the U.S. Patent and Trademark Office. SEGA and the SEGA logo are either registered trademarks or trademarks of SEGA Corporation.  Daytona International Speedway® is a registered trademark of International Speedway, Inc. and licensed to International Speedway Corporation. DAYTONA® is a registered trademark of International Speedway, Inc. and licensed to International Speedway Corporation.\nPurchase or use of this item is subject to the PlayStation®Network Terms of Service and User Agreement. This item has been sublicensed to you by Sony Computer Entertainment America.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/861/861bf7dec3d73f51676d4c08bca29937.jpg"
+    ]
   },
   {
-    "title": "Legend of Zelda, The - A Link to the Past (USA)",
+    "title": "The Legend of Zelda: A Link to the Past",
     "platform": "SNES-Super Famicom",
     "year": 1991,
-    "rating": "",
-    "genres": "",
+    "rating": 8.7,
+    "genres": "Action, Adventure",
     "players": 1,
     "core": "snes",
     "lightgun": false,
@@ -5481,9 +5532,16 @@
     "file": "https://archive.org/download/ffight/SNES/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28Europe%29.zip/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28Europe%29.sfc",
     "engine": "4.2.3",
     "cheats": [],
-    "cover": "https://m.media-amazon.com/images/I/71wfmH16Z8L.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/087/08727beb32c364d30e8b2a1aa8595f8e.jpg",
+    "description": "Return to an age of magic and heroes! When an evil magician named \n      Agahnim begins kidnapping young maidens in Hyrule in a quest to break \n      the imprisoning seal on Ganon, a young boy named Link is called upon to \n      stop him. Link must venture into twisting mazes, dungeons, palaces and \n      shadowy forests as he searches for the maidens and Princess Zelda. \n      Traversing both Light and Dark Worlds, he must navigate eight dark \n      dungeons, fighting evil enemies and huge bosses. Help our hero prevent \n      Ganon and Agahnim from shattering Hyrule forever. Whether you are a \n      young knight, a heroine-in-training or a seasoned warrior, The Legend of \n      Zelda: A Link to the Past will delight!\n    This game is only playable in 2D.This classic game is part of the Virtual Console service, which brings you great games created for consoles such as NES™, Super NES™ and Game Boy™ Advance. See more Virtual Console games for Nintendo 3DS.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/6b9/6b95d7910d73bccfcbfc6e4320a9a7bc.jpg",
+      "https://media.rawg.io/media/screenshots/4d1/4d15cc7dd7c52d91b8977cb8d2eeeee4.jpg",
+      "https://media.rawg.io/media/screenshots/356/3562bd0826e570e38654ab3c7db2bb15.jpg",
+      "https://media.rawg.io/media/screenshots/0a4/0a44cffe293f45d0afadf5374f2699f7.jpg",
+      "https://media.rawg.io/media/screenshots/72e/72edd98f79c53067e61e72a465ee8566.jpg",
+      "https://media.rawg.io/media/screenshots/333/333fae9eb69f9f56639f0de9ac0315ee.jpg"
+    ]
   },
   {
     "title": "Virtual Boy Wario Land (Japan, USA)",
