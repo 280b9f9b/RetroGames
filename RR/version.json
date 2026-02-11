@@ -709,7 +709,7 @@
     "file": "Balloon Fight.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "balloon_fight.jpg",
+    "cover": "https://www.retroplace.com/pics/nes/packshots/303--balloon-fight.png",
     "description": "",
     "screenshots": []
   },
@@ -726,7 +726,7 @@
     "file": "Baseball.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "baseball.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/6/64/Baseball_NES_box_art.jpg",
     "description": "",
     "screenshots": []
   },
@@ -743,7 +743,7 @@
     "file": "Battletoads.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "battletoads.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/e/e8/Battletoads_Coverart.png",
     "description": "",
     "screenshots": []
   },
@@ -760,7 +760,7 @@
     "file": "Castlevania.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "castlevania.jpg",
+    "cover": "https://i.ebayimg.com/images/g/kPIAAOSw24lkl2r9/s-l1200.jpg",
     "description": "",
     "screenshots": []
   },
@@ -777,7 +777,7 @@
     "file": "Clu Clu Land.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "clu_clu_land.jpg",
+    "cover": "https://www.retroplace.com/pics/nes/packshots/136682--clu-clu-land.png",
     "description": "",
     "screenshots": []
   },
@@ -828,7 +828,7 @@
     "file": "Donkey Kong.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "donkey_kong.jpg",
+    "cover": "https://j2games.com/cdn/shop/products/2361671-nes_donkeykongjr_jp_92b0049d-f107-4c6e-9767-2e85574c57f7.jpg?v=1625035011",
     "description": "",
     "screenshots": []
   },
@@ -845,7 +845,7 @@
     "file": "Donkey Kong Jr..nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "donkey_kong_jr.jpg",
+    "cover": "https://j2games.com/cdn/shop/products/2361671-nes_donkeykongjr_jp_92b0049d-f107-4c6e-9767-2e85574c57f7.jpg?v=1625035011",
     "description": "",
     "screenshots": []
   },
@@ -862,7 +862,7 @@
     "file": "Double Dragon.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "double_dragon.jpg",
+    "cover": "https://static.wikia.nocookie.net/doubledragon/images/6/66/Double_Dragon_-_%28NES%2C_JP%29_-_01.jpg/revision/latest?cb=20190309032739",
     "description": "",
     "screenshots": []
   },
@@ -879,7 +879,7 @@
     "file": "Dr. Mario.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "dr_mario.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/f/f8/Dr._Mario_box_art.jpg",
     "description": "",
     "screenshots": []
   },
@@ -896,7 +896,7 @@
     "file": "Duck Hunt.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "duck_hunt.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/1/14/DuckHuntBox.jpg",
     "description": "",
     "screenshots": []
   },
@@ -913,7 +913,7 @@
     "file": "Excitebike.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "excitebike.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/f/f8/Excitebike_cover.jpg",
     "description": "",
     "screenshots": []
   },
@@ -947,7 +947,7 @@
     "file": "Final Fantasy.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "final_fantasy.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/d/d8/FF1_USA_boxart.jpg",
     "description": "",
     "screenshots": []
   },
@@ -964,7 +964,7 @@
     "file": "Golf.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "golf.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/9/92/Golf_Coverart.png",
     "description": "",
     "screenshots": []
   },
@@ -981,7 +981,7 @@
     "file": "Gradius.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "gradius.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/1/13/Gradius.jpg",
     "description": "",
     "screenshots": []
   },
@@ -998,7 +998,7 @@
     "file": "Ice Climber.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "ice_climber.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/d/df/IceClimberboxartnes.jpg",
     "description": "",
     "screenshots": []
   },
@@ -1049,7 +1049,7 @@
     "file": "Kid Icarus.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "kid_icarus.jpg",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6YU3XtyhURRyzUQtZl1jj2vje08VQVczYw&s",
     "description": "",
     "screenshots": []
   },
@@ -1066,7 +1066,7 @@
     "file": "Kung Fu.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "kung_fu.jpg",
+    "cover": "https://cdn.0game.ir/gameso/images/games/nintendo/nes/covers/Kung%20Fu%20(Japan,%20USA)%20(En).jpg",
     "description": "",
     "screenshots": []
   },
@@ -1142,7 +1142,7 @@
     "file": "Mario Bros..nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "mario_bros.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png",
     "description": "",
     "screenshots": []
   },
@@ -1159,7 +1159,7 @@
     "file": "Mega Man 2.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "mega_man_2.jpg",
+    "cover": "https://cdna.artstation.com/p/assets/images/images/026/284/432/large/terrato-worzen-2016-07-22-rockman-2-05.jpg?1588360937",
     "description": "",
     "screenshots": []
   },
@@ -1176,7 +1176,7 @@
     "file": "Metroid.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "metroid.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/5/5d/Metroid_boxart.jpg",
     "description": "",
     "screenshots": []
   },
@@ -1227,7 +1227,7 @@
     "file": "Punch-Out!!.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "punch_out.jpg",
+    "cover": "https://cdn.shopify.com/s/files/1/1104/2322/files/14834_front.jpg?v=1740936828",
     "description": "",
     "screenshots": []
   },
@@ -1244,7 +1244,7 @@
     "file": "RC Pro-Am.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "rc_pro_am.jpg",
+    "cover": "https://static.wikia.nocookie.net/nintendo/images/0/06/R.C._Pro-Am_%28NA%29.png/revision/latest?cb=20240316232828&path-prefix=en",
     "description": "",
     "screenshots": []
   },
@@ -1261,7 +1261,7 @@
     "file": "Super Mario Bros..nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "super_mario_bros.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png",
     "description": "",
     "screenshots": []
   },
@@ -1295,7 +1295,7 @@
     "file": "Super Mario Bros. 2.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "super_mario_bros_2.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Super_Mario_Bros._2_box_art.png/250px-Super_Mario_Bros._2_box_art.png",
     "description": "",
     "screenshots": []
   },
@@ -1329,7 +1329,7 @@
     "file": "Super Mario Bros. 3.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "super_mario_bros_3.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/a5/Super_Mario_Bros._3_coverart.png",
     "description": "",
     "screenshots": []
   },
@@ -1363,7 +1363,7 @@
     "file": "Tecmo Bowl.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "tecmo_bowl.jpg",
+    "cover": "https://static.wikia.nocookie.net/nintendo/images/5/53/Tecmo_Bowl_%28NES%29_%28NA%29.jpg/revision/latest?cb=20080919214444&path-prefix=en",
     "description": "",
     "screenshots": []
   },
@@ -1380,7 +1380,7 @@
     "file": "TMNT.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "tmnt.jpg",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDEY0qBv4KrXNOQnKEdQJv0Ozfhc0x41dv5g&s",
     "description": "",
     "screenshots": []
   },
@@ -1397,7 +1397,7 @@
     "file": "Tennis.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "tennis.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Tennis_%28video_game%29.jpg/250px-Tennis_%28video_game%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -1414,7 +1414,7 @@
     "file": "Tetris.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "tetris.jpg",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCEJNk62RdbBi1dy8i_57p2pJQ_YW23dOhlg&s",
     "description": "",
     "screenshots": []
   },
@@ -1431,7 +1431,7 @@
     "file": "The Legend of Zelda.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "zelda.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png",
     "description": "",
     "screenshots": []
   },
@@ -1448,7 +1448,7 @@
     "file": "Wrecking Crew.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "wrecking_crew.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/b/bb/Wrecking_Crew_cover.jpg",
     "description": "",
     "screenshots": []
   },
@@ -1465,7 +1465,7 @@
     "file": "Yoshi.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "yoshi.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/0c/Yoshi_game_cover.png",
     "description": "",
     "screenshots": []
   },
@@ -1482,7 +1482,7 @@
     "file": "Zelda II.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "zelda_2.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Zelda_II_The_Adventure_of_Link_box.jpg/250px-Zelda_II_The_Adventure_of_Link_box.jpg",
     "description": "",
     "screenshots": []
   },
@@ -1499,7 +1499,7 @@
     "file": "https://archive.org/download/ffight/Nintendo%2064/Mario%20Kart%2064%20%28USA%29.zip/Mario%20Kart%2064%20%28USA%29.n64",
     "engine": "4.2.3",
     "cheats": [],
-    "cover": "https://media.rawg.io/media/screenshots/b19/b196fdca25e4df755f6fafd02df158d9.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/a1/Mario_Kart_64.jpg",
     "description": "Mario Kart 64 (マリオカート64, Mario Kāto Rokujūyon) is a kart racing video game developed and published by Nintendo for the Nintendo 64 video game console. It was the successor to Super Mario Kart for the Super Nintendo Entertainment System, and is the second game in the Mario Kart series. It was released first in Japan on December 14, 1996, and in North America and Europe in 1997. It was later released as a Virtual Console game for the Wii and Wii U in 2007 and 2016, respectively.\nChanges from the original include the move to polygon-based true 3D computer graphics for track design, and the inclusion of four-player support. Players take control of characters from the Mario franchise, who race around a variety of tracks with items that can either harm opponents or aid the user. The move to three-dimensional graphics allowed for track features not possible with the original game's Mode 7 graphics, such as changes in elevation, bridges, walls, and pits. However, the characters and items remained 2D pre-rendered sprites.",
     "screenshots": [
       "https://media.rawg.io/media/screenshots/259/25964136095abacc87a40b5c28a1f63d.jpg",
@@ -1523,7 +1523,7 @@
     "file": "https://archive.org/download/ffight/Nintendo%20DS/0434%20-%20New%20Super%20Mario%20Bros.%20%28U%29%28Psyfer%29.7z/-%20New%20Super%20Mario%20Bros.%20%28U%29%28Psyfer%29.nds",
     "engine": "4.2.3",
     "cheats": [],
-    "cover": "https://media.rawg.io/media/screenshots/ada/ada90672691bd75745ee88cd43d49657.jpg",
+    "cover": "https://cdn.mafrservices.com/sys-master-root/h27/hf2/10869647310878?im=Resize=376",
     "description": "Princess Peach™ has been kidnapped by Bowser Jr.™! Run, jump, and stomp\nyour way across eight worlds as you smash through your foes and save the\nday! Take a break from the adventure to play minigames in four\nfun-filled categories!\n\nWhen lightning suddenly strikes Peach's castle, Mario goes to\ninvestigate the disturbance. But Bowser Jr. seizes the opportunity to\nsneak up from behind and grab ahold of Peach! It's up to Mario to save\nthe day! Run, jump, and stomp your way through raging volcanoes,\ntropical islands, snowcapped peaks, and unimaginable challenges. Grab a\nMega Mushroom and grow to incredible proportions, or smash through your\nfoes in a blue Koopa shell. Collect Star Coins to unlock helpful items,\nbackgrounds, and even new paths on the map.\nThis classic game is part of the Virtual Console service, which brings you great games created for consoles such as NES™, Super NES™ and Game Boy™ Advance. We hope you'll enjoy the new features (including off-TV play) that have been added to this title. See more Virtual Console games for Wii U.",
     "screenshots": [
       "https://media.rawg.io/media/screenshots/76e/76e205a1974cdf7c9eae26e18f306c14.jpg",
@@ -1547,7 +1547,7 @@
     "file": "https://archive.org/download/ffight/Nintendo%20Game%20Boy/Super%20Mario%20Land%20%28World%29.zip/Super%20Mario%20Land%20%28World%29.gb",
     "engine": "4.2.3",
     "cheats": [],
-    "cover": "https://media.rawg.io/media/games/1fe/1fe7141e0363840130cb2edfbe71a9aa.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/2/22/Super-mario-land-gameboy-boxart.png",
     "description": "Ancient ruins, giant crabs, Koopa Troopas, flying stone heads, and\nhungry sharks await you in this 1989 Game Boy game.\n\nIn the beautiful kingdom of Sarasaland, a mysterious alien has appeared\nand hypnotized the inhabitants, while kidnapping Princess Daisy for\nhimself!\n\nTravel over land, in the air, and underwater, as Mario runs, jumps, and\nbounces his way to fortune and glory on his mission to save Princess\nDaisy and restore peace!\n\nAncient ruins, tempestuous waters, and brand new challenges await!",
     "screenshots": [
       "https://media.rawg.io/media/screenshots/608/6083faecf7e425ba372906568f4333f8.jpg",
