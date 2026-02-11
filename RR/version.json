@@ -87,8 +87,8 @@
     "title": "Metal Slug 5",
     "platform": "Arcade",
     "year": 2003,
-    "rating": "",
-    "genres": "",
+    "rating": 7,
+    "genres": "Action",
     "players": 1,
     "core": "arcade",
     "lightgun": false,
@@ -97,8 +97,12 @@
     "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/1/15/Metal_Slug_5_arcade_flyer.jpg",
-    "description": "",
-    "screenshots": []
+    "description": "Metal Slug 5 is a run and gun arcade game for the Neo-Geo, created by SNK Playmore. It was released in 2003 for the MVS arcade platform and is the fifth game in the Metal Slug series. The game was developed by Noise Factory/SNK Playmore, after Korean company Mega Enterprise had directed Metal Slug 4.",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/fsJpdCuQF6NMoHkVcaziN7wKUkKOTo3nqJY_MtSt6nRlmUYhlwhus8UA_cnDogh0_g=w526-h296-rw",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQGIPhLeVTzfYQSYPN3aSjhVQjDIL0u5oGYg&s",
+      "https://images.igdb.com/igdb/image/upload/t_1080p/qfnicmn0c2rv5gsdpir3.jpg"
+    ]
   },
   {
     "title": "Metal Slug X",
