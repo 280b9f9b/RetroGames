@@ -108,8 +108,8 @@
     "title": "Metal Slug X",
     "platform": "Arcade",
     "year": 1999,
-    "rating": "",
-    "genres": "",
+    "rating": 7,
+    "genres": "Action",
     "players": 1,
     "core": "arcade",
     "lightgun": false,
@@ -118,8 +118,12 @@
     "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkUOeM_z-dDEhvOsGZLgs0vhvV-1tZAuQyg&s",
-    "description": "",
-    "screenshots": []
+    "description": "Metal Slug X is a run and gun video game in the Metal Slug series. The game is available for the Neo-Geo console/arcade platform created by SNK. It was released in 1999 for the MVS arcade platform and is a remixed/upgraded/spin-off version of Metal Slug 2 that utilizes the game engine from Metal Slug 3.",
+    "screenshots": [
+      "https://i.ytimg.com/vi/sfParGc8BJw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgTygrMA8=&rs=AOn4CLD3jG281_7akwunTTQMC7sE9c_cTQ",
+      "https://upload.wikimedia.org/wikipedia/it/d/d1/Metal_Slug.png",
+      "https://prod-images.blacknut.net/61ea98fe92331710fc86c1f5_hd.jpg"
+    ]
   },
   {
     "title": "OUTRUNNERS",
