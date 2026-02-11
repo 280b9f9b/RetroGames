@@ -207,11 +207,11 @@
     ]
   },
   {
-    "title": "SUPER HANG-ON",
+    "title": "Super Hang-On (1988)",
     "platform": "Arcade",
-    "year": 1987,
-    "rating": "",
-    "genres": "",
+    "year": 1988,
+    "rating": 7.2,
+    "genres": "Racing",
     "players": 1,
     "core": "arcade",
     "lightgun": false,
@@ -219,33 +219,47 @@
     "file": "shangon.zip",
     "engine": "4.2.0",
     "cheats": [],
-    "cover": "https://m.media-amazon.com/images/M/MV5BNThhNDNmNzUtOTBlNS00ZTA5LWI0ZTEtNjEyZjA4NTdjMWEwXkEyXkFqcGc@._V1_.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/26b/26bcd59da76cba9a75f76b259dec371e.jpg",
+    "description": "Super Hang-On (スーパーハングオン) is a motorcycle racing arcade game released by Sega, and the sequel to the acclaimed Hang-On. A version of this game, in the full simulated-motorcycle cabinet used by the original Hang-On, was released in 1991 as Limited Edition Hang-On.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/9ac/9acd07ab4440fd729e83f4d1984d4ff5.jpg",
+      "https://media.rawg.io/media/screenshots/56a/56a9d6e835596639db25e6bf034491cb.jpg",
+      "https://media.rawg.io/media/screenshots/78a/78a0f0602f5c40c997284aec5315ace8.jpg",
+      "https://media.rawg.io/media/screenshots/22b/22bf35be7c9e9ac720cdb004ff0fb39b.jpg",
+      "https://media.rawg.io/media/screenshots/6f9/6f988a1b24281e4f2cfcbcc7a21ffc5d.jpg",
+      "https://media.rawg.io/media/screenshots/a0b/a0b888e9ef5c9ad737d71b432ecf035b.jpg"
+    ]
   },
   {
-    "title": "TEENAGE MUTANT NINJA TURTLES",
+    "title": "Teenage Mutant Ninja Turtles (1989)",
     "platform": "Arcade",
     "year": 1989,
-    "rating": "",
-    "genres": "",
-    "players": 1,
+    "rating": 7.7,
+    "genres": "Action",
+    "players": 2,
     "core": "arcade",
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Arcade/tmnt.7z/tmnt.zip",
     "engine": "4.2.0",
     "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/0/04/Teenage_Mutant_Ninja_Turtles_%281989_arcade_game%29.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/e6a/e6a509fed4879271d7d7eaba04349d10.jpg",
+    "description": "Teenage Mutant Ninja Turtles is a side-scrolling platform game for the Nintendo Entertainment System released by Konami (under the Ultra Games imprint in the USA and the equivalent PALCOM brand in Europe/Australia) in 1989. Alongside the arcade game (also developed by Konami), it was one of the first video games based on the 1987 Teenage Mutant Ninja Turtles animated series, being released after the show's second season.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/925/9258ef48857a2457624174b427ab2640.jpg",
+      "https://media.rawg.io/media/screenshots/6a3/6a3b370821984fba91d968f3d3c551b7.jpg",
+      "https://media.rawg.io/media/screenshots/fef/feface6c76284c1e39d487962d47a3f4.jpg",
+      "https://media.rawg.io/media/screenshots/099/099c3b12d683ef935386b12dea11a55c.jpg",
+      "https://media.rawg.io/media/screenshots/a39/a39ccbb08138b510f99a261ae0b41591.jpg",
+      "https://media.rawg.io/media/screenshots/3c0/3c0d1f99f97a8cd7c2d9edca24937b8b.jpg"
+    ]
   },
   {
-    "title": "Vigilante",
+    "title": "Vigilante (1988)",
     "platform": "Arcade",
     "year": 1988,
-    "rating": "",
-    "genres": "",
+    "rating": 8,
+    "genres": "Action",
     "players": 1,
     "core": "arcade",
     "lightgun": false,
@@ -253,16 +267,23 @@
     "file": "https://archive.org/download/ffight/Arcade/vigilant.7z/vigilant.zip",
     "engine": "4.2.0",
     "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Vigilante_arcadeflyer.png",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/139/139880cfa70fb68767113886ba47c289.jpg",
+    "description": "Vigilante (ビジランテ) is a 1988 beat 'em up arcade game developed and published by Irem in Japan and Europe and published in North America by Data East. It is considered as a spiritual sequel to Irem's earlier Kung-Fu Master.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/24e/24e97701baa26ccba49d768268929169.jpg",
+      "https://media.rawg.io/media/screenshots/cc9/cc936a21beca3ea221ce49f205b082fd.jpg",
+      "https://media.rawg.io/media/screenshots/0fc/0fc9997f77ed09b6bd0e45dda3a2d1d2.jpg",
+      "https://media.rawg.io/media/screenshots/214/21411be438ddff0fe114c1c05478f5a8.jpg",
+      "https://media.rawg.io/media/screenshots/ebe/ebe57ec594b588cc6f33096bfea6d55e.jpg",
+      "https://media.rawg.io/media/screenshots/b85/b8523088eeaca18842b10ad886948e4a.jpg"
+    ]
   },
   {
     "title": "Wonder Boy",
     "platform": "Arcade",
     "year": 1986,
-    "rating": "",
-    "genres": "",
+    "rating": 7.3,
+    "genres": "Platformer",
     "players": 1,
     "core": "arcade",
     "lightgun": false,
@@ -270,9 +291,16 @@
     "file": "https://archive.org/download/ffight/Arcade/wboy.7z/wboy.zip",
     "engine": "4.2.0",
     "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/f/ff/WonderBoy_arcadeflyer.png",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/497/49762f3f11fd252d3e9d23c56d1a9b2e.jpg",
+    "description": "As Tom-Tom the Wonder Boy, it’s up to you to rescue your girlfriend,\nTanya, from the vile clutches of the monster that has kidnapped her. To\ndo so, you must navigate through a series of worlds in a race against\ntime to reach your goal. Along the way, you’ll battle foes and collect\nfruit that will add to the amount of time you have to complete your\nmission. You can also receive helpful power-ups from various eggs, but\nmake sure to avoid the bad eggs and poisonous mushrooms that sap your\nprecious vitality. Find the magic doll in each level to open up hidden\nareas, and make it to the very end of your journey to rescue your one\ntrue love!\nThis classic game is part of the Virtual Console service, which brings you great games created for consoles such as NES™, Super NES™ and Game Boy™ Advance. See more Virtual Console games for Wii.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1d5/1d59167d9d35d76c96e6f034974ebdc1.jpg",
+      "https://media.rawg.io/media/screenshots/39b/39b75c2bad7646e0e3293e93c3224033.jpg",
+      "https://media.rawg.io/media/screenshots/e2e/e2e3bced7cd87c4ec9dc4d450c838fb5_yweOHbb.jpg",
+      "https://media.rawg.io/media/screenshots/d6d/d6d109ee5d74a54cf9ee033ee67eda33.jpg",
+      "https://media.rawg.io/media/screenshots/6ae/6ae3d4903cc738204412b744b9b9b41c.jpg",
+      "https://media.rawg.io/media/screenshots/a51/a51edd6066e7a7e3da15213ee1847b39.jpg"
+    ]
   },
   {
     "title": "River Raid",
