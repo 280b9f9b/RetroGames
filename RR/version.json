@@ -4267,8 +4267,8 @@
     "title": "Comix Zone",
     "platform": "Sega Mega Drive",
     "year": 1995,
-    "rating": "",
-    "genres": "Beat 'em up / Action",
+    "rating": 8.7,
+    "genres": "Action",
     "players": 1,
     "core": "segaMD",
     "lightgun": false,
@@ -4276,16 +4276,23 @@
     "file": "Comix Zone.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "comix_zone.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/da7/da77171112e11fbc2ad2114186bcd2bf.jpg",
+    "description": "Comix Zone is a 1995 beat 'em up video game developed and published by Sega for the Sega Genesis. An unusual feature of the game is that it is set within the panels of a comic book with dialogue rendered within talk bubbles and sprites and backgrounds possessing the bright colours and dynamic drawing style favoured by superhero comics. This style had been used in video games previously, for example Ocean Software's Batman: The Caped Crusader in 1988, but Comix Zone stretched the idea to such an extent that Sega applied for and were granted a patent for a \"Videogame system for creating a simulated comic book game\".\nThe concept for the game originated from a Commodore Amiga demo video animated by Peter Morawiec titled \"Joe Pencil Trapped In The Comix Zone\". The video was made in 1992, displaying the animation of how the gameplay and the comic book elements would blend in.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/e4b/e4b1c265dee8e67de5f4a4d553ad42ce.jpg",
+      "https://media.rawg.io/media/screenshots/dbc/dbc0d8e44dcb45b8e2bb0dda1afa9373.jpg",
+      "https://media.rawg.io/media/screenshots/aa2/aa2c274de889f01c46fdd918bf0da29a.jpg",
+      "https://media.rawg.io/media/screenshots/788/788940a8455c94d9183f2a388d1093c1.jpg",
+      "https://media.rawg.io/media/screenshots/030/0309b40176b1781605e06c5829d796e6.jpg",
+      "https://media.rawg.io/media/screenshots/e13/e13a8a90581ef70a40350f755c2ba511.jpg"
+    ]
   },
   {
     "title": "Contra: Hard Corps",
     "platform": "Sega Mega Drive",
     "year": 1994,
-    "rating": "",
-    "genres": "Run and Gun",
+    "rating": 8.8,
+    "genres": "Action, Shooter",
     "players": 2,
     "core": "segaMD",
     "lightgun": false,
@@ -4293,16 +4300,23 @@
     "file": "Contra Hard Corps.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "contra_hc.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/fb5/fb5b00564eaa90bc0032188d15d2699f.jpg",
+    "description": "Contra: Hard Corps is a side-scrolling run and gun-style shoot-'em-up video game released by Konami for the Sega Genesis in North America and South Korea in 1994. It was also released for the Mega Drive as Contra: The Hard Corps (魂斗羅 ザ・ハードコア, Kontora Za Hādo Koa) in Japan and as Probotector in Europe and Australia. It was the first game in the Contra series released for a Sega platform and serves as the first entry in the Hard Corps series, itself a subseries of the Contra franchise.\nSet five years after the events of Contra III: The Alien Wars, a terrorist group led by the renegade Colonel Bahamut has stolen an alien cell recovered from the war and now intends to use it to produce weapons. Instead of the traditional Contra heroes of Bill Rizer and Lance Bean, a new task force known as the Hard Corps (with four members) are sent to deal with the situation. The game features a branching storyline with multiple possible endings.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d8a/d8a4116a0352f4cdb7d4d10363c88c6b.jpg",
+      "https://media.rawg.io/media/screenshots/24e/24eb1631441c3212817182be949007fc.jpg",
+      "https://media.rawg.io/media/screenshots/731/731a5b67214621f96148ef277a506a2f.jpg",
+      "https://media.rawg.io/media/screenshots/e47/e47e0f063dc9d64a6aa6a1f560ed4a20.jpg",
+      "https://media.rawg.io/media/screenshots/a2d/a2d911af02f042f0d02c093df80cb0b1.jpg",
+      "https://media.rawg.io/media/screenshots/2ed/2ed7430419f8331cc19274ef94899264.jpg"
+    ]
   },
   {
-    "title": "Disney's Aladdin",
+    "title": "Disney’s Aladdin (1993)",
     "platform": "Sega Mega Drive",
     "year": 1993,
-    "rating": "",
-    "genres": "Platformer",
+    "rating": 7.9,
+    "genres": "Action, Platformer",
     "players": 1,
     "core": "segaMD",
     "lightgun": false,
@@ -4310,16 +4324,23 @@
     "file": "Aladdin.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "aladdin.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/22a/22ae4262e92461444cda9b895a5c9022.jpg",
+    "description": "Disney's Aladdin is a side-scrolling platform game in which the player controls the eponymous main character through several stages taking place throughout the city of Agrabah. Within each stage, Aladdin defeats foes by jumping on them or disorienting them by throwing apples while avoiding dangerous obstacles. Gems can be collected to gain extra lives and points, and 10 red gems located within each stage will substantially increase the player's score. Most stages contain a treasure chest holding a scarab that flies about for a few seconds, if the player collects it before it disappears they will access a bonus stage in which they spin a wheel that allows Genie to grant them extra lives and other special bonuses. Aladdin has a health meter of hearts, starting with 3, which will deplete each time he is hit. These can be increased through pickups or through the bonus stages as well.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/298/298e5a3896aeb71ccfed82ee5721b36d.jpg",
+      "https://media.rawg.io/media/screenshots/713/71349ae826bd739bbfdd58ef1357b3cf.jpg",
+      "https://media.rawg.io/media/screenshots/c83/c832f5ae12c93ec8a1dd061334f4603a.jpg",
+      "https://media.rawg.io/media/screenshots/cc4/cc41a6c83efb766ed92df40ad84a79c3.jpg",
+      "https://media.rawg.io/media/screenshots/1a2/1a28fb2277881bdc0f5264b4b7f64f22.jpg",
+      "https://media.rawg.io/media/screenshots/741/74140ad52ee554c470d8c82e55081143.jpg"
+    ]
   },
   {
     "title": "Disney's The Jungle Book",
     "platform": "Sega Mega Drive",
-    "year": 1994,
-    "rating": "",
-    "genres": "Platformer",
+    "year": 1993,
+    "rating": 7.8,
+    "genres": "Action, Adventure, Arcade, Platformer",
     "players": 1,
     "core": "segaMD",
     "lightgun": false,
@@ -4327,15 +4348,22 @@
     "file": "Jungle Book.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "jungle_book.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/889/889baaf0f816565b1cf78dbfdc551ba1.jpg",
+    "description": "Get down to the bare necessities of life…\nPlay as the man-cub, Mowgli, an orphan raised by a pack of wolves in the jungle. No parents. No school. No problems. Great life, huh?\nExcept, there’s a rumour that Shere Khan, the man-eating tiger is coming after you. So now you’ve got to sneak, swing and swoop your way through the jungle, catch the tiger by the tail and reach the safety of the man-village.\nTo do this, you have to get the hang of incredibly tricky vines, neutralize venom balls, dodge coconut-throwing monkeys and fire off bananas at any scorpion, vampire bat or crazy ape that gets in your way. So eat your bananas and get ready – it’s a jungle out there!\n●Relive Mowgli’s classic adventure as you travel through over 10 levels – all weird, all wild and all totally different\n●Encounter characters straight from the classic Disney movie, including Bagheera, Kaa, Shere Khan and many more!\n●Jump, swing, climb and banana-throw your way through this adventure, collecting gems along the way",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/248/2484f6059abb1ebc10cd8af669aba442.jpg",
+      "https://media.rawg.io/media/screenshots/6c8/6c8a4e358693c814111f0cfecf290f34.jpg",
+      "https://media.rawg.io/media/screenshots/902/902c438aa23d97c1821124e6e5a699e3.jpg",
+      "https://media.rawg.io/media/screenshots/38c/38cfbf33ed18bc937fcf0b3506dbbbc9.jpg",
+      "https://media.rawg.io/media/screenshots/576/576333259770eeea00c4fb5c8a598da5.jpg",
+      "https://media.rawg.io/media/screenshots/d65/d65e9105afea55db73aec302db37604d.jpg"
+    ]
   },
   {
-    "title": "Dr. Robotnik’s Mean Bean Machine",
+    "title": "Dr. Robotnik's Mean Bean Machine (1993)",
     "platform": "Sega Mega Drive",
     "year": 1993,
-    "rating": "",
+    "rating": 7.6,
     "genres": "Puzzle",
     "players": 2,
     "core": "segaMD",
@@ -4344,16 +4372,23 @@
     "file": "Mean Bean Machine.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "mean_bean_machine.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/ebf/ebf5b8a9f73bbb677b61269d6ecc2f45.jpg",
+    "description": "Dr. Robotnik's Mean Bean Machine is a falling block puzzle game developed by Compile and published by Sega. It was released for the Genesis/Mega Drive in North America and Europe in November 1993, and was ported to the Game Gear and Master System in December 1993 and June 1994, respectively. The plot revolves around Sonic the Hedgehog series antagonist Doctor Robotnik kidnapping residents from Beanville and turning them into robots, with the purpose of removing all joy from the planet Mobius.\nDr. Robotnik's Mean Bean Machine is the Westernized version of Puyo Puyo and replaces its characters with those from the Sonic the Hedgehog franchise, being primarily based on the Adventures of Sonic the Hedgehog animated series. The gameplay is reminiscent of Tetris, in which the player must organise different coloured shapes as they fall down a board. The game received mostly positive reviews, with critics praising the gameplay but criticising the difficulty.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ddf/ddf01fa3e28d8c6b9885b9fed8547469.jpg",
+      "https://media.rawg.io/media/screenshots/67d/67d75958b4f69bfe22faf7bd90e4e4bc.jpg",
+      "https://media.rawg.io/media/screenshots/4a7/4a7bec5c0b1293e8785a9e97b1a2888c.jpg",
+      "https://media.rawg.io/media/screenshots/604/6041d8c764fd120454c1258ef65e05fe.jpg",
+      "https://media.rawg.io/media/screenshots/62c/62c5412807b3f68e7ae624c77c07cd41.jpg",
+      "https://media.rawg.io/media/screenshots/597/5975f93ce37f56d17ecde5bece2ac924.jpg"
+    ]
   },
   {
     "title": "Earthworm Jim",
     "platform": "Sega Mega Drive",
     "year": 1994,
-    "rating": "",
-    "genres": "Action / Platformer",
+    "rating": 8.6,
+    "genres": "Action, Arcade, Platformer",
     "players": 1,
     "core": "segaMD",
     "lightgun": false,
@@ -4361,16 +4396,23 @@
     "file": "Earthworm Jim.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "earthworm_jim.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/360/360f00cbb4b4364b9af0e7ff8e397b65.jpg",
+    "description": "Rediscover one of the all-time best video games, faithfully refined\nand enhanced with an exclusive feature!\nThe all-time classic\naction platformer you used to play on Super NES is back in a remake that\nkeeps the essence and core gameplay of the original, plus a\nnever-before-seen feature, exclusively on the Nintendo DSi system.\n\nPlay as the grooviest earthworm in the galaxy. Run, gun, swing from\nhooks with your head, launch cows, bungee jump, rocket through speed\nlevels and more, in a dozen crazy universes that offer huge gameplay\npossibilities. Earn bonuses with facial-expression-based challenges that\ntrack your face using the inner camera. Put on a smile, frown or make a\nvariety of other faces to mimic Jim.\n\nThis game cannot be transferred from the Nintendo DSi to the Nintendo\n3DS system. For more information, CLICK\nHERE >",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d4a/d4a96e0a744bbc2e195d001111c07e29.jpg",
+      "https://media.rawg.io/media/screenshots/a69/a695c5131af737f5234039fe3afc57db.jpg",
+      "https://media.rawg.io/media/screenshots/12b/12b7ee319c23a81c3f2ad23a0221062c.jpg",
+      "https://media.rawg.io/media/screenshots/0bd/0bd6b9482443ceda2d81dda96260007c.jpg",
+      "https://media.rawg.io/media/screenshots/827/827f53feb6dd008912100afb74e84db4.jpg",
+      "https://media.rawg.io/media/screenshots/a6b/a6bfef943cf7ef3f549cd8d4b6854dcd.jpg"
+    ]
   },
   {
-    "title": "ESWAT - City Under Siege (USA, Europe)",
+    "title": "ESWAT: City Under Siege",
     "platform": "Sega Mega Drive",
     "year": 1990,
-    "rating": 7.5,
-    "genres": "Action, Platformer",
+    "rating": 6.6,
+    "genres": "Action",
     "players": 1,
     "core": "segaMD",
     "lightgun": false,
@@ -4403,16 +4445,21 @@
         "GXIIUX"
       ]
     ],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/9/91/E-Swat_box_usa.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/1e2/1e24e45de94b4a5b7af073aa40b4d760.jpg",
+    "description": "The largest and most powerful terrorist group in the world, known as E.Y.E., is looking to take total control of Earth!\nJoin the government controlled group of troopers, ESWAT™ (Enhanced Special Weapons And Tactics), and eliminate the terrorists!",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/881/88163f254895a51d338af36d20fcbdbb.jpg",
+      "https://media.rawg.io/media/screenshots/901/901bd1a15125bfd8a1f072a548ec0526.jpg",
+      "https://media.rawg.io/media/screenshots/026/026256ba6dc66626c98dffdf7958be30.jpg",
+      "https://media.rawg.io/media/screenshots/1e2/1e24e45de94b4a5b7af073aa40b4d760.jpg"
+    ]
   },
   {
-    "title": "Eternal Champions",
+    "title": "Eternal Champions (1993)",
     "platform": "Sega Mega Drive",
     "year": 1993,
-    "rating": "",
-    "genres": "Fighting",
+    "rating": 7.5,
+    "genres": "Action, Fighting",
     "players": 2,
     "core": "segaMD",
     "lightgun": false,
@@ -4420,16 +4467,23 @@
     "file": "Eternal Champions.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "eternal_champions.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/29a/29af20b53a8b91c48473e36addb46548.jpg",
+    "description": "Eternal Champions is a 1993 fighting game developed and published by Sega for the Sega Genesis. It was one of the few fighting games of its time developed from the ground up as a home console title, rather than being released in arcades first and later ported to home systems.\nSega released Eternal Champions in hopes of capitalizing on the fighting game mania that the game industry was in the midst of following the massive success of Street Fighter II (1991) and Mortal Kombat (1992). The game tried to set itself apart with unique features such as a heavier emphasis on its story, characters pulled from different time periods, reflectable projectiles, force fields, fighters that carried weapons, a training mode where players had to defend themselves against robotic traps, a novel method of executing moves, and elaborate stage-specific finishing moves called \"Overkills\".\nTwo years later, the sequel Eternal Champions: Challenge from the Dark Side (sometimes known as Eternal Champions CD or Eternal Champions 2) was released for the Sega CD. There were also two spin-offs, action/adventure games set in the Eternal Champions universe and featuring some of its characters. Eternal Champions was added to the Wii's Virtual Console download service on December 3, 2007.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/fef/fef9359f00df9742c53c9fc3341ec1d5.jpg",
+      "https://media.rawg.io/media/screenshots/470/47008b1b26831cb5af4673d6472d69c2.jpg",
+      "https://media.rawg.io/media/screenshots/55a/55a4981131ab60c148bb4fe4c5a54c23.jpg",
+      "https://media.rawg.io/media/screenshots/5f0/5f01d4337970b6fc30a26e3f8a61ed43.jpg",
+      "https://media.rawg.io/media/screenshots/328/328bbe1409eb52b4fb9ac55cfeda0a4a.jpg",
+      "https://media.rawg.io/media/screenshots/f83/f83b51224d1522639324243cd92a4266.jpg"
+    ]
   },
   {
-    "title": "Flashback - The Quest for Identity (USA) (Alt 1)",
+    "title": "Flashback: The Quest for Identity",
     "platform": "Sega Mega Drive",
-    "year": 1993,
-    "rating": 8.2,
-    "genres": "Action, Adventure",
+    "year": 1992,
+    "rating": 8.7,
+    "genres": "Action, Adventure, Arcade, Puzzle",
     "players": 1,
     "core": "segaMD",
     "lightgun": false,
@@ -4462,16 +4516,23 @@
         "GXIIUX"
       ]
     ],
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6fda.webp",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/855/8552687245f888ba388bc6ec0dcc3947.jpg",
+    "description": "2142. After fleeing from a space ship but stripped of all memory, the young scientist Conrad B. Hart awakens on Titan, a colonised moon of the planet Saturn. His enemies and kidnappers are snapping at his heels. He must find a way back to Earth, defending himself against the dangers he encounters and unravelling an insidious extra-terrestrial plot that threatens the planet…",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/dd1/dd12e37ba50f7b3bbcf87d88c35fdbeb.jpg",
+      "https://media.rawg.io/media/screenshots/0fb/0fbb697523c07887ddefa839200a26ff.jpg",
+      "https://media.rawg.io/media/screenshots/713/71314f92a5f724b5e6120d203336e741.jpg",
+      "https://media.rawg.io/media/screenshots/7d5/7d560e46a62f511afd6b035d9b4d0864_WtMIJsz.jpg",
+      "https://media.rawg.io/media/screenshots/ed1/ed1217c1b48d153fbbc16bfd8282be43.jpg",
+      "https://media.rawg.io/media/screenshots/c14/c1477055f04ece918f42408109355f4a_qR5ofql.jpg"
+    ]
   },
   {
     "title": "Flashback: The Quest for Identity",
     "platform": "Sega Mega Drive",
     "year": 1992,
-    "rating": "",
-    "genres": "Action-Platformer",
+    "rating": 8.7,
+    "genres": "Action, Adventure, Arcade, Puzzle",
     "players": 1,
     "core": "segaMD",
     "lightgun": false,
@@ -4479,16 +4540,23 @@
     "file": "Flashback.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "flashback.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/855/8552687245f888ba388bc6ec0dcc3947.jpg",
+    "description": "2142. After fleeing from a space ship but stripped of all memory, the young scientist Conrad B. Hart awakens on Titan, a colonised moon of the planet Saturn. His enemies and kidnappers are snapping at his heels. He must find a way back to Earth, defending himself against the dangers he encounters and unravelling an insidious extra-terrestrial plot that threatens the planet…",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/dd1/dd12e37ba50f7b3bbcf87d88c35fdbeb.jpg",
+      "https://media.rawg.io/media/screenshots/0fb/0fbb697523c07887ddefa839200a26ff.jpg",
+      "https://media.rawg.io/media/screenshots/713/71314f92a5f724b5e6120d203336e741.jpg",
+      "https://media.rawg.io/media/screenshots/7d5/7d560e46a62f511afd6b035d9b4d0864_WtMIJsz.jpg",
+      "https://media.rawg.io/media/screenshots/ed1/ed1217c1b48d153fbbc16bfd8282be43.jpg",
+      "https://media.rawg.io/media/screenshots/c14/c1477055f04ece918f42408109355f4a_qR5ofql.jpg"
+    ]
   },
   {
-    "title": "Ghouls 'N Ghosts",
+    "title": "Super Ghouls 'n Ghosts (1991)",
     "platform": "Sega Mega Drive",
     "year": 1991,
-    "rating": "",
-    "genres": "Action / Platformer",
+    "rating": 7.7,
+    "genres": "Action, Adventure, Platformer",
     "players": 1,
     "core": "segaMD",
     "lightgun": false,
@@ -4496,17 +4564,24 @@
     "file": "Ghouls N Ghosts.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "ghouls_n_ghosts.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/87b/87b55538b3b37d481fa71834335c3e0d.jpg",
+    "description": "4 years after Arthur saved Princess PrinPrin from the evil demon Loki, a wonderful celebration is about to take place! Arthur and the Princess are engaged, and the wedding is to take place at last! Thousands from around the kingdom have come to witness this joyous event!\n\nBut somewhere in the darkness of the forest lurks a horrible evil...\n\nArthur and PrinPrin are spending a quiet moment locked in embrace, when she is suddenly snatched away by a huge demon! As her screams echo through the night, Arthur rushes from the castle, and pursues the demon to the graveyard, where he is greeted by hundreds of horrible ghouls and monsters!\n\nNow, this time, they've gone too far...Arthur is ready for them...",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d46/d463e4d19915e578c93fcc75b035a5ea.jpg",
+      "https://media.rawg.io/media/screenshots/d6a/d6a59f8704a6c471ab4124e07ee41501.jpg",
+      "https://media.rawg.io/media/screenshots/d51/d51adff7cdd82077e66f377c4d926852.jpg",
+      "https://media.rawg.io/media/screenshots/38a/38a4345c4b7532a575343ff0597365bd.jpg",
+      "https://media.rawg.io/media/screenshots/20f/20fc1cc516964d28c59aec52eccd3b97.jpg",
+      "https://media.rawg.io/media/screenshots/315/3158508fecb6a5d4856c2ccce4388b29.jpg"
+    ]
   },
   {
     "title": "Golden Axe",
     "platform": "Sega Mega Drive",
     "year": 1989,
-    "rating": "",
-    "genres": "",
-    "players": 1,
+    "rating": 7.8,
+    "genres": "Action, Arcade",
+    "players": 2,
     "core": "segaMD",
     "lightgun": false,
     "biosUrl": false,
@@ -4538,16 +4613,23 @@
         "GXIIUX"
       ]
     ],
-    "cover": "https://retrosales.com.au/cdn/shop/products/21391_front.jpg?v=1634957885",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/f0c/f0ccc044fa8ed8942e04a72a2d022a3d.jpg",
+    "description": "Just UpdatedAll SEGA MegaDrive/Genesis titles now launch using the new SEGA MegaDrive/Genesis Interactive Hub, with all new features, UI and Steam Workshop Support!\nAbout the GameThe land of Yuria has been invaded and is now ruled by the iron fist of Death Adder, who secured his throne by seizing the Golden Axe™.\nThree brave warriors now rise to the challenge of defeating Death Adder and his soldiers and returning peace to the Kingdom.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d7d/d7d6a442350a78d1b4e5e443cd41c88d.jpg",
+      "https://media.rawg.io/media/screenshots/41d/41db77935f0d60085093a7eb770e31be.jpg",
+      "https://media.rawg.io/media/screenshots/446/4461f6696ad47e6c0b4cc1b0f2a65f7b.jpg",
+      "https://media.rawg.io/media/screenshots/383/383a157ed08f8e5f45f1fd0831041f6d.jpg",
+      "https://media.rawg.io/media/screenshots/b91/b91645cd42f2df464ab1749ba508db7c.jpg",
+      "https://media.rawg.io/media/screenshots/760/76025c74201e40fba777daf746b041c1.jpg"
+    ]
   },
   {
     "title": "Golden Axe",
     "platform": "Sega Mega Drive",
     "year": 1989,
-    "rating": "",
-    "genres": "Beat 'em up / Action",
+    "rating": 7.8,
+    "genres": "Action, Arcade",
     "players": 2,
     "core": "segaMD",
     "lightgun": false,
@@ -4555,50 +4637,71 @@
     "file": "Golden Axe.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "golden_axe.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/f0c/f0ccc044fa8ed8942e04a72a2d022a3d.jpg",
+    "description": "Just UpdatedAll SEGA MegaDrive/Genesis titles now launch using the new SEGA MegaDrive/Genesis Interactive Hub, with all new features, UI and Steam Workshop Support!\nAbout the GameThe land of Yuria has been invaded and is now ruled by the iron fist of Death Adder, who secured his throne by seizing the Golden Axe™.\nThree brave warriors now rise to the challenge of defeating Death Adder and his soldiers and returning peace to the Kingdom.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d7d/d7d6a442350a78d1b4e5e443cd41c88d.jpg",
+      "https://media.rawg.io/media/screenshots/41d/41db77935f0d60085093a7eb770e31be.jpg",
+      "https://media.rawg.io/media/screenshots/446/4461f6696ad47e6c0b4cc1b0f2a65f7b.jpg",
+      "https://media.rawg.io/media/screenshots/383/383a157ed08f8e5f45f1fd0831041f6d.jpg",
+      "https://media.rawg.io/media/screenshots/b91/b91645cd42f2df464ab1749ba508db7c.jpg",
+      "https://media.rawg.io/media/screenshots/760/76025c74201e40fba777daf746b041c1.jpg"
+    ]
   },
   {
-    "title": "Golden Axe II (World)",
+    "title": "Golden Axe II",
     "platform": "Sega Mega Drive",
-    "year": null,
-    "rating": "",
-    "genres": "",
+    "year": 2007,
+    "rating": 8.3,
+    "genres": "Action",
     "players": 1,
     "core": "segaMD",
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Golden%20Axe%20II%20%28World%29.7z/Golden%20Axe%20II%20%28World%29.md",
-    "cover": "https://m.media-amazon.com/images/I/81Bcx83r7YL.jpg",
+    "cover": "https://media.rawg.io/media/screenshots/566/566bb3d82e4701c25aba4c6fc07b659f.jpg",
     "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": [],
-    "description": "",
-    "screenshots": []
+    "description": "Just UpdatedAll SEGA MegaDrive/Genesis titles now launch using the new SEGA MegaDrive/Genesis Interactive Hub, with all new features, UI and Steam Workshop Support!\nAbout the GameThe Lord of Darkness, Dark Guld, has arisen again. Wielding the famous Golden Axe, he has destroyed entire countries with his evil clan, forcing the world into chaos.\nOnce again, three brave warriors stand up to face the oppressors, and won’t rest until the Golden Axe is returned to its rightful place.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/d71/d71405478f84101092822b0510a7c9ea.jpg",
+      "https://media.rawg.io/media/screenshots/9b5/9b58b3563aafa857b24e83f4ff6c8517.jpg",
+      "https://media.rawg.io/media/screenshots/79e/79e2f4a1aa9ade6ca37e1acb9bdf30a8.jpg",
+      "https://media.rawg.io/media/screenshots/485/48516a1ac5634fe00a097a847211ac80.jpg",
+      "https://media.rawg.io/media/screenshots/7b2/7b24edfdb536b87f394923b01e5f1255.jpg",
+      "https://media.rawg.io/media/screenshots/587/587f3b7b4eb06a3e6767171096cb93ee.jpg"
+    ]
   },
   {
-    "title": "Golden Axe III (Japan)",
+    "title": "Golden Axe III (1993)",
     "platform": "Sega Mega Drive",
-    "year": null,
-    "rating": "",
-    "genres": "",
-    "players": 1,
+    "year": 1993,
+    "rating": 8.5,
+    "genres": "Action, Arcade",
+    "players": 2,
     "core": "segaMD",
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Golden%20Axe%20III%20%28Japan%29.7z/Golden%20Axe%20III%20%28Japan%29.md",
-    "cover": "https://www.consoleroms.com/img/roms/golden-axe-III-sega-genesis-japan.jpg",
+    "cover": "https://media.rawg.io/media/screenshots/2f3/2f357294ebdc208724ed2dd433edf3a6.jpg",
     "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": [],
-    "description": "",
-    "screenshots": []
+    "description": "Golden Axe III (ゴールデンアックス III) is a side-scrolling beat 'em up video game developed and published by Sega, released for the Sega Mega Drive in Japan on June 25, 1993. A North American version was released only for the Sega Channel. The game was later re-released a number of times, as part of the Sega Genesis Collection for PlayStation 2 and PlayStation Portable, Sonic's Ultimate Genesis Collection for Xbox 360 and PlayStation 3, and digitally on the Wii Virtual Console.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/575/5756533523504edc46065c682bbc2567.jpg",
+      "https://media.rawg.io/media/screenshots/1d5/1d5b9af36438955a3eed14d20fc4ea04.jpg",
+      "https://media.rawg.io/media/screenshots/b4e/b4e53d33257e8dfa0b06806a89a4672a.jpg",
+      "https://media.rawg.io/media/screenshots/814/8147a3afa65c4be332da828b70520922.jpg",
+      "https://media.rawg.io/media/screenshots/0ce/0cec7c8a8d16e313eea0d737e15375cf.jpg",
+      "https://media.rawg.io/media/screenshots/e30/e30e359cbf9945834be1572c11fe80e1.jpg"
+    ]
   },
   {
     "title": "Gunstar Heroes",
     "platform": "Sega Mega Drive",
     "year": 1993,
-    "rating": "",
-    "genres": "Run and Gun",
+    "rating": 8.5,
+    "genres": "Action",
     "players": 2,
     "core": "segaMD",
     "lightgun": false,
@@ -4606,17 +4709,24 @@
     "file": "Gunstar Heroes.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "gunstar_heroes.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/games/5fa/5fa8a952daf991d57bb44e2f98afb49b.jpg",
+    "description": "Just UpdatedAll SEGA MegaDrive/Genesis titles now launch using the new SEGA MegaDrive/Genesis Interactive Hub, with all new features, UI and Steam Workshop Support!\nAbout the GameThe Gunstar family are the protectors of the planet Gunstar 9.\nAfter many years of peace, vicious dictator Colonel Red kidnapped the Gunstar twins’ older brother and used mind control to make him his slave. Now, with the aid of the Mystical Gems, he’s threatening to release Golden Silver the Destructor from the Gunstar 9 moon, with apocalyptic consequences!",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/ac8/ac881db823a3ebbc62f937220d1a2d83.jpg",
+      "https://media.rawg.io/media/screenshots/28b/28ba6de9e32e5ed24b34f64f155e2831.jpg",
+      "https://media.rawg.io/media/screenshots/195/195ab7463c3381914aa806eb69f59dc9.jpg",
+      "https://media.rawg.io/media/screenshots/d5b/d5bc2726838d311e1975c7c0d6ea505d.jpg",
+      "https://media.rawg.io/media/screenshots/50d/50db3339ffe3ffc296bf1749f8011510.jpg",
+      "https://media.rawg.io/media/screenshots/51f/51fba36339aa79c8a64edebaadaf9983.jpg"
+    ]
   },
   {
-    "title": "Herzog Zwei (USA, Europe)",
+    "title": "Herzog Zwei",
     "platform": "Sega Mega Drive",
     "year": 1989,
-    "rating": "",
+    "rating": 7.2,
     "genres": "",
-    "players": 1,
+    "players": 2,
     "core": "segaMD",
     "lightgun": false,
     "biosUrl": false,
@@ -4648,16 +4758,23 @@
         "GXIIUX"
       ]
     ],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/HerzogZwei-Cover.png",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/f45/f45bdcff5b0e83a5666328d403e5243b.jpg",
+    "description": "Herzog Zwei is a real-time strategy video game developed by Technosoft and published by Sega for the Sega Genesis. An early real-time strategy game, it predates the genre-popularizing Dune II, being released first in Japan in 1989 and worldwide the following year. Herzog Zwei combines the arcade-style play of Technosoft's own Thunder Force series with a simple, easy-to-grasp level of strategy. It has been cited as an inspiration to the developers of Warcraft, Starcraft, and Command & Conquer. It is the sequel to Herzog, which was available on the Japanese MSX and PC-8801 personal computers.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/381/381c1ac78c6cf4d7405e25597110f652.jpg",
+      "https://media.rawg.io/media/screenshots/7ae/7aeac4a0ed99c3b63f59aed6272ca173.jpg",
+      "https://media.rawg.io/media/screenshots/bb2/bb22b2675a8b533e7822ac0f41652706.jpg",
+      "https://media.rawg.io/media/screenshots/344/344125a075f2108e62d85716a798945f.jpg",
+      "https://media.rawg.io/media/screenshots/d6d/d6d64eeb5d24bd94e433bc44de61b1b0.jpg",
+      "https://media.rawg.io/media/screenshots/bbe/bbe7d94e033ef7cf5894c3d1921bf4cd.jpg"
+    ]
   },
   {
     "title": "Jurassic Park",
     "platform": "Sega Mega Drive",
     "year": 1993,
-    "rating": "",
-    "genres": "Action",
+    "rating": 7.2,
+    "genres": "Action, Adventure",
     "players": 1,
     "core": "segaMD",
     "lightgun": false,
@@ -4665,16 +4782,23 @@
     "file": "Jurassic Park.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "jurassic_park.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/72c/72c8ed772cb73bad06a313551749e8ad.jpg",
+    "description": "After the announcement of the 1993 Jurassic Park feature film, based on the critically acclaimed novel by Michael Crichton, developers Ocean Software, BlueSky Software and Sega were licensed to produce games to be sold to coincide with the release of the film on the popular platforms of the time. In 1997, several developers, including DreamWorks Interactive and Appaloosa Interactive, produced various games for nine different platforms to coincide with the release of the film, The Lost World: Jurassic Park.\nFor the 2001 film, Jurassic Park III, a total of seven games were produced, including three games for the Game Boy Advance and three PC games. Lego Jurassic World, released in 2015, is based on each of the series' four films, including Jurassic World. Since 1994, a number of other video games that are not based directly on any of the films have also been released.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b1d/b1d71044567d1bf5b443d5ea441e4181.jpg",
+      "https://media.rawg.io/media/screenshots/510/5105a420c9562b4c82fbbbf9dfacee54.jpg",
+      "https://media.rawg.io/media/screenshots/410/410ce409d8f89a09bf737dbb0970a777.jpg",
+      "https://media.rawg.io/media/screenshots/035/035497ea0b7528810a57b55ce34ef675.jpg",
+      "https://media.rawg.io/media/screenshots/97d/97d7889766e50cadc4095b4ff0238d8f.jpg",
+      "https://media.rawg.io/media/screenshots/33d/33d54e684abd3294cffbff1b88ce9223.jpg"
+    ]
   },
   {
     "title": "Mighty Morphin Power Rangers",
     "platform": "Sega Mega Drive",
     "year": 1994,
-    "rating": "",
-    "genres": "Action",
+    "rating": 7.6,
+    "genres": "Action, Adventure, Fighting, Platformer",
     "players": 2,
     "core": "segaMD",
     "lightgun": false,
@@ -4682,9 +4806,16 @@
     "file": "Power Rangers.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "power_rangers.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/b4c/b4ce46311f97937d82f588b61a51ec86.jpg",
+    "description": "Mighty Morphin Power Rangers is a video game for the Sega CD console. It was produced by Sega TruVideo and released by Sega in US and Europe in 1994. The game consists mostly of footage from nine episodes of the Mighty Morphin Power Rangers TV series, which featured footage from Kyōryū Sentai Zyuranger.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/32e/32ebcf938a9495ad370924a349aa32e6.jpg",
+      "https://media.rawg.io/media/screenshots/666/666125f8fec0dc6fc5fc2acb5aaa33b1.jpg",
+      "https://media.rawg.io/media/screenshots/249/2499f1ddc8023051dd6661f870f105fd.jpg",
+      "https://media.rawg.io/media/screenshots/4e0/4e074d156d60033895d610717df5ec64.jpg",
+      "https://media.rawg.io/media/screenshots/fff/fff45be396fea7611d8cf155a3335767.jpg",
+      "https://media.rawg.io/media/screenshots/9c3/9c374ce2f35ef66e46fcd5354653cfc0.jpg"
+    ]
   },
   {
     "title": "Mortal Kombat",
