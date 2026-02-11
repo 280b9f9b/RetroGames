@@ -171,7 +171,7 @@
     "title": "Alex Kidd in Shinobi World",
     "platform": "Sega Master System",
     "year": 1990,
-    "rating": "",
+    "rating": 5,
     "genres": "Action-Platformer",
     "players": 1,
     "core": "segaMS",
@@ -180,9 +180,13 @@
     "file": "Alex Kidd in Shinobi World.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "alex_kidd_shinobi.jpg",
-    "description": "",
-    "screenshots": []
+    "cover": "https://upload.wikimedia.org/wikipedia/en/d/dc/AlexKiddInShinobiWorld.jpg",
+    "description": "Alex Kidd in Shinobi World is a side-scrolling action game from Sega for the Master System in 1990. Developed in Japan, it was released for the overseas market.",
+    "screenshots": [
+      "https://i.ytimg.com/vi/5-f1UfA_B5o/hqdefault.jpg",
+      "https://segaretro.org/images/b/bd/Alex_Kidd_in_Shinobi_World_SMS%2C_Stage_2-1.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV2dZOExP72Q-bZW4CWo8RzRlGYLMSiRImqQ&s"
+    ]
   },
   {
     "title": "Alien Storm",
