@@ -66,8 +66,8 @@
     "title": "Ghouls'n Ghosts",
     "platform": "Arcade",
     "year": 1988,
-    "rating": "",
-    "genres": "",
+    "rating": 6,
+    "genres": "Action",
     "players": 1,
     "core": "arcade",
     "lightgun": false,
@@ -76,8 +76,12 @@
     "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/4/43/Ghouls_and_Ghosts_sales_flyer.png",
-    "description": "",
-    "screenshots": []
+    "description": "Ghouls 'n Ghosts, known as Dai Makaimura in Japan, is a 1988 platform game developed and published by Capcom for arcades. It is the sequel to 1985's Ghosts 'n Goblins, and the second game in the Ghosts 'n Goblins series. It was a commercial success, becoming the eighth highest-grossing arcade game of 1989 in Japan.",
+    "screenshots": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNCSdrWNk5nyg3iWYcUNBaXL57N3cbOB21ng&s",
+      "https://i0.wp.com/retroarchives.fr/wp-content/uploads/2023/10/01-325.webp?resize=660%2C385&ssl=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXEEYNQJm21_DvQJmFrEN3vhoZlXlCnhsK6g&s"
+    ]
   },
   {
     "title": "Metal Slug 5",
