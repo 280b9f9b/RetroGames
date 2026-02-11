@@ -174,21 +174,28 @@
     ]
   },
   {
-    "title": "SHADOW DANCER",
+    "title": "Shadow Dancer (1989)",
     "platform": "Arcade",
     "year": 1989,
-    "rating": "",
-    "genres": "",
-    "players": 1,
+    "rating": 7.1,
+    "genres": "Action, Arcade, Platformer",
+    "players": 2,
     "core": "arcade",
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Arcade/shdancer.7z/shdancer.zip",
     "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/c/c4/Shadow_Dancer_MD_cover.png",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/c92/c92b347a29b99e8fa5f3b2c0c059ea1e.jpg",
+    "description": "Shadow Dancer (シャドー・ダンサー) is a side-scrolling action game produced by Sega originally released as an arcade game in 1989. It is the second and the final arcade game in the Shinobi series, following the original Shinobi itself. The player controls a ninja aided by an attack dog, who is fighting to save the city from a terrorist organization.\nShadow Dancer was developed on the Sega System 18 motherboard hardware and its generally well received home versions were released for the Master System console and several home computer systems in 1991. A loose adaptation titled Shadow Dancer: The Secret of Shinobi was released exclusively for the Mega Drive/Genesis.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/92e/92ec2bc78072370e5976330990f13173.jpg",
+      "https://media.rawg.io/media/screenshots/093/09356dcfc06f1d164167354c2b75f7ed.jpg",
+      "https://media.rawg.io/media/screenshots/8e6/8e6c70226301101fb3294de5f59ee5ad.jpg",
+      "https://media.rawg.io/media/screenshots/d40/d40d9570b34a703d393435136358bb05.jpg",
+      "https://media.rawg.io/media/screenshots/595/595f0ec08909fb0c2338d013a0973191.jpg",
+      "https://media.rawg.io/media/screenshots/54c/54c8cb846e218df390b03f423c96cf53.jpg"
+    ]
   },
   {
     "title": "SUPER HANG-ON",
