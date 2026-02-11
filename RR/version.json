@@ -150,11 +150,11 @@
     ]
   },
   {
-    "title": "RASTAN",
+    "title": "Rastan (1987)",
     "platform": "Arcade",
     "year": 1987,
-    "rating": "",
-    "genres": "",
+    "rating": 6,
+    "genres": "Arcade",
     "players": 1,
     "core": "arcade",
     "lightgun": false,
@@ -162,9 +162,16 @@
     "file": "https://archive.org/download/ffight/Arcade/rastan.7z/rastan.zip",
     "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/6/6c/RastanSaga_arcadeflyer.png",
-    "description": "",
-    "screenshots": []
+    "cover": "https://media.rawg.io/media/screenshots/223/2235ca4ecabb6a5506c2306829e48a1f.jpg",
+    "description": "Rastan Saga (ラスタンサーガ), released as Rastan outside of Japan, is a fantasy-themed side-scrolling action game originally released for the arcades in 1987 by Taito and later ported to various platforms. The player controls a barbarian warrior who has embarked on a quest to slay a dragon. While on his way to the dragon's lair, Rastan must fight hordes of enemy monsters based on mythical creatures such as chimeras and harpies.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/eb9/eb9d72745992795bf1d093432f4a1d87.jpg",
+      "https://media.rawg.io/media/screenshots/ad9/ad9f4aeeca308b06fd9e1a4de56912a6.jpg",
+      "https://media.rawg.io/media/screenshots/88d/88d46bae62b5e84fc26e6b0543a01e38.jpg",
+      "https://media.rawg.io/media/screenshots/170/17020da1bd00c1de5b7d5d8f983f7363.jpg",
+      "https://media.rawg.io/media/screenshots/959/9590475e26e8ff3a2fcd6edd7f484ebe.jpg",
+      "https://media.rawg.io/media/screenshots/089/0896305dae2e8d53ea3512c1e2a027ab.jpg"
+    ]
   },
   {
     "title": "SHADOW DANCER",
