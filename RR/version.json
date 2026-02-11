@@ -3,7 +3,7 @@
     "title": "After Burner",
     "platform": "Sega Master System",
     "year": 1988,
-    "rating": "",
+    "rating": 7,
     "genres": "Shooter",
     "players": 1,
     "core": "segaMS",
@@ -12,9 +12,13 @@
     "file": "After Burner.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "after_burner.jpg",
+    "cover": "https://m.media-amazon.com/images/I/81MuW4G3yjL._AC_UF894,1000_QL80_.jpg",
     "description": "",
-    "screenshots": []
+    "screenshots": [
+      "https://i.ytimg.com/vi/ZVdnWx7E0vw/maxresdefault.jpg",
+      "https://www.smstributes.co.uk/images/db/screenshot_afterburner_003.png",
+      "https://i.ytimg.com/vi/6wGQP8lyXq0/hqdefault.jpg"
+    ]
   },
   {
     "title": "Alex Kidd in Miracle World",
