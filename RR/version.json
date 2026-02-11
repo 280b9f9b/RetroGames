@@ -55,8 +55,12 @@
     "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
     "cheats": [],
     "cover": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/final_fight.jpg",
-    "description": "",
-    "screenshots": []
+    "description": "Final Fight is a 1989 beat 'em up game developed and published by Capcom for arcades. It is the seventh title released for the CP System hardware.",
+    "screenshots": [
+      "https://oyuncugundemi.net/wp-content/uploads/2025/12/Final-Fight-Kapak.jpg",
+      "https://upload.wikimedia.org/wikipedia/it/5/51/Final_Fight.png",
+      "https://i0.wp.com/videojuerguistas.net/wp-content/uploads/2024/07/FINAL-FIGHT-ARCADE.jpg?resize=900%2C675&ssl=1"
+    ]
   },
   {
     "title": "Ghouls'n Ghosts",
