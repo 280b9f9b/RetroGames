@@ -1,5 +1,1428 @@
 [
   {
+    "title": "Samurai Shodown",
+    "platform": "3DO",
+    "year": 1994,
+    "rating": 7.5,
+    "genres": "Action, Platformer",
+    "players": 1,
+    "core": "3do",
+    "lightgun": false,
+    "biosUrl": "https://archive.org/download/ffight/3DO/goldstar.7z/goldstar.bin",
+    "file": "https://archive.org/download/ffight/3DO/Samurai%20Shodown%20%281994%29%28Crystal%20Dynamics%29%28US%29%5B%21%5D%5B60020%20R1J%5D.zip/Samurai%20Shodown%20%281994%29%28Crystal%20Dynamics%29%28US%29%5B%21%5D%5B60020%20R1J%5D.iso",
+    "engine": "4.2.3",
+    "cheats": [],
+    "cover": "https://static.romspedia.com/webp/roms/samurai-shodown-3do-cover-340x483.webp",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Super Street Fighter II Turbo",
+    "platform": "3DO",
+    "year": 1994,
+    "rating": 10,
+    "genres": "Action, Platformer",
+    "players": 1,
+    "core": "3do",
+    "lightgun": false,
+    "biosUrl": "https://archive.org/download/ffight/3DO/goldstar.7z/goldstar.bin",
+    "file": "https://archive.org/download/ffight/3DO/Super%20Street%20Fighter%20II%20Turbo%20%281994%29%28Panasonic%29%28US%29%5BA1069%20DE%20SM3851-2%20RE1%20R72%5D.zip/Super%20Street%20Fighter%20II%20Turbo%20%281994%29%28Panasonic%29%28US%29%5BA1069%20DE%20SM3851-2%20RE1%20R72%5D.iso",
+    "engine": "4.2.3",
+    "cheats": [],
+    "cover": "https://static.romspedia.com/webp/roms/3do-super-street-fighter-2-turbo-340x483.webp",
+    "description": "Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a 1994 fighting game developed and published by Capcom for arcades. It is the fifth installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II.",
+    "screenshots": [
+      "https://external-preview.redd.it/8RSbQpViz9KzowhFqcbQIi9-4v2BzfQx1LGPPoAeLp4.jpg?format=pjpg&auto=webp&s=ec881c05b506387ca4b44e037fa73e4e66e32307",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHzqH7zuWQY4DGFX2L-ukLF9u9YjainoxJow&s",
+      "https://thekingofgrabs.com/wp-content/uploads/2024/02/super-street-fighter-2-turbo-3do-wide.png?w=1038&h=576&crop=1"
+    ]
+  },
+  {
+    "title": "Final Fight",
+    "platform": "Arcade",
+    "year": 1989,
+    "rating": 8.1,
+    "genres": "Beat 'em up",
+    "players": 2,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Arcade/ffight.7z/ffight.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/final_fight.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Ghouls'n Ghosts",
+    "platform": "Arcade",
+    "year": 1988,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Arcade/ghouls.7z/ghouls.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/4/43/Ghouls_and_Ghosts_sales_flyer.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Metal Slug 5",
+    "platform": "Arcade",
+    "year": 2003,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": "https://archive.org/download/ffight/Arcade/neogeo.7z/neogeo.zip",
+    "file": "https://archive.org/download/ffight/Arcade/ms5pcb.7z/ms5pcb.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/1/15/Metal_Slug_5_arcade_flyer.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Metal Slug X",
+    "platform": "Arcade",
+    "year": 1999,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": "https://archive.org/download/ffight/Arcade/neogeo.7z/neogeo.zip",
+    "file": "https://archive.org/download/ffight/Arcade/mslugx.7z/mslugx.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkUOeM_z-dDEhvOsGZLgs0vhvV-1tZAuQyg&s",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "OUTRUNNERS",
+    "platform": "Arcade",
+    "year": 1992,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Arcade/orunnersu.7z/orunnersu.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "https://m.media-amazon.com/images/M/MV5BNzQ2NzNkYTItODJjNy00ZTlhLWJjMzktNWRkMTlkOWFlNGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "RASTAN",
+    "platform": "Arcade",
+    "year": 1987,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Arcade/rastan.7z/rastan.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/6/6c/RastanSaga_arcadeflyer.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "SHADOW DANCER",
+    "platform": "Arcade",
+    "year": 1989,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Arcade/shdancer.7z/shdancer.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/c/c4/Shadow_Dancer_MD_cover.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "SUPER HANG-ON",
+    "platform": "Arcade",
+    "year": 1987,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "shangon.zip",
+    "engine": "4.2.0",
+    "cheats": [],
+    "cover": "https://m.media-amazon.com/images/M/MV5BNThhNDNmNzUtOTBlNS00ZTA5LWI0ZTEtNjEyZjA4NTdjMWEwXkEyXkFqcGc@._V1_.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "TEENAGE MUTANT NINJA TURTLES",
+    "platform": "Arcade",
+    "year": 1989,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Arcade/tmnt.7z/tmnt.zip",
+    "engine": "4.2.0",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/04/Teenage_Mutant_Ninja_Turtles_%281989_arcade_game%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Vigilante",
+    "platform": "Arcade",
+    "year": 1988,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Arcade/vigilant.7z/vigilant.zip",
+    "engine": "4.2.0",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Vigilante_arcadeflyer.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Wonder Boy",
+    "platform": "Arcade",
+    "year": 1986,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Arcade/wboy.7z/wboy.zip",
+    "engine": "4.2.0",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/f/ff/WonderBoy_arcadeflyer.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "River Raid",
+    "platform": "Atari 2600",
+    "year": 1982,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "atari2600",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Atari%202600/River%20Raid.7z/River%20Raid.zip",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/d/db/River_Raid_cover.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Pitfall! (1982) (Activision)",
+    "platform": "Atari 5200",
+    "year": 1982,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "atari5200",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Atari%205200/Pitfall%21%20%281982%29%20%28Activision%29.7z/Pitfall%21%20%281982%29%20%28Activision%29.zip",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/0c/Pitfall-cover.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Dig Dug (1987) (Atari)",
+    "platform": "Atari 7800",
+    "year": 1987,
+    "rating": 7.6,
+    "genres": "Action, Puzzle",
+    "players": 2,
+    "core": "atari7800",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Atari%207800/Dig%20Dug.7z/Dig%20Dug.zip",
+    "engine": "4.2.3",
+    "cheats": [],
+    "cover": "https://www.retroplace.com/pics/atari8bit/packshots/5496--dig-dug.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Rayman (World)",
+    "platform": "Atari Jaguar",
+    "year": 1995,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "jaguar",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Atari%20Jaguar/Rayman%20%28World%29.7z/Rayman%20%28World%29.zip",
+    "engine": "4.1.1",
+    "cheats": [],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvNEvK4YaNB3_9iEaABINwCuGxSV6bzZTxjQ&s",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Ms. Pac-Man (USA, Europe)",
+    "platform": "Atari Lynx",
+    "year": 1990,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "lynx",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Atari%20Lynx/Ms.%20Pac-Man%20%28USA%2C%20Europe%29.7z/Ms.%20Pac-Man%20%28USA%2C%20Europe%29.zip",
+    "engine": "4.1.1",
+    "cheats": [],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVS8_LAtElt5mHNMEZVRdV1scwky7rrzOQcQ&s",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Donkey Kong (1982)(Coleco)",
+    "platform": "ColecoVision",
+    "year": null,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "coleco",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/ColecoVision/Donkey%20Kong%20%281982%29%28Coleco%29.zip/Donkey%20Kong%20%281982%29%28Coleco%29.bin",
+    "cover": "",
+    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
+    "cheats": [],
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Invaders 128 (19xx)(Spiceware)",
+    "platform": "Commodore 128",
+    "year": null,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "c128",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Commodore%20128/Invaders%20128%20%2819xx%29%28Spiceware%29.zip/Invaders%20128%20%2819xx%29%28Spiceware%29.d64",
+    "cover": "",
+    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
+    "cheats": [],
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "ghostbusters",
+    "platform": "Commodore 64",
+    "year": null,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "c64",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Commodore%2064/ghostbusters.zip/GHOSTBUS.T64",
+    "cover": "",
+    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
+    "cheats": [],
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Rambo III",
+    "platform": "Commodore Amiga",
+    "year": null,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "amiga",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Commodore%20Amiga/Rambo%20III.zip/Rambo%20III%20%281989%29%28Ocean%29%5Bcr%20PNA%5D.adf",
+    "cover": "",
+    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
+    "cheats": [],
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Invaders (19xx)",
+    "platform": "Commodore PET",
+    "year": null,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "pet",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Commodore%20PET/Space%20Invaders%20%2819xx%29%28-%29.zip/Space%20Invaders%20%2819xx%29%28-%29.prg",
+    "cover": "",
+    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
+    "cheats": [],
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Strange Odyssey (USA, Europe)",
+    "platform": "Commodore Plus/4",
+    "year": null,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "plus4",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Commodore%20Plus4/Strange%20Odyssey%20%28USA%2C%20Europe%29.7z/Strange%20Odyssey%20%28USA%2C%20Europe%29.bin",
+    "cover": "",
+    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
+    "cheats": [],
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Pirate's Cove Adventure (World) (SYS 32592)",
+    "platform": "Commodore VIC-20",
+    "year": null,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "vic20",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Commodore%20VIC-20/Pirate%27s%20Cove%20Adventure%20%28World%29%20%28SYS%2032592%29.zip/Pirate%27s%20Cove%20Adventure%20%28World%29%20%28SYS%2032592%29.40",
+    "cover": "",
+    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
+    "cheats": [],
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Legend of Zelda, The - The Minish Cap",
+    "platform": "Game Boy Advance",
+    "year": 2004,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/1865%20-%20The%20Legend%20of%20Zelda%20-%20The%20Minish%20Cap%20%28U%29%28DCS%29.zip/1865%20-%20The%20Legend%20of%20Zelda%20-%20The%20Minish%20Cap%20%28U%29%28DCS%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://static.romspedia.com/webp/roms/legend-of-zelda-cover-340x483.webp",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "CHASE H.Q.",
+    "platform": "MAME 2003",
+    "year": 1988,
+    "rating": 7.1,
+    "genres": "Racing, Action",
+    "players": 1,
+    "core": "mame2003",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/MAME%202003/chasehq.7z/chasehq.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/0d/Chasehq_flyer.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Double Dragon",
+    "platform": "MAME 2003",
+    "year": 1987,
+    "rating": 7.9,
+    "genres": "Beat 'em up",
+    "players": 2,
+    "core": "mame2003",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/MAME%202003/ddragon.7z/ddragon.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/e/e6/Ddragon_chirashi.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "GOLDEN AXE",
+    "platform": "MAME 2003",
+    "year": 1989,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "mame2003",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/MAME%202003/goldnaxe.7z/goldnaxe.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Golden_Axe_Promo_Flyer.jpeg/250px-Golden_Axe_Promo_Flyer.jpeg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "SPACE HARRIER",
+    "platform": "MAME 2003",
+    "year": 1985,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "mame2003",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/MAME%202003/sharrier.7z/sharrier.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/2/21/SpaceHarrier_arcadeflyer.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Balloon Fight",
+    "platform": "NES-Famicom",
+    "year": 1985,
+    "rating": "",
+    "genres": "Action",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Balloon Fight.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "balloon_fight.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Baseball",
+    "platform": "NES-Famicom",
+    "year": 1983,
+    "rating": "",
+    "genres": "Sports",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Baseball.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "baseball.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Battletoads",
+    "platform": "NES-Famicom",
+    "year": 1991,
+    "rating": "",
+    "genres": "Action",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Battletoads.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "battletoads.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Castlevania",
+    "platform": "NES-Famicom",
+    "year": 1986,
+    "rating": "",
+    "genres": "Action",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Castlevania.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "castlevania.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Clu Clu Land",
+    "platform": "NES-Famicom",
+    "year": 1984,
+    "rating": "",
+    "genres": "Puzzle",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Clu Clu Land.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "clu_clu_land.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Contra",
+    "platform": "NES-Famicom",
+    "year": 1987,
+    "rating": "",
+    "genres": "Shooter",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Contra.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "contra.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Contra (USA)",
+    "platform": "NES-Famicom",
+    "year": 1987,
+    "rating": 8.5,
+    "genres": "Run and gun, Shooter",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Contra%20%28USA%29.7z/Contra%20%28USA%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/6/65/Contra_cover.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Donkey Kong",
+    "platform": "NES-Famicom",
+    "year": 1983,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Donkey Kong.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "donkey_kong.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Donkey Kong Jr.",
+    "platform": "NES-Famicom",
+    "year": 1983,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Donkey Kong Jr..nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "donkey_kong_jr.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Double Dragon",
+    "platform": "NES-Famicom",
+    "year": 1988,
+    "rating": "",
+    "genres": "Beat 'em Up",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Double Dragon.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "double_dragon.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Dr. Mario",
+    "platform": "NES-Famicom",
+    "year": 1990,
+    "rating": "",
+    "genres": "Puzzle",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Dr. Mario.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "dr_mario.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Duck Hunt",
+    "platform": "NES-Famicom",
+    "year": 1984,
+    "rating": "",
+    "genres": "Shooter",
+    "players": 1,
+    "core": "nes",
+    "lightgun": true,
+    "biosUrl": false,
+    "file": "Duck Hunt.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "duck_hunt.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Excitebike",
+    "platform": "NES-Famicom",
+    "year": 1984,
+    "rating": "",
+    "genres": "Racing",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Excitebike.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "excitebike.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Excitebike (Japan, USA)",
+    "platform": "NES-Famicom",
+    "year": 1984,
+    "rating": 7.8,
+    "genres": "Racing, Action",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Excitebike%20%28Japan%2C%20USA%29.7z/Excitebike%20%28Japan%2C%20USA%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/f/f8/Excitebike_cover.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Final Fantasy",
+    "platform": "NES-Famicom",
+    "year": 1987,
+    "rating": "",
+    "genres": "RPG",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Final Fantasy.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "final_fantasy.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Golf",
+    "platform": "NES-Famicom",
+    "year": 1984,
+    "rating": "",
+    "genres": "Sports",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Golf.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "golf.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Gradius",
+    "platform": "NES-Famicom",
+    "year": 1986,
+    "rating": "",
+    "genres": "Shooter",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Gradius.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "gradius.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Ice Climber",
+    "platform": "NES-Famicom",
+    "year": 1985,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Ice Climber.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "ice_climber.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Ice Climber (USA, Europe)",
+    "platform": "NES-Famicom",
+    "year": 1985,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Ice%20Climber%20%28USA%2C%20Europe%29.7z/Ice%20Climber%20%28USA%2C%20Europe%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/d/df/IceClimberboxartnes.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Jackal (USA)",
+    "platform": "NES-Famicom",
+    "year": 1988,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Jackal%20%28USA%29.7z/Jackal%20%28USA%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://videogamegalaxy.com/wp-content/uploads/2023/04/Jackal-USA.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Kid Icarus",
+    "platform": "NES-Famicom",
+    "year": 1986,
+    "rating": "",
+    "genres": "Action-Platformer",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Kid Icarus.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "kid_icarus.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Kung Fu",
+    "platform": "NES-Famicom",
+    "year": 1985,
+    "rating": "",
+    "genres": "Beat 'em Up",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Kung Fu.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "kung_fu.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Kung Fu (Japan, USA)",
+    "platform": "NES-Famicom",
+    "year": 1984,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Kung%20Fu%20%28Japan%2C%20USA%29.7z/Kung%20Fu%20%28Japan%2C%20USA%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Don't Die When The Timer Runs Out",
+        "GZVKIYSA + ATVKYNGG"
+      ],
+      [
+        "Enemies Are Easier To Defeat",
+        "AEVXLSPT"
+      ],
+      [
+        "Infinite Health And One Hit Kills",
+        "GPTGTG + UTYKTK"
+      ],
+      [
+        "Infinite Lives",
+        "SUAAXA"
+      ],
+      [
+        "Knife Thrower Harder To Beat",
+        "XYUXEUZK"
+      ],
+      [
+        "Start With Lots Of Lives",
+        "ISOPPI"
+      ]
+    ],
+    "cover": "https://cdn.0game.ir/gameso/images/games/nintendo/nes/covers/Kung%20Fu%20(Japan,%20USA)%20(En).jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Legend of Zelda, The (USA)",
+    "platform": "NES-Famicom",
+    "year": 1986,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Legend%20of%20Zelda%2C%20The%20%28USA%29.7z/Legend%20of%20Zelda%2C%20The%20%28USA%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Mario Bros.",
+    "platform": "NES-Famicom",
+    "year": 1983,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Mario Bros..nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "mario_bros.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Mega Man 2",
+    "platform": "NES-Famicom",
+    "year": 1988,
+    "rating": "",
+    "genres": "Action-Platformer",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Mega Man 2.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "mega_man_2.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Metroid",
+    "platform": "NES-Famicom",
+    "year": 1986,
+    "rating": "",
+    "genres": "Action-Adventure",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Metroid.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "metroid.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Metroid (USA)",
+    "platform": "NES-Famicom",
+    "year": 1986,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Metroid%20%28USA%29.7z/Metroid%20%28USA%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/5/5d/Metroid_boxart.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Mike Tysons Punch-Out!! (Japan, USA)",
+    "platform": "NES-Famicom",
+    "year": 1987,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Mike%20Tysons%20Punch-Out%21%21%20%28Japan%2C%20USA%29.7z/Mike%20Tyson%27s%20Punch-Out%21%21%20%28Japan%2C%20USA%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://cdn.shopify.com/s/files/1/1104/2322/files/14834_front.jpg?v=1740936828",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Punch-Out!!",
+    "platform": "NES-Famicom",
+    "year": 1987,
+    "rating": "",
+    "genres": "Sports",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Punch-Out!!.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "punch_out.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "R.C. Pro-Am",
+    "platform": "NES-Famicom",
+    "year": 1988,
+    "rating": "",
+    "genres": "Racing",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "RC Pro-Am.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "rc_pro_am.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Super Mario Bros.",
+    "platform": "NES-Famicom",
+    "year": 1985,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Super Mario Bros..nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "super_mario_bros.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Super Mario Bros. (World)",
+    "platform": "NES-Famicom",
+    "year": 1985,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Super%20Mario%20Bros.%20%28World%29.7z/Super%20Mario%20Bros.%20%28World%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Super Mario Bros. 2",
+    "platform": "NES-Famicom",
+    "year": 1988,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Super Mario Bros. 2.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "super_mario_bros_2.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Super Mario Bros. 2 (USA)",
+    "platform": "NES-Famicom",
+    "year": 1988,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Super%20Mario%20Bros.%202%20%28USA%29.7z/Super%20Mario%20Bros.%202%20%28USA%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Super_Mario_Bros._2_box_art.png/250px-Super_Mario_Bros._2_box_art.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Super Mario Bros. 3",
+    "platform": "NES-Famicom",
+    "year": 1988,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Super Mario Bros. 3.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "super_mario_bros_3.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Super Mario Bros. 3 (USA)",
+    "platform": "NES-Famicom",
+    "year": 1990,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Super%20Mario%20Bros.%203%20%28USA%29.7z/Super%20Mario%20Bros.%203%20%28USA%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/a5/Super_Mario_Bros._3_coverart.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Tecmo Bowl",
+    "platform": "NES-Famicom",
+    "year": 1987,
+    "rating": "",
+    "genres": "Sports",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Tecmo Bowl.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "tecmo_bowl.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles",
+    "platform": "NES-Famicom",
+    "year": 1989,
+    "rating": "",
+    "genres": "Action",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "TMNT.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "tmnt.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Tennis",
+    "platform": "NES-Famicom",
+    "year": 1984,
+    "rating": "",
+    "genres": "Sports",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Tennis.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "tennis.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Tetris",
+    "platform": "NES-Famicom",
+    "year": 1989,
+    "rating": "",
+    "genres": "Puzzle",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Tetris.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "tetris.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "The Legend of Zelda",
+    "platform": "NES-Famicom",
+    "year": 1986,
+    "rating": "",
+    "genres": "Action-Adventure",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "The Legend of Zelda.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "zelda.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Wrecking Crew",
+    "platform": "NES-Famicom",
+    "year": 1985,
+    "rating": "",
+    "genres": "Puzzle",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Wrecking Crew.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "wrecking_crew.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Yoshi",
+    "platform": "NES-Famicom",
+    "year": 1991,
+    "rating": "",
+    "genres": "Puzzle",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Yoshi.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "yoshi.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Zelda II: The Adventure of Link",
+    "platform": "NES-Famicom",
+    "year": 1987,
+    "rating": "",
+    "genres": "Action RPG",
+    "players": 1,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Zelda II.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "zelda_2.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Mario Kart 64 (USA)",
+    "platform": "Nintendo 64",
+    "year": 1996,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "n64",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Nintendo%2064/Mario%20Kart%2064%20%28USA%29.zip/Mario%20Kart%2064%20%28USA%29.n64",
+    "engine": "4.2.3",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/a1/Mario_Kart_64.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "New Super Mario Bros.",
+    "platform": "Nintendo DS",
+    "year": 2006,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "nds",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Nintendo%20DS/0434%20-%20New%20Super%20Mario%20Bros.%20%28U%29%28Psyfer%29.7z/-%20New%20Super%20Mario%20Bros.%20%28U%29%28Psyfer%29.nds",
+    "engine": "4.2.3",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/d/db/NewSuperMarioBrothers.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Super Mario Land (World)",
+    "platform": "Nintendo Game Boy",
+    "year": 1989,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "gb",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Nintendo%20Game%20Boy/Super%20Mario%20Land%20%28World%29.zip/Super%20Mario%20Land%20%28World%29.gb",
+    "engine": "4.2.3",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/2/22/Super-mario-land-gameboy-boxart.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Crash Bandicoot 2 - Cortex Strikes Back [NTSC-U] [SCUS-94154]",
+    "platform": "PlayStation",
+    "year": 1997,
+    "rating": 8.7,
+    "genres": "Platformer",
+    "players": 1,
+    "core": "psx",
+    "lightgun": false,
+    "biosUrl": "https://archive.org/download/ffight/PlayStation/scph5501.7z/scph5501.bin",
+    "file": "https://archive.org/download/ffight/PlayStation/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.7z/Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.bin.ecm",
+    "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
+    "cheats": [],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTil83XgiAe_HxOmmDdfLn_hUqKaVXdH-_16A&s",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Knuckles' Chaotix",
+    "platform": "Sega 32X",
+    "year": 1996,
+    "rating": 6,
+    "genres": "Action, Platformer",
+    "players": 1,
+    "core": "sega32x",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%2032X/Knuckles%27%20Chaotix.zip/Knuckles%27%20Chaotix%20%23%2032X.32X",
+    "engine": "4.2.3",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/d/dd/Knuckles%27_Chaotix_Coverart.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Final Fight CD (U)",
+    "platform": "Sega CD",
+    "year": 1993,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaCD",
+    "lightgun": false,
+    "biosUrl": "https://archive.org/download/ffight/Sega%20CD/bios_CD_U.7z/bios_CD_U.bin",
+    "file": "https://archive.org/download/ffight/Sega%20CD/Final%20Fight%20CD%20%28U%29.zip/Final%20Fight%20CD%20%28Sega%20CD%29%20%28U%29.bin",
+    "engine": "4.1.1",
+    "cheats": [],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXWLUcriu2vELPk6ZtQmOdgjYGLEHtxGi0JQ&s",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Fatal Fury Special (U) [!]",
+    "platform": "Sega Game Gear",
+    "year": 1995,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaGG",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Game%20Gear/Fatal%20Fury%20Special%20%28U%29%20%5B%21%5D.zip/Fatal%20Fury%20Special%20%28U%29%20%5B%21%5D.gg",
+    "engine": "4.2.3",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Fatal_Fury_Special_arcade_flyer.jpg/250px-Fatal_Fury_Special_arcade_flyer.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "After Burner",
     "platform": "Sega Master System",
     "year": 1988,
@@ -20,7 +1443,7 @@
       "https://i.ytimg.com/vi/6wGQP8lyXq0/hqdefault.jpg"
     ]
   },
- {
+  {
     "title": "Alex Kidd in Miracle World",
     "platform": "Sega Master System",
     "year": 1986,
@@ -189,23 +1612,6 @@
     ]
   },
   {
-    "title": "Alien Storm",
-    "platform": "Sega Mega Drive",
-    "year": 1990,
-    "rating": "",
-    "genres": "Beat 'em up / Action",
-    "players": 2,
-    "core": "segaMD",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Alien Storm.md",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "alien_storm.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Alien Syndrome",
     "platform": "Sega Master System",
     "year": 1987,
@@ -236,6 +1642,1678 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "altered_beast.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Asterix",
+    "platform": "Sega Master System",
+    "year": 1992,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Asterix.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "asterix.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Asterix and the Great Rescue",
+    "platform": "Sega Master System",
+    "year": 1993,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Asterix and the Great Rescue.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "asterix_rescue.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Basket Ball Nightmare (Europe)",
+    "platform": "Sega Master System",
+    "year": 1989,
+    "rating": 5.5,
+    "genres": "Sports, Basketball",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Basket%20Ball%20Nightmare%20%28Europe%29.7z/Basket%20Ball%20Nightmare%20%28Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "P1/CPU Has High Score",
+        "00C0-32FF"
+      ],
+      [
+        "P2/CPU's Team Never Scores",
+        "00C0-3300"
+      ],
+      [
+        "Round Number Modifier 0",
+        "00C0-3400"
+      ],
+      [
+        "Round Number Modifier 1",
+        "00C0-3401"
+      ],
+      [
+        "Round Number Modifier 2",
+        "00C0-3402"
+      ],
+      [
+        "Round Number Modifier 3",
+        "00C0-3403"
+      ],
+      [
+        "Round Number Modifier 4",
+        "00C0-3404"
+      ],
+      [
+        "Round Number Modifier 5",
+        "00C0-3405"
+      ]
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/8/8e/BasketballNightmareTitleScreenSMS.PNG",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Bomber Raid",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": "",
+    "genres": "Shooter",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Bomber Raid.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "bomber_raid.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Bomber Raid (World)",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": 7,
+    "genres": "Shoot ’em up",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Bomber%20Raid%20%28World%29.7z/Bomber%20Raid%20%28World%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLLr5cK1YRB1Bra1My48ISjB1qnTkYht5rYA&s",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Bubble Bobble",
+    "platform": "Sega Master System",
+    "year": 1987,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Bubble Bobble.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "bubble_bobble.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "California Games",
+    "platform": "Sega Master System",
+    "year": 1987,
+    "rating": "",
+    "genres": "Sports",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "California Games.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "california_games.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Castle of Illusion Starring Mickey Mouse",
+    "platform": "Sega Master System",
+    "year": 1990,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Castle of Illusion.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "castle_illusion.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Choplifter",
+    "platform": "Sega Master System",
+    "year": 1986,
+    "rating": "",
+    "genres": "Action",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Choplifter.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "choplifter.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Columns",
+    "platform": "Sega Master System",
+    "year": 1990,
+    "rating": "",
+    "genres": "Puzzle",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Columns.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "columns.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Double Dragon",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": "",
+    "genres": "Beat 'em Up",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Double Dragon.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "double_dragon_sms.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Enduro Racer",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": "",
+    "genres": "Racing",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Enduro Racer.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "enduro_racer.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Enduro Racer (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1987,
+    "rating": 6.8,
+    "genres": "Racing, Arcade",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Enduro%20Racer%20%28USA%2C%20Europe%29.7z/Enduro%20Racer%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAnYb2JTE9XvvX5Qnudo74RERa6w4dtG_OwA&s",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Fantasy Zone",
+    "platform": "Sega Master System",
+    "year": 1986,
+    "rating": "",
+    "genres": "Shooter",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Fantasy Zone.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "fantasy_zone.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "FIFA International Soccer",
+    "platform": "Sega Master System",
+    "year": 1993,
+    "rating": "",
+    "genres": "Sports",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "FIFA International Soccer.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "fifa_sms.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Gauntlet",
+    "platform": "Sega Master System",
+    "year": 1990,
+    "rating": "",
+    "genres": "Action-RPG",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Gauntlet.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "gauntlet.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Ghouls 'n Ghosts",
+    "platform": "Sega Master System",
+    "year": 1989,
+    "rating": "",
+    "genres": "Action",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Ghouls n Ghosts.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "ghouls_ghosts.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Golden Axe",
+    "platform": "Sega Master System",
+    "year": 1989,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Golden%20Axe%20%28USA%2C%20Europe%29.7z/Golden%20Axe%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://www.smspower.org/uploads/Scans/GoldenAxe-SMS-US-medium.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Golden Axe",
+    "platform": "Sega Master System",
+    "year": 1989,
+    "rating": "",
+    "genres": "Beat 'em Up",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Golden Axe.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "golden_axe.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Golden Axe Warrior (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1991,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Golden%20Axe%20Warrior%20%28USA%2C%20Europe%29.7z/Golden%20Axe%20Warrior%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://www.smspower.org/uploads/Scans/GoldenAxeWarrior-SMS-EU-medium.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Hang-On",
+    "platform": "Sega Master System",
+    "year": 1987,
+    "rating": "",
+    "genres": "Racing",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Hang-On.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "hang_on.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "James Bond 007",
+    "platform": "Sega Master System",
+    "year": 1987,
+    "rating": "",
+    "genres": "Action",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "James Bond 007.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "james_bond_sms.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Kenseiden (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Kenseiden%20%28USA%2C%20Europe%29.7z/Kenseiden%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/7/71/Kenseiden_Coverart.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Lemmings",
+    "platform": "Sega Master System",
+    "year": 1991,
+    "rating": "",
+    "genres": "Puzzle",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Lemmings.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "lemmings.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Lucky Dime Caper",
+    "platform": "Sega Master System",
+    "year": 1990,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Lucky Dime Caper.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "lucky_dime.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Master of Darkness",
+    "platform": "Sega Master System",
+    "year": 1992,
+    "rating": "",
+    "genres": "Action-Platformer",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Master of Darkness.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "master_darkness.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Michael Jackson's Moonwalker",
+    "platform": "Sega Master System",
+    "year": 1990,
+    "rating": "",
+    "genres": "Action",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Moonwalker.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "moonwalker.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Mortal Kombat",
+    "platform": "Sega Master System",
+    "year": 1993,
+    "rating": "",
+    "genres": "Fighting",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Mortal Kombat.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "mortal_kombat_sms.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "NBA Jam",
+    "platform": "Sega Master System",
+    "year": 1993,
+    "rating": "",
+    "genres": "Sports",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "NBA Jam.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "nba_jam.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Ninja Gaiden (Europe) (Beta)",
+    "platform": "Sega Master System",
+    "year": 1992,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Ninja%20Gaiden%20%28Europe%29%20%28Beta%29.7z/Ninja%20Gaiden%20%28Europe%29%20%28Beta%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://www.retrostic.com/img/covers/ninja-gaiden-europe-beta-big.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Ninja, The (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1990,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Ninja%2C%20The%20%28USA%2C%20Europe%29.7z/Ninja%2C%20The%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://theexchange.com/cdn/shop/products/Ninja_The_USA_Europe_c1bd630c-9a3b-409a-9be7-dc8810c868eb.png?v=1613929222&width=540",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Out Run",
+    "platform": "Sega Master System",
+    "year": 1987,
+    "rating": "",
+    "genres": "Racing",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Out Run.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "out_run.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Phantasy Star",
+    "platform": "Sega Master System",
+    "year": 1987,
+    "rating": "",
+    "genres": "RPG",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Phantasy Star.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "phantasy_star.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Power Strike",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": "",
+    "genres": "Shooter",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Power Strike.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "power_strike.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Prince of Persia",
+    "platform": "Sega Master System",
+    "year": 1990,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Prince of Persia.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "prince_persia.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Psycho Fox",
+    "platform": "Sega Master System",
+    "year": 1989,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Psycho Fox.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "psycho_fox.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Psycho Fox (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1989,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Psycho%20Fox%20%28USA%2C%20Europe%29.7z/Psycho%20Fox%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/1/1b/PsychoFoxUSBoxShotSMS.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "R-Type",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": "",
+    "genres": "Shooter",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "R-Type.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "rtype.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "R-Type (World)",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/R-Type%20%28World%29.7z/R-Type%20%28World%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://www.smspower.org/uploads/Scans/RType-SMS-EU-R-medium.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Rampage",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": "",
+    "genres": "Action",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Rampage.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "rampage.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Road Rash",
+    "platform": "Sega Master System",
+    "year": 1993,
+    "rating": "",
+    "genres": "Racing",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Road Rash.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "road_rash.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Scramble Spirits (Europe)",
+    "platform": "Sega Master System",
+    "year": 1990,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Scramble%20Spirits%20%28Europe%29.7z/Scramble%20Spirits%20%28Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://www.smspower.org/uploads/Scans/ScrambleSpirits-SMS-EU-NoR-medium.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Secret Command (Europe)",
+    "platform": "Sega Master System",
+    "year": 1986,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Secret%20Command%20%28Europe%29.7z/Secret%20Command%20%28Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://www.retrostic.com/img/covers/secret-command-europe-big.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Shinobi",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": "",
+    "genres": "Action",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Shinobi.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "shinobi.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Shinobi (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Shinobi%20%28USA%2C%20Europe%29.7z/Shinobi%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://theexchange.com/cdn/shop/products/Shinobi_USA_Europe_cd2926bd-d125-4bdc-a327-4f61810f2e81.png?v=1614078244&width=540",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Smurfs, The (Europe) (En,Fr,De,Es)",
+    "platform": "Sega Master System",
+    "year": 1995,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.7z/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://www.retrostic.com/img/covers/smurfs-the-europe-en-fr-de-es-it-big.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Sonic the Hedgehog",
+    "platform": "Sega Master System",
+    "year": 1991,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Sonic the Hedgehog.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "sonic_sms.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Sonic The Hedgehog (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1991,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.7z/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4ndeQ2JnzDejv5mCwV1XOLNafNjh3fx-Wg&s",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Sonic the Hedgehog 2",
+    "platform": "Sega Master System",
+    "year": 1992,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Sonic the Hedgehog 2.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "sonic2_sms.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Space Harrier",
+    "platform": "Sega Master System",
+    "year": 1986,
+    "rating": "",
+    "genres": "Shooter",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Space Harrier.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "space_harrier.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "SpellCaster (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1989,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/SpellCaster%20%28USA%2C%20Europe%29.7z/SpellCaster%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://www.smspower.org/uploads/Scans/SpellCaster-SMS-EU-medium.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Spy vs. Spy",
+    "platform": "Sega Master System",
+    "year": 1987,
+    "rating": "",
+    "genres": "Action-Puzzle",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Spy vs Spy.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "spy_vs_spy.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Street Fighter II'",
+    "platform": "Sega Master System",
+    "year": 1993,
+    "rating": "",
+    "genres": "Fighting",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Street Fighter II.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "sf2_sms.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Super Tennis",
+    "platform": "Sega Master System",
+    "year": 1989,
+    "rating": "",
+    "genres": "Sports",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Super Tennis.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "super_tennis.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Taz in Escape from Mars",
+    "platform": "Sega Master System",
+    "year": 1992,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Taz in Escape from Mars.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "taz_mars.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "The Ninja",
+    "platform": "Sega Master System",
+    "year": 1986,
+    "rating": "",
+    "genres": "Action",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "The Ninja.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "the_ninja.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Wonder Boy",
+    "platform": "Sega Master System",
+    "year": 1986,
+    "rating": "",
+    "genres": "Platformer",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Wonder Boy.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "wonder_boy.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Wonder Boy (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1987,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://www.retrostic.com/img/covers/wonder-boy-usa-europe-big.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Wonder Boy III - The Dragons Trap (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1989,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20III%20-%20The%20Dragons%20Trap%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20III%20-%20The%20Dragon%27s%20Trap%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Wonder_Boy_III_-_The_Dragon%27s_Trap_boxart.jpg/250px-Wonder_Boy_III_-_The_Dragon%27s_Trap_boxart.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Wonder Boy III: The Dragon's Trap",
+    "platform": "Sega Master System",
+    "year": 1989,
+    "rating": "",
+    "genres": "Action-RPG",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Wonder Boy III The Dragon's Trap.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "dragon_trap.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Wonder Boy in Monster Land",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": "",
+    "genres": "Action RPG",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Wonder Boy in Monster Land.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "monster_land.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Wonder Boy in Monster Land (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/segaMS/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/7/71/Monster_Land_for_the_Master_System_cover_artwork.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Wonder Boy in Monster World (Europe)",
+    "platform": "Sega Master System",
+    "year": 1991,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://www.gamecash.fr/thumbnail-400-450/wonder-boy-in-monster-world-e122319.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "World Soccer",
+    "platform": "Sega Master System",
+    "year": 1985,
+    "rating": "",
+    "genres": "Sports",
+    "players": 2,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "World Soccer.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "world_soccer.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Ys - The Vanished Omens (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Ys%20-%20The%20Vanished%20Omens%20%28USA%2C%20Europe%29.7z/Ys%20-%20The%20Vanished%20Omens%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Start with infinite lives",
+        "SLAIUZ"
+      ],
+      [
+        "Keep weapons after losing a life",
+        "GXIIUX"
+      ]
+    ],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmK6kQaPTLrWsCxOfuJy__Y0Ql1QcUUFpzxQ&s",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Zillion",
+    "platform": "Sega Master System",
+    "year": 1987,
+    "rating": "",
+    "genres": "Action",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Zillion.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "zillion.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Alien Storm",
+    "platform": "Sega Mega Drive",
+    "year": 1990,
+    "rating": "",
+    "genres": "Beat 'em up / Action",
+    "players": 2,
+    "core": "segaMD",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "Alien Storm.md",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "alien_storm.jpg",
     "description": "",
     "screenshots": []
   },
@@ -467,57 +3545,6 @@
     "screenshots": []
   },
   {
-    "title": "Asterix",
-    "platform": "Sega Master System",
-    "year": 1992,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Asterix.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "asterix.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Asterix and the Great Rescue",
-    "platform": "Sega Master System",
-    "year": 1993,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Asterix and the Great Rescue.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "asterix_rescue.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Balloon Fight",
-    "platform": "NES-Famicom",
-    "year": 1985,
-    "rating": "",
-    "genres": "Action",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Balloon Fight.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "balloon_fight.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Bare Knuckle - Ikari no Tetsuken ~ Streets of Rage (World)",
     "platform": "Sega Mega Drive",
     "year": null,
@@ -531,90 +3558,6 @@
     "cover": "https://i.pinimg.com/564x/26/d0/92/26d09260a6be15bf75c2d98e10970ca5.jpg",
     "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": [],
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Baseball",
-    "platform": "NES-Famicom",
-    "year": 1983,
-    "rating": "",
-    "genres": "Sports",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Baseball.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "baseball.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Basket Ball Nightmare (Europe)",
-    "platform": "Sega Master System",
-    "year": 1989,
-    "rating": 5.5,
-    "genres": "Sports, Basketball",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Basket%20Ball%20Nightmare%20%28Europe%29.7z/Basket%20Ball%20Nightmare%20%28Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "P1/CPU Has High Score",
-        "00C0-32FF"
-      ],
-      [
-        "P2/CPU's Team Never Scores",
-        "00C0-3300"
-      ],
-      [
-        "Round Number Modifier 0",
-        "00C0-3400"
-      ],
-      [
-        "Round Number Modifier 1",
-        "00C0-3401"
-      ],
-      [
-        "Round Number Modifier 2",
-        "00C0-3402"
-      ],
-      [
-        "Round Number Modifier 3",
-        "00C0-3403"
-      ],
-      [
-        "Round Number Modifier 4",
-        "00C0-3404"
-      ],
-      [
-        "Round Number Modifier 5",
-        "00C0-3405"
-      ]
-    ],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/8/8e/BasketballNightmareTitleScreenSMS.PNG",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Battletoads",
-    "platform": "NES-Famicom",
-    "year": 1991,
-    "rating": "",
-    "genres": "Action",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Battletoads.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "battletoads.jpg",
     "description": "",
     "screenshots": []
   },
@@ -1006,116 +3949,6 @@
     "screenshots": []
   },
   {
-    "title": "Bomber Raid",
-    "platform": "Sega Master System",
-    "year": 1988,
-    "rating": "",
-    "genres": "Shooter",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Bomber Raid.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "bomber_raid.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Bomber Raid (World)",
-    "platform": "Sega Master System",
-    "year": 1988,
-    "rating": 7,
-    "genres": "Shoot ’em up",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Bomber%20Raid%20%28World%29.7z/Bomber%20Raid%20%28World%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLLr5cK1YRB1Bra1My48ISjB1qnTkYht5rYA&s",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Bubble Bobble",
-    "platform": "Sega Master System",
-    "year": 1987,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Bubble Bobble.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "bubble_bobble.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "California Games",
-    "platform": "Sega Master System",
-    "year": 1987,
-    "rating": "",
-    "genres": "Sports",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "California Games.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "california_games.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Castle of Illusion Starring Mickey Mouse",
-    "platform": "Sega Master System",
-    "year": 1990,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Castle of Illusion.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "castle_illusion.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Castle of Illusion Starring Mickey Mouse",
     "platform": "Sega Mega Drive",
     "year": 1990,
@@ -1129,91 +3962,6 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "castle_of_illusion.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Castlevania",
-    "platform": "NES-Famicom",
-    "year": 1986,
-    "rating": "",
-    "genres": "Action",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Castlevania.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "castlevania.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "CHASE H.Q.",
-    "platform": "MAME 2003",
-    "year": 1988,
-    "rating": 7.1,
-    "genres": "Racing, Action",
-    "players": 1,
-    "core": "mame2003",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/MAME%202003/chasehq.7z/chasehq.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/0/0d/Chasehq_flyer.png",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Choplifter",
-    "platform": "Sega Master System",
-    "year": 1986,
-    "rating": "",
-    "genres": "Action",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Choplifter.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "choplifter.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Clu Clu Land",
-    "platform": "NES-Famicom",
-    "year": 1984,
-    "rating": "",
-    "genres": "Puzzle",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Clu Clu Land.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "clu_clu_land.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Columns",
-    "platform": "Sega Master System",
-    "year": 1990,
-    "rating": "",
-    "genres": "Puzzle",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Columns.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "columns.jpg",
     "description": "",
     "screenshots": []
   },
@@ -1252,40 +4000,6 @@
     "screenshots": []
   },
   {
-    "title": "Contra",
-    "platform": "NES-Famicom",
-    "year": 1987,
-    "rating": "",
-    "genres": "Shooter",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Contra.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "contra.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Contra (USA)",
-    "platform": "NES-Famicom",
-    "year": 1987,
-    "rating": 8.5,
-    "genres": "Run and gun, Shooter",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/NES-Famicom/Contra%20%28USA%29.7z/Contra%20%28USA%29.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/6/65/Contra_cover.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Contra: Hard Corps",
     "platform": "Sega Mega Drive",
     "year": 1994,
@@ -1299,57 +4013,6 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "contra_hc.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Crash Bandicoot 2 - Cortex Strikes Back [NTSC-U] [SCUS-94154]",
-    "platform": "PlayStation",
-    "year": 1997,
-    "rating": 8.7,
-    "genres": "Platformer",
-    "players": 1,
-    "core": "psx",
-    "lightgun": false,
-    "biosUrl": "https://archive.org/download/ffight/PlayStation/scph5501.7z/scph5501.bin",
-    "file": "https://archive.org/download/ffight/PlayStation/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.7z/Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.bin.ecm",
-    "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
-    "cheats": [],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTil83XgiAe_HxOmmDdfLn_hUqKaVXdH-_16A&s",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Daytona USA - Circuit Edition (Japan)",
-    "platform": "Sega Saturn",
-    "year": 1997,
-    "rating": 7.8,
-    "genres": "Racing",
-    "players": 2,
-    "core": "segaSaturn",
-    "lightgun": false,
-    "biosUrl": "https://archive.org/download/ffight/Sega%20Saturn/saturn_bios.7z/saturn_bios.bin",
-    "file": "https://archive.org/download/ffight/Sega%20Saturn/Daytona%20USA%20%28Japan%29.7z/Daytona%20USA%20%28Japan%29.chd",
-    "engine": "4.2.0",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Daytona_USA_-_Championship_Circuit_Edition_Coverart.png/250px-Daytona_USA_-_Championship_Circuit_Edition_Coverart.png",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Dig Dug (1987) (Atari)",
-    "platform": "Atari 7800",
-    "year": 1987,
-    "rating": 7.6,
-    "genres": "Action, Puzzle",
-    "players": 2,
-    "core": "atari7800",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Atari%207800/Dig%20Dug.7z/Dig%20Dug.zip",
-    "engine": "4.2.3",
-    "cheats": [],
-    "cover": "https://www.retroplace.com/pics/atari8bit/packshots/5496--dig-dug.png",
     "description": "",
     "screenshots": []
   },
@@ -1388,125 +4051,6 @@
     "screenshots": []
   },
   {
-    "title": "Donkey Kong",
-    "platform": "NES-Famicom",
-    "year": 1983,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Donkey Kong.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "donkey_kong.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Donkey Kong (1982)(Coleco)",
-    "platform": "ColecoVision",
-    "year": null,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "coleco",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/ColecoVision/Donkey%20Kong%20%281982%29%28Coleco%29.zip/Donkey%20Kong%20%281982%29%28Coleco%29.bin",
-    "cover": "",
-    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
-    "cheats": [],
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Donkey Kong Jr.",
-    "platform": "NES-Famicom",
-    "year": 1983,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Donkey Kong Jr..nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "donkey_kong_jr.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Double Dragon",
-    "platform": "MAME 2003",
-    "year": 1987,
-    "rating": 7.9,
-    "genres": "Beat 'em up",
-    "players": 2,
-    "core": "mame2003",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/MAME%202003/ddragon.7z/ddragon.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/e/e6/Ddragon_chirashi.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Double Dragon",
-    "platform": "NES-Famicom",
-    "year": 1988,
-    "rating": "",
-    "genres": "Beat 'em Up",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Double Dragon.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "double_dragon.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Double Dragon",
-    "platform": "Sega Master System",
-    "year": 1988,
-    "rating": "",
-    "genres": "Beat 'em Up",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Double Dragon.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "double_dragon_sms.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Dr. Mario",
-    "platform": "NES-Famicom",
-    "year": 1990,
-    "rating": "",
-    "genres": "Puzzle",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Dr. Mario.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "dr_mario.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Dr. Robotnik’s Mean Bean Machine",
     "platform": "Sega Mega Drive",
     "year": 1993,
@@ -1524,23 +4068,6 @@
     "screenshots": []
   },
   {
-    "title": "Duck Hunt",
-    "platform": "NES-Famicom",
-    "year": 1984,
-    "rating": "",
-    "genres": "Shooter",
-    "players": 1,
-    "core": "nes",
-    "lightgun": true,
-    "biosUrl": false,
-    "file": "Duck Hunt.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "duck_hunt.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Earthworm Jim",
     "platform": "Sega Mega Drive",
     "year": 1994,
@@ -1554,65 +4081,6 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "earthworm_jim.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Enduro Racer",
-    "platform": "Sega Master System",
-    "year": 1988,
-    "rating": "",
-    "genres": "Racing",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Enduro Racer.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "enduro_racer.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Enduro Racer (USA, Europe)",
-    "platform": "Sega Master System",
-    "year": 1987,
-    "rating": 6.8,
-    "genres": "Racing, Arcade",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Enduro%20Racer%20%28USA%2C%20Europe%29.7z/Enduro%20Racer%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAnYb2JTE9XvvX5Qnudo74RERa6w4dtG_OwA&s",
     "description": "",
     "screenshots": []
   },
@@ -1676,142 +4144,6 @@
     "screenshots": []
   },
   {
-    "title": "Excitebike",
-    "platform": "NES-Famicom",
-    "year": 1984,
-    "rating": "",
-    "genres": "Racing",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Excitebike.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "excitebike.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Excitebike (Japan, USA)",
-    "platform": "NES-Famicom",
-    "year": 1984,
-    "rating": 7.8,
-    "genres": "Racing, Action",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/NES-Famicom/Excitebike%20%28Japan%2C%20USA%29.7z/Excitebike%20%28Japan%2C%20USA%29.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/f/f8/Excitebike_cover.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Fantasy Zone",
-    "platform": "Sega Master System",
-    "year": 1986,
-    "rating": "",
-    "genres": "Shooter",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Fantasy Zone.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "fantasy_zone.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Fatal Fury Special (U) [!]",
-    "platform": "Sega Game Gear",
-    "year": 1995,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaGG",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Game%20Gear/Fatal%20Fury%20Special%20%28U%29%20%5B%21%5D.zip/Fatal%20Fury%20Special%20%28U%29%20%5B%21%5D.gg",
-    "engine": "4.2.3",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Fatal_Fury_Special_arcade_flyer.jpg/250px-Fatal_Fury_Special_arcade_flyer.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "FIFA International Soccer",
-    "platform": "Sega Master System",
-    "year": 1993,
-    "rating": "",
-    "genres": "Sports",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "FIFA International Soccer.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "fifa_sms.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Final Fantasy",
-    "platform": "NES-Famicom",
-    "year": 1987,
-    "rating": "",
-    "genres": "RPG",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Final Fantasy.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "final_fantasy.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Final Fight",
-    "platform": "Arcade",
-    "year": 1989,
-    "rating": 8.1,
-    "genres": "Beat 'em up",
-    "players": 2,
-    "core": "arcade",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Arcade/ffight.7z/ffight.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
-    "cheats": [],
-    "cover": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/final_fight.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Final Fight CD (U)",
-    "platform": "Sega CD",
-    "year": 1993,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaCD",
-    "lightgun": false,
-    "biosUrl": "https://archive.org/download/ffight/Sega%20CD/bios_CD_U.7z/bios_CD_U.bin",
-    "file": "https://archive.org/download/ffight/Sega%20CD/Final%20Fight%20CD%20%28U%29.zip/Final%20Fight%20CD%20%28Sega%20CD%29%20%28U%29.bin",
-    "engine": "4.1.1",
-    "cheats": [],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXWLUcriu2vELPk6ZtQmOdgjYGLEHtxGi0JQ&s",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Flashback - The Quest for Identity (USA) (Alt 1)",
     "platform": "Sega Mega Drive",
     "year": 1993,
@@ -1871,57 +4203,6 @@
     "screenshots": []
   },
   {
-    "title": "Gauntlet",
-    "platform": "Sega Master System",
-    "year": 1990,
-    "rating": "",
-    "genres": "Action-RPG",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Gauntlet.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "gauntlet.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "ghostbusters",
-    "platform": "Commodore 64",
-    "year": null,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "c64",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Commodore%2064/ghostbusters.zip/GHOSTBUS.T64",
-    "cover": "",
-    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
-    "cheats": [],
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Ghouls 'n Ghosts",
-    "platform": "Sega Master System",
-    "year": 1989,
-    "rating": "",
-    "genres": "Action",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Ghouls n Ghosts.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "ghouls_ghosts.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Ghouls 'N Ghosts",
     "platform": "Sega Mega Drive",
     "year": 1991,
@@ -1935,82 +4216,6 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "ghouls_n_ghosts.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Ghouls'n Ghosts",
-    "platform": "Arcade",
-    "year": 1988,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "arcade",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Arcade/ghouls.7z/ghouls.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/4/43/Ghouls_and_Ghosts_sales_flyer.png",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "GOLDEN AXE",
-    "platform": "MAME 2003",
-    "year": 1989,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "mame2003",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/MAME%202003/goldnaxe.7z/goldnaxe.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Golden_Axe_Promo_Flyer.jpeg/250px-Golden_Axe_Promo_Flyer.jpeg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Golden Axe",
-    "platform": "Sega Master System",
-    "year": 1989,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Golden%20Axe%20%28USA%2C%20Europe%29.7z/Golden%20Axe%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://www.smspower.org/uploads/Scans/GoldenAxe-SMS-US-medium.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2053,23 +4258,6 @@
       ]
     ],
     "cover": "https://retrosales.com.au/cdn/shop/products/21391_front.jpg?v=1634957885",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Golden Axe",
-    "platform": "Sega Master System",
-    "year": 1989,
-    "rating": "",
-    "genres": "Beat 'em Up",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Golden Axe.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "golden_axe.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2125,82 +4313,6 @@
     "screenshots": []
   },
   {
-    "title": "Golden Axe Warrior (USA, Europe)",
-    "platform": "Sega Master System",
-    "year": 1991,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Golden%20Axe%20Warrior%20%28USA%2C%20Europe%29.7z/Golden%20Axe%20Warrior%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://www.smspower.org/uploads/Scans/GoldenAxeWarrior-SMS-EU-medium.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Golf",
-    "platform": "NES-Famicom",
-    "year": 1984,
-    "rating": "",
-    "genres": "Sports",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Golf.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "golf.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Gradius",
-    "platform": "NES-Famicom",
-    "year": 1986,
-    "rating": "",
-    "genres": "Shooter",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Gradius.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "gradius.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Gunstar Heroes",
     "platform": "Sega Mega Drive",
     "year": 1993,
@@ -2214,23 +4326,6 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "gunstar_heroes.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Hang-On",
-    "platform": "Sega Master System",
-    "year": 1987,
-    "rating": "",
-    "genres": "Racing",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Hang-On.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "hang_on.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2277,108 +4372,6 @@
     "screenshots": []
   },
   {
-    "title": "Ice Climber",
-    "platform": "NES-Famicom",
-    "year": 1985,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Ice Climber.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "ice_climber.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Ice Climber (USA, Europe)",
-    "platform": "NES-Famicom",
-    "year": 1985,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/NES-Famicom/Ice%20Climber%20%28USA%2C%20Europe%29.7z/Ice%20Climber%20%28USA%2C%20Europe%29.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/d/df/IceClimberboxartnes.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Invaders (19xx)",
-    "platform": "Commodore PET",
-    "year": null,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "pet",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Commodore%20PET/Space%20Invaders%20%2819xx%29%28-%29.zip/Space%20Invaders%20%2819xx%29%28-%29.prg",
-    "cover": "",
-    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
-    "cheats": [],
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Invaders 128 (19xx)(Spiceware)",
-    "platform": "Commodore 128",
-    "year": null,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "c128",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Commodore%20128/Invaders%20128%20%2819xx%29%28Spiceware%29.zip/Invaders%20128%20%2819xx%29%28Spiceware%29.d64",
-    "cover": "",
-    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
-    "cheats": [],
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Jackal (USA)",
-    "platform": "NES-Famicom",
-    "year": 1988,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/NES-Famicom/Jackal%20%28USA%29.7z/Jackal%20%28USA%29.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "https://videogamegalaxy.com/wp-content/uploads/2023/04/Jackal-USA.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "James Bond 007",
-    "platform": "Sega Master System",
-    "year": 1987,
-    "rating": "",
-    "genres": "Action",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "James Bond 007.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "james_bond_sms.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Jurassic Park",
     "platform": "Sega Mega Drive",
     "year": 1993,
@@ -2396,379 +4389,6 @@
     "screenshots": []
   },
   {
-    "title": "Kenseiden (USA, Europe)",
-    "platform": "Sega Master System",
-    "year": 1988,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Kenseiden%20%28USA%2C%20Europe%29.7z/Kenseiden%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/7/71/Kenseiden_Coverart.png",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Kid Icarus",
-    "platform": "NES-Famicom",
-    "year": 1986,
-    "rating": "",
-    "genres": "Action-Platformer",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Kid Icarus.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "kid_icarus.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Knuckles' Chaotix",
-    "platform": "Sega 32X",
-    "year": 1996,
-    "rating": 6,
-    "genres": "Action, Platformer",
-    "players": 1,
-    "core": "sega32x",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%2032X/Knuckles%27%20Chaotix.zip/Knuckles%27%20Chaotix%20%23%2032X.32X",
-    "engine": "4.2.3",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/d/dd/Knuckles%27_Chaotix_Coverart.png",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Kung Fu",
-    "platform": "NES-Famicom",
-    "year": 1985,
-    "rating": "",
-    "genres": "Beat 'em Up",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Kung Fu.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "kung_fu.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Kung Fu (Japan, USA)",
-    "platform": "NES-Famicom",
-    "year": 1984,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/NES-Famicom/Kung%20Fu%20%28Japan%2C%20USA%29.7z/Kung%20Fu%20%28Japan%2C%20USA%29.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Don't Die When The Timer Runs Out",
-        "GZVKIYSA + ATVKYNGG"
-      ],
-      [
-        "Enemies Are Easier To Defeat",
-        "AEVXLSPT"
-      ],
-      [
-        "Infinite Health And One Hit Kills",
-        "GPTGTG + UTYKTK"
-      ],
-      [
-        "Infinite Lives",
-        "SUAAXA"
-      ],
-      [
-        "Knife Thrower Harder To Beat",
-        "XYUXEUZK"
-      ],
-      [
-        "Start With Lots Of Lives",
-        "ISOPPI"
-      ]
-    ],
-    "cover": "https://cdn.0game.ir/gameso/images/games/nintendo/nes/covers/Kung%20Fu%20(Japan,%20USA)%20(En).jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Legend of Zelda, The (USA)",
-    "platform": "NES-Famicom",
-    "year": 1986,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/NES-Famicom/Legend%20of%20Zelda%2C%20The%20%28USA%29.7z/Legend%20of%20Zelda%2C%20The%20%28USA%29.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Legend of Zelda, The - A Link to the Past (USA)",
-    "platform": "SNES-Super Famicom",
-    "year": 1991,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "snes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/SNES/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28Europe%29.zip/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28Europe%29.sfc",
-    "engine": "4.2.3",
-    "cheats": [],
-    "cover": "https://m.media-amazon.com/images/I/71wfmH16Z8L.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Legend of Zelda, The - The Minish Cap",
-    "platform": "Game Boy Advance",
-    "year": 2004,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "gba",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/1865%20-%20The%20Legend%20of%20Zelda%20-%20The%20Minish%20Cap%20%28U%29%28DCS%29.zip/1865%20-%20The%20Legend%20of%20Zelda%20-%20The%20Minish%20Cap%20%28U%29%28DCS%29.gba",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "https://static.romspedia.com/webp/roms/legend-of-zelda-cover-340x483.webp",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Lemmings",
-    "platform": "Sega Master System",
-    "year": 1991,
-    "rating": "",
-    "genres": "Puzzle",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Lemmings.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "lemmings.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Lucky Dime Caper",
-    "platform": "Sega Master System",
-    "year": 1990,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Lucky Dime Caper.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "lucky_dime.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Mario Bros.",
-    "platform": "NES-Famicom",
-    "year": 1983,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Mario Bros..nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "mario_bros.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Mario Kart 64 (USA)",
-    "platform": "Nintendo 64",
-    "year": 1996,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "n64",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Nintendo%2064/Mario%20Kart%2064%20%28USA%29.zip/Mario%20Kart%2064%20%28USA%29.n64",
-    "engine": "4.2.3",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/a/a1/Mario_Kart_64.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Master of Darkness",
-    "platform": "Sega Master System",
-    "year": 1992,
-    "rating": "",
-    "genres": "Action-Platformer",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Master of Darkness.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "master_darkness.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Mega Man 2",
-    "platform": "NES-Famicom",
-    "year": 1988,
-    "rating": "",
-    "genres": "Action-Platformer",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Mega Man 2.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "mega_man_2.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Metal Slug 5",
-    "platform": "Arcade",
-    "year": 2003,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "arcade",
-    "lightgun": false,
-    "biosUrl": "https://archive.org/download/ffight/Arcade/neogeo.7z/neogeo.zip",
-    "file": "https://archive.org/download/ffight/Arcade/ms5pcb.7z/ms5pcb.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/1/15/Metal_Slug_5_arcade_flyer.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Metal Slug X",
-    "platform": "Arcade",
-    "year": 1999,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "arcade",
-    "lightgun": false,
-    "biosUrl": "https://archive.org/download/ffight/Arcade/neogeo.7z/neogeo.zip",
-    "file": "https://archive.org/download/ffight/Arcade/mslugx.7z/mslugx.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
-    "cheats": [],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkUOeM_z-dDEhvOsGZLgs0vhvV-1tZAuQyg&s",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Metroid",
-    "platform": "NES-Famicom",
-    "year": 1986,
-    "rating": "",
-    "genres": "Action-Adventure",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Metroid.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "metroid.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Metroid (USA)",
-    "platform": "NES-Famicom",
-    "year": 1986,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/NES-Famicom/Metroid%20%28USA%29.7z/Metroid%20%28USA%29.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/5/5d/Metroid_boxart.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Michael Jackson's Moonwalker",
-    "platform": "Sega Master System",
-    "year": 1990,
-    "rating": "",
-    "genres": "Action",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Moonwalker.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "moonwalker.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Mighty Morphin Power Rangers",
     "platform": "Sega Mega Drive",
     "year": 1994,
@@ -2782,40 +4402,6 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "power_rangers.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Mike Tysons Punch-Out!! (Japan, USA)",
-    "platform": "NES-Famicom",
-    "year": 1987,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/NES-Famicom/Mike%20Tysons%20Punch-Out%21%21%20%28Japan%2C%20USA%29.7z/Mike%20Tyson%27s%20Punch-Out%21%21%20%28Japan%2C%20USA%29.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "https://cdn.shopify.com/s/files/1/1104/2322/files/14834_front.jpg?v=1740936828",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Mortal Kombat",
-    "platform": "Sega Master System",
-    "year": 1993,
-    "rating": "",
-    "genres": "Fighting",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Mortal Kombat.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "mortal_kombat_sms.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2871,40 +4457,6 @@
     "screenshots": []
   },
   {
-    "title": "Ms. Pac-Man (USA, Europe)",
-    "platform": "Atari Lynx",
-    "year": 1990,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "lynx",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Atari%20Lynx/Ms.%20Pac-Man%20%28USA%2C%20Europe%29.7z/Ms.%20Pac-Man%20%28USA%2C%20Europe%29.zip",
-    "engine": "4.1.1",
-    "cheats": [],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVS8_LAtElt5mHNMEZVRdV1scwky7rrzOQcQ&s",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "NBA Jam",
-    "platform": "Sega Master System",
-    "year": 1993,
-    "rating": "",
-    "genres": "Sports",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "NBA Jam.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "nba_jam.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "NBA Jam",
     "platform": "Sega Mega Drive",
     "year": 1993,
@@ -2918,23 +4470,6 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "nba_jam.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "New Super Mario Bros.",
-    "platform": "Nintendo DS",
-    "year": 2006,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "nds",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Nintendo%20DS/0434%20-%20New%20Super%20Mario%20Bros.%20%28U%29%28Psyfer%29.7z/-%20New%20Super%20Mario%20Bros.%20%28U%29%28Psyfer%29.nds",
-    "engine": "4.2.3",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/d/db/NewSuperMarioBrothers.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2986,141 +4521,6 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "nhl_94.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Ninja Gaiden (Europe) (Beta)",
-    "platform": "Sega Master System",
-    "year": 1992,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Ninja%20Gaiden%20%28Europe%29%20%28Beta%29.7z/Ninja%20Gaiden%20%28Europe%29%20%28Beta%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://www.retrostic.com/img/covers/ninja-gaiden-europe-beta-big.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Ninja, The (USA, Europe)",
-    "platform": "Sega Master System",
-    "year": 1990,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Ninja%2C%20The%20%28USA%2C%20Europe%29.7z/Ninja%2C%20The%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://theexchange.com/cdn/shop/products/Ninja_The_USA_Europe_c1bd630c-9a3b-409a-9be7-dc8810c868eb.png?v=1613929222&width=540",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Out Run",
-    "platform": "Sega Master System",
-    "year": 1987,
-    "rating": "",
-    "genres": "Racing",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Out Run.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "out_run.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "OUTRUNNERS",
-    "platform": "Arcade",
-    "year": 1992,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "arcade",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Arcade/orunnersu.7z/orunnersu.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
-    "cheats": [],
-    "cover": "https://m.media-amazon.com/images/M/MV5BNzQ2NzNkYTItODJjNy00ZTlhLWJjMzktNWRkMTlkOWFlNGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Phantasy Star",
-    "platform": "Sega Master System",
-    "year": 1987,
-    "rating": "",
-    "genres": "RPG",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Phantasy Star.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "phantasy_star.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3184,23 +4584,6 @@
     "screenshots": []
   },
   {
-    "title": "Pirate's Cove Adventure (World) (SYS 32592)",
-    "platform": "Commodore VIC-20",
-    "year": null,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "vic20",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Commodore%20VIC-20/Pirate%27s%20Cove%20Adventure%20%28World%29%20%28SYS%2032592%29.zip/Pirate%27s%20Cove%20Adventure%20%28World%29%20%28SYS%2032592%29.40",
-    "cover": "",
-    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
-    "cheats": [],
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Pirates! Gold",
     "platform": "Sega Mega Drive",
     "year": 1993,
@@ -3214,226 +4597,6 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "pirates_gold.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Pitfall! (1982) (Activision)",
-    "platform": "Atari 5200",
-    "year": 1982,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "atari5200",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Atari%205200/Pitfall%21%20%281982%29%20%28Activision%29.7z/Pitfall%21%20%281982%29%20%28Activision%29.zip",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/0/0c/Pitfall-cover.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Power Strike",
-    "platform": "Sega Master System",
-    "year": 1988,
-    "rating": "",
-    "genres": "Shooter",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Power Strike.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "power_strike.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Prince of Persia",
-    "platform": "Sega Master System",
-    "year": 1990,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Prince of Persia.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "prince_persia.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Psycho Fox",
-    "platform": "Sega Master System",
-    "year": 1989,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Psycho Fox.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "psycho_fox.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Psycho Fox (USA, Europe)",
-    "platform": "Sega Master System",
-    "year": 1989,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Psycho%20Fox%20%28USA%2C%20Europe%29.7z/Psycho%20Fox%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/1/1b/PsychoFoxUSBoxShotSMS.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Punch-Out!!",
-    "platform": "NES-Famicom",
-    "year": 1987,
-    "rating": "",
-    "genres": "Sports",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Punch-Out!!.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "punch_out.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "R-Type",
-    "platform": "Sega Master System",
-    "year": 1988,
-    "rating": "",
-    "genres": "Shooter",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "R-Type.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "rtype.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "R-Type (World)",
-    "platform": "Sega Master System",
-    "year": 1988,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/R-Type%20%28World%29.7z/R-Type%20%28World%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://www.smspower.org/uploads/Scans/RType-SMS-EU-R-medium.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "R.C. Pro-Am",
-    "platform": "NES-Famicom",
-    "year": 1988,
-    "rating": "",
-    "genres": "Racing",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "RC Pro-Am.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "rc_pro_am.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Rambo III",
-    "platform": "Commodore Amiga",
-    "year": null,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "amiga",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Commodore%20Amiga/Rambo%20III.zip/Rambo%20III%20%281989%29%28Ocean%29%5Bcr%20PNA%5D.adf",
-    "cover": "",
-    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
-    "cheats": [],
     "description": "",
     "screenshots": []
   },
@@ -3476,57 +4639,6 @@
       ]
     ],
     "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHVvQpfziCWHi0xF9QcIGRFT8MwFI55d5QA&s",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Rampage",
-    "platform": "Sega Master System",
-    "year": 1988,
-    "rating": "",
-    "genres": "Action",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Rampage.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "rampage.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "RASTAN",
-    "platform": "Arcade",
-    "year": 1987,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "arcade",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Arcade/rastan.7z/rastan.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/6/6c/RastanSaga_arcadeflyer.png",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Rayman (World)",
-    "platform": "Atari Jaguar",
-    "year": 1995,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "jaguar",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Atari%20Jaguar/Rayman%20%28World%29.7z/Rayman%20%28World%29.zip",
-    "engine": "4.1.1",
-    "cheats": [],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvNEvK4YaNB3_9iEaABINwCuGxSV6bzZTxjQ&s",
     "description": "",
     "screenshots": []
   },
@@ -3590,40 +4702,6 @@
     "screenshots": []
   },
   {
-    "title": "River Raid",
-    "platform": "Atari 2600",
-    "year": 1982,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "atari2600",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Atari%202600/River%20Raid.7z/River%20Raid.zip",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/d/db/River_Raid_cover.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Road Rash",
-    "platform": "Sega Master System",
-    "year": 1993,
-    "rating": "",
-    "genres": "Racing",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Road Rash.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "road_rash.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Road Rash 2",
     "platform": "Sega Mega Drive",
     "year": 1992,
@@ -3654,124 +4732,6 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "rocknroll_racing.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Samurai Shodown",
-    "platform": "3DO",
-    "year": 1994,
-    "rating": 7.5,
-    "genres": "Action, Platformer",
-    "players": 1,
-    "core": "3do",
-    "lightgun": false,
-    "biosUrl": "https://archive.org/download/ffight/3DO/goldstar.7z/goldstar.bin",
-    "file": "https://archive.org/download/ffight/3DO/Samurai%20Shodown%20%281994%29%28Crystal%20Dynamics%29%28US%29%5B%21%5D%5B60020%20R1J%5D.zip/Samurai%20Shodown%20%281994%29%28Crystal%20Dynamics%29%28US%29%5B%21%5D%5B60020%20R1J%5D.iso",
-    "engine": "4.2.3",
-    "cheats": [],
-    "cover": "https://static.romspedia.com/webp/roms/samurai-shodown-3do-cover-340x483.webp",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Scramble Spirits (Europe)",
-    "platform": "Sega Master System",
-    "year": 1990,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Scramble%20Spirits%20%28Europe%29.7z/Scramble%20Spirits%20%28Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://www.smspower.org/uploads/Scans/ScrambleSpirits-SMS-EU-NoR-medium.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Secret Command (Europe)",
-    "platform": "Sega Master System",
-    "year": 1986,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Secret%20Command%20%28Europe%29.7z/Secret%20Command%20%28Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://www.retrostic.com/img/covers/secret-command-europe-big.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "SHADOW DANCER",
-    "platform": "Arcade",
-    "year": 1989,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "arcade",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Arcade/shdancer.7z/shdancer.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/c/c4/Shadow_Dancer_MD_cover.png",
     "description": "",
     "screenshots": []
   },
@@ -3844,65 +4804,6 @@
     "screenshots": []
   },
   {
-    "title": "Shinobi",
-    "platform": "Sega Master System",
-    "year": 1988,
-    "rating": "",
-    "genres": "Action",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Shinobi.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "shinobi.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Shinobi (USA, Europe)",
-    "platform": "Sega Master System",
-    "year": 1988,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Shinobi%20%28USA%2C%20Europe%29.7z/Shinobi%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://theexchange.com/cdn/shop/products/Shinobi_USA_Europe_cd2926bd-d125-4bdc-a327-4f61810f2e81.png?v=1614078244&width=540",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Shinobi III - Return of the Ninja Master (USA)",
     "platform": "Sega Mega Drive",
     "year": 1993,
@@ -3945,48 +4846,6 @@
     "screenshots": []
   },
   {
-    "title": "Smurfs, The (Europe) (En,Fr,De,Es)",
-    "platform": "Sega Master System",
-    "year": 1995,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.7z/Smurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://www.retrostic.com/img/covers/smurfs-the-europe-en-fr-de-es-it-big.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Sonic Spinball",
     "platform": "Sega Mega Drive",
     "year": 1993,
@@ -4005,23 +4864,6 @@
   },
   {
     "title": "Sonic the Hedgehog",
-    "platform": "Sega Master System",
-    "year": 1991,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Sonic the Hedgehog.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "sonic_sms.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Sonic the Hedgehog",
     "platform": "Sega Mega Drive",
     "year": 1991,
     "rating": "",
@@ -4034,65 +4876,6 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "sonic1.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Sonic The Hedgehog (USA, Europe)",
-    "platform": "Sega Master System",
-    "year": 1991,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.7z/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4ndeQ2JnzDejv5mCwV1XOLNafNjh3fx-Wg&s",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Sonic the Hedgehog 2",
-    "platform": "Sega Master System",
-    "year": 1992,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Sonic the Hedgehog 2.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "sonic2_sms.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4173,116 +4956,6 @@
     "screenshots": []
   },
   {
-    "title": "SPACE HARRIER",
-    "platform": "MAME 2003",
-    "year": 1985,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "mame2003",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/MAME%202003/sharrier.7z/sharrier.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/2/21/SpaceHarrier_arcadeflyer.png",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Space Harrier",
-    "platform": "Sega Master System",
-    "year": 1986,
-    "rating": "",
-    "genres": "Shooter",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Space Harrier.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "space_harrier.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "SpellCaster (USA, Europe)",
-    "platform": "Sega Master System",
-    "year": 1989,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/SpellCaster%20%28USA%2C%20Europe%29.7z/SpellCaster%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://www.smspower.org/uploads/Scans/SpellCaster-SMS-EU-medium.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Spy vs. Spy",
-    "platform": "Sega Master System",
-    "year": 1987,
-    "rating": "",
-    "genres": "Action-Puzzle",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Spy vs Spy.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "spy_vs_spy.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Strange Odyssey (USA, Europe)",
-    "platform": "Commodore Plus/4",
-    "year": null,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "plus4",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Commodore%20Plus4/Strange%20Odyssey%20%28USA%2C%20Europe%29.7z/Strange%20Odyssey%20%28USA%2C%20Europe%29.bin",
-    "cover": "",
-    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
-    "cheats": [],
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Street Fighter II - Special Champion Edition (USA)",
     "platform": "Sega Mega Drive",
     "year": 1993,
@@ -4321,23 +4994,6 @@
       ]
     ],
     "cover": "https://www.gametripper.co.uk/wp-content/uploads/2019/04/Street-Fighter-II-Cover-art.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Street Fighter II'",
-    "platform": "Sega Master System",
-    "year": 1993,
-    "rating": "",
-    "genres": "Fighting",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Street Fighter II.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "sf2_sms.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4477,142 +5133,6 @@
     "screenshots": []
   },
   {
-    "title": "SUPER HANG-ON",
-    "platform": "Arcade",
-    "year": 1987,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "arcade",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "shangon.zip",
-    "engine": "4.2.0",
-    "cheats": [],
-    "cover": "https://m.media-amazon.com/images/M/MV5BNThhNDNmNzUtOTBlNS00ZTA5LWI0ZTEtNjEyZjA4NTdjMWEwXkEyXkFqcGc@._V1_.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Super Mario Bros.",
-    "platform": "NES-Famicom",
-    "year": 1985,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Super Mario Bros..nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "super_mario_bros.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Super Mario Bros. (World)",
-    "platform": "NES-Famicom",
-    "year": 1985,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/NES-Famicom/Super%20Mario%20Bros.%20%28World%29.7z/Super%20Mario%20Bros.%20%28World%29.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Super Mario Bros. 2",
-    "platform": "NES-Famicom",
-    "year": 1988,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Super Mario Bros. 2.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "super_mario_bros_2.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Super Mario Bros. 2 (USA)",
-    "platform": "NES-Famicom",
-    "year": 1988,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/NES-Famicom/Super%20Mario%20Bros.%202%20%28USA%29.7z/Super%20Mario%20Bros.%202%20%28USA%29.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Super_Mario_Bros._2_box_art.png/250px-Super_Mario_Bros._2_box_art.png",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Super Mario Bros. 3",
-    "platform": "NES-Famicom",
-    "year": 1988,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Super Mario Bros. 3.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "super_mario_bros_3.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Super Mario Bros. 3 (USA)",
-    "platform": "NES-Famicom",
-    "year": 1990,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/NES-Famicom/Super%20Mario%20Bros.%203%20%28USA%29.7z/Super%20Mario%20Bros.%203%20%28USA%29.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/a/a5/Super_Mario_Bros._3_coverart.png",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Super Mario Land (World)",
-    "platform": "Nintendo Game Boy",
-    "year": 1989,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "gb",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Nintendo%20Game%20Boy/Super%20Mario%20Land%20%28World%29.zip/Super%20Mario%20Land%20%28World%29.gb",
-    "engine": "4.2.3",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/2/22/Super-mario-land-gameboy-boxart.png",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Super Street Fighter II (USA)",
     "platform": "Sega Mega Drive",
     "year": null,
@@ -4626,112 +5146,6 @@
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/SSF2_US_flyer.png/250px-SSF2_US_flyer.png",
     "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": [],
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Super Street Fighter II Turbo",
-    "platform": "3DO",
-    "year": 1994,
-    "rating": 10,
-    "genres": "Action, Platformer",
-    "players": 1,
-    "core": "3do",
-    "lightgun": false,
-    "biosUrl": "https://archive.org/download/ffight/3DO/goldstar.7z/goldstar.bin",
-    "file": "https://archive.org/download/ffight/3DO/Super%20Street%20Fighter%20II%20Turbo%20%281994%29%28Panasonic%29%28US%29%5BA1069%20DE%20SM3851-2%20RE1%20R72%5D.zip/Super%20Street%20Fighter%20II%20Turbo%20%281994%29%28Panasonic%29%28US%29%5BA1069%20DE%20SM3851-2%20RE1%20R72%5D.iso",
-    "engine": "4.2.3",
-    "cheats": [],
-    "cover": "https://static.romspedia.com/webp/roms/3do-super-street-fighter-2-turbo-340x483.webp",
-    "description": "Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a 1994 fighting game developed and published by Capcom for arcades. It is the fifth installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II.",
-    "screenshots": [
-      "https://external-preview.redd.it/8RSbQpViz9KzowhFqcbQIi9-4v2BzfQx1LGPPoAeLp4.jpg?format=pjpg&auto=webp&s=ec881c05b506387ca4b44e037fa73e4e66e32307",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHzqH7zuWQY4DGFX2L-ukLF9u9YjainoxJow&s",
-      "https://thekingofgrabs.com/wp-content/uploads/2024/02/super-street-fighter-2-turbo-3do-wide.png?w=1038&h=576&crop=1"
-    ]
-  },
-  {
-    "title": "Super Tennis",
-    "platform": "Sega Master System",
-    "year": 1989,
-    "rating": "",
-    "genres": "Sports",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Super Tennis.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "super_tennis.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Taz in Escape from Mars",
-    "platform": "Sega Master System",
-    "year": 1992,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Taz in Escape from Mars.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "taz_mars.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Tecmo Bowl",
-    "platform": "NES-Famicom",
-    "year": 1987,
-    "rating": "",
-    "genres": "Sports",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Tecmo Bowl.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "tecmo_bowl.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "TEENAGE MUTANT NINJA TURTLES",
-    "platform": "Arcade",
-    "year": 1989,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "arcade",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Arcade/tmnt.7z/tmnt.zip",
-    "engine": "4.2.0",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/0/04/Teenage_Mutant_Ninja_Turtles_%281989_arcade_game%29.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Teenage Mutant Ninja Turtles",
-    "platform": "NES-Famicom",
-    "year": 1989,
-    "rating": "",
-    "genres": "Action",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "TMNT.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "tmnt.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4753,57 +5167,6 @@
     "screenshots": []
   },
   {
-    "title": "Tennis",
-    "platform": "NES-Famicom",
-    "year": 1984,
-    "rating": "",
-    "genres": "Sports",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Tennis.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "tennis.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Tetris",
-    "platform": "NES-Famicom",
-    "year": 1989,
-    "rating": "",
-    "genres": "Puzzle",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Tetris.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "tetris.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "The Legend of Zelda",
-    "platform": "NES-Famicom",
-    "year": 1986,
-    "rating": "",
-    "genres": "Action-Adventure",
-    "players": 1,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "The Legend of Zelda.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "zelda.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "The Lion King",
     "platform": "Sega Mega Drive",
     "year": 1994,
@@ -4817,23 +5180,6 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "lion_king.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "The Ninja",
-    "platform": "Sega Master System",
-    "year": 1986,
-    "rating": "",
-    "genres": "Action",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "The Ninja.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "the_ninja.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4889,234 +5235,6 @@
     "screenshots": []
   },
   {
-    "title": "Vigilante",
-    "platform": "Arcade",
-    "year": 1988,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "arcade",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Arcade/vigilant.7z/vigilant.zip",
-    "engine": "4.2.0",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/Vigilante_arcadeflyer.png",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Virtual Boy Wario Land (Japan, USA)",
-    "platform": "Virtual Boy",
-    "year": 1995,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "vb",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Virtual%20Boy/Virtual%20Boy%20Wario%20Land%20%28Japan%2C%20USA%29.zip/Virtual%20Boy%20Wario%20Land%20%28Japan%2C%20USA%29.vb",
-    "engine": "4.2.3",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/1/1a/Virtual_Boy_Wario_Land_Coverart.png",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Wonder Boy",
-    "platform": "Arcade",
-    "year": 1986,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "arcade",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Arcade/wboy.7z/wboy.zip",
-    "engine": "4.2.0",
-    "cheats": [],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/f/ff/WonderBoy_arcadeflyer.png",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Wonder Boy",
-    "platform": "Sega Master System",
-    "year": 1986,
-    "rating": "",
-    "genres": "Platformer",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Wonder Boy.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "wonder_boy.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Wonder Boy (USA, Europe)",
-    "platform": "Sega Master System",
-    "year": 1987,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://www.retrostic.com/img/covers/wonder-boy-usa-europe-big.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Wonder Boy III - The Dragons Trap (USA, Europe)",
-    "platform": "Sega Master System",
-    "year": 1989,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20III%20-%20The%20Dragons%20Trap%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20III%20-%20The%20Dragon%27s%20Trap%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Wonder_Boy_III_-_The_Dragon%27s_Trap_boxart.jpg/250px-Wonder_Boy_III_-_The_Dragon%27s_Trap_boxart.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Wonder Boy III: The Dragon's Trap",
-    "platform": "Sega Master System",
-    "year": 1989,
-    "rating": "",
-    "genres": "Action-RPG",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Wonder Boy III The Dragon's Trap.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "dragon_trap.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Wonder Boy in Monster Land",
-    "platform": "Sega Master System",
-    "year": 1988,
-    "rating": "",
-    "genres": "Action RPG",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Wonder Boy in Monster Land.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "monster_land.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Wonder Boy in Monster Land (USA, Europe)",
-    "platform": "Sega Master System",
-    "year": 1988,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/segaMS/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/7/71/Monster_Land_for_the_Master_System_cover_artwork.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "Wonder Boy in Monster World",
     "platform": "Sega Mega Drive",
     "year": 1991,
@@ -5130,82 +5248,6 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "wonderboy_monster_world.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Wonder Boy in Monster World (Europe)",
-    "platform": "Sega Master System",
-    "year": 1991,
-    "rating": "",
-    "genres": "",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://www.gamecash.fr/thumbnail-400-450/wonder-boy-in-monster-world-e122319.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "World Soccer",
-    "platform": "Sega Master System",
-    "year": 1985,
-    "rating": "",
-    "genres": "Sports",
-    "players": 2,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "World Soccer.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "world_soccer.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Wrecking Crew",
-    "platform": "NES-Famicom",
-    "year": 1985,
-    "rating": "",
-    "genres": "Puzzle",
-    "players": 2,
-    "core": "nes",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Wrecking Crew.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "wrecking_crew.jpg",
     "description": "",
     "screenshots": []
   },
@@ -5227,95 +5269,53 @@
     "screenshots": []
   },
   {
-    "title": "Yoshi",
-    "platform": "NES-Famicom",
-    "year": 1991,
-    "rating": "",
-    "genres": "Puzzle",
+    "title": "Daytona USA - Circuit Edition (Japan)",
+    "platform": "Sega Saturn",
+    "year": 1997,
+    "rating": 7.8,
+    "genres": "Racing",
     "players": 2,
-    "core": "nes",
+    "core": "segaSaturn",
     "lightgun": false,
-    "biosUrl": false,
-    "file": "Yoshi.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "biosUrl": "https://archive.org/download/ffight/Sega%20Saturn/saturn_bios.7z/saturn_bios.bin",
+    "file": "https://archive.org/download/ffight/Sega%20Saturn/Daytona%20USA%20%28Japan%29.7z/Daytona%20USA%20%28Japan%29.chd",
+    "engine": "4.2.0",
     "cheats": [],
-    "cover": "yoshi.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Daytona_USA_-_Championship_Circuit_Edition_Coverart.png/250px-Daytona_USA_-_Championship_Circuit_Edition_Coverart.png",
     "description": "",
     "screenshots": []
   },
   {
-    "title": "Ys - The Vanished Omens (USA, Europe)",
-    "platform": "Sega Master System",
-    "year": 1988,
+    "title": "Legend of Zelda, The - A Link to the Past (USA)",
+    "platform": "SNES-Super Famicom",
+    "year": 1991,
     "rating": "",
     "genres": "",
     "players": 1,
-    "core": "segaMS",
+    "core": "snes",
     "lightgun": false,
     "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Ys%20-%20The%20Vanished%20Omens%20%28USA%2C%20Europe%29.7z/Ys%20-%20The%20Vanished%20Omens%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Start with infinite lives",
-        "SLAIUZ"
-      ],
-      [
-        "Keep weapons after losing a life",
-        "GXIIUX"
-      ]
-    ],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmK6kQaPTLrWsCxOfuJy__Y0Ql1QcUUFpzxQ&s",
+    "file": "https://archive.org/download/ffight/SNES/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28Europe%29.zip/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28Europe%29.sfc",
+    "engine": "4.2.3",
+    "cheats": [],
+    "cover": "https://m.media-amazon.com/images/I/71wfmH16Z8L.jpg",
     "description": "",
     "screenshots": []
   },
   {
-    "title": "Zelda II: The Adventure of Link",
-    "platform": "NES-Famicom",
-    "year": 1987,
+    "title": "Virtual Boy Wario Land (Japan, USA)",
+    "platform": "Virtual Boy",
+    "year": 1995,
     "rating": "",
-    "genres": "Action RPG",
+    "genres": "",
     "players": 1,
-    "core": "nes",
+    "core": "vb",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Zelda II.nes",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "file": "https://archive.org/download/ffight/Virtual%20Boy/Virtual%20Boy%20Wario%20Land%20%28Japan%2C%20USA%29.zip/Virtual%20Boy%20Wario%20Land%20%28Japan%2C%20USA%29.vb",
+    "engine": "4.2.3",
     "cheats": [],
-    "cover": "zelda_2.jpg",
-    "description": "",
-    "screenshots": []
-  },
-  {
-    "title": "Zillion",
-    "platform": "Sega Master System",
-    "year": 1987,
-    "rating": "",
-    "genres": "Action",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "Zillion.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "zillion.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/1/1a/Virtual_Boy_Wario_Land_Coverart.png",
     "description": "",
     "screenshots": []
   }
