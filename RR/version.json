@@ -2744,7 +2744,7 @@
     "core": "nes",
     "lightgun": false,
     "biosUrl": false,
-    "file": "Mario Bros..nes",
+    "file": "https://archive.org/download/ffight/NES-Famicom/Mario%20Bros.%20%28World%29.7z/Mario%20Bros.%20%28World%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png",
