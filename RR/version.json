@@ -9,7 +9,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "After Burner.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/After%20Burner%20%28World%29.7z/After%20Burner%20%28World%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "https://m.media-amazon.com/images/I/81MuW4G3yjL._AC_UF894,1000_QL80_.jpg",
@@ -42,132 +42,6 @@
         ]
     },
     {
-        "title": "Alex Kidd in Miracle World (USA, Europe)",
-        "platform": "Sega Master System",
-        "year": 1986,
-        "rating": 7.5,
-        "genres": "Action, Platformer",
-        "players": 1,
-        "core": "segaMS",
-        "lightgun": false,
-        "biosUrl": false,
-        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Alex%20Kidd%20in%20Miracle%20World%20%28USA%2C%20Europe%29.7z/Alex%20Kidd%20in%20Miracle%20World%20%28USA%2C%20Europe%29.sms",
-        "engine": "3.1.5",
-        "cheats": [
-            [
-                "Final Level - Cragg Lake [Crown]",
-                "00C0-2311"
-            ],
-            [
-                "Have Cane of Flight",
-                "00C0-4901"
-            ],
-            [
-                "Have Hirotta Stone",
-                "00C0-4E01"
-            ],
-            [
-                "Have Letter To Nibana",
-                "00C0-4C01"
-            ],
-            [
-                "Have Magic Capsule A [Attack]",
-                "00C0-4601"
-            ],
-            [
-                "Have Magic Capsule B [Barrier]",
-                "00C0-4701"
-            ],
-            [
-                "Have Moonstone Medallion",
-                "00C0-4B01"
-            ],
-            [
-                "Have Power Bracelet",
-                "00C0-4D01"
-            ],
-            [
-                "Have Telepathy Ball",
-                "00C0-4801"
-            ],
-            [
-                "Have Teleport Powder",
-                "00C0-4A01"
-            ],
-            [
-                "Hit Anywhere",
-                "FFD-588-915"
-            ],
-            [
-                "Infinite Lives",
-                "00C0-2502"
-            ],
-            [
-                "Infinite Lives",
-                "7EC-289-3B7"
-            ],
-            [
-                "Infinite Money",
-                "004-7EF-4C6"
-            ],
-            [
-                "Infinite Money",
-                "00C0-30CC"
-            ],
-            [
-                "Invincibility (after dying) (blinking)",
-                "2A6-5FD-6E2"
-            ],
-            [
-                "Invincibility against Enemies",
-                "C9D-BD8-19D"
-            ],
-            [
-                "Jump Height Modifier",
-                "FDD-2FD-191"
-            ],
-            [
-                "Jump Height Modifier",
-                "FDD-2FD-191"
-            ],
-            [
-                "Level 16 - Janken's Castle [Janken The Great]",
-                "00C0-2310"
-            ],
-            [
-                "Start every level (after level 1) with Motorcycle",
-                "3E9-DDD-6EA+079-DED-4C3+329-DFD-082"
-            ],
-            [
-                "Start every level (after level 1) with Peticopter",
-                "3E9-DDD-6EA+099-DED-4C3+329-DFD-082"
-            ],
-            [
-                "Start Level With Motor Bike",
-                "00C0-5407"
-            ],
-            [
-                "Start Level With Speed Boat",
-                "00C0-5101"
-            ],
-            [
-                "Start with Motorcycle after dying",
-                "07D-499-E62"
-            ],
-            [
-                "Start with Peticopter after dying",
-                "09D-499-E62"
-            ],
-            [
-                "Start with Peticopter",
-                "00C0-5409"
-            ]
-        ],
-        "cover": "https://upload.wikimedia.org/wikipedia/en/a/ae/AlexKiddInMiracleWorldBox.jpg",
-        "description": "",
-        "screenshots": []
-    },
-    {
         "title": "Alex Kidd in Shinobi World",
         "platform": "Sega Master System",
         "year": 1990,
@@ -177,7 +51,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Alex Kidd in Shinobi World.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Alex%20Kidd%20in%20Shinobi%20World%20%28USA%2C%20Europe%29.7z/Alex%20Kidd%20in%20Shinobi%20World%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "https://upload.wikimedia.org/wikipedia/en/d/dc/AlexKiddInShinobiWorld.jpg",
@@ -222,27 +96,10 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Alien Syndrome.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Alien%20Syndrome%20%28USA%2C%20Europe%29.7z/Alien%20Syndrome%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "alien_syndrome.jpg",
-        "description": "",
-        "screenshots": []
-    },
-    {
-        "title": "Altered Beast",
-        "platform": "Sega Master System",
-        "year": 1989,
-        "rating": "",
-        "genres": "Action-Platformer",
-        "players": 1,
-        "core": "segaMS",
-        "lightgun": false,
-        "biosUrl": false,
-        "file": "Altered Beast.sms",
-        "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-        "cheats": [],
-        "cover": "altered_beast.jpg",
         "description": "",
         "screenshots": []
     },
@@ -256,7 +113,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Altered Beast.md",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Altered%20Beast%20%28USA%2C%20Europe%29.7z/Altered%20Beast%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "https://media.rawg.io/media/games/0c8/0c8e70a85fd2a341c77ada2a919ca0e1.jpg",
@@ -490,7 +347,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Asterix.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Asterix%20%28Europe%29%20%28En%2CFr%29.7z/Asterix%20%28Europe%29%20%28En%2CFr%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "asterix.jpg",
@@ -507,7 +364,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Asterix and the Great Rescue.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Asterix%20and%20the%20Great%20Rescue%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.7z/Asterix%20and%20the%20Great%20Rescue%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "asterix_rescue.jpg",
@@ -649,52 +506,10 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Bomber Raid.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Bomber%20Raid%20%28World%29.7z/Bomber%20Raid%20%28World%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "bomber_raid.jpg",
-        "description": "",
-        "screenshots": []
-    },
-    {
-        "title": "Bomber Raid (World)",
-        "platform": "Sega Master System",
-        "year": 1988,
-        "rating": 7,
-        "genres": "Shoot \u2019em up",
-        "players": 1,
-        "core": "segaMS",
-        "lightgun": false,
-        "biosUrl": false,
-        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Bomber%20Raid%20%28World%29.7z/Bomber%20Raid%20%28World%29.sms",
-        "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-        "cheats": [
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Keep weapons after losing a life",
-                "GXIIUX"
-            ]
-        ],
-        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLLr5cK1YRB1Bra1My48ISjB1qnTkYht5rYA&s",
         "description": "",
         "screenshots": []
     },
@@ -708,7 +523,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Bubble Bobble.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Bubble%20Bobble%20%28Europe%29.7z/Bubble%20Bobble%20%28Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "bubble_bobble.jpg",
@@ -725,7 +540,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "California Games.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/California%20Games%20%28USA%2C%20Europe%29.7z/California%20Games%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "california_games.jpg",
@@ -742,7 +557,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Castle of Illusion.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Castle%20of%20Illusion%20Starring%20Mickey%20Mouse%20%28USA%29.7z/Castle%20of%20Illusion%20Starring%20Mickey%20Mouse%20%28USA%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "castle_illusion.jpg",
@@ -858,7 +673,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Choplifter.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Choplifter%20%28USA%2C%20Europe%29.7z/Choplifter%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "choplifter.jpg",
@@ -892,7 +707,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Columns.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Columns%20%28USA%2C%20Europe%29.7z/Columns%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "columns.jpg",
@@ -1229,7 +1044,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Double Dragon.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Double%20Dragon%20%28World%29.7z/Double%20Dragon%20%28World%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "double_dragon_sms.jpg",
@@ -1328,52 +1143,10 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Enduro Racer.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Enduro%20Racer%20%28USA%2C%20Europe%29.7z/Enduro%20Racer%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "enduro_racer.jpg",
-        "description": "",
-        "screenshots": []
-    },
-    {
-        "title": "Enduro Racer (USA, Europe)",
-        "platform": "Sega Master System",
-        "year": 1987,
-        "rating": 6.8,
-        "genres": "Racing, Arcade",
-        "players": 1,
-        "core": "segaMS",
-        "lightgun": false,
-        "biosUrl": false,
-        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Enduro%20Racer%20%28USA%2C%20Europe%29.7z/Enduro%20Racer%20%28USA%2C%20Europe%29.sms",
-        "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-        "cheats": [
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Keep weapons after losing a life",
-                "GXIIUX"
-            ]
-        ],
-        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAnYb2JTE9XvvX5Qnudo74RERa6w4dtG_OwA&s",
         "description": "",
         "screenshots": []
     },
@@ -1475,7 +1248,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Fantasy Zone.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Fantasy%20Zone%20%28World%29%20%28Rev%202%29.7z/Fantasy%20Zone%20%28World%29%20%28Rev%202%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "fantasy_zone.jpg",
@@ -1516,7 +1289,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "FIFA International Soccer.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/FIFA%20International%20Soccer%20%28Brazil%29%20%28En%2CEs%2CPt%29.7z/FIFA%20International%20Soccer%20%28Brazil%29%20%28En%2CEs%2CPt%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "fifa_sms.jpg",
@@ -1647,7 +1420,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Gauntlet.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Gauntlet%20%28Europe%29.7z/Gauntlet%20%28Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "gauntlet.jpg",
@@ -1705,7 +1478,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Ghouls n Ghosts.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Ghoulsn%20Ghosts%20%28USA%2C%20Europe%29.7z/Ghoulsn%20Ghosts%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "ghouls_ghosts.jpg",
@@ -1751,23 +1524,6 @@
             ]
         ],
         "cover": "https://www.smspower.org/uploads/Scans/GoldenAxe-SMS-US-medium.jpg",
-        "description": "",
-        "screenshots": []
-    },
-    {
-        "title": "Golden Axe",
-        "platform": "Sega Master System",
-        "year": 1989,
-        "rating": "",
-        "genres": "Beat 'em Up",
-        "players": 2,
-        "core": "segaMS",
-        "lightgun": false,
-        "biosUrl": false,
-        "file": "Golden Axe.sms",
-        "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-        "cheats": [],
-        "cover": "golden_axe.jpg",
         "description": "",
         "screenshots": []
     },
@@ -2002,7 +1758,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Hang-On.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Hang-On%20%28Europe%29.7z/Hang-On%20%28Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "hang_on.jpg",
@@ -2102,7 +1858,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "James Bond 007.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/James%20Bond%20007%20-%20The%20Duel%20%28Europe%29.7z/James%20Bond%20007%20-%20The%20Duel%20%28Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "james_bond_sms.jpg",
@@ -2285,7 +2041,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Lemmings.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Lemmings%20%28Europe%29.7z/Lemmings%20%28Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "lemmings.jpg",
@@ -2302,7 +2058,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Lucky Dime Caper.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Lucky%20Dime%20Caper%20Starring%20Donald%20Duck%2C%20The%20%28Europe%29.7z/Lucky%20Dime%20Caper%20Starring%20Donald%20Duck%2C%20The%20%28Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "lucky_dime.jpg",
@@ -2360,7 +2116,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Master of Darkness.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Master%20of%20Darkness%20%28Europe%29.7z/Master%20of%20Darkness%20%28Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "master_darkness.jpg",
@@ -2524,7 +2280,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Moonwalker.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Michael%20Jacksons%20Moonwalker%20%28USA%2C%20Europe%29.7z/Michael%20Jacksons%20Moonwalker%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "moonwalker.jpg",
@@ -2582,7 +2338,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Mortal Kombat.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Mortal%20Kombat%20%28Europe%29.7z/Mortal%20Kombat%20%28Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "mortal_kombat_sms.jpg",
@@ -2674,7 +2430,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "NBA Jam.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/NBA%20Jam%20%28Europe%29%20%28Proto%29.7z/NBA%20Jam%20%28Europe%29%20%28Proto%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "nba_jam.jpg",
@@ -2867,7 +2623,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Out Run.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Out%20Run%20%28World%29.7z/Out%20Run%20%28World%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "out_run.jpg",
@@ -2908,7 +2664,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Phantasy Star.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Phantasy%20Star%20%28USA%2C%20Europe%29%20%28Rev%203%29.7z/Phantasy%20Star%20%28USA%2C%20Europe%29%20%28Rev%203%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "phantasy_star.jpg",
@@ -3042,7 +2798,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Power Strike.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Power%20Strike%20%28USA%2C%20Europe%29.7z/Power%20Strike%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "power_strike.jpg",
@@ -3059,7 +2815,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Prince of Persia.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Prince%20of%20Persia%20%28Europe%29.7z/Prince%20of%20Persia%20%28Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "prince_persia.jpg",
@@ -3076,52 +2832,10 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Psycho Fox.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Psycho%20Fox%20%28USA%2C%20Europe%29.7z/Psycho%20Fox%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "psycho_fox.jpg",
-        "description": "",
-        "screenshots": []
-    },
-    {
-        "title": "Psycho Fox (USA, Europe)",
-        "platform": "Sega Master System",
-        "year": 1989,
-        "rating": "",
-        "genres": "",
-        "players": 1,
-        "core": "segaMS",
-        "lightgun": false,
-        "biosUrl": false,
-        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Psycho%20Fox%20%28USA%2C%20Europe%29.7z/Psycho%20Fox%20%28USA%2C%20Europe%29.sms",
-        "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-        "cheats": [
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Keep weapons after losing a life",
-                "GXIIUX"
-            ]
-        ],
-        "cover": "https://upload.wikimedia.org/wikipedia/en/1/1b/PsychoFoxUSBoxShotSMS.jpg",
         "description": "",
         "screenshots": []
     },
@@ -3135,52 +2849,10 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "R-Type.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/R-Type%20%28World%29.7z/R-Type%20%28World%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "rtype.jpg",
-        "description": "",
-        "screenshots": []
-    },
-    {
-        "title": "R-Type (World)",
-        "platform": "Sega Master System",
-        "year": 1988,
-        "rating": "",
-        "genres": "",
-        "players": 1,
-        "core": "segaMS",
-        "lightgun": false,
-        "biosUrl": false,
-        "file": "https://archive.org/download/ffight/Sega%20Master%20System/R-Type%20%28World%29.7z/R-Type%20%28World%29.sms",
-        "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-        "cheats": [
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Keep weapons after losing a life",
-                "GXIIUX"
-            ]
-        ],
-        "cover": "https://www.smspower.org/uploads/Scans/RType-SMS-EU-R-medium.jpg",
         "description": "",
         "screenshots": []
     },
@@ -3277,7 +2949,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Rampage.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Rampage%20%28USA%2C%20Europe%29.7z/Rampage%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "rampage.jpg",
@@ -3425,7 +3097,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Road Rash.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Road%20Rash%20%28Europe%29.7z/Road%20Rash%20%28Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "road_rash.jpg",
@@ -3673,52 +3345,10 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Shinobi.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Shinobi%20%28USA%2C%20Europe%29.7z/Shinobi%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "shinobi.jpg",
-        "description": "",
-        "screenshots": []
-    },
-    {
-        "title": "Shinobi (USA, Europe)",
-        "platform": "Sega Master System",
-        "year": 1988,
-        "rating": "",
-        "genres": "",
-        "players": 1,
-        "core": "segaMS",
-        "lightgun": false,
-        "biosUrl": false,
-        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Shinobi%20%28USA%2C%20Europe%29.7z/Shinobi%20%28USA%2C%20Europe%29.sms",
-        "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-        "cheats": [
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Keep weapons after losing a life",
-                "GXIIUX"
-            ]
-        ],
-        "cover": "https://theexchange.com/cdn/shop/products/Shinobi_USA_Europe_cd2926bd-d125-4bdc-a327-4f61810f2e81.png?v=1614078244&width=540",
         "description": "",
         "screenshots": []
     },
@@ -3833,7 +3463,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Sonic the Hedgehog.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.7z/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "sonic_sms.jpg",
@@ -3858,48 +3488,6 @@
         "screenshots": []
     },
     {
-        "title": "Sonic The Hedgehog (USA, Europe)",
-        "platform": "Sega Master System",
-        "year": 1991,
-        "rating": "",
-        "genres": "",
-        "players": 1,
-        "core": "segaMS",
-        "lightgun": false,
-        "biosUrl": false,
-        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.7z/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.sms",
-        "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-        "cheats": [
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Keep weapons after losing a life",
-                "GXIIUX"
-            ]
-        ],
-        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4ndeQ2JnzDejv5mCwV1XOLNafNjh3fx-Wg&s",
-        "description": "",
-        "screenshots": []
-    },
-    {
         "title": "Sonic the Hedgehog 2",
         "platform": "Sega Master System",
         "year": 1992,
@@ -3909,7 +3497,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Sonic the Hedgehog 2.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Sonic%20The%20Hedgehog%202%20%28Europe%29.7z/Sonic%20The%20Hedgehog%202%20%28Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "sonic2_sms.jpg",
@@ -4002,7 +3590,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Space Harrier.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Space%20Harrier%20%28Europe%29.7z/Space%20Harrier%20%28Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "space_harrier.jpg",
@@ -4133,7 +3721,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Spy vs Spy.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Spy%20vs.%20Spy%20%28USA%2C%20Europe%29.7z/Spy%20vs.%20Spy%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "spy_vs_spy.jpg",
@@ -4216,7 +3804,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Street Fighter II.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Street%20Fighter%20II%20%28Brazil%29.7z/Street%20Fighter%20II%20%28Brazil%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "sf2_sms.jpg",
@@ -4477,7 +4065,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Super Tennis.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Super%20Tennis%20%28USA%2C%20Europe%29.7z/Super%20Tennis%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "super_tennis.jpg",
@@ -4494,7 +4082,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Taz in Escape from Mars.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Taz%20in%20Escape%20from%20Mars%20%28Brazil%29.7z/Taz%20in%20Escape%20from%20Mars%20%28Brazil%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "taz_mars.jpg",
@@ -4727,23 +4315,6 @@
         "screenshots": []
     },
     {
-        "title": "The Ninja",
-        "platform": "Sega Master System",
-        "year": 1986,
-        "rating": "",
-        "genres": "Action",
-        "players": 1,
-        "core": "segaMS",
-        "lightgun": false,
-        "biosUrl": false,
-        "file": "The Ninja.sms",
-        "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-        "cheats": [],
-        "cover": "the_ninja.jpg",
-        "description": "",
-        "screenshots": []
-    },
-    {
         "title": "Tiny Toon Adventures",
         "platform": "Sega Mega Drive",
         "year": 1992,
@@ -4869,52 +4440,10 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Wonder Boy.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "wonder_boy.jpg",
-        "description": "",
-        "screenshots": []
-    },
-    {
-        "title": "Wonder Boy (USA, Europe)",
-        "platform": "Sega Master System",
-        "year": 1987,
-        "rating": "",
-        "genres": "",
-        "players": 1,
-        "core": "segaMS",
-        "lightgun": false,
-        "biosUrl": false,
-        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20%28USA%2C%20Europe%29.sms",
-        "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-        "cheats": [
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Keep weapons after losing a life",
-                "GXIIUX"
-            ]
-        ],
-        "cover": "https://www.retrostic.com/img/covers/wonder-boy-usa-europe-big.jpg",
         "description": "",
         "screenshots": []
     },
@@ -4928,7 +4457,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20III%20-%20The%20Dragons%20Trap%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20III%20-%20The%20Dragon%27s%20Trap%20%28USA%2C%20Europe%29.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20III%20-%20The%20Dragons%20Trap%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20III%20-%20The%20Dragons%20Trap%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [
             [
@@ -4961,23 +4490,6 @@
         "screenshots": []
     },
     {
-        "title": "Wonder Boy III: The Dragon's Trap",
-        "platform": "Sega Master System",
-        "year": 1989,
-        "rating": "",
-        "genres": "Action-RPG",
-        "players": 1,
-        "core": "segaMS",
-        "lightgun": false,
-        "biosUrl": false,
-        "file": "Wonder Boy III The Dragon's Trap.sms",
-        "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-        "cheats": [],
-        "cover": "dragon_trap.jpg",
-        "description": "",
-        "screenshots": []
-    },
-    {
         "title": "Wonder Boy in Monster Land",
         "platform": "Sega Master System",
         "year": 1988,
@@ -4987,52 +4499,10 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Wonder Boy in Monster Land.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "monster_land.jpg",
-        "description": "",
-        "screenshots": []
-    },
-    {
-        "title": "Wonder Boy in Monster Land (USA, Europe)",
-        "platform": "Sega Master System",
-        "year": 1988,
-        "rating": "",
-        "genres": "",
-        "players": 1,
-        "core": "segaMS",
-        "lightgun": false,
-        "biosUrl": false,
-        "file": "https://archive.org/download/segaMS/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.sms",
-        "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-        "cheats": [
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Keep weapons after losing a life",
-                "GXIIUX"
-            ]
-        ],
-        "cover": "https://upload.wikimedia.org/wikipedia/en/7/71/Monster_Land_for_the_Master_System_cover_artwork.jpg",
         "description": "",
         "screenshots": []
     },
@@ -5054,48 +4524,6 @@
         "screenshots": []
     },
     {
-        "title": "Wonder Boy in Monster World (Europe)",
-        "platform": "Sega Master System",
-        "year": 1991,
-        "rating": "",
-        "genres": "",
-        "players": 1,
-        "core": "segaMS",
-        "lightgun": false,
-        "biosUrl": false,
-        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.sms",
-        "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-        "cheats": [
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Start with infinite lives",
-                "SLAIUZ"
-            ],
-            [
-                "Keep weapons after losing a life",
-                "GXIIUX"
-            ]
-        ],
-        "cover": "https://www.gamecash.fr/thumbnail-400-450/wonder-boy-in-monster-world-e122319.jpg",
-        "description": "",
-        "screenshots": []
-    },
-    {
         "title": "World Soccer",
         "platform": "Sega Master System",
         "year": 1985,
@@ -5105,7 +4533,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "World Soccer.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/World%20Soccer%20%28World%29.7z/World%20Soccer%20%28World%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "world_soccer.jpg",
@@ -5232,7 +4660,7 @@
         "core": "segaMS",
         "lightgun": false,
         "biosUrl": false,
-        "file": "Zillion.sms",
+        "file": "https://archive.org/download/ffight/Sega%20Master%20System/Zillion%20%28USA%29%20%28Rev%201%29.7z/Zillion%20%28USA%29%20%28Rev%201%29.sms",
         "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
         "cheats": [],
         "cover": "zillion.jpg",
