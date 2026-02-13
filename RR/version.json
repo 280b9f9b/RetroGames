@@ -2844,7 +2844,37 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
+    "cheats": [
+  [
+    "Infinite Lives",
+    "00C1-4309"
+  ],
+  [
+    "Freeze Wonder Boy's Jogging Animation",
+    "00C1-7013"
+  ],
+  [
+    "Infinite Red/Yellow Bar",
+    "00CC-3611"
+  ],
+  [
+    "Invincibility + Stone Hammers",
+    "00C1-2703"
+  ],
+  [
+    "Start With Stone Hammers",
+    "00C1-2701"
+  ],
+  [
+    "40 Dolls",
+    "00C1-3028"
+  ],
+  [
+    "Rapid Fire On Controller Buttons",
+    "00C1-73FF"
+  ]
+],
+
     "cover": "wonder_boy.jpg",
     "description": "",
     "screenshots": []
