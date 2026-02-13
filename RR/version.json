@@ -827,7 +827,7 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/NES-Famicom/Contra%20%28USA%29.7z/Contra%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
+    "cheats": [["Infinite Lives","SLAIUZ"],["Keep Weapons After Dying","GXIIUX"],["1 Hit Kills","GXSZTT"],["Start with 9 Lives","AENIVIIA"],["Mega Jump","GZNISTEI"]],
     "cover": "https://upload.wikimedia.org/wikipedia/en/6/65/Contra_cover.jpg",
     "description": "",
     "screenshots": []
@@ -1107,7 +1107,7 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/NES-Famicom/Legend%20of%20Zelda%2C%20The%20%28USA%29.7z/Legend%20of%20Zelda%2C%20The%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
+"cheats": [["Infinite Health","AVVLAUSZ"],["Start with 8 Hearts","YYKPOYZZ"],["Infinite Bombs","SZNZVOVK"],["All Items Free","SZVXASVK"]],
     "cover": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png",
     "description": "",
     "screenshots": []
