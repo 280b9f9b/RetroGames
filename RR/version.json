@@ -17,6 +17,30 @@
     "screenshots": []
   },
   {
+    "title": "Adidas Power Soccer '98",
+    "platform": "PlayStation",
+    "year": 1997,
+    "rating": 8.5,
+    "genres": "Platformer",
+    "players": 1,
+    "core": "psx",
+    "lightgun": false,
+    "biosUrl": "https://archive.org/download/ffight/PlayStation/scph5501.7z/scph5501.bin",
+    "file": "https://archive.org/download/ffight/PlayStation/Adidas%20Power%20Soccer%20%2798%20%5BNTSC-U%5D%20%5BSLUS-00547%5D.7z/Adidas%20Power%20Soccer%20%2798%20%5BNTSC-U%5D%20%5BSLUS-00547%5D.img.ecm",
+    "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
+    "cheats": [],
+    "cover": "",
+    "description": "A direct sequel to the Naughty Dog’s Crash Bandicoot was quickly put together, due to the success of the original. It’s a direct continuation of the story, with Crash trying to stop Doctor Neo Cortex from conquering the world once again. After his defeat in the original game, Cortex fell from his lair into the cavern, filled with glowing crystals. When he examines them thoroughly, it is clear that only these crystals can absorb the energy that would otherwise destroy the planet, and in order to gather all 25 remaining crystals he tricks Crash into helping him.\nCrash Bandicoot 2 is built on the same engine as the first one. Each stage has a crystal, and each of them can be accessed through the Warp Room. At the end of each level, Crash will have to face four bosses before his final clash with Cortex. As a 3D platforming game, Crash Bandicoot allows players to run and jump through the levels, with a fixed camera, centered either directly behind Crash in 3D sections or placed to the side in 2D platforming sections. Each stage has a set of hazards, that might come in forms of enemies with fixed walking and attack patterns, environmental traps, or boxes that will damage Crash when he breaks them.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0b2/0b2b0ad4e1e77192b2e1c1025b85069c.jpg",
+      "https://media.rawg.io/media/screenshots/395/3959c282e79f33068c0ed8f684a02c27.jpg",
+      "https://media.rawg.io/media/screenshots/dbe/dbed9e034f20e4a3623a6a072eaba130.jpg",
+      "https://media.rawg.io/media/screenshots/1ec/1ecf1b0e83b2d34c671dfc47d6614572.jpg",
+      "https://media.rawg.io/media/screenshots/dab/dabf4ab51199cd4f0726fa6970f0b62d.jpg",
+      "https://media.rawg.io/media/screenshots/42e/42e790a59723a7f8987dcf99e321fb01.jpg"
+    ]
+  },
+  {
     "title": "After Burner",
     "platform": "Sega Master System",
     "year": 1988,
@@ -1467,6 +1491,54 @@
     "screenshots": []
   },
   {
+    "title": "FIFA Soccer 2005 [NTSC-U] [SLUS-01585]",
+    "platform": "PlayStation",
+    "year": 1997,
+    "rating": 8.5,
+    "genres": "Platformer",
+    "players": 1,
+    "core": "psx",
+    "lightgun": false,
+    "biosUrl": "https://archive.org/download/ffight/PlayStation/scph5501.7z/scph5501.bin",
+    "file": "https://archive.org/download/ffight/PlayStation/FIFA%20Soccer%202005%20%5BNTSC-U%5D%20%5BSLUS-01585%5D.7z/Soccer%202005%20%5BNTSC-U%5D%20%5BSLUS-01585%5D.img.ecm",
+    "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
+    "cheats": [],
+    "cover": "",
+    "description": "A direct sequel to the Naughty Dog’s Crash Bandicoot was quickly put together, due to the success of the original. It’s a direct continuation of the story, with Crash trying to stop Doctor Neo Cortex from conquering the world once again. After his defeat in the original game, Cortex fell from his lair into the cavern, filled with glowing crystals. When he examines them thoroughly, it is clear that only these crystals can absorb the energy that would otherwise destroy the planet, and in order to gather all 25 remaining crystals he tricks Crash into helping him.\nCrash Bandicoot 2 is built on the same engine as the first one. Each stage has a crystal, and each of them can be accessed through the Warp Room. At the end of each level, Crash will have to face four bosses before his final clash with Cortex. As a 3D platforming game, Crash Bandicoot allows players to run and jump through the levels, with a fixed camera, centered either directly behind Crash in 3D sections or placed to the side in 2D platforming sections. Each stage has a set of hazards, that might come in forms of enemies with fixed walking and attack patterns, environmental traps, or boxes that will damage Crash when he breaks them.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0b2/0b2b0ad4e1e77192b2e1c1025b85069c.jpg",
+      "https://media.rawg.io/media/screenshots/395/3959c282e79f33068c0ed8f684a02c27.jpg",
+      "https://media.rawg.io/media/screenshots/dbe/dbed9e034f20e4a3623a6a072eaba130.jpg",
+      "https://media.rawg.io/media/screenshots/1ec/1ecf1b0e83b2d34c671dfc47d6614572.jpg",
+      "https://media.rawg.io/media/screenshots/dab/dabf4ab51199cd4f0726fa6970f0b62d.jpg",
+      "https://media.rawg.io/media/screenshots/42e/42e790a59723a7f8987dcf99e321fb01.jpg"
+    ]
+  },
+  {
+    "title": "FIFA World Cup 2002 [NTSC-U] [SLUS-01449]",
+    "platform": "PlayStation",
+    "year": 1997,
+    "rating": 8.5,
+    "genres": "Platformer",
+    "players": 1,
+    "core": "psx",
+    "lightgun": false,
+    "biosUrl": "https://archive.org/download/ffight/PlayStation/scph5501.7z/scph5501.bin",
+    "file": "https://archive.org/download/ffight/PlayStation/FIFA%20World%20Cup%202002%20%5BNTSC-U%5D%20%5BSLUS-01449%5D.7z/FIFA%20World%20Cup%202002%20%5BNTSC-U%5D%20%5BSLUS-01449%5D.bin.ecm",
+    "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
+    "cheats": [],
+    "cover": "",
+    "description": "A direct sequel to the Naughty Dog’s Crash Bandicoot was quickly put together, due to the success of the original. It’s a direct continuation of the story, with Crash trying to stop Doctor Neo Cortex from conquering the world once again. After his defeat in the original game, Cortex fell from his lair into the cavern, filled with glowing crystals. When he examines them thoroughly, it is clear that only these crystals can absorb the energy that would otherwise destroy the planet, and in order to gather all 25 remaining crystals he tricks Crash into helping him.\nCrash Bandicoot 2 is built on the same engine as the first one. Each stage has a crystal, and each of them can be accessed through the Warp Room. At the end of each level, Crash will have to face four bosses before his final clash with Cortex. As a 3D platforming game, Crash Bandicoot allows players to run and jump through the levels, with a fixed camera, centered either directly behind Crash in 3D sections or placed to the side in 2D platforming sections. Each stage has a set of hazards, that might come in forms of enemies with fixed walking and attack patterns, environmental traps, or boxes that will damage Crash when he breaks them.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0b2/0b2b0ad4e1e77192b2e1c1025b85069c.jpg",
+      "https://media.rawg.io/media/screenshots/395/3959c282e79f33068c0ed8f684a02c27.jpg",
+      "https://media.rawg.io/media/screenshots/dbe/dbed9e034f20e4a3623a6a072eaba130.jpg",
+      "https://media.rawg.io/media/screenshots/1ec/1ecf1b0e83b2d34c671dfc47d6614572.jpg",
+      "https://media.rawg.io/media/screenshots/dab/dabf4ab51199cd4f0726fa6970f0b62d.jpg",
+      "https://media.rawg.io/media/screenshots/42e/42e790a59723a7f8987dcf99e321fb01.jpg"
+    ]
+  },
+  {
     "title": "Final Fantasy",
     "platform": "NES-Famicom",
     "year": 1987,
@@ -1893,6 +1965,78 @@
     "cover": "https://archive.org/download/ffight/covers/Nintendo%20Entertainment%20System.zip/Nintendo%20Entertainment%20System%2FGradius%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
+  },
+  {
+    "title": "Gran_Turismo_(E)_(EDC)_[SCES-00984]",
+    "platform": "PlayStation",
+    "year": 1997,
+    "rating": 8.5,
+    "genres": "Platformer",
+    "players": 1,
+    "core": "psx",
+    "lightgun": false,
+    "biosUrl": "https://archive.org/download/ffight/PlayStation/scph5501.7z/scph5501.bin",
+    "file": "https://archive.org/download/ffight/PlayStation/Gran_Turismo_%28E%29_%28EDC%29_%5BSCES-00984%5D.7z/Gran%20Turismo%20%28E%29%20%28EDC%29%20%5BSCES-00984%5D.bin.ecm",
+    "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
+    "cheats": [],
+    "cover": "",
+    "description": "A direct sequel to the Naughty Dog’s Crash Bandicoot was quickly put together, due to the success of the original. It’s a direct continuation of the story, with Crash trying to stop Doctor Neo Cortex from conquering the world once again. After his defeat in the original game, Cortex fell from his lair into the cavern, filled with glowing crystals. When he examines them thoroughly, it is clear that only these crystals can absorb the energy that would otherwise destroy the planet, and in order to gather all 25 remaining crystals he tricks Crash into helping him.\nCrash Bandicoot 2 is built on the same engine as the first one. Each stage has a crystal, and each of them can be accessed through the Warp Room. At the end of each level, Crash will have to face four bosses before his final clash with Cortex. As a 3D platforming game, Crash Bandicoot allows players to run and jump through the levels, with a fixed camera, centered either directly behind Crash in 3D sections or placed to the side in 2D platforming sections. Each stage has a set of hazards, that might come in forms of enemies with fixed walking and attack patterns, environmental traps, or boxes that will damage Crash when he breaks them.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0b2/0b2b0ad4e1e77192b2e1c1025b85069c.jpg",
+      "https://media.rawg.io/media/screenshots/395/3959c282e79f33068c0ed8f684a02c27.jpg",
+      "https://media.rawg.io/media/screenshots/dbe/dbed9e034f20e4a3623a6a072eaba130.jpg",
+      "https://media.rawg.io/media/screenshots/1ec/1ecf1b0e83b2d34c671dfc47d6614572.jpg",
+      "https://media.rawg.io/media/screenshots/dab/dabf4ab51199cd4f0726fa6970f0b62d.jpg",
+      "https://media.rawg.io/media/screenshots/42e/42e790a59723a7f8987dcf99e321fb01.jpg"
+    ]
+  },
+  {
+    "title": "Grand Theft Auto - Mission Pack 1 - London 1969 [NTSC-U] [SLUS-00846]",
+    "platform": "PlayStation",
+    "year": 1997,
+    "rating": 8.5,
+    "genres": "Platformer",
+    "players": 1,
+    "core": "psx",
+    "lightgun": false,
+    "biosUrl": "https://archive.org/download/ffight/PlayStation/scph5501.7z/scph5501.bin",
+    "file": "https://archive.org/download/ffight/PlayStation/Grand%20Theft%20Auto%20-%20Mission%20Pack%201%20-%20London%201969%20%5BNTSC-U%5D%20%5BSLUS-00846%5D.7z/Grand%20Theft%20Auto%20-%20Mission%20Pack%20%231%20-%20London%201969%20%5BNTSC-U%5D%20%5BSLUS-00846%5D.img.ecm",
+    "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
+    "cheats": [],
+    "cover": "",
+    "description": "A direct sequel to the Naughty Dog’s Crash Bandicoot was quickly put together, due to the success of the original. It’s a direct continuation of the story, with Crash trying to stop Doctor Neo Cortex from conquering the world once again. After his defeat in the original game, Cortex fell from his lair into the cavern, filled with glowing crystals. When he examines them thoroughly, it is clear that only these crystals can absorb the energy that would otherwise destroy the planet, and in order to gather all 25 remaining crystals he tricks Crash into helping him.\nCrash Bandicoot 2 is built on the same engine as the first one. Each stage has a crystal, and each of them can be accessed through the Warp Room. At the end of each level, Crash will have to face four bosses before his final clash with Cortex. As a 3D platforming game, Crash Bandicoot allows players to run and jump through the levels, with a fixed camera, centered either directly behind Crash in 3D sections or placed to the side in 2D platforming sections. Each stage has a set of hazards, that might come in forms of enemies with fixed walking and attack patterns, environmental traps, or boxes that will damage Crash when he breaks them.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0b2/0b2b0ad4e1e77192b2e1c1025b85069c.jpg",
+      "https://media.rawg.io/media/screenshots/395/3959c282e79f33068c0ed8f684a02c27.jpg",
+      "https://media.rawg.io/media/screenshots/dbe/dbed9e034f20e4a3623a6a072eaba130.jpg",
+      "https://media.rawg.io/media/screenshots/1ec/1ecf1b0e83b2d34c671dfc47d6614572.jpg",
+      "https://media.rawg.io/media/screenshots/dab/dabf4ab51199cd4f0726fa6970f0b62d.jpg",
+      "https://media.rawg.io/media/screenshots/42e/42e790a59723a7f8987dcf99e321fb01.jpg"
+    ]
+  },
+  {
+    "title": "Grand Theft Auto 2 [NTSC-U] [SLUS-00789]",
+    "platform": "PlayStation",
+    "year": 1997,
+    "rating": 8.5,
+    "genres": "Platformer",
+    "players": 1,
+    "core": "psx",
+    "lightgun": false,
+    "biosUrl": "https://archive.org/download/ffight/PlayStation/scph5501.7z/scph5501.bin",
+    "file": "https://archive.org/download/ffight/PlayStation/Grand%20Theft%20Auto%202%20%5BNTSC-U%5D%20%5BSLUS-00789%5D.7z/Grand%20Theft%20Auto%202%20%5BNTSC-U%5D%20%5BSLUS-00789%5D.bin.ecm",
+    "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
+    "cheats": [],
+    "cover": "",
+    "description": "A direct sequel to the Naughty Dog’s Crash Bandicoot was quickly put together, due to the success of the original. It’s a direct continuation of the story, with Crash trying to stop Doctor Neo Cortex from conquering the world once again. After his defeat in the original game, Cortex fell from his lair into the cavern, filled with glowing crystals. When he examines them thoroughly, it is clear that only these crystals can absorb the energy that would otherwise destroy the planet, and in order to gather all 25 remaining crystals he tricks Crash into helping him.\nCrash Bandicoot 2 is built on the same engine as the first one. Each stage has a crystal, and each of them can be accessed through the Warp Room. At the end of each level, Crash will have to face four bosses before his final clash with Cortex. As a 3D platforming game, Crash Bandicoot allows players to run and jump through the levels, with a fixed camera, centered either directly behind Crash in 3D sections or placed to the side in 2D platforming sections. Each stage has a set of hazards, that might come in forms of enemies with fixed walking and attack patterns, environmental traps, or boxes that will damage Crash when he breaks them.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/0b2/0b2b0ad4e1e77192b2e1c1025b85069c.jpg",
+      "https://media.rawg.io/media/screenshots/395/3959c282e79f33068c0ed8f684a02c27.jpg",
+      "https://media.rawg.io/media/screenshots/dbe/dbed9e034f20e4a3623a6a072eaba130.jpg",
+      "https://media.rawg.io/media/screenshots/1ec/1ecf1b0e83b2d34c671dfc47d6614572.jpg",
+      "https://media.rawg.io/media/screenshots/dab/dabf4ab51199cd4f0726fa6970f0b62d.jpg",
+      "https://media.rawg.io/media/screenshots/42e/42e790a59723a7f8987dcf99e321fb01.jpg"
+    ]
   },
   {
     "title": "Gremlins 2 - The New Batch (USA)",
