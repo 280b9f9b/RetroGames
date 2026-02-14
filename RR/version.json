@@ -946,7 +946,7 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/NES-Famicom/Excitebike%20%28Japan%2C%20USA%29.7z/Excitebike%20%28Japan%2C%20USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
+"cheats": [["Never Overheat","SXELUOSE"],["Turbo Speed","PAEIIGAA"]],
     "cover": "https://upload.wikimedia.org/wikipedia/en/f/f8/Excitebike_cover.jpg",
     "description": "",
     "screenshots": []
@@ -1014,7 +1014,7 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/NES-Famicom/Ice%20Climber%20%28USA%2C%20Europe%29.7z/Ice%20Climber%20%28USA%2C%20Europe%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
+"cheats": [["Infinite Lives","SXNISUVK"]],
     "cover": "https://upload.wikimedia.org/wikipedia/en/d/df/IceClimberboxartnes.jpg",
     "description": "",
     "screenshots": []
@@ -1031,7 +1031,7 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/NES-Famicom/Jackal%20%28USA%29.7z/Jackal%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
+"cheats": [["Infinite Lives","SXUTVUVK"],["Invincibility","SZEEKOVK"],["Maximum Firepower","PAUKTGAA"]],
     "cover": "https://videogamegalaxy.com/wp-content/uploads/2023/04/Jackal-USA.jpg",
     "description": "",
     "screenshots": []
@@ -1065,32 +1065,7 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/NES-Famicom/Kung%20Fu%20%28Japan%2C%20USA%29.7z/Kung%20Fu%20%28Japan%2C%20USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [
-      [
-        "Don't Die When The Timer Runs Out",
-        "GZVKIYSA + ATVKYNGG"
-      ],
-      [
-        "Enemies Are Easier To Defeat",
-        "AEVXLSPT"
-      ],
-      [
-        "Infinite Health And One Hit Kills",
-        "GPTGTG + UTYKTK"
-      ],
-      [
-        "Infinite Lives",
-        "SUAAXA"
-      ],
-      [
-        "Knife Thrower Harder To Beat",
-        "XYUXEUZK"
-      ],
-      [
-        "Start With Lots Of Lives",
-        "ISOPPI"
-      ]
-    ],
+"cheats": [["Infinite Lives","SUAAXA"],["Enemies Easier to Defeat","AEVXLSPT"],["Infinite Health + One Hit Kills","GPTGTG+UTYKTK"],["Don't Die When Timer Runs Out","GZVKIYSA+ATVKYNGG"]],
     "cover": "https://cdn.0game.ir/gameso/images/games/nintendo/nes/covers/Kung%20Fu%20(Japan,%20USA)%20(En).jpg",
     "description": "",
     "screenshots": []
@@ -1226,7 +1201,7 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/NES-Famicom/Metroid%20%28USA%29.7z/Metroid%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
+"cheats": [["Infinite Health","GZUYNOSE"],["Infinite Missiles","SZOAPOVK"],["Start with 255 Missiles","NYNNULIE"],["Moon Jump","KIOLEL"],["Hit Anywhere","AAVAAAYA"]],
     "cover": "https://upload.wikimedia.org/wikipedia/en/5/5d/Metroid_boxart.jpg",
     "description": "",
     "screenshots": []
@@ -1243,7 +1218,7 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/NES-Famicom/Mike%20Tysons%20Punch-Out%21%21%20%28Japan%2C%20USA%29.7z/Mike%20Tyson%27s%20Punch-Out%21%21%20%28Japan%2C%20USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
+"cheats": [["Infinite Health","SXOYLZSA"],["Start with Super Punch","GOSSIPPA"],["Always Get Stars","PANLEL"]],
     "cover": "https://cdn.shopify.com/s/files/1/1104/2322/files/14834_front.jpg?v=1740936828",
     "description": "",
     "screenshots": []
@@ -1277,7 +1252,7 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/NES-Famicom/Super%20Mario%20Bros.%20%28World%29.7z/Super%20Mario%20Bros.%20%28World%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
+"cheats": [["Infinite Lives","SLTLLG"],["Super Jump","TPZLTG"],["Mega Jump","APZLGG"],["Start as Super Mario","AATOZE"],["Start as Fire Mario","KKVYAP"],["Moon Physics","APZLGK"]],
     "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png",
     "description": "",
     "screenshots": []
@@ -1294,7 +1269,7 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/NES-Famicom/Super%20Mario%20Bros.%202%20%28USA%29.7z/Super%20Mario%20Bros.%202%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
+"cheats": [["Infinite Lives","SXNEPO"],["Mega Jump","APZLGG"],["Float Jump","AANZAKEI"],["Super Speed Lift","LEXLYAPA"]],
     "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Super_Mario_Bros._2_box_art.png/250px-Super_Mario_Bros._2_box_art.png",
     "description": "",
     "screenshots": []
@@ -1311,7 +1286,7 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/NES-Famicom/Super%20Mario%20Bros.%203%20%28USA%29.7z/Super%20Mario%20Bros.%203%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
+"cheats": [["Infinite Lives","SLXPLOVS"],["Multi-Jump","AKNZYIAE"],["Super Speed","OXKZELSX"],["Start with Hammer Suit","XEKENYSZ"],["Fire Mario After Hit","ZEUXKGAA"],["Infinite P-Meter","GZUXNGEI"]],
     "cover": "https://upload.wikimedia.org/wikipedia/en/a/a5/Super_Mario_Bros._3_coverart.png",
     "description": "",
     "screenshots": []
@@ -1430,7 +1405,7 @@
     "biosUrl": false,
     "file": "The Legend of Zelda.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
+"cheats": [["Infinite Health","AVVLAUSZ"],["Start with 8 Hearts","YYKPOYZZ"],["Infinite Bombs","SZNZVOVK"],["All Items Free","SZVXASVK"]],
     "cover": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png",
     "description": "",
     "screenshots": []
@@ -3356,7 +3331,7 @@
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Contra%20-%20Hard%20Corps%20%28USA,%20Korea%29.7z/Contra%20-%20Hard%20Corps%20%28USA,%20Korea%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
+"cheats": [["Infinite Lives","SLAIUZ"],["Keep Weapons After Dying","GXIIUX"],["1 Hit Kills","GXSZTT"],["Start with 9 Lives","AENIVIIA"],["Mega Jump","GZNISTEI"]],
     "cover": "https://media.rawg.io/media/games/fb5/fb5b00564eaa90bc0032188d15d2699f.jpg",
     "description": "Contra: Hard Corps is a side-scrolling run and gun-style shoot-'em-up video game released by Konami for the Sega Genesis in North America and South Korea in 1994. It was also released for the Mega Drive as Contra: The Hard Corps (魂斗羅 ザ・ハードコア, Kontora Za Hādo Koa) in Japan and as Probotector in Europe and Australia. It was the first game in the Contra series released for a Sega platform and serves as the first entry in the Hard Corps series, itself a subseries of the Contra franchise.\nSet five years after the events of Contra III: The Alien Wars, a terrorist group led by the renegade Colonel Bahamut has stolen an alien cell recovered from the war and now intends to use it to produce weapons. Instead of the traditional Contra heroes of Bill Rizer and Lance Bean, a new task force known as the Hard Corps (with four members) are sent to deal with the situation. The game features a branching storyline with multiple possible endings.",
     "screenshots": [
