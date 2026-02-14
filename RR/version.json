@@ -1629,7 +1629,7 @@
   },
   {
     "title": "Golden Axe (1989)",
-    "platform": "MAME 2003",
+    "platform": "Arcade",
     "year": 1989,
     "rating": 7.9,
     "genres": "Action, Arcade",
@@ -3711,7 +3711,7 @@
   },
   {
     "title": "Space Harrier (1986)",
-    "platform": "MAME 2003",
+    "platform": "Arcade",
     "year": 1986,
     "rating": 7.9,
     "genres": "",
