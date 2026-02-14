@@ -2603,7 +2603,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/NFL%2098%20%28USA%29.7z/NFL%2098%20%28USA%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "nfl98.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FMadden%20NFL%2098%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2620,7 +2620,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/NFL%20Football%2094%20Starring%20Joe%20Montana%20%28USA%29.7z/NFL%20Football%2094%20Starring%20Joe%20Montana%20%28USA%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "nfl94.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FNFL%20Football%2094%20Starring%20Joe%20Montana%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2637,7 +2637,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/NHL%2094%20%28USA,%20Europe%29.7z/NHL%2094%20%28USA,%20Europe%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "nhl_94.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FNHL%2094%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2796,7 +2796,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Phantasy%20Star%20II%20%28USA,%20Europe%29.7z/Phantasy%20Star%20II%20%28USA,%20Europe%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "phantasy_star_2.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FPhantasy%20Star%20II%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2838,7 +2838,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Phantasy_Star_EotM_cover.jpg/250px-Phantasy_Star_EotM_cover.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FPhantasy%20Star%20IV%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2872,7 +2872,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Pirates!%20Gold%20%28USA%29.7z/Pirates!%20Gold%20%28USA%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "pirates_gold.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FPirates%21%20Gold%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3047,7 +3047,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHVvQpfziCWHi0xF9QcIGRFT8MwFI55d5QA&s",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FRambo%20III%20%28World%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3154,7 +3154,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/7/75/The_Revenge_of_Shinobi_Coverart.png",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FRevenge%20of%20Shinobi%2C%20The%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3171,7 +3171,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Ristar%20%28USA,%20Europe%29%20%28September%201994%29.7z/Ristar%20%28USA,%20Europe%29%20%28September%201994%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "ristar.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FRistar%20%28USA%2C%20Europe%29%20%28September%201994%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3229,7 +3229,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Road%20Rash%20II%20%28USA,%20Europe%29.7z/Road%20Rash%20II%20%28USA,%20Europe%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "roadrash2.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FRoad%20Rash%20II%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3246,7 +3246,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Rock%20n%20Roll%20Racing%20%28USA%29.7z/Rock%20n%20Roll%20Racing%20%28USA%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "rocknroll_racing.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FRock%20n%20Roll%20Racing%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3392,7 +3392,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Shadow%20Dancer%20-%20The%20Secret%20of%20Shinobi%20%28World%29.7z/Shadow%20Dancer%20-%20The%20Secret%20of%20Shinobi%20%28World%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "shadow_dancer.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FShadow%20Dancer%20-%20The%20Secret%20of%20Shinobi%20%28World%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3409,7 +3409,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Shadowrun%20%28USA%29.7z/Shadowrun%20%28USA%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "shadowrun.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FShadowrun%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3426,7 +3426,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Shining%20Force%20%28USA%29.7z/Shining%20Force%20%28USA%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "shining_force.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FShining%20Force%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3443,7 +3443,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Shining%20Force%20II%20%28USA%29.7z/Shining%20Force%20II%20%28USA%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "shining_force2.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FShining%20Force%20II%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3502,7 +3502,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxNvSwpAgOzwzTigCsDdZA39Pk-KYukq8H6Q&s",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FShinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3561,7 +3561,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Sonic%20Spinball%20%28Japan%29.7z/Sonic%20Spinball%20%28Japan%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "sonic_spinball.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FSonic%20Spinball%20%28Japan%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3595,7 +3595,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Sonic%20The%20Hedgehog%20%28USA,%20Europe%29.7z/Sonic%20The%20Hedgehog%20%28USA,%20Europe%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "sonic1.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FSonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3629,7 +3629,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Sonic%20The%20Hedgehog%202%20%28World%29.7z/Sonic%20The%20Hedgehog%202%20%28World%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "sonic2.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FSonic%20The%20Hedgehog%202%20%28World%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3646,7 +3646,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Sonic%20&%20Knuckles%20%28World%29.7z/Sonic%20&%20Knuckles%20%28World%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "sonic3_knuckles.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FSonic%20%26%20Knuckles%20%2B%20Sonic%20The%20Hedgehog%203%20%28World%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3688,7 +3688,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/0/07/Sonic3-box-us-225.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FSonic%20The%20Hedgehog%203%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3902,7 +3902,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": "https://www.gametripper.co.uk/wp-content/uploads/2019/04/Street-Fighter-II-Cover-art.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FStreet%20Fighter%20II%20-%20Special%20Champion%20Edition%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3934,7 +3934,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Bare%20Knuckle%20-%20Ikari%20no%20Tetsuken%20~%20Streets%20of%20Rage%20%28World%29.7z/Bare%20Knuckle%20-%20Ikari%20no%20Tetsuken%20~%20Streets%20of%20Rage%20%28World%29.md",
-    "cover": "https://media.rawg.io/media/games/687/687c7ac926491e65dcb8f0c9d45cab07.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FBare%20Knuckle%20-%20Ikari%20no%20Tetsuken%20_%20Streets%20of%20Rage%20%28World%29.jpg",
     "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": [],
     "description": "Just UpdatedAll SEGA MegaDrive/Genesis titles now launch using the new SEGA MegaDrive/Genesis Interactive Hub, with all new features, UI and Steam Workshop Support!\nAbout the GameWhat was once a happy, peaceful, productive city, has fallen into the hands of a secret criminal syndicate.\nLooting, random violence and destruction are rampant. Nobody is safe. Despite repeated refusals by their superiors, three young police officers were determined to tackle the problem head on. Eventually they created a special attack unit the only way they could – they quit the force. Take control of one of the three ex-officers and make the city a place where people no longer have to walk the Streets of Rage™!",
@@ -3960,7 +3960,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Streets%20of%20Rage%202%20%28USA%29.7z/Streets%20of%20Rage%202%20%28USA%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "sor2.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FStreets%20of%20Rage%202%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4002,7 +4002,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/2/2a/Streets_of_Rage_3_%28box_art%29.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FStreets%20of%20Rage%203%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4019,7 +4019,7 @@
     "file": "Ghouls N Ghosts.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "https://media.rawg.io/media/screenshots/87b/87b55538b3b37d481fa71834335c3e0d.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FGhoulsn%20Ghosts%20%28USA%2C%20Europe%29.jpg",
     "description": "4 years after Arthur saved Princess PrinPrin from the evil demon Loki, a wonderful celebration is about to take place! Arthur and the Princess are engaged, and the wedding is to take place at last! Thousands from around the kingdom have come to witness this joyous event!\n\nBut somewhere in the darkness of the forest lurks a horrible evil...\n\nArthur and PrinPrin are spending a quiet moment locked in embrace, when she is suddenly snatched away by a huge demon! As her screams echo through the night, Arthur rushes from the castle, and pursues the demon to the graveyard, where he is greeted by hundreds of horrible ghouls and monsters!\n\nNow, this time, they've gone too far...Arthur is ready for them...",
     "screenshots": [
       "https://media.rawg.io/media/screenshots/d46/d463e4d19915e578c93fcc75b035a5ea.jpg",
@@ -4207,7 +4207,7 @@
     "lightgun": false,
     "biosUrl": false,
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Super%20Street%20Fighter%20II%20%28USA%29.7z/Super%20Street%20Fighter%20II%20%28USA%29.md",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/SSF2_US_flyer.png/250px-SSF2_US_flyer.png",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FSuper%20Street%20Fighter%20II%20%28USA%29.jpg",
     "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": [],
     "description": "",
@@ -4373,7 +4373,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Teenage%20Mutant%20Ninja%20Turtles%20-%20The%20Hyperstone%20Heist%20%28USA%29.7z/Teenage%20Mutant%20Ninja%20Turtles%20-%20The%20Hyperstone%20Heist%20%28USA%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "tmnt_hyperstone.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FTeenage%20Mutant%20Ninja%20Turtles%20-%20The%20Hyperstone%20Heist%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4472,7 +4472,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Lion%20King,%20The%20%28World%29.7z/Lion%20King,%20The%20%28World%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "lion_king.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FLion%20King%2C%20The%20%28World%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4489,7 +4489,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Tiny%20Toon%20Adventures%20-%20Acme%20All-Stars%20%28USA,%20Korea%29.7z/Tiny%20Toon%20Adventures%20-%20Acme%20All-Stars%20%28USA,%20Korea%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "tiny_toon.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FTiny%20Toon%20Adventures%20-%20Acme%20All-Stars%20%28USA%2C%20Korea%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4506,7 +4506,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Tiny%20Toon%20Adventures%20-%20Busters%20Hidden%20Treasure%20%28USA%29.7z/Tiny%20Toon%20Adventures%20-%20Busters%20Hidden%20Treasure%20%28USA%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FTiny%20Toon%20Adventures%20-%20Busters%20Hidden%20Treasure%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4523,7 +4523,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/ToeJam%20&%20Earl%20%28World%29.7z/ToeJam%20&%20Earl%20%28World%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "toejam_earl.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FToeJam%20%26%20Earl%20%28World%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4540,7 +4540,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Vectorman%20%28USA,%20Europe%29.7z/Vectorman%20%28USA,%20Europe%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "vectorman.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FVectorman%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4710,7 +4710,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Wonder%20Boy%20III%20-%20Monster%20Lair%20%28Japan,%20Europe%29.7z/Wonder%20Boy%20III%20-%20Monster%20Lair%20%28Japan,%20Europe%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FWonder%20Boy%20III%20-%20Monster%20Lair%20%28Japan%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4744,7 +4744,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Wonder%20Boy%20in%20Monster%20World%20%28USA,%20Europe%29.7z/Wonder%20Boy%20in%20Monster%20World%20%28USA,%20Europe%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "wonderboy_monster_world.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FWonder%20Boy%20in%20Monster%20World%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4761,7 +4761,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Wonder%20Boy%20V%20-%20Monster%20World%20III%20%28Japan,%20Korea%29.7z/Wonder%20Boy%20V%20-%20Monster%20World%20III%20%28Japan,%20Korea%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FWonder%20Boy%20V%20-%20Monster%20World%20III%20%28Japan%2C%20Korea%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4812,7 +4812,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/X-Men%20%28USA%29.7z/X-Men%20%28USA%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "xmen.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FX-Men%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
