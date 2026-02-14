@@ -1,5 +1,22 @@
 [
   {
+    "title": "1942 (Japan, USA)",
+    "platform": "NES-Famicom",
+    "year": 1985,
+    "rating": "",
+    "genres": "Action",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/1942%20%28Japan%2C%20USA%29.7z/1942%20%28Japan%2C%20USA%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "After Burner",
     "platform": "Sega Master System",
     "year": 1988,
@@ -338,6 +355,23 @@
     "screenshots": []
   },
   {
+    "title": "Arkanoid (USA)",
+    "platform": "NES-Famicom",
+    "year": 1985,
+    "rating": "",
+    "genres": "Action",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Arkanoid%20%28USA%29.7z/Arkanoid%20%28USA%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Asterix",
     "platform": "Sega Master System",
     "year": 1992,
@@ -456,6 +490,23 @@
     "screenshots": []
   },
   {
+    "title": "Batman Returns (World)",
+    "platform": "Sega Mega Drive",
+    "year": 1991,
+    "rating": 8,
+    "genres": "Shooter",
+    "players": 1,
+    "core": "segaMD",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Batman%20Returns%20%28World%29.7z/Batman%20Returns%20%28World%29.md",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Battletoads",
     "platform": "NES-Famicom",
     "year": 1991,
@@ -514,6 +565,23 @@
     "screenshots": []
   },
   {
+    "title": "Bomberman (USA)",
+    "platform": "NES-Famicom",
+    "year": 1985,
+    "rating": "",
+    "genres": "Action",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Bomberman%20%28USA%29.7z/Bomberman%20%28USA%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Bubble Bobble",
     "platform": "Sega Master System",
     "year": 1987,
@@ -544,6 +612,23 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FCalifornia%20Games%20%28USA%2C%20Europe%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "California Games (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": 7,
+    "genres": "Shooter",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/California%20Games%20%28USA%2C%20Europe%29.7z/California%20Games%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
     "description": "",
     "screenshots": []
   },
@@ -677,6 +762,23 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FChoplifter%20%28USA%2C%20Europe%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Cloud Master (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": 7,
+    "genres": "Shooter",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Cloud%20Master%20%28USA%2C%20Europe%29.7z/Cloud%20Master%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
     "description": "",
     "screenshots": []
   },
@@ -868,6 +970,23 @@
       "https://media.rawg.io/media/screenshots/dab/dabf4ab51199cd4f0726fa6970f0b62d.jpg",
       "https://media.rawg.io/media/screenshots/42e/42e790a59723a7f8987dcf99e321fb01.jpg"
     ]
+  },
+  {
+    "title": "Cyborg Hunter (USA, Europe)",
+    "platform": "Sega Master System",
+    "year": 1988,
+    "rating": 7,
+    "genres": "Shooter",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Cyborg%20Hunter%20%28USA%2C%20Europe%29.7z/Cyborg%20Hunter%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
   },
   {
     "title": "Daytona USA: Championship Circuit Edition",
@@ -1776,6 +1895,23 @@
     "screenshots": []
   },
   {
+    "title": "Gremlins 2 - The New Batch (USA)",
+    "platform": "NES-Famicom",
+    "year": 1985,
+    "rating": "",
+    "genres": "Action",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Gremlins%202%20-%20The%20New%20Batch%20%28USA%29.7z/Gremlins%202%20-%20The%20New%20Batch%20%28USA%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Gunstar Heroes",
     "platform": "Sega Mega Drive",
     "year": 1993,
@@ -2114,6 +2250,23 @@
     "screenshots": []
   },
   {
+    "title": "Legendary Wings (USA)",
+    "platform": "NES-Famicom",
+    "year": 1985,
+    "rating": "",
+    "genres": "Action",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Legendary%20Wings%20%28USA%29.7z/Legendary%20Wings%20%28USA%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Lemmings",
     "platform": "Sega Master System",
     "year": 1991,
@@ -2387,6 +2540,23 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FMichael%20Jacksons%20Moonwalker%20%28USA%2C%20Europe%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Michael Jacksons Moonwalker (World)",
+    "platform": "Sega Mega Drive",
+    "year": 1991,
+    "rating": 8,
+    "genres": "Shooter",
+    "players": 1,
+    "core": "segaMD",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Michael%20Jacksons%20Moonwalker%20%28World%29.7z/Michael%20Jackson%27s%20Moonwalker%20%28World%29.md",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
     "description": "",
     "screenshots": []
   },
@@ -2747,6 +2917,23 @@
     "screenshots": []
   },
   {
+    "title": "OutRun 2019 (USA)",
+    "platform": "Sega Mega Drive",
+    "year": 1991,
+    "rating": 8,
+    "genres": "Shooter",
+    "players": 1,
+    "core": "segaMD",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/OutRun%202019%20%28USA%29.7z/OutRun%202019%20%28USA%29.md",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "OutRunners",
     "platform": "Arcade",
     "year": 1992,
@@ -2935,6 +3122,23 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FPrince%20of%20Persia%20%28Europe%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Pro Wrestling (USA) (Rev A)",
+    "platform": "NES-Famicom",
+    "year": 1985,
+    "rating": "",
+    "genres": "Action",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Pro%20Wrestling%20%28USA%29%20%28Rev%20A%29.7z/Pro%20Wrestling%20%28USA%29%20%28Rev%20A%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
     "description": "",
     "screenshots": []
   },
@@ -3507,6 +3711,23 @@
       ]
     ],
     "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FShinobi%20III%20-%20Return%20of%20the%20Ninja%20Master%20%28USA%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Slalom (USA)",
+    "platform": "NES-Famicom",
+    "year": 1985,
+    "rating": "",
+    "genres": "Action",
+    "players": 2,
+    "core": "nes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/NES-Famicom/Slalom%20%28USA%29.7z/Slalom%20%28USA%29.nes",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
     "description": "",
     "screenshots": []
   },
