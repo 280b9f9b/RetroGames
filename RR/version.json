@@ -3919,7 +3919,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Master%20System/Street%20Fighter%20II%20%28Brazil%29.7z/Street%20Fighter%20II%20%28Brazil%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "sf2_sms.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FStreet%20Fighter%20II%20%28Brazil%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4247,7 +4247,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Master%20System/Super%20Tennis%20%28USA%2C%20Europe%29.7z/Super%20Tennis%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "super_tennis.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FSuper%20Tennis%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4264,7 +4264,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Master%20System/Taz%20in%20Escape%20from%20Mars%20%28Brazil%29.7z/Taz%20in%20Escape%20from%20Mars%20%28Brazil%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "taz_mars.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FTaz%20in%20Escape%20from%20Mars%20%28Brazil%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4651,7 +4651,7 @@
         "00C1-73FF"
       ]
     ],
-    "cover": "wonder_boy.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FWonder%20Boy%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4693,7 +4693,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Wonder_Boy_III_-_The_Dragon%27s_Trap_boxart.jpg/250px-Wonder_Boy_III_-_The_Dragon%27s_Trap_boxart.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FWonder%20Boy%20III%20-%20The%20Dragons%20Trap%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4727,7 +4727,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Master%20System/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.7z/Wonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "monster_land.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FWonder%20Boy%20in%20Monster%20Land%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4778,7 +4778,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Master%20System/World%20Soccer%20%28World%29.7z/World%20Soccer%20%28World%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "world_soccer.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FWorld%20Soccer%20%28World%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4871,7 +4871,7 @@
         "GXIIUX"
       ]
     ],
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmK6kQaPTLrWsCxOfuJy__Y0Ql1QcUUFpzxQ&s",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FYs%20-%20The%20Vanished%20Omens%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4905,7 +4905,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Master%20System/Zillion%20%28USA%29%20%28Rev%201%29.7z/Zillion%20%28USA%29%20%28Rev%201%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "zillion.jpg",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FZillion%20%28USA%29%20%28Rev%201%29.jpg",
     "description": "",
     "screenshots": []
   }
