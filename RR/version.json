@@ -960,7 +960,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.7z/Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%5BNTSC-U%5D%20%5BSCUS-94154%5D.bin.ecm",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "https://media.rawg.io/media/games/a84/a84dc4980063ce934705ea5d8d241939.jpg",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Crash_Bandicoot_2_Cortex_Strikes_Back_Game_Cover.jpg/250px-Crash_Bandicoot_2_Cortex_Strikes_Back_Game_Cover.jpg",
     "description": "A direct sequel to the Naughty Dog’s Crash Bandicoot was quickly put together, due to the success of the original. It’s a direct continuation of the story, with Crash trying to stop Doctor Neo Cortex from conquering the world once again. After his defeat in the original game, Cortex fell from his lair into the cavern, filled with glowing crystals. When he examines them thoroughly, it is clear that only these crystals can absorb the energy that would otherwise destroy the planet, and in order to gather all 25 remaining crystals he tricks Crash into helping him.\nCrash Bandicoot 2 is built on the same engine as the first one. Each stage has a crystal, and each of them can be accessed through the Warp Room. At the end of each level, Crash will have to face four bosses before his final clash with Cortex. As a 3D platforming game, Crash Bandicoot allows players to run and jump through the levels, with a fixed camera, centered either directly behind Crash in 3D sections or placed to the side in 2D platforming sections. Each stage has a set of hazards, that might come in forms of enemies with fixed walking and attack patterns, environmental traps, or boxes that will damage Crash when he breaks them.",
     "screenshots": [
       "https://media.rawg.io/media/screenshots/0b2/0b2b0ad4e1e77192b2e1c1025b85069c.jpg",
@@ -1907,16 +1907,9 @@
     "file": "https://archive.org/download/ffight/PlayStation/Gran%20Turismo%20%28USA%29.7z/Gran%20Turismo%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
-    "description": "A direct sequel to the Naughty Dog’s Crash Bandicoot was quickly put together, due to the success of the original. It’s a direct continuation of the story, with Crash trying to stop Doctor Neo Cortex from conquering the world once again. After his defeat in the original game, Cortex fell from his lair into the cavern, filled with glowing crystals. When he examines them thoroughly, it is clear that only these crystals can absorb the energy that would otherwise destroy the planet, and in order to gather all 25 remaining crystals he tricks Crash into helping him.\nCrash Bandicoot 2 is built on the same engine as the first one. Each stage has a crystal, and each of them can be accessed through the Warp Room. At the end of each level, Crash will have to face four bosses before his final clash with Cortex. As a 3D platforming game, Crash Bandicoot allows players to run and jump through the levels, with a fixed camera, centered either directly behind Crash in 3D sections or placed to the side in 2D platforming sections. Each stage has a set of hazards, that might come in forms of enemies with fixed walking and attack patterns, environmental traps, or boxes that will damage Crash when he breaks them.",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/0b2/0b2b0ad4e1e77192b2e1c1025b85069c.jpg",
-      "https://media.rawg.io/media/screenshots/395/3959c282e79f33068c0ed8f684a02c27.jpg",
-      "https://media.rawg.io/media/screenshots/dbe/dbed9e034f20e4a3623a6a072eaba130.jpg",
-      "https://media.rawg.io/media/screenshots/1ec/1ecf1b0e83b2d34c671dfc47d6614572.jpg",
-      "https://media.rawg.io/media/screenshots/dab/dabf4ab51199cd4f0726fa6970f0b62d.jpg",
-      "https://media.rawg.io/media/screenshots/42e/42e790a59723a7f8987dcf99e321fb01.jpg"
-    ]
+    "cover": "https://upload.wikimedia.org/wikipedia/en/c/c8/Gran_Turismo_-_Cover_-_JP.jpg",
+    "description": "",
+    "screenshots": []
   },
   {
     "title": "Grand Theft Auto",
@@ -1931,16 +1924,9 @@
     "file": "https://archive.org/download/ffight/PlayStation/Grand%20Theft%20Auto%20%28USA%29.7z/Grand%20Theft%20Auto%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
-    "description": "A direct sequel to the Naughty Dog’s Crash Bandicoot was quickly put together, due to the success of the original. It’s a direct continuation of the story, with Crash trying to stop Doctor Neo Cortex from conquering the world once again. After his defeat in the original game, Cortex fell from his lair into the cavern, filled with glowing crystals. When he examines them thoroughly, it is clear that only these crystals can absorb the energy that would otherwise destroy the planet, and in order to gather all 25 remaining crystals he tricks Crash into helping him.\nCrash Bandicoot 2 is built on the same engine as the first one. Each stage has a crystal, and each of them can be accessed through the Warp Room. At the end of each level, Crash will have to face four bosses before his final clash with Cortex. As a 3D platforming game, Crash Bandicoot allows players to run and jump through the levels, with a fixed camera, centered either directly behind Crash in 3D sections or placed to the side in 2D platforming sections. Each stage has a set of hazards, that might come in forms of enemies with fixed walking and attack patterns, environmental traps, or boxes that will damage Crash when he breaks them.",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/0b2/0b2b0ad4e1e77192b2e1c1025b85069c.jpg",
-      "https://media.rawg.io/media/screenshots/395/3959c282e79f33068c0ed8f684a02c27.jpg",
-      "https://media.rawg.io/media/screenshots/dbe/dbed9e034f20e4a3623a6a072eaba130.jpg",
-      "https://media.rawg.io/media/screenshots/1ec/1ecf1b0e83b2d34c671dfc47d6614572.jpg",
-      "https://media.rawg.io/media/screenshots/dab/dabf4ab51199cd4f0726fa6970f0b62d.jpg",
-      "https://media.rawg.io/media/screenshots/42e/42e790a59723a7f8987dcf99e321fb01.jpg"
-    ]
+    "cover": "https://upload.wikimedia.org/wikipedia/en/e/e7/GTA_-_Box_Front.jpg",
+    "description": "",
+    "screenshots": []
   },
   {
     "title": "Grand Theft Auto 2",
@@ -1955,16 +1941,9 @@
     "file": "https://archive.org/download/ffight/PlayStation/Grand%20Theft%20Auto%202%20%28USA%29.7z/Grand%20Theft%20Auto%202%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
-    "description": "A direct sequel to the Naughty Dog’s Crash Bandicoot was quickly put together, due to the success of the original. It’s a direct continuation of the story, with Crash trying to stop Doctor Neo Cortex from conquering the world once again. After his defeat in the original game, Cortex fell from his lair into the cavern, filled with glowing crystals. When he examines them thoroughly, it is clear that only these crystals can absorb the energy that would otherwise destroy the planet, and in order to gather all 25 remaining crystals he tricks Crash into helping him.\nCrash Bandicoot 2 is built on the same engine as the first one. Each stage has a crystal, and each of them can be accessed through the Warp Room. At the end of each level, Crash will have to face four bosses before his final clash with Cortex. As a 3D platforming game, Crash Bandicoot allows players to run and jump through the levels, with a fixed camera, centered either directly behind Crash in 3D sections or placed to the side in 2D platforming sections. Each stage has a set of hazards, that might come in forms of enemies with fixed walking and attack patterns, environmental traps, or boxes that will damage Crash when he breaks them.",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/0b2/0b2b0ad4e1e77192b2e1c1025b85069c.jpg",
-      "https://media.rawg.io/media/screenshots/395/3959c282e79f33068c0ed8f684a02c27.jpg",
-      "https://media.rawg.io/media/screenshots/dbe/dbed9e034f20e4a3623a6a072eaba130.jpg",
-      "https://media.rawg.io/media/screenshots/1ec/1ecf1b0e83b2d34c671dfc47d6614572.jpg",
-      "https://media.rawg.io/media/screenshots/dab/dabf4ab51199cd4f0726fa6970f0b62d.jpg",
-      "https://media.rawg.io/media/screenshots/42e/42e790a59723a7f8987dcf99e321fb01.jpg"
-    ]
+    "cover": "https://upload.wikimedia.org/wikipedia/en/2/2e/GTA2_Box_art.jpg",
+    "description": "",
+    "screenshots": []
   },
   {
     "title": "Gremlins 2 - The New Batch (USA)",
