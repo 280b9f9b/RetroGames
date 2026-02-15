@@ -12,7 +12,7 @@
     "file": "https://archive.org/download/ffight/NES-Famicom/1942%20%28Japan%2C%20USA%29.7z/1942%20%28Japan%2C%20USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Nintendo%20Entertainment%20System.zip/Nintendo%20Entertainment%20System%2F1942%20%28Japan%2C%20USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -367,7 +367,7 @@
     "file": "https://archive.org/download/ffight/NES-Famicom/Arkanoid%20%28USA%29.7z/Arkanoid%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Nintendo%20Entertainment%20System.zip/Nintendo%20Entertainment%20System%2FArkanoid%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -502,7 +502,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Batman%20Returns%20%28World%29.7z/Batman%20Returns%20%28World%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FBatman%20Returns%20%28World%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -577,7 +577,7 @@
     "file": "https://archive.org/download/ffight/NES-Famicom/Bomberman%20%28USA%29.7z/Bomberman%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Nintendo%20Entertainment%20System.zip/Nintendo%20Entertainment%20System%2FBomberman%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -628,7 +628,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Master%20System/California%20Games%20%28USA%2C%20Europe%29.7z/California%20Games%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FCalifornia%20Games%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -778,7 +778,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Master%20System/Cloud%20Master%20%28USA%2C%20Europe%29.7z/Cloud%20Master%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FCloud%20Master%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -984,7 +984,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Master%20System/Cyborg%20Hunter%20%28USA%2C%20Europe%29.7z/Cyborg%20Hunter%20%28USA%2C%20Europe%29.sms",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FCyborg%20Hunter%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -1958,7 +1958,7 @@
     "file": "https://archive.org/download/ffight/NES-Famicom/Gremlins%202%20-%20The%20New%20Batch%20%28USA%29.7z/Gremlins%202%20-%20The%20New%20Batch%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Nintendo%20Entertainment%20System.zip/Nintendo%20Entertainment%20System%2FGremlins%202%20-%20The%20New%20Batch%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2313,7 +2313,7 @@
     "file": "https://archive.org/download/ffight/NES-Famicom/Legendary%20Wings%20%28USA%29.7z/Legendary%20Wings%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Nintendo%20Entertainment%20System.zip/Nintendo%20Entertainment%20System%2FLegendary%20Wings%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2607,7 +2607,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/Michael%20Jacksons%20Moonwalker%20%28World%29.7z/Michael%20Jackson%27s%20Moonwalker%20%28World%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FMichael%20Jacksons%20Moonwalker%20%28World%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2980,7 +2980,7 @@
     "file": "https://archive.org/download/ffight/Sega%20Mega%20Drive/OutRun%202019%20%28USA%29.7z/OutRun%202019%20%28USA%29.md",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FOutRun%202019%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3189,7 +3189,7 @@
     "file": "https://archive.org/download/ffight/NES-Famicom/Pro%20Wrestling%20%28USA%29%20%28Rev%20A%29.7z/Pro%20Wrestling%20%28USA%29%20%28Rev%20A%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Nintendo%20Entertainment%20System.zip/Nintendo%20Entertainment%20System%2FPro%20Wrestling%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
@@ -3778,7 +3778,7 @@
     "file": "https://archive.org/download/ffight/NES-Famicom/Slalom%20%28USA%29.7z/Slalom%20%28USA%29.nes",
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
-    "cover": "",
+    "cover": "https://archive.org/download/ffight/covers/Nintendo%20Entertainment%20System.zip/Nintendo%20Entertainment%20System%2FSlalom%20%28USA%29.jpg",
     "description": "",
     "screenshots": []
   },
