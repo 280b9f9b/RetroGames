@@ -3330,6 +3330,23 @@
     ]
   },
   {
+    "title": "Pocket Fighter (USA)",
+    "platform": "PlayStation",
+    "year": 1997,
+    "rating": 8.5,
+    "genres": "Platformer",
+    "players": 1,
+    "core": "psx",
+    "lightgun": false,
+    "biosUrl": "https://archive.org/download/ffight/PlayStation/scph5501.7z/scph5501.bin",
+    "file": "https://archive.org/download/ffight/PlayStation/Pocket%20Fighter%20%28USA%29.7z/Pocket%20Fighter%20%28USA%29.chd",
+    "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Power Strike",
     "platform": "Sega Master System",
     "year": 1988,
