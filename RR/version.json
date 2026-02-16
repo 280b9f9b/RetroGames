@@ -611,7 +611,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Broken%20Sword%20-%20The%20Shadow%20of%20the%20Templars%20%28USA%29.7z/Broken%20Sword%20-%20The%20Shadow%20of%20the%20Templars%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0508/fea1c4c6ec899c23fb483eae2f5c417b0de92cd173ce2ab7.png?w=440",
     "description": "",
     "screenshots": []
   },
@@ -628,7 +628,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Broken%20Sword%20II%20-%20The%20Smoking%20Mirror%20%28USA%29.7z/Broken%20Sword%20II%20-%20The%20Smoking%20Mirror%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://assets-prd.ignimgs.com/2022/12/25/brokensword-1671957281188.jpg",
     "description": "",
     "screenshots": []
   },
@@ -754,7 +754,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.7z/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/c/cf/Castlevania_SOTN_PAL.jpg",
     "description": "",
     "screenshots": []
   },
@@ -771,7 +771,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Castlevania%20Chronicles%20%28USA%29.7z/Castlevania%20Chronicles%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/09/Castlevania_chronicles_na.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2372,7 +2372,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Jackie%20Chan%20Stuntmaster%20%28USA%29.7z/Jackie%20Chan%20Stuntmaster%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://assets-prd.ignimgs.com/2022/10/09/jackiestuntmaster-1665358415345.jpg?crop=1%3A1%2Csmart&format=jpg&auto=webp&quality=80",
     "description": "",
     "screenshots": []
   },
@@ -2677,7 +2677,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Marvel%20Super%20Heroes%20vs.%20Street%20Fighter%20%28USA%29.7z/Marvel%20Super%20Heroes%20vs.%20Street%20Fighter%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://assets-prd.ignimgs.com/2022/01/14/marvelsuperheroesvssf-sq-1642200690472.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2796,7 +2796,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Metal%20Gear%20Solid%20-%20VR%20Missions%20%28USA%29.7z/Metal%20Gear%20Solid%20-%20VR%20Missions%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://m.media-amazon.com/images/I/714PmjodpNL.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4476,7 +4476,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Street%20Fighter%20-%20The%20Movie%20%28USA%29.7z/Street%20Fighter%20-%20The%20Movie%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://assets-prd.ignimgs.com/2022/01/14/sfmoviegame-sq-1642200196974.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4493,7 +4493,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28USA%29.7z/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://assets-prd.ignimgs.com/2022/07/26/sfalpha-1658796808264.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4510,7 +4510,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Street%20Fighter%20Alpha%202%20%28USA%29.7z/Street%20Fighter%20Alpha%202%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://assets-prd.ignimgs.com/2022/01/26/sfalpha2-sq-1643230308929.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4527,7 +4527,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Street%20Fighter%20Alpha%202%20%28USA%29%20%28Rev%201%29.7z/Street%20Fighter%20Alpha%202%20%28USA%29%20%28Rev%201%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://assets-prd.ignimgs.com/2022/01/26/sfalpha2-sq-1643230308929.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4544,7 +4544,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Street%20Fighter%20Alpha%203%20%28USA%29.7z/Street%20Fighter%20Alpha%203%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://assets-prd.ignimgs.com/2022/01/14/sfalpha3-sq2-1642194005417.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4561,7 +4561,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Street%20Fighter%20Collection%20%28USA%29%20%28Disc%201%29.7z/Street%20Fighter%20Collection%20%28USA%29%20%28Disc%201%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/0d/Street_Fighter_Collection.jpeg",
     "description": "",
     "screenshots": []
   },
@@ -4578,7 +4578,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Street%20Fighter%20Collection%20%28USA%29%20%28Disc%201%29%20%28Rev%201%29.7z/Street%20Fighter%20Collection%20%28USA%29%20%28Disc%201%29%20%28Rev%201%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/0d/Street_Fighter_Collection.jpeg",
     "description": "",
     "screenshots": []
   },
@@ -4595,7 +4595,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Street%20Fighter%20Collection%20%28USA%29%20%28Disc%202%29.7z/Street%20Fighter%20Collection%20%28USA%29%20%28Disc%202%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/0d/Street_Fighter_Collection.jpeg",
     "description": "",
     "screenshots": []
   },
@@ -4612,7 +4612,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Street%20Fighter%20Collection%20%28USA%29%20%28Disc%202%29%20%28Rev%201%29.7z/Street%20Fighter%20Collection%20%28USA%29%20%28Disc%202%29%20%28Rev%201%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/0d/Street_Fighter_Collection.jpeg",
     "description": "",
     "screenshots": []
   },
@@ -4629,7 +4629,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Street%20Fighter%20Collection%202%20%28USA%29.7z/Street%20Fighter%20Collection%202%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://assets-prd.ignimgs.com/2022/01/14/sfcollection2-sq-1642197960489.jpg?crop=1%3A1%2Csmart&format=jpg&auto=webp&quality=80",
     "description": "",
     "screenshots": []
   },
@@ -4646,7 +4646,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Street%20Fighter%20EX%20Plus%20Alpha%20%28USA%29.7z/Street%20Fighter%20EX%20Plus%20Alpha%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://assets-prd.ignimgs.com/2022/07/26/sfexplusalpha-1658856051448.jpg",
     "description": "",
     "screenshots": []
   },
@@ -4663,7 +4663,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/Street%20Fighter%20EX2%20Plus%20%28USA%29.7z/Street%20Fighter%20EX2%20Plus%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://www.retroplace.com/pics/ps/packshots/66424--street-fighter-ex2-plus.png",
     "description": "",
     "screenshots": []
   },
@@ -5632,7 +5632,7 @@
     "file": "https://archive.org/download/ffight/PlayStation/X-Men%20vs.%20Street%20Fighter%20%28USA%29.7z/X-Men%20vs.%20Street%20Fighter%20%28USA%29.chd",
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
-    "cover": "",
+    "cover": "https://assets-prd.ignimgs.com/2022/01/14/xmenvsstreetfighter-sq-1642192717776.jpg?crop=1%3A1%2Csmart&format=jpg&auto=webp&quality=80",
     "description": "",
     "screenshots": []
   },
