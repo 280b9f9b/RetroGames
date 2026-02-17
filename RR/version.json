@@ -34,6 +34,23 @@
     "screenshots": []
   },
   {
+    "title": "A Space Shooter for 2 Bucks! (US) (2010) (Shoot Em Up) (CHD) (PSP)",
+    "platform": "PlayStation Portable",
+    "year": null,
+    "rating": "",
+    "genres": "",
+    "players": 1,
+    "core": "psp",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "",
+    "cover": "https://www.romstation.fr/romstation/resources/games/psp/cover/55086.jpg",
+    "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
+    "cheats": [],
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "After Burner",
     "platform": "Sega Master System",
     "year": 1988,
