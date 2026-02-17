@@ -926,6 +926,23 @@
     ]
   },
   {
+    "title": "Combat (1977) (Atari) [!]",
+    "platform": "Atari 2600",
+    "year": 1982,
+    "rating": 8.2,
+    "genres": "Shooter",
+    "players": 1,
+    "core": "atari2600",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Atari%202600/Combat%20%281977%29%20%28Atari%29%20%5B%21%5D.zip/Combat%20%281977%29%20%28Atari%29%20%5B%21%5D.a26",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Comix Zone",
     "platform": "Sega Mega Drive",
     "year": 1995,
@@ -1446,6 +1463,23 @@
       "https://media.rawg.io/media/screenshots/827/827f53feb6dd008912100afb74e84db4.jpg",
       "https://media.rawg.io/media/screenshots/a6b/a6bfef943cf7ef3f549cd8d4b6854dcd.jpg"
     ]
+  },
+  {
+    "title": "Enduro (1983) (Activision) [!]",
+    "platform": "Atari 2600",
+    "year": 1982,
+    "rating": 8.2,
+    "genres": "Shooter",
+    "players": 1,
+    "core": "atari2600",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Atari%202600/Enduro%20%281983%29%20%28Activision%29%20%5B%21%5D.zip/Enduro%20%281983%29%20%28Activision%29%20%5B%21%5D.a26",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
   },
   {
     "title": "Enduro Racer",
@@ -3074,6 +3108,23 @@
     "screenshots": []
   },
   {
+    "title": "Missile Command (1981) (Atari) [!]",
+    "platform": "Atari 2600",
+    "year": 1982,
+    "rating": 8.2,
+    "genres": "Shooter",
+    "players": 1,
+    "core": "atari2600",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Atari%202600/Missile%20Command%20%281981%29%20%28Atari%29%20%5B%21%5D.zip/Missile%20Command%20%281981%29%20%28Atari%29%20%5B%21%5D.a26",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Mortal Kombat",
     "platform": "Sega Master System",
     "year": 1993,
@@ -3417,6 +3468,23 @@
     ]
   },
   {
+    "title": "Pac-Man (1982) (Atari, Tod Frye - Sears) (CX2646 - 49-75185)",
+    "platform": "Atari 2600",
+    "year": 1982,
+    "rating": 8.2,
+    "genres": "Shooter",
+    "players": 1,
+    "core": "atari2600",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Atari%202600/Pac-Man%20%281982%29%20%28Atari%2C%20Tod%20Frye%20-%20Sears%29%20%28CX2646%20-%2049-75185%29.7z/Pac-Man%20%281982%29%20%28Atari%2C%20Tod%20Frye%20-%20Sears%29%20%28CX2646%20-%2049-75185%29.bin",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Phantasy Star",
     "platform": "Sega Master System",
     "year": 1987,
@@ -3551,6 +3619,23 @@
     ]
   },
   {
+    "title": "Pitfall! (1982) (Activision) [!]",
+    "platform": "Atari 2600",
+    "year": 1982,
+    "rating": 8.2,
+    "genres": "Shooter",
+    "players": 1,
+    "core": "atari2600",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Atari%202600/Pitfall%21%20%281982%29%20%28Activision%29%20%5B%21%5D.zip/Pitfall%21%20%281982%29%20%28Activision%29%20%5B%21%5D.a26",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Pocket Fighter (USA)",
     "platform": "PlayStation",
     "year": 1997,
@@ -3666,6 +3751,23 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://archive.org/download/ffight/covers/Nintendo%20Entertainment%20System.zip/Nintendo%20Entertainment%20System%2FR.C.%20Pro-Am%20%28USA%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Raiders of the Lost Ark (1982) (Atari)",
+    "platform": "Atari 2600",
+    "year": 1982,
+    "rating": 8.2,
+    "genres": "Shooter",
+    "players": 1,
+    "core": "atari2600",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Atari%202600/Raiders%20of%20the%20Lost%20Ark%20%281982%29%20%28Atari%29.zip/Raiders%20of%20the%20Lost%20Ark%20%281982%29%20%28Atari%29.a26",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
     "description": "",
     "screenshots": []
   },
@@ -4483,6 +4585,23 @@
     ]
   },
   {
+    "title": "Space Invaders (1980) (Atari, Richard Maurer - Sears) (CX2632 - 49-75153)",
+    "platform": "Atari 2600",
+    "year": 1982,
+    "rating": 8.2,
+    "genres": "Shooter",
+    "players": 1,
+    "core": "atari2600",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Atari%202600/Space%20Invaders%20%281980%29%20%28Atari%2C%20Richard%20Maurer%20-%20Sears%29%20%28CX2632%20-%2049-75153%29.7z/Space%20Invaders%20%281980%29%20%28Atari%2C%20Richard%20Maurer%20-%20Sears%29%20%28CX2632%20-%2049-75153%29.bin",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "SpellCaster (USA, Europe)",
     "platform": "Sega Master System",
     "year": 1989,
@@ -4908,6 +5027,23 @@
       ]
     ],
     "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FStreets%20of%20Rage%203%20%28USA%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Super Breakout (1978) (Atari) [!]",
+    "platform": "Atari 2600",
+    "year": 1982,
+    "rating": 8.2,
+    "genres": "Shooter",
+    "players": 1,
+    "core": "atari2600",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Atari%202600/Super%20Breakout%20%281978%29%20%28Atari%29%20%5B%21%5D.zip/Super%20Breakout%20%281978%29%20%28Atari%29%20%5B%21%5D.a26",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
     "description": "",
     "screenshots": []
   },
