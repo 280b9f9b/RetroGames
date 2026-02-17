@@ -43,7 +43,7 @@
     "core": "psp",
     "lightgun": false,
     "biosUrl": false,
-    "file": "",
+    "file": "https://archive.org/download/ffight/Playstation%20Portable/A%20Space%20Shooter%20for%202%20Bucks%21%20%28US%29%20%282010%29%20%28Shoot%20Em%20Up%29%20%28CHD%29%20%28PSP%29.zip/A%20Space%20Shooter%20for%202%20Bucks%21%20%28US%29%20%282010%29%20%28Shoot%20Em%20Up%29%20%28CHD%29%20%28PSP%29.chd",
     "cover": "https://www.romstation.fr/romstation/resources/games/psp/cover/55086.jpg",
     "engine": "https://emulatorjs.netlify.app/4.2.3.7z",
     "cheats": [],
