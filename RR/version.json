@@ -1236,6 +1236,23 @@
     ]
   },
   {
+    "title": "dino",
+    "platform": "Arcade",
+    "year": 1989,
+    "rating": 8,
+    "genres": "Fighting",
+    "players": 2,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Arcade/dino.7z/dino.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Disney's The Jungle Book",
     "platform": "Sega Mega Drive",
     "year": 1993,
@@ -3755,6 +3772,23 @@
     "screenshots": []
   },
   {
+    "title": "punisher",
+    "platform": "Arcade",
+    "year": 1989,
+    "rating": 8,
+    "genres": "Fighting",
+    "players": 2,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Arcade/punisher.7z/punisher.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "R-Type",
     "platform": "Sega Master System",
     "year": 1988,
@@ -5642,6 +5676,23 @@
       "https://media.rawg.io/media/screenshots/ebe/ebe57ec594b588cc6f33096bfea6d55e.jpg",
       "https://media.rawg.io/media/screenshots/b85/b8523088eeaca18842b10ad886948e4a.jpg"
     ]
+  },
+  {
+    "title": "viostorm",
+    "platform": "Arcade",
+    "year": 1989,
+    "rating": 8,
+    "genres": "Fighting",
+    "players": 2,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Arcade/viostorm.7z/viostorm.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
   },
   {
     "title": "Virtual Boy Wario Land (Japan, USA)",
