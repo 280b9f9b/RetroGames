@@ -684,6 +684,23 @@
     "screenshots": []
   },
   {
+    "title": "Cadillacs and Dinosaurs (World 930201) (Capcom 1993)",
+    "platform": "Arcade",
+    "year": 1989,
+    "rating": 8,
+    "genres": "Fighting",
+    "players": 2,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Arcade/dino.7z/dino.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "California Games",
     "platform": "Sega Master System",
     "year": 1987,
@@ -1234,23 +1251,6 @@
       "https://media.rawg.io/media/screenshots/81d/81d1d6fd6bf63624c1a482040833b163.jpg",
       "https://media.rawg.io/media/screenshots/a2a/a2a0690c6fb8e27fb36761940a1e8724.jpg"
     ]
-  },
-  {
-    "title": "dino",
-    "platform": "Arcade",
-    "year": 1989,
-    "rating": 8,
-    "genres": "Fighting",
-    "players": 2,
-    "core": "arcade",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Arcade/dino.7z/dino.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
-    "cheats": [],
-    "cover": "",
-    "description": "",
-    "screenshots": []
   },
   {
     "title": "Disney's The Jungle Book",
@@ -1893,30 +1893,6 @@
   },
   {
     "title": "Final Fight",
-    "platform": "Arcade",
-    "year": 1989,
-    "rating": 8,
-    "genres": "Fighting",
-    "players": 2,
-    "core": "arcade",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Arcade/ffight.7z/ffight.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
-    "cheats": [],
-    "cover": "https://archive.org/download/ffight/covers/Arcade.zip/Arcade%2Fffight.jpg",
-    "description": "Final Fight (Japanese: ファイナルファイト, Hepburn: Fainaru Faito) is a side-scrolling beat-'em-up video game produced by Capcom. Originally released as an arcade game in 1989, it was the seventh title released for the CP System hardware. Set in the fictional Metro City, the player controls one of three characters: former pro wrestler and mayor Mike Haggar, his daughter's boyfriend Cody, and Cody's best friend Guy, as they set out to defeat the Mad Gear gang and rescue Haggar's young daughter Jessica.\nThe game began development as a sequel to the original Street Fighter released in 1987, but the genre was switched from a fighting game to a beat 'em up and the title was changed following the success of Double Dragon. Final Fight was ported to various home consoles such as the Super NES and was followed by a few sequels. Its development team later worked on the original Street Fighter II and some of the characters from Final Fight later appeared as playable fighters in other entries of the franchise such as the Street Fighter Alpha sub-series.",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/511/51112c7bda4a688b3a9d874b63152ff3.jpg",
-      "https://media.rawg.io/media/screenshots/fba/fba3ba7c908c8c9ebeab231620ea8439.jpg",
-      "https://media.rawg.io/media/screenshots/714/71406d2e134c179c7f2a34ed20d49739.jpg",
-      "https://media.rawg.io/media/screenshots/7f9/7f9c36852d2e19bac3d9f9306abd6362.jpg",
-      "https://media.rawg.io/media/screenshots/8e6/8e622710ac9417fee635851226f8a777.jpg",
-      "https://media.rawg.io/media/screenshots/bdd/bddb1fa846d2608cac1e8a3922431e27.jpg"
-    ]
-  },
-  {
-    "title": "Final Fight",
     "platform": "Sega CD",
     "year": 1989,
     "rating": 8,
@@ -1929,6 +1905,30 @@
     "engine": "4.1.1",
     "cheats": [],
     "cover": "https://media.rawg.io/media/games/eaa/eaa94a1203b9b8fdf5b01575c9e91591.jpg",
+    "description": "Final Fight (Japanese: ファイナルファイト, Hepburn: Fainaru Faito) is a side-scrolling beat-'em-up video game produced by Capcom. Originally released as an arcade game in 1989, it was the seventh title released for the CP System hardware. Set in the fictional Metro City, the player controls one of three characters: former pro wrestler and mayor Mike Haggar, his daughter's boyfriend Cody, and Cody's best friend Guy, as they set out to defeat the Mad Gear gang and rescue Haggar's young daughter Jessica.\nThe game began development as a sequel to the original Street Fighter released in 1987, but the genre was switched from a fighting game to a beat 'em up and the title was changed following the success of Double Dragon. Final Fight was ported to various home consoles such as the Super NES and was followed by a few sequels. Its development team later worked on the original Street Fighter II and some of the characters from Final Fight later appeared as playable fighters in other entries of the franchise such as the Street Fighter Alpha sub-series.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/511/51112c7bda4a688b3a9d874b63152ff3.jpg",
+      "https://media.rawg.io/media/screenshots/fba/fba3ba7c908c8c9ebeab231620ea8439.jpg",
+      "https://media.rawg.io/media/screenshots/714/71406d2e134c179c7f2a34ed20d49739.jpg",
+      "https://media.rawg.io/media/screenshots/7f9/7f9c36852d2e19bac3d9f9306abd6362.jpg",
+      "https://media.rawg.io/media/screenshots/8e6/8e622710ac9417fee635851226f8a777.jpg",
+      "https://media.rawg.io/media/screenshots/bdd/bddb1fa846d2608cac1e8a3922431e27.jpg"
+    ]
+  },
+  {
+    "title": "Final Fight (World, set 1) (Capcom 1989)",
+    "platform": "Arcade",
+    "year": 1989,
+    "rating": 8,
+    "genres": "Fighting",
+    "players": 2,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Arcade/ffight.7z/ffight.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "https://archive.org/download/ffight/covers/Arcade.zip/Arcade%2Fffight.jpg",
     "description": "Final Fight (Japanese: ファイナルファイト, Hepburn: Fainaru Faito) is a side-scrolling beat-'em-up video game produced by Capcom. Originally released as an arcade game in 1989, it was the seventh title released for the CP System hardware. Set in the fictional Metro City, the player controls one of three characters: former pro wrestler and mayor Mike Haggar, his daughter's boyfriend Cody, and Cody's best friend Guy, as they set out to defeat the Mad Gear gang and rescue Haggar's young daughter Jessica.\nThe game began development as a sequel to the original Street Fighter released in 1987, but the genre was switched from a fighting game to a beat 'em up and the title was changed following the success of Double Dragon. Final Fight was ported to various home consoles such as the Super NES and was followed by a few sequels. Its development team later worked on the original Street Fighter II and some of the characters from Final Fight later appeared as playable fighters in other entries of the franchise such as the Street Fighter Alpha sub-series.",
     "screenshots": [
       "https://media.rawg.io/media/screenshots/511/51112c7bda4a688b3a9d874b63152ff3.jpg",
@@ -2023,7 +2023,24 @@
     "screenshots": []
   },
   {
-    "title": "Ghosts 'n Goblins (1985)",
+    "title": "Ghouls 'n Ghosts",
+    "platform": "Sega Master System",
+    "year": 1989,
+    "rating": "",
+    "genres": "Action",
+    "players": 1,
+    "core": "segaMS",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Ghoulsn%20Ghosts%20%28USA%2C%20Europe%29.7z/Ghoulsn%20Ghosts%20%28USA%2C%20Europe%29.sms",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FGhoulsn%20Ghosts%20%28USA%2C%20Europe%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Ghouls'n Ghosts (World) (Capcom 1988)",
     "platform": "Arcade",
     "year": 1985,
     "rating": 7.2,
@@ -2045,23 +2062,6 @@
       "https://media.rawg.io/media/screenshots/26c/26c61a8466fb05a943e3f762aa115158.jpg",
       "https://media.rawg.io/media/screenshots/61d/61d21ab0b03c8f3979e5908ad48acc60.jpg"
     ]
-  },
-  {
-    "title": "Ghouls 'n Ghosts",
-    "platform": "Sega Master System",
-    "year": 1989,
-    "rating": "",
-    "genres": "Action",
-    "players": 1,
-    "core": "segaMS",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Sega%20Master%20System/Ghoulsn%20Ghosts%20%28USA%2C%20Europe%29.7z/Ghoulsn%20Ghosts%20%28USA%2C%20Europe%29.sms",
-    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
-    "cheats": [],
-    "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FGhoulsn%20Ghosts%20%28USA%2C%20Europe%29.jpg",
-    "description": "",
-    "screenshots": []
   },
   {
     "title": "Golden Axe",
@@ -2155,7 +2155,7 @@
     ]
   },
   {
-    "title": "Golden Axe (1989)",
+    "title": "Golden Axe (set 6, US) (8751 317-123A) (Sega 1989)",
     "platform": "Arcade",
     "year": 1989,
     "rating": 7.9,
@@ -2988,7 +2988,7 @@
     "screenshots": []
   },
   {
-    "title": "Metal Slug 5",
+    "title": "Metal Slug 5 (JAMMA PCB) (SNK Playmore 2003)",
     "platform": "Arcade",
     "year": 2003,
     "rating": 7.5,
@@ -3009,7 +3009,7 @@
     ]
   },
   {
-    "title": "Metal Slug X",
+    "title": "Metal Slug X - Super Vehicle-001 (NGM-2500 ~ NGH-2500) (SNK 1999)",
     "platform": "Arcade",
     "year": 1999,
     "rating": 8.3,
@@ -3495,7 +3495,7 @@
     "screenshots": []
   },
   {
-    "title": "OutRunners",
+    "title": "OutRunners (US) (Sega 1992)",
     "platform": "Arcade",
     "year": 1992,
     "rating": 6,
@@ -3772,23 +3772,6 @@
     "screenshots": []
   },
   {
-    "title": "punisher",
-    "platform": "Arcade",
-    "year": 1989,
-    "rating": 8,
-    "genres": "Fighting",
-    "players": 2,
-    "core": "arcade",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Arcade/punisher.7z/punisher.zip",
-    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
-    "cheats": [],
-    "cover": "",
-    "description": "",
-    "screenshots": []
-  },
-  {
     "title": "R-Type",
     "platform": "Sega Master System",
     "year": 1988,
@@ -3923,7 +3906,7 @@
     "screenshots": []
   },
   {
-    "title": "Rastan (1987)",
+    "title": "Rastan (World Rev 1) (Taito Corporation Japan 1987)",
     "platform": "Arcade",
     "year": 1987,
     "rating": 6,
@@ -4210,7 +4193,7 @@
     "screenshots": []
   },
   {
-    "title": "Shadow Dancer (1989)",
+    "title": "Shadow Dancer (World) (Sega 1989)",
     "platform": "Arcade",
     "year": 1989,
     "rating": 7.1,
@@ -4581,7 +4564,7 @@
     "screenshots": []
   },
   {
-    "title": "Space Harrier (1986)",
+    "title": "Space Harrier (Rev A, 8751 315-5163A) (Sega 1985)",
     "platform": "Arcade",
     "year": 1986,
     "rating": 7.9,
@@ -5412,7 +5395,7 @@
     "screenshots": []
   },
   {
-    "title": "Teenage Mutant Ninja Turtles (1989)",
+    "title": "Teenage Mutant Ninja Turtles (World 4 Players, version X) (Konami 1989)",
     "platform": "Arcade",
     "year": 1989,
     "rating": 7.7,
@@ -5586,6 +5569,23 @@
     "screenshots": []
   },
   {
+    "title": "The Punisher (World 930422) (Capcom 1993)",
+    "platform": "Arcade",
+    "year": 1989,
+    "rating": 8,
+    "genres": "Fighting",
+    "players": 2,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Arcade/punisher.7z/punisher.zip",
+    "engine": "https://emulatorjs.netlify.app/4.2.0.7z",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Tiny Toon Adventures",
     "platform": "Sega Mega Drive",
     "year": 1992,
@@ -5654,7 +5654,7 @@
     "screenshots": []
   },
   {
-    "title": "Vigilante (1988)",
+    "title": "Vigilante (World, Rev E) (Irem 1988)",
     "platform": "Arcade",
     "year": 1988,
     "rating": 8,
@@ -5678,7 +5678,7 @@
     ]
   },
   {
-    "title": "viostorm",
+    "title": "Violent Storm (ver EAC) (Konami 1993)",
     "platform": "Arcade",
     "year": 1989,
     "rating": 8,
@@ -5710,30 +5710,6 @@
     "cover": "https://upload.wikimedia.org/wikipedia/en/1/1a/Virtual_Boy_Wario_Land_Coverart.png",
     "description": "",
     "screenshots": []
-  },
-  {
-    "title": "Wonder Boy",
-    "platform": "Arcade",
-    "year": 1986,
-    "rating": 7.3,
-    "genres": "Platformer",
-    "players": 1,
-    "core": "arcade",
-    "lightgun": false,
-    "biosUrl": false,
-    "file": "https://archive.org/download/ffight/Arcade/wboy.7z/wboy.zip",
-    "engine": "4.2.0",
-    "cheats": [],
-    "cover": "https://archive.org/download/ffight/covers/Arcade.zip/Arcade%2Fwboy.jpg",
-    "description": "As Tom-Tom the Wonder Boy, it’s up to you to rescue your girlfriend,\nTanya, from the vile clutches of the monster that has kidnapped her. To\ndo so, you must navigate through a series of worlds in a race against\ntime to reach your goal. Along the way, you’ll battle foes and collect\nfruit that will add to the amount of time you have to complete your\nmission. You can also receive helpful power-ups from various eggs, but\nmake sure to avoid the bad eggs and poisonous mushrooms that sap your\nprecious vitality. Find the magic doll in each level to open up hidden\nareas, and make it to the very end of your journey to rescue your one\ntrue love!\nThis classic game is part of the Virtual Console service, which brings you great games created for consoles such as NES™, Super NES™ and Game Boy™ Advance. See more Virtual Console games for Wii.",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/1d5/1d59167d9d35d76c96e6f034974ebdc1.jpg",
-      "https://media.rawg.io/media/screenshots/39b/39b75c2bad7646e0e3293e93c3224033.jpg",
-      "https://media.rawg.io/media/screenshots/e2e/e2e3bced7cd87c4ec9dc4d450c838fb5_yweOHbb.jpg",
-      "https://media.rawg.io/media/screenshots/d6d/d6d109ee5d74a54cf9ee033ee67eda33.jpg",
-      "https://media.rawg.io/media/screenshots/6ae/6ae3d4903cc738204412b744b9b9b41c.jpg",
-      "https://media.rawg.io/media/screenshots/a51/a51edd6066e7a7e3da15213ee1847b39.jpg"
-    ]
   },
   {
     "title": "Wonder Boy",
@@ -5780,6 +5756,30 @@
     "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FWonder%20Boy%20%28USA%2C%20Europe%29.jpg",
     "description": "",
     "screenshots": []
+  },
+  {
+    "title": "Wonder Boy (set 1, 315-5177) (Escape (Sega license) 1986)",
+    "platform": "Arcade",
+    "year": 1986,
+    "rating": 7.3,
+    "genres": "Platformer",
+    "players": 1,
+    "core": "arcade",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Arcade/wboy.7z/wboy.zip",
+    "engine": "4.2.0",
+    "cheats": [],
+    "cover": "https://archive.org/download/ffight/covers/Arcade.zip/Arcade%2Fwboy.jpg",
+    "description": "As Tom-Tom the Wonder Boy, it’s up to you to rescue your girlfriend,\nTanya, from the vile clutches of the monster that has kidnapped her. To\ndo so, you must navigate through a series of worlds in a race against\ntime to reach your goal. Along the way, you’ll battle foes and collect\nfruit that will add to the amount of time you have to complete your\nmission. You can also receive helpful power-ups from various eggs, but\nmake sure to avoid the bad eggs and poisonous mushrooms that sap your\nprecious vitality. Find the magic doll in each level to open up hidden\nareas, and make it to the very end of your journey to rescue your one\ntrue love!\nThis classic game is part of the Virtual Console service, which brings you great games created for consoles such as NES™, Super NES™ and Game Boy™ Advance. See more Virtual Console games for Wii.",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/1d5/1d59167d9d35d76c96e6f034974ebdc1.jpg",
+      "https://media.rawg.io/media/screenshots/39b/39b75c2bad7646e0e3293e93c3224033.jpg",
+      "https://media.rawg.io/media/screenshots/e2e/e2e3bced7cd87c4ec9dc4d450c838fb5_yweOHbb.jpg",
+      "https://media.rawg.io/media/screenshots/d6d/d6d109ee5d74a54cf9ee033ee67eda33.jpg",
+      "https://media.rawg.io/media/screenshots/6ae/6ae3d4903cc738204412b744b9b9b41c.jpg",
+      "https://media.rawg.io/media/screenshots/a51/a51edd6066e7a7e3da15213ee1847b39.jpg"
+    ]
   },
   {
     "title": "Wonder Boy III - The Dragons Trap (USA, Europe)",
