@@ -68,6 +68,23 @@
     "screenshots": []
   },
   {
+    "title": "Advance Wars",
+    "platform": "Game Boy Advance",
+    "year": 2001,
+    "rating": 9.1,
+    "genres": "Strategy",
+    "players": 4,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/0263%20-%20Advance%20Wars%20%28E%29%28Arrogance%29.zip/0263%20-%20Advance%20Wars%20%28E%29%28Arrogance%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Advance_Wars_Coverart.jpg/250px-Advance_Wars_Coverart.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "After Burner",
     "platform": "Sega Master System",
     "year": 1988,
@@ -457,6 +474,23 @@
     "screenshots": []
   },
   {
+    "title": "Avatar - The Last Airbender",
+    "platform": "Game Boy Advance",
+    "year": 2006,
+    "rating": 7,
+    "genres": "Action Adventure",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Avatar%20-%20the%20Last%20Airbender.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Balloon Fight",
     "platform": "NES-Famicom",
     "year": 1985,
@@ -571,6 +605,22 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://archive.org/download/ffight/covers/Nintendo%20Entertainment%20System.zip/Nintendo%20Entertainment%20System%2FBattletoads%20%28USA%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Beyblade G-Revolution",
+    "platform": "Game Boy Advance",
+    "year": 2004,
+    "rating": 6.8,
+    "genres": "Action",
+    "players": 2,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Beyblade%20G-Revolution.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
     "description": "",
     "screenshots": []
   },
@@ -793,6 +843,40 @@
     "screenshots": []
   },
   {
+    "title": "Castlevania - Aria of Sorrow",
+    "platform": "Game Boy Advance",
+    "year": 2003,
+    "rating": 9.4,
+    "genres": "Action RPG",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/0999%20-%20Castlevania%20-%20Aria%20of%20Sorrow%20%28U%29%28GBATemp%29.zip/0999%20-%20Castlevania%20-%20Aria%20of%20Sorrow%20%28U%29%28GBATemp%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://assets-prd.ignimgs.com/2020/09/04/castlevania-aria-of-sorrow-button-crop-1599254632265.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Castlevania - Harmony of Dissonance",
+    "platform": "Game Boy Advance",
+    "year": 2002,
+    "rating": 8.3,
+    "genres": "Action",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/0612%20-%20Castlevania%20-%20Harmony%20of%20Dissonance%20%28U%29%28Independent%29.zip/0612%20-%20Castlevania%20-%20Harmony%20of%20Dissonance%20%28U%29%28Independent%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://assets-prd.ignimgs.com/2020/09/04/castlevania-harmony-of-dissonance-button-1599257058219.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Castlevania - Symphony of the Night (USA)",
     "platform": "PlayStation",
     "year": 1997,
@@ -898,6 +982,22 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FChoplifter%20%28USA%2C%20Europe%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Classic NES - Super Mario Bros.",
+    "platform": "Game Boy Advance",
+    "year": 2004,
+    "rating": 8.5,
+    "genres": "Platform",
+    "players": 2,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Classic%20NES%20-%20Super%20Mario%20Bros..gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
     "description": "",
     "screenshots": []
   },
@@ -1114,6 +1214,23 @@
     "engine": "https://emulatorjs.netlify.app/4.0.12.7z",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/4/44/Crash_Bandicoot_Cover.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Crash Bandicoot - The Huge Adventure",
+    "platform": "Game Boy Advance",
+    "year": 2002,
+    "rating": 7.8,
+    "genres": "Platform",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/0345%20-%20Crash%20Bandicoot%20-%20The%20Huge%20Adventure%20%28U%29%28Independent%29.zip/0345%20-%20Crash%20Bandicoot%20-%20The%20Huge%20Adventure%20%28U%29%28Independent%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://sm.ign.com/ign_ap/cover/c/crash-band/crash-bandicoot-the-huge-adventure-xs_5h8g.jpg",
     "description": "",
     "screenshots": []
   },
@@ -1372,6 +1489,22 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://archive.org/download/ffight/covers/Nintendo%20Entertainment%20System.zip/Nintendo%20Entertainment%20System%2FDonkey%20Kong%20Jr.%20%28World%29%20%28Rev%20A%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Doom II",
+    "platform": "Game Boy Advance",
+    "year": 2002,
+    "rating": 8,
+    "genres": "Shooter",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Doom%202.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
     "description": "",
     "screenshots": []
   },
@@ -1739,6 +1872,22 @@
     "screenshots": []
   },
   {
+    "title": "FIFA 2007",
+    "platform": "Game Boy Advance",
+    "year": 2006,
+    "rating": 7.2,
+    "genres": "Sports",
+    "players": 2,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/FIFA%202007.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "FIFA 99 (USA)",
     "platform": "PlayStation",
     "year": 1997,
@@ -1892,6 +2041,23 @@
     "screenshots": []
   },
   {
+    "title": "Final Fantasy VI Advance",
+    "platform": "Game Boy Advance",
+    "year": 2006,
+    "rating": 9.6,
+    "genres": "RPG",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/2689%20-%20Final%20Fantasy%20VI%20Advance%20%28U%29%28Xenophobia%29.zip/2689%20-%20Final%20Fantasy%20VI%20Advance%20%28U%29%28Xenophobia%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://assets-prd.ignimgs.com/2022/02/28/ff6advance-1646091365970.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Final Fight",
     "platform": "Sega CD",
     "year": 1989,
@@ -1938,6 +2104,55 @@
       "https://media.rawg.io/media/screenshots/8e6/8e622710ac9417fee635851226f8a777.jpg",
       "https://media.rawg.io/media/screenshots/bdd/bddb1fa846d2608cac1e8a3922431e27.jpg"
     ]
+  },
+  {
+    "title": "Fire Emblem",
+    "platform": "Game Boy Advance",
+    "year": 2003,
+    "rating": 9.1,
+    "genres": "Strategy RPG",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Fire%20Emblem%20(U)%20[!].gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Fire Emblem - The Binding Blade (Translated)",
+    "platform": "Game Boy Advance",
+    "year": 2002,
+    "rating": 9,
+    "genres": "Strategy RPG",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Fire%20Emblem%20-%20Sealed%20Sword%20(U)(Translated).gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Fire Emblem - The Sacred Stones",
+    "platform": "Game Boy Advance",
+    "year": 2005,
+    "rating": 9,
+    "genres": "Strategy RPG",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/1997%20-%20Fire%20Emblem%20-%20The%20Sacred%20Stones%20%28U%29%28TrashMan%29.zip/1997%20-%20Fire%20Emblem%20-%20The%20Sacred%20Stones%20%28U%29%28TrashMan%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://assets-prd.ignimgs.com/2022/01/08/fireemblem-sacred-customsquare-1641672201514.jpg",
+    "description": "",
+    "screenshots": []
   },
   {
     "title": "Flashback: The Quest for Identity",
@@ -2269,6 +2484,40 @@
     "screenshots": []
   },
   {
+    "title": "Golden Sun",
+    "platform": "Game Boy Advance",
+    "year": 2001,
+    "rating": 9,
+    "genres": "RPG",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/0171%20-%20Golden%20Sun%20%28U%29%28Mode7%29.zip/0171%20-%20Golden%20Sun%20%28U%29%28Mode7%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/f/f8/Golden_Sun_video_game_box_art.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Golden Sun - The Lost Age",
+    "platform": "Game Boy Advance",
+    "year": 2003,
+    "rating": 9.1,
+    "genres": "RPG",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/0940%20-%20Golden%20Sun%202%20-%20The%20Lost%20Age%20%28U%29%28Megaroms%29.zip/0940%20-%20Golden%20Sun%202%20-%20The%20Lost%20Age%20%28U%29%28Megaroms%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://assets-prd.ignimgs.com/2022/01/26/golden-sun-lost-age-button-1643159374336.jpg?crop=1%3A1%2Csmart&format=jpg&auto=webp&quality=80",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Golf",
     "platform": "NES-Famicom",
     "year": 1984,
@@ -2354,6 +2603,22 @@
     "screenshots": []
   },
   {
+    "title": "Grand Theft Auto Advance",
+    "platform": "Game Boy Advance",
+    "year": 2004,
+    "rating": 7.5,
+    "genres": "Action",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Grand%20Theft%20Auto%20Advance%20(E)(Rising%20Sun).gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Gremlins 2 - The New Batch (USA)",
     "platform": "NES-Famicom",
     "year": 1985,
@@ -2408,6 +2673,23 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FHang-On%20%28Europe%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Harvest Moon - Friends of Mineral Town",
+    "platform": "Game Boy Advance",
+    "year": 2003,
+    "rating": 8.9,
+    "genres": "Simulation",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/1432%20-%20Harvest%20Moon%20-%20Friends%20of%20Mineral%20Town%20%28E%29%28GBA%29.zip/1432%20-%20Harvest%20Moon%20-%20Friends%20of%20Mineral%20Town%20%28E%29%28GBA%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/7/7a/Harvest_Moon-_FoMT.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2664,6 +2946,57 @@
     "screenshots": []
   },
   {
+    "title": "Kingdom Hearts - Chain of Memories",
+    "platform": "Game Boy Advance",
+    "year": 2004,
+    "rating": 8.8,
+    "genres": "Action RPG",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/1828%20-%20Kingdom%20Hearts%20-%20Chain%20of%20Memories%20%28U%29%28Venom%29.zip/1828%20-%20Kingdom%20Hearts%20-%20Chain%20of%20Memories%20%28U%29%28Venom%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://m.media-amazon.com/images/M/MV5BMjU4N2M3YzktNmI0OS00ODgyLTlhNjEtNjk4NTljZGFhY2FmXkEyXkFqcGc@._V1_.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Kirby - Nightmare in Dreamland",
+    "platform": "Game Boy Advance",
+    "year": 2002,
+    "rating": 8.5,
+    "genres": "Platform",
+    "players": 4,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/0775%20-%20Kirby%20-%20Nightmare%20in%20Dreamland%20%28U%29%28Mode7%29.zip/0775%20-%20Kirby%20-%20Nightmare%20in%20Dreamland%20%28U%29%28Mode7%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://assets1.ignimgs.com/2020/03/16/kirby-nightmare-in-dreamland---button-1584390982242.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Kirby and the Amazing Mirror",
+    "platform": "Game Boy Advance",
+    "year": 2004,
+    "rating": 8.7,
+    "genres": "Platform",
+    "players": 4,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/1716%20-%20Kirby%20And%20The%20Amazing%20Mirror%20%28U%29%28Rising%20Sun%29.zip/1716%20-%20Kirby%20And%20The%20Amazing%20Mirror%20%28U%29%28Rising%20Sun%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/kirby_amazing_mirror.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Knuckles' Chaotix",
     "platform": "Sega 32X",
     "year": 1995,
@@ -2811,6 +3144,23 @@
     "screenshots": []
   },
   {
+    "title": "Mario & Luigi Superstar Saga",
+    "platform": "Game Boy Advance",
+    "year": 2003,
+    "rating": 9.2,
+    "genres": "RPG",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/1277%20-%20Mario%20And%20Luigi%20Superstar%20Saga%20%28U%29%28Rising%20Sun%29.zip/1277%20-%20Mario%20And%20Luigi%20Superstar%20Saga%20%28U%29%28Rising%20Sun%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://upload.wikimedia.org/wikipedia/en/6/63/MarioAndLuigiSuperstarSagaGBACoverArtUS.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Mario Bros.",
     "platform": "NES-Famicom",
     "year": 1983,
@@ -2824,6 +3174,23 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://archive.org/download/ffight/covers/Nintendo%20Entertainment%20System.zip/Nintendo%20Entertainment%20System%2FMario%20Bros.%20%28World%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Mario Kart - Super Circuit",
+    "platform": "Game Boy Advance",
+    "year": 2001,
+    "rating": 8.5,
+    "genres": "Racing",
+    "players": 4,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/0086%20-%20Mario%20Kart%20-%20Super%20Circuit%20%28U%29%28Inferno%29.zip/0086%20-%20Mario%20Kart%20-%20Super%20Circuit%20%28U%29%28Inferno%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://m.media-amazon.com/images/M/MV5BODY5ZTU3ODQtYjJkYi00NjlkLWI2MzItNjYxY2VhZGFkNDkwXkEyXkFqcGc@._V1_.jpg",
     "description": "",
     "screenshots": []
   },
@@ -2850,6 +3217,22 @@
       "https://media.rawg.io/media/screenshots/e7e/e7ee8f888eb16af3d462fe1a6991e2b0.jpg",
       "https://media.rawg.io/media/screenshots/fa4/fa4061ad49242e9789fdd29941c2d7fa.jpg"
     ]
+  },
+  {
+    "title": "Mario vs. Donkey Kong",
+    "platform": "Game Boy Advance",
+    "year": 2004,
+    "rating": 8.7,
+    "genres": "Puzzle Platform",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Mario%20vs.%20Donkey%20Kong%20(U)%20[!].gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
+    "description": "",
+    "screenshots": []
   },
   {
     "title": "Marvel Super Heroes vs. Street Fighter (USA)",
@@ -3009,6 +3392,23 @@
     ]
   },
   {
+    "title": "Metal Slug Advance",
+    "platform": "Game Boy Advance",
+    "year": 2004,
+    "rating": 8.8,
+    "genres": "Action Shooter",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/1755%20-%20Metal%20Slug%20Advance%20%28U%29%28Independent%29.zip/1755%20-%20Metal%20Slug%20Advance%20%28U%29%28Independent%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://m.media-amazon.com/images/M/MV5BNDA1MzhlMGItMzRlYy00ZDRmLTg4MzgtNGQzOWNkYTBjNDc3XkEyXkFqcGc@._V1_.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Metal Slug X - Super Vehicle-001 (NGM-2500 ~ NGH-2500) (SNK 1999)",
     "platform": "Arcade",
     "year": 1999,
@@ -3067,6 +3467,39 @@
       ]
     ],
     "cover": "https://archive.org/download/ffight/covers/Nintendo%20Entertainment%20System.zip/Nintendo%20Entertainment%20System%2FMetroid%20%28USA%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Metroid - Zero Mission",
+    "platform": "Game Boy Advance",
+    "year": 2004,
+    "rating": 9.4,
+    "genres": "Action Adventure",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Metroid%20-%20Zero%20Mission%20(E)(Rising%20Sun).gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Metroid Fusion",
+    "platform": "Game Boy Advance",
+    "year": 2002,
+    "rating": 9.3,
+    "genres": "Action Adventure",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/0690%20-%20Metroid%20-%20Fusion%20%28U%29%28GBANow%29.zip/0690%20-%20Metroid%20-%20Fusion%20%28U%29%28GBANow%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/metroid_fusion.png",
     "description": "",
     "screenshots": []
   },
@@ -3210,6 +3643,22 @@
     "screenshots": []
   },
   {
+    "title": "Mortal Kombat - Deadly Alliance",
+    "platform": "Game Boy Advance",
+    "year": 2002,
+    "rating": 7,
+    "genres": "Fighting",
+    "players": 2,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Mortal%20Kombat%20-%20Deadly%20Alliance%20(U)%20(M5)%20[!].gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Mortal Kombat II",
     "platform": "Sega Mega Drive",
     "year": 1993,
@@ -3223,6 +3672,22 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FMortal%20Kombat%20II%20%28World%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Mother 3 (English Translation)",
+    "platform": "Game Boy Advance",
+    "year": 2006,
+    "rating": 9.7,
+    "genres": "RPG",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Mother%203%20(Eng.%20Translation%201.1).gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
     "description": "",
     "screenshots": []
   },
@@ -3268,6 +3733,22 @@
     "screenshots": []
   },
   {
+    "title": "Naruto Ninja Council 2",
+    "platform": "Game Boy Advance",
+    "year": 2004,
+    "rating": 7.6,
+    "genres": "Racing",
+    "players": 2,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/2510%20-%20Naruto%20Ninja%20Council%202%20%28U%29%28Rising%20Sun%29.zip/2510%20-%20Naruto%20Ninja%20Council%202%20%28U%29%28Rising%20Sun%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "https://assets-prd.ignimgs.com/2023/03/20/naruto2-1679342214229.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "NBA Jam",
     "platform": "Sega Master System",
     "year": 1993,
@@ -3298,6 +3779,22 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://archive.org/download/ffight/covers/Sega%20Mega%20Drive.zip/Sega%20Mega%20Drive%2FNBA%20Jam%20%28USA%2C%20Europe%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Need for Speed - Underground 2",
+    "platform": "Game Boy Advance",
+    "year": 2004,
+    "rating": 7.6,
+    "genres": "Racing",
+    "players": 2,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Need%20for%20Speed%20-%20Underground%202%20(UE)%20(M4).gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
     "description": "",
     "screenshots": []
   },
@@ -3734,6 +4231,22 @@
     "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
     "cheats": [],
     "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FPrince%20of%20Persia%20%28Europe%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Prince of Persia - The Sands of Time",
+    "platform": "Game Boy Advance",
+    "year": 2003,
+    "rating": 8.3,
+    "genres": "Action Platform",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20(U)%20(M3).gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
     "description": "",
     "screenshots": []
   },
@@ -4344,6 +4857,22 @@
     "screenshots": []
   },
   {
+    "title": "Shonen Jump's One Piece",
+    "platform": "Game Boy Advance",
+    "year": 2005,
+    "rating": 7.4,
+    "genres": "Action",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Shonen%20Jump's%20-%20One%20Piece%20(U).gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Slalom (USA)",
     "platform": "NES-Famicom",
     "year": 1985,
@@ -4399,6 +4928,23 @@
       ]
     ],
     "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FSmurfs%2C%20The%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Sonic Advance 3",
+    "platform": "Game Boy Advance",
+    "year": 2004,
+    "rating": 8.4,
+    "genres": "Platform",
+    "players": 2,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/1490%20-%20Sonic%20Advance%203%20%28U%29%28Venom%29.zip/1490%20-%20Sonic%20Advance%203%20%28U%29%28Venom%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdUQ3CLd7c-OhYe7GeXvwRku-RsCWfO3j7JA&s",
     "description": "",
     "screenshots": []
   },
@@ -4691,6 +5237,22 @@
       ]
     ],
     "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FSpellCaster%20%28USA%2C%20Europe%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Spider-Man 3",
+    "platform": "Game Boy Advance",
+    "year": 2007,
+    "rating": 6.5,
+    "genres": "Action",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Spider-Man%203%20(S)(Independent).gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
     "description": "",
     "screenshots": []
   },
@@ -5147,6 +5709,23 @@
     ]
   },
   {
+    "title": "Super Mario Advance 2 - Super Mario World",
+    "platform": "Game Boy Advance",
+    "year": 2002,
+    "rating": 9,
+    "genres": "Platform",
+    "players": 2,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/0297%20-%20Super%20Mario%20World%20-%20Super%20Mario%20Advance%202%20%28U%29%28Mode7%29.zip/0297%20-%20Super%20Mario%20World%20-%20Super%20Mario%20Advance%202%20%28U%29%28Mode7%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6nhk.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Super Mario Bros. (World)",
     "platform": "NES-Famicom",
     "year": 1985,
@@ -5504,6 +6083,22 @@
     "screenshots": []
   },
   {
+    "title": "The Legend of Zelda - A Link to the Past & Four Swords",
+    "platform": "Game Boy Advance",
+    "year": 2002,
+    "rating": 9.5,
+    "genres": "Action Adventure",
+    "players": 2,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Legend%20of%20Zelda,%20The%20-%20A%20Link%20To%20The%20Past%20Four%20Swords%20(U)%20[!].gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "The Legend of Zelda: A Link to the Past",
     "platform": "SNES-Super Famicom",
     "year": 1991,
@@ -5551,299 +6146,6 @@
       "https://media.rawg.io/media/screenshots/4eb/4eb0f9c8a96ac91091fc63a35947c3ec.jpg"
     ]
   },
-  {"title":"Mario Kart - Super Circuit","platform":"Game Boy Advance","year":2001,"rating":8.5,"genres":"Racing","players":4,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/0086%20-%20Mario%20Kart%20-%20Super%20Circuit%20(U)(Inferno).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Wario Land 4","platform":"Game Boy Advance","year":2001,"rating":8.6,"genres":"Platform","players":1,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/0169%20-%20Wario%20Land%204%20(E)(Mode7).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Golden Sun","platform":"Game Boy Advance","year":2001,"rating":9.0,"genres":"RPG","players":1,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/0171%20-%20Golden%20Sun%20(U)(Mode7).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Advance Wars","platform":"Game Boy Advance","year":2001,"rating":9.1,"genres":"Strategy","players":4,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/0263%20-%20Advance%20Wars%20(E)(Arrogance).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Super Mario Advance 2 - Super Mario World","platform":"Game Boy Advance","year":2002,"rating":9.0,"genres":"Platform","players":2,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/0297%20-%20Super%20Mario%20World%20-%20Super%20Mario%20Advance%202%20(U)(Mode7).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Crash Bandicoot - The Huge Adventure","platform":"Game Boy Advance","year":2002,"rating":7.8,"genres":"Platform","players":1,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/0345%20-%20Crash%20Bandicoot%20-%20The%20Huge%20Adventure%20(U)(Independent).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Yoshi's Island - Super Mario Advance 3","platform":"Game Boy Advance","year":2002,"rating":9.2,"genres":"Platform","players":2,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/0593%20-%20Yoshi's%20Island%20-%20Super%20Mario%20Advance%203%20(U)(Mode7).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Castlevania - Harmony of Dissonance","platform":"Game Boy Advance","year":2002,"rating":8.3,"genres":"Action","players":1,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/0612%20-%20Castlevania%20-%20Harmony%20of%20Dissonance%20(U)(Independent).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Metroid Fusion","platform":"Game Boy Advance","year":2002,"rating":9.3,"genres":"Action Adventure","players":1,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/0690%20-%20Metroid%20-%20Fusion%20(U)(GBANow).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Kirby - Nightmare in Dreamland","platform":"Game Boy Advance","year":2002,"rating":8.5,"genres":"Platform","players":4,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/0775%20-%20Kirby%20-%20Nightmare%20in%20Dreamland%20(U)(Mode7).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Golden Sun - The Lost Age","platform":"Game Boy Advance","year":2003,"rating":9.1,"genres":"RPG","players":1,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/0940%20-%20Golden%20Sun%202%20-%20The%20Lost%20Age%20(U)(Megaroms).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Castlevania - Aria of Sorrow","platform":"Game Boy Advance","year":2003,"rating":9.4,"genres":"Action RPG","players":1,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/0999%20-%20Castlevania%20-%20Aria%20of%20Sorrow%20(U)(GBATemp).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Mario & Luigi Superstar Saga","platform":"Game Boy Advance","year":2003,"rating":9.2,"genres":"RPG","players":1,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/1277%20-%20Mario%20And%20Luigi%20Superstar%20Saga%20(U)(Rising%20Sun).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Harvest Moon - Friends of Mineral Town","platform":"Game Boy Advance","year":2003,"rating":8.9,"genres":"Simulation","players":1,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/1432%20-%20Harvest%20Moon%20-%20Friends%20of%20Mineral%20Town%20(E)(GBA).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Sonic Advance 3","platform":"Game Boy Advance","year":2004,"rating":8.4,"genres":"Platform","players":2,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/1490%20-%20Sonic%20Advance%203%20(U)(Venom).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Kirby and the Amazing Mirror","platform":"Game Boy Advance","year":2004,"rating":8.7,"genres":"Platform","players":4,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/1716%20-%20Kirby%20And%20The%20Amazing%20Mirror%20(U)(Rising%20Sun).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Metal Slug Advance","platform":"Game Boy Advance","year":2004,"rating":8.8,"genres":"Action Shooter","players":1,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/1755%20-%20Metal%20Slug%20Advance%20(U)(Independent).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Kingdom Hearts - Chain of Memories","platform":"Game Boy Advance","year":2004,"rating":8.8,"genres":"Action RPG","players":1,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/1828%20-%20Kingdom%20Hearts%20-%20Chain%20of%20Memories%20(U)(Venom).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Fire Emblem - The Sacred Stones","platform":"Game Boy Advance","year":2005,"rating":9.0,"genres":"Strategy RPG","players":1,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/1997%20-%20Fire%20Emblem%20-%20The%20Sacred%20Stones%20(U)(TrashMan).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-
-{"title":"Final Fantasy VI Advance","platform":"Game Boy Advance","year":2006,"rating":9.6,"genres":"RPG","players":1,"core":"gba","lightgun":false,"biosUrl":false,"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/2689%20-%20Final%20Fantasy%20VI%20Advance%20(U)(Xenophobia).gba","engine":"https://emulatorjs.netlify.app/3.1.5.zip","cheats":[]},
-{
-"title":"Avatar - The Last Airbender",
-"platform":"Game Boy Advance",
-"year":2006,
-"rating":7.0,
-"genres":"Action Adventure",
-"players":1,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Avatar%20-%20the%20Last%20Airbender.gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip",
-"cheats":[]
-},
-
-{
-"title":"Beyblade G-Revolution",
-"platform":"Game Boy Advance",
-"year":2004,
-"rating":6.8,
-"genres":"Action",
-"players":2,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Beyblade%20G-Revolution.gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"Classic NES - Super Mario Bros.",
-"platform":"Game Boy Advance",
-"year":2004,
-"rating":8.5,
-"genres":"Platform",
-"players":2,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Classic%20NES%20-%20Super%20Mario%20Bros..gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"Doom II",
-"platform":"Game Boy Advance",
-"year":2002,
-"rating":8.0,
-"genres":"Shooter",
-"players":1,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Doom%202.gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"FIFA 2007",
-"platform":"Game Boy Advance",
-"year":2006,
-"rating":7.2,
-"genres":"Sports",
-"players":2,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/FIFA%202007.gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"Fire Emblem",
-"platform":"Game Boy Advance",
-"year":2003,
-"rating":9.1,
-"genres":"Strategy RPG",
-"players":1,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Fire%20Emblem%20(U)%20[!].gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"Fire Emblem - The Binding Blade (Translated)",
-"platform":"Game Boy Advance",
-"year":2002,
-"rating":9.0,
-"genres":"Strategy RPG",
-"players":1,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Fire%20Emblem%20-%20Sealed%20Sword%20(U)(Translated).gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"Grand Theft Auto Advance",
-"platform":"Game Boy Advance",
-"year":2004,
-"rating":7.5,
-"genres":"Action",
-"players":1,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Grand%20Theft%20Auto%20Advance%20(E)(Rising%20Sun).gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"The Legend of Zelda - A Link to the Past & Four Swords",
-"platform":"Game Boy Advance",
-"year":2002,
-"rating":9.5,
-"genres":"Action Adventure",
-"players":2,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Legend%20of%20Zelda,%20The%20-%20A%20Link%20To%20The%20Past%20Four%20Swords%20(U)%20[!].gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"Mario vs. Donkey Kong",
-"platform":"Game Boy Advance",
-"year":2004,
-"rating":8.7,
-"genres":"Puzzle Platform",
-"players":1,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Mario%20vs.%20Donkey%20Kong%20(U)%20[!].gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"Metroid - Zero Mission",
-"platform":"Game Boy Advance",
-"year":2004,
-"rating":9.4,
-"genres":"Action Adventure",
-"players":1,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Metroid%20-%20Zero%20Mission%20(E)(Rising%20Sun).gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"Mortal Kombat - Deadly Alliance",
-"platform":"Game Boy Advance",
-"year":2002,
-"rating":7.0,
-"genres":"Fighting",
-"players":2,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Mortal%20Kombat%20-%20Deadly%20Alliance%20(U)%20(M5)%20[!].gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"Mother 3 (English Translation)",
-"platform":"Game Boy Advance",
-"year":2006,
-"rating":9.7,
-"genres":"RPG",
-"players":1,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Mother%203%20(Eng.%20Translation%201.1).gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"Need for Speed - Underground 2",
-"platform":"Game Boy Advance",
-"year":2004,
-"rating":7.6,
-"genres":"Racing",
-"players":2,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Need%20for%20Speed%20-%20Underground%202%20(UE)%20(M4).gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"Prince of Persia - The Sands of Time",
-"platform":"Game Boy Advance",
-"year":2003,
-"rating":8.3,
-"genres":"Action Platform",
-"players":1,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20(U)%20(M3).gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"Shonen Jump's One Piece",
-"platform":"Game Boy Advance",
-"year":2005,
-"rating":7.4,
-"genres":"Action",
-"players":1,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Shonen%20Jump's%20-%20One%20Piece%20(U).gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"Spider-Man 3",
-"platform":"Game Boy Advance",
-"year":2007,
-"rating":6.5,
-"genres":"Action",
-"players":1,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Spider-Man%203%20(S)(Independent).gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-{
-"title":"Ultimate Spider-Man",
-"platform":"Game Boy Advance",
-"year":2005,
-"rating":7.8,
-"genres":"Action",
-"players":1,
-"core":"gba",
-"lightgun":false,
-"biosUrl":false,
-"file":"https://archive.org/download/ffight/Game%20Boy%20Advance/Ultimate%20Spider-Man%20(U).gba",
-"engine":"https://emulatorjs.netlify.app/3.1.5.zip"
-},
-
-
   {
     "title": "The Lion King",
     "platform": "Sega Mega Drive",
@@ -5930,6 +6232,22 @@
     "screenshots": []
   },
   {
+    "title": "Ultimate Spider-Man",
+    "platform": "Game Boy Advance",
+    "year": 2005,
+    "rating": 7.8,
+    "genres": "Action",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/Ultimate%20Spider-Man%20(U).gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "VectorMan",
     "platform": "Sega Mega Drive",
     "year": 1995,
@@ -6001,6 +6319,23 @@
     "engine": "4.2.3",
     "cheats": [],
     "cover": "https://upload.wikimedia.org/wikipedia/en/1/1a/Virtual_Boy_Wario_Land_Coverart.png",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Wario Land 4",
+    "platform": "Game Boy Advance",
+    "year": 2001,
+    "rating": 8.6,
+    "genres": "Platform",
+    "players": 1,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/0169%20-%20Wario%20Land%204%20%28E%29%28Mode7%29.zip/wario4.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://m.media-amazon.com/images/M/MV5BNTUyNjZhN2ItZTEyZC00ZGFkLWE1OGQtMTFiZGNkYTJiMzg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "description": "",
     "screenshots": []
   },
@@ -6219,6 +6554,23 @@
     "screenshots": []
   },
   {
+    "title": "WWE Survivor Series",
+    "platform": "Game Boy Advance",
+    "year": 2002,
+    "rating": 9.2,
+    "genres": "Platform",
+    "players": 2,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/1715%20-%20WWE%20Survivor%20Series%20%28U%29%28Rising%20Sun%29.zip/1715%20-%20WWE%20Survivor%20Series%20%28U%29%28Rising%20Sun%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8b45Am_lUtcMYJ6dhlkiRVbqM3HNzjOsb2Q&s",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "X-Men",
     "platform": "Sega Mega Drive",
     "year": 1993,
@@ -6270,6 +6622,23 @@
     "screenshots": []
   },
   {
+    "title": "Yoshi's Island - Super Mario Advance 3",
+    "platform": "Game Boy Advance",
+    "year": 2002,
+    "rating": 9.2,
+    "genres": "Platform",
+    "players": 2,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/0593%20-%20Yoshi%27s%20Island%20-%20Super%20Mario%20Advance%203%20%28U%29%28Mode7%29.zip/0593%20-%20Yoshi%27s%20Island%20-%20Super%20Mario%20Advance%203%20%28U%29%28Mode7%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://m.media-amazon.com/images/M/MV5BYTkzMDI4NDAtMmU1MS00ZWY5LTkzNzQtNjMzY2VlZGU0MmRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Ys - The Vanished Omens (USA, Europe)",
     "platform": "Sega Master System",
     "year": 1988,
@@ -6308,6 +6677,23 @@
       ]
     ],
     "cover": "https://archive.org/download/ffight/covers/Sega%20Master%20System.zip/Sega%20Master%20System%2FYs%20-%20The%20Vanished%20Omens%20%28USA%2C%20Europe%29.jpg",
+    "description": "",
+    "screenshots": []
+  },
+  {
+    "title": "Yu-Gi-Oh! - The Sacred Cards",
+    "platform": "Game Boy Advance",
+    "year": 2002,
+    "rating": 9.2,
+    "genres": "Platform",
+    "players": 2,
+    "core": "gba",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/Game%20Boy%20Advance/1240%20-%20Yu-Gi-Oh%21%20-%20The%20Sacred%20Cards%20%28U%29%28Venom%29.zip/1240%20-%20Yu-Gi-Oh%21%20-%20The%20Sacred%20Cards%20%28U%29%28Venom%29.gba",
+    "engine": "https://emulatorjs.netlify.app/3.1.5.zip",
+    "cheats": [],
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhESLmuzokiVqKO1aa_H6toWQqhH1w3r8Fsw&s",
     "description": "",
     "screenshots": []
   },
