@@ -68,6 +68,23 @@
     "screenshots": []
   },
   {
+    "title": "Adult Manga 2",
+    "platform": "SNES-Super Famicom",
+    "year": 1991,
+    "rating": 8.7,
+    "genres": "",
+    "players": 1,
+    "core": "snes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/SNES%20-Super%20Famicom/Adult%20Manga%202%20%28PD%29.zip/Adult%20Manga%202%20%28PD%29.smc",
+    "engine": "4.2.3",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
+  },
+  {
     "title": "Advance Wars",
     "platform": "Game Boy Advance",
     "year": 2001,
@@ -104,6 +121,23 @@
       "https://www.smstributes.co.uk/images/db/screenshot_afterburner_003.png",
       "https://i.ytimg.com/vi/6wGQP8lyXq0/hqdefault.jpg"
     ]
+  },
+  {
+    "title": "Aladdin (USA)",
+    "platform": "SNES-Super Famicom",
+    "year": 1991,
+    "rating": 8.7,
+    "genres": "",
+    "players": 1,
+    "core": "snes",
+    "lightgun": false,
+    "biosUrl": false,
+    "file": "https://archive.org/download/ffight/SNES%20-Super%20Famicom/Aladdin%20%28USA%29.zip/Aladdin%20%28USA%29.sfc",
+    "engine": "4.2.3",
+    "cheats": [],
+    "cover": "",
+    "description": "",
+    "screenshots": []
   },
   {
     "title": "Alex Kidd in Miracle World",
